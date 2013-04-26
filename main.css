@@ -138,6 +138,16 @@ img {
 	border-bottom: 1px solid #bbbbbb;
 }
 
+#name { 
+	color: #666;
+	text-decoration: underline;
+}
+
+#name:hover {
+	color: #999;
+	text-decoration: none;
+}
+
 #patientList ul {
 	list-style-type: none;
 }
