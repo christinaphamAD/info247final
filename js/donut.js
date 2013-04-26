@@ -10,9 +10,12 @@ d3.csv("js/data.csv", function(error, data) {
 
   var data = processData(startpos,endpos)
 
-  var width = 160
-      height = 140
+  var width = 100   //160 of 432
+      height = 100  //140 of 300
       radius = 200
+
+  var wscaler = 0.37
+  var hscaler = 0.4667
 
   var color = d3.scale.category20();
 
@@ -24,10 +27,26 @@ d3.csv("js/data.csv", function(error, data) {
       .outerRadius(radius - 60);
 
   var svg = d3.select("#testd3").append("svg")
-      .attr("width", "100%")
-      .attr("height", "100%")
+      .attr("width", width +"%")
+      .attr("height", height+"%")
       .append("g")
-      .attr("transform", "translate(" + width  + "," + height  + ")");
+      .attr("transform", "translate(" + wscaler*
+          function(){
+            var compwidth = d3.select("svg").style("width")
+            var w_str = compwidth.split('p')
+            var w = parseInt(w_str)
+            return w
+          } 
+          (d3.select('svg').style("width"))  + "," + hscaler*
+          function(){
+            var compheight = d3.select("svg").style("height")
+            var h_str = compheight.split('p')
+            var h = parseInt(h_str)
+            return h
+          }  
+          (d3.select('svg').style('height'))+ ")");
+
+
 
   var path = svg.selectAll("path")
       .data(pie(data.start))
@@ -37,8 +56,7 @@ d3.csv("js/data.csv", function(error, data) {
       .each(function(d) {
         //console.log(this)
         this._current = d;     // store the initial values
-        console.log(this._current)
-       // path = path.data(pie(data[this.end])); // update the data
+        //path = path.data(pie(data[this.end])); // update the data
         //path.transition().duration(750).attrTween("d", arcTween); // redraw the arcs
       })
       .data(pie(data['end']))
