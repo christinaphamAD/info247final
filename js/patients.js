@@ -26,4 +26,8 @@ function parseData(input) {
         $('#patientList ul').append('<li>' + k + '. <a data-id="' + lines[k][0] + '">Patient ' + lines[k][0] + '</a></li>')
     }
     console.log(lines);
+    $('#patientList a').bind('click', function(e){
+        console.log('CLICK')
+        $('#main').fadeOut();
+    })
 }
