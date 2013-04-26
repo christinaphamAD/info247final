@@ -46,6 +46,7 @@ a {
 a:hover {
 	color: #686A7A;
 	text-decoration: none;
+	cursor: pointer;
 }
 
 img {
@@ -135,6 +136,10 @@ img {
 	background: linear-gradient(to bottom,  #f9f9f9 0%,#efefef 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9f9f9', endColorstr='#efefef',GradientType=0 ); /* IE6-9 */
 	border-bottom: 1px solid #bbbbbb;
+}
+
+#patientList ul {
+	list-style-type: none;
 }
 
 #footer {
