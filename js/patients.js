@@ -42,7 +42,7 @@ function parseData(input) {
 
 function getPatientData(ref, data) {
     console.log(data[ref][0])
-    $('#patient').append('<div id=genData></div>')
+    $('#patient').append('<div id="genData" class="container"></div>')
     $('#genData').append('<h1>Patient ' + data[ref][0] + '</h1>' )
     .append('<h3>Gender: ' + data[ref][1] + '</h3>')
     .append('<h3>Year of Birth: ' + data[ref][2].substr(0,1) + '/' + data[ref][2].substr(2,3) + '/' + data[ref][2].substr(4,7))
