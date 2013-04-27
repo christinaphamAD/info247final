@@ -11,10 +11,23 @@ var margin = {top: 20, right: 20, bottom: 30, left: 40},
 var formatPercent = d3.format(".0%");
 
 var x = d3.scale.ordinal()
-    .rangeRoundBands([0, width], .1);
+    .rangeRoundBands([0, function(){
+          var compwidth = d3.select("svg").style("width")
+          var w_str = compwidth.split('p')
+          var w = parseInt(w_str)
+          console.log(w)
+          return w
+          }  
+          ], .1);
 
 var y = d3.scale.linear()
-    .range([height, 0]);
+    .range([function(){
+      var compheight = d3.select("svg").style("height")
+      var h_str = compheight.split('p')
+      var h = parseInt(h_str)
+      return h
+      }
+      , 0]);
 
 var xAxis = d3.svg.axis()
     .scale(x)
@@ -25,39 +38,51 @@ var yAxis = d3.svg.axis()
     .orient("left")
     .tickFormat(formatPercent);
 
-var svg = d3.select("#ablab").append("svg")
-    //.attr("width", width + margin.left + margin.right)
-    //.attr("width",width+"%")
-    //.attr("height", height + margin.top + margin.bottom)
-    //.attr("height",height+"%")
-  	//.append("g")
-      .attr("width", width +"%")
-      .attr("height", height+"%")
-      .append("g")  	
-      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
 
 
 d3.csv("js/data.csv", function(error, data) {
 
-  console.log("hi")
+
+
+  var svg = d3.select("#ablab").append("svg")
+    //.attr("width", width + margin.left + margin.right)
+    //.attr("width",width+"%")
+    //.attr("height", height + margin.top + margin.bottom)
+    //.attr("height",height+"%")
+    //.append("g")
+      .attr("width", width +"%")
+      .attr("height", height+"%")
+      .append("g")    
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
   data.forEach(function(d) {
     d.population = +d.population;
   });
 
-  x.domain(data.map(function(d) { return d.age; }));
+  x.domain(data.map(function(d) { 
+    //console.log(d.age)
+    return d.age; }));
   y.domain([0, d3.max(data, function(d) { return d.population; })]);
 
   svg.append("g")
       .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
+      .attr("transform", "translate(0," + function(){
+          var compwidth = d3.select("svg").style("width")
+          var w_str = compwidth.split('p')
+          var w = parseInt(w_str)
+          console.log(w)
+          return w
+      } + ")")
       //.attr("transform", "translate(0,"+ d3.select("svg").style("height"))
       .call(xAxis);
+
+   //   console.log(d3.select("svg").style("height"))
 
   svg.append("g")
       .attr("class", "y axis")
       .call(yAxis)
-    .append("text")
+      .append("text")
       .attr("transform", "rotate(-90)")
       .attr("y", 6)
       .attr("dy", ".71em")
