@@ -30,6 +30,8 @@ function parseData(input) {
     }
     for (var k=1; k<lines.length; k++){
         $('#patientList ul').append('<li>' + k + '. <a id="' + lines[k][0] + '" data-attr="' + k + '">Patient ' + lines[k][0] + '</a></li>')
+        .hide()
+        .slideDown("slow");
     }
     console.log(lines);
     $('#patientList a').bind('click', function(e){
