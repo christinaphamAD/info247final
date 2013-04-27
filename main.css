@@ -85,12 +85,12 @@ img {
    	-webkit-box-shadow: inset 0 0 2px #bcbcbc;
    	box-shadow:         inset 0 0 2px #bcbcbc;
    	padding: 15px;
+   	margin-top: 20px;
 }
 
 .half {
 	width: 45%;
 	height: 300px;
-	margin-top: 20px;
 }
 
 #testd3 {
@@ -136,6 +136,16 @@ img {
 	background: linear-gradient(to bottom,  #f9f9f9 0%,#efefef 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9f9f9', endColorstr='#efefef',GradientType=0 ); /* IE6-9 */
 	border-bottom: 1px solid #bbbbbb;
+}
+
+#name { 
+	color: #666;
+	text-decoration: underline;
+}
+
+#name:hover {
+	color: #999;
+	text-decoration: none;
 }
 
 #patientList ul {
