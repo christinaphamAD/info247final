@@ -1,2 +1,2 @@
 ,index,PatientGuid,Gender,YearOfBirth,SmokingStatusGuid,VisitYear,Height,Weight,BMI,SystolicBP,DiastolicBP,RespiratoryRate,Temperature,TranscriptGuid,Age,NotSmoker,BloodPressureStatus,BMIStatus
-0,8337,08FF0070-7A9B-43E1-9F46-19A301C63977,M,1972,,2011.0,70.5,161.0,,117.0,90.0,14.0,97.099999999999994,901A524E-F7AA-4FBC-BFC4-412EB6CF76F3,41,True,Hypertension Stage 1,UNK
+0,8337,08FF0070-7A9B-43E1-9F46-19A301C63977,M,1972,,2011.0,70.5,161.0,23.0,117.0,90.0,14.0,97.099999999999994,901A524E-F7AA-4FBC-BFC4-412EB6CF76F3,41,True,Hypertension Stage 1,Normal

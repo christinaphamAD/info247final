@@ -1,2 +1,2 @@
-,index,PatientGuid,Gender,YearOfBirth,SmokingStatusGuid,VisitYear,Height,Weight,BMI,SystolicBP,DiastolicBP,RespiratoryRate,Temperature,TranscriptGuid,Age,NotSmoker,BloodPressureStatus,BMIStatus
-0,62276,9D647E8B-0543-431B-AE74-57D8820C35A7,F,1969,,2011.0,,,,114.0,72.0,16.0,97.900000000000006,91D7BEDE-0165-44E9-9302-E195A90160B6,44,True,Normal,UNK
+,index,PatientGuid,Gender,YearOfBirth,SmokingStatusGuid,VisitYear,Height,Weight,BMI,SystolicBP,DiastolicBP,RespiratoryRate,Temperature,TranscriptGuid,Age,NotSmoker,BloodPressureStatus
+0,62276,9D647E8B-0543-431B-AE74-57D8820C35A7,F,1969,,2011.0,,,,114.0,72.0,16.0,97.900000000000006,91D7BEDE-0165-44E9-9302-E195A90160B6,44,True,Normal

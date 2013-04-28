@@ -1,2 +1,2 @@
 ,index,PatientGuid,Gender,YearOfBirth,SmokingStatusGuid,VisitYear,Height,Weight,BMI,SystolicBP,DiastolicBP,RespiratoryRate,Temperature,TranscriptGuid,Age,NotSmoker,BloodPressureStatus,BMIStatus
-0,62543,E3BDD186-A2AB-465E-80C7-5819CC1A209C,F,1947,,2011.0,63.0,168.0,,160.0,99.0,18.0,97.400000000000006,4C993A6E-4A6D-478C-8DAD-31FD3237E81E,66,True,Hypertension Stage 1,UNK
+0,62543,E3BDD186-A2AB-465E-80C7-5819CC1A209C,F,1947,,2011.0,63.0,168.0,29.0,160.0,99.0,18.0,97.400000000000006,4C993A6E-4A6D-478C-8DAD-31FD3237E81E,66,True,Hypertension Stage 1,Overweight

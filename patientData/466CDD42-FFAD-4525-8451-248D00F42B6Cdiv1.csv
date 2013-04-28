@@ -1,2 +1,2 @@
 ,index,PatientGuid,Gender,YearOfBirth,SmokingStatusGuid,VisitYear,Height,Weight,BMI,SystolicBP,DiastolicBP,RespiratoryRate,Temperature,TranscriptGuid,Age,NotSmoker,BloodPressureStatus,BMIStatus
-0,14896,466CDD42-FFAD-4525-8451-248D00F42B6C,M,1977,,2011.0,69.0,218.0,,137.0,90.0,18.0,101.7,6C7B9DBF-1237-4AEB-A51D-8B02803D030D,36,True,Prehypertension,UNK
+0,14896,466CDD42-FFAD-4525-8451-248D00F42B6C,M,1977,,2011.0,69.0,218.0,32.0,137.0,90.0,18.0,101.7,6C7B9DBF-1237-4AEB-A51D-8B02803D030D,36,True,Prehypertension,Obese

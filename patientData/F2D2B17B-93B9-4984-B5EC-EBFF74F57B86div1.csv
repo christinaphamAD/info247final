@@ -1,2 +1,2 @@
-,index,PatientGuid,Gender,YearOfBirth,SmokingStatusGuid,VisitYear,Height,Weight,BMI,SystolicBP,DiastolicBP,RespiratoryRate,Temperature,TranscriptGuid,Age,NotSmoker,BloodPressureStatus,BMIStatus
-0,172690,F2D2B17B-93B9-4984-B5EC-EBFF74F57B86,M,1962,5ABBAB35-836F-4F3E-8632-CE063828DA15,2012.0,,152.0,,127.0,83.0,16.0,97.799999999999997,E3DFA26C-F53D-4154-B776-7B6110186716,51,False,Prehypertension,UNK
+,index,PatientGuid,Gender,YearOfBirth,SmokingStatusGuid,VisitYear,Height,Weight,BMI,SystolicBP,DiastolicBP,RespiratoryRate,Temperature,TranscriptGuid,Age,NotSmoker,BloodPressureStatus
+0,172690,F2D2B17B-93B9-4984-B5EC-EBFF74F57B86,M,1962,5ABBAB35-836F-4F3E-8632-CE063828DA15,2012.0,,152.0,,127.0,83.0,16.0,97.799999999999997,E3DFA26C-F53D-4154-B776-7B6110186716,51,False,Prehypertension
