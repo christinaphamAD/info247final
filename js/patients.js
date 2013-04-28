@@ -32,10 +32,10 @@ function parseData(input) {
         $('#patientList ul').append('<li>' + k + '. <a id="' + lines[k][0] + '" data-attr="' + k + '">Patient ' + lines[k][0] + '</a></li>')
     }
     $('#patientList ul li').hide().each(function(e){
-            console.log(e*500)
+            //console.log(e*500)
             $(this).delay(e*500).slideDown();
     })
-    console.log(lines);
+//console.log(lines);
     $('#patientList a').bind('click', function(e){
         $('#home').fadeOut();
         $('#patient').empty().fadeIn();

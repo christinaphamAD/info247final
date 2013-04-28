@@ -13,14 +13,24 @@ var margin = {top: 4, right: 2.1, bottom: 6, left: 4.167},
 
 var formatPercent = d3.format(".0%");
 
+var svg = d3.select("#ablab").append("svg")
+//.attr("width", width + margin.left + margin.right)
+//.attr("height", height + margin.top + margin.bottom)
+//.append("g")
+  .append("g")   
+  .attr("width", width + margin.left + margin.right +"%")
+  .attr("height", height+ margin.top + margin.bottom+"%")
+  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
 
 var x = d3.scale.ordinal()
-    .rangeRoundBands([0, width
+    .rangeRoundBands([0, parseInt(
+      d3.select("svg").style('width'))
           ], .1)
 
 var y = d3.scale.linear()
     .range([(parseInt(
-      d3.select("svg").style('width')
+      d3.select("svg").style('height')
       .split('p')))
       , 0]);
 
@@ -34,23 +44,16 @@ var yAxis = d3.svg.axis()
     .orient("left")
     .tickFormat(formatPercent);
 
-  var svg = d3.select("#ablab").append("svg")
-    //.attr("width", width + margin.left + margin.right)
-    //.attr("height", height + margin.top + margin.bottom)
-    //.append("g")
-      .attr("width", width + margin.left + margin.right +"%")
-      .attr("height", height+ margin.top + margin.bottom+"%")
-      .append("g")    
-      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
 
   data.forEach(function(d) {
     d.population = +d.population;
   });
 
-  x.domain(data.map(function(d) { 
-    //console.log(d.age)
-    return d.age; }));
+  x.domain(data.map(function(d) { return d.age; }));
+
   y.domain([0, d3.max(data, function(d) { return d.population; })]);
+
 
   svg.append("g")
       .attr("class", "x axis")
@@ -80,7 +83,7 @@ var yAxis = d3.svg.axis()
       .attr("width", x.rangeBand())
       .attr("y", function(d) { return y(d.population); })
       .attr("height", function(d) { return parseInt(
-        d3.select("svg").style('height').split('p')) - y(d.population); });
+        d3.select("svg").style('height').split('p')) + y(d.population); });
 
 });
 
