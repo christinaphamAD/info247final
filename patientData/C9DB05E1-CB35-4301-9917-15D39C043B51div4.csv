@@ -1,0 +1,10 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,7027,C9DB05E1-CB35-4301-9917-15D39C043B51,7D96B8E6-38DF-4D18-8BD1-020A68DEF9C8,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
+0,7033,C9DB05E1-CB35-4301-9917-15D39C043B51,0FF6EC19-3F09-4EBF-9597-2187B1CA5C86,272.4,Other and unspecified hyperlipidemia,,,1
+0,7039,C9DB05E1-CB35-4301-9917-15D39C043B51,81746ACE-4115-4C28-8298-24B8AC616CCA,796.2,Elevated blood pressure reading without diagnosis of hypertension,,,1
+0,7045,C9DB05E1-CB35-4301-9917-15D39C043B51,8E8780FE-5AF5-4006-BAC1-35E19FB09220,716.40,"Transient arthropathy, site unspecified",,,0
+0,7051,C9DB05E1-CB35-4301-9917-15D39C043B51,55FE056C-E2C5-4C3D-9D59-41ED6170818A,736.20,Unspecified deformity of finger,,,1
+0,7057,C9DB05E1-CB35-4301-9917-15D39C043B51,39244866-2082-4A19-B17F-9BD9CC35F4CE,726.31,Medial epicondylitis,,,1
+0,7063,C9DB05E1-CB35-4301-9917-15D39C043B51,A4A7C8A0-BD7A-4D32-8029-FC3FE34B91AC,386.30,"Labyrinthitis, unspecified",,,1
+0,7069,C9DB05E1-CB35-4301-9917-15D39C043B51,4265551B-DEDD-410B-869B-31EB635F43FB,780.4,Dizziness and giddiness,2010.0,,0
+0,7075,C9DB05E1-CB35-4301-9917-15D39C043B51,32018B10-6CF0-41B9-82D1-33C0EC39E4E8,382.9,Unspecified otitis media,2010.0,,0

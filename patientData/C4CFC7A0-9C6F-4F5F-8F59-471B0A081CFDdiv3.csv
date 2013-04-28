@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,47810,C4CFC7A0-9C6F-4F5F-8F59-471B0A081CFD,Proventil HFA (albuterol) inhalation aerosol with adapter,CFC free 90 mcg/inh,,1125AEC2-FF3D-4114-873C-E48BE45F4089,831C4270-EF7B-4867-8965-5FCF05DDEA22,2009.0,1,,0.0,1.0
+0,47815,C4CFC7A0-9C6F-4F5F-8F59-471B0A081CFD,Advair Diskus (fluticasone-salmeterol) inhalation powder,250 mcg-50 mcg,,E628453B-7170-4719-8445-6CB7606991DA,D1EA2DBB-689B-4880-AD3F-C5B6EE5176B8,2009.0,,,0.0,1.0

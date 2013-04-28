@@ -1,0 +1,5 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,62098,9C381F49-D202-49F3-95FD-56AED07DD590,Xopenex (levalbuterol) inhalation solution,1.25 mg/3 mL,,,3CE5935E-AB0B-4CD3-9DF1-4922FB5C71DC,,,,,
+0,62113,9C381F49-D202-49F3-95FD-56AED07DD590,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,817EE959-49A1-4787-A4C3-86B5669602DA,272EFFEA-C16B-4690-A503-80E04A4D4206,2010.0,20,0.0,0.0,1.0
+0,62128,9C381F49-D202-49F3-95FD-56AED07DD590,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,DFDE1B50-125C-41F1-8859-75C334E08FB6,C8C87432-66AB-4F3F-B5B1-9EFC7E9AAFAD,2010.0,240,0.0,0.0,1.0
+0,62143,9C381F49-D202-49F3-95FD-56AED07DD590,Xopenex HFA (levalbuterol) inhalation aerosol with adapter,CFC free 45 mcg/inh,,BD6249FA-2110-4FE8-B07C-C78E66638102,B3D877B8-56EC-450B-B069-BE4A6C99DE90,2010.0,1,0.0,0.0,1.0

@@ -1,0 +1,10 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,156921,ECFB71A7-5885-47CD-8D5D-CA779F0ABAF4,66CAC11B-F566-4499-AED9-0E2B1CF6CE4D,599.0,"Urinary tract infection, site not specified",2012.0,2012.0,0
+0,156932,ECFB71A7-5885-47CD-8D5D-CA779F0ABAF4,8117CF2C-7A06-4BE1-8A37-143B675CCCA0,250.02,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, without mention of complication",,,1
+0,156943,ECFB71A7-5885-47CD-8D5D-CA779F0ABAF4,173787BA-5678-4CC3-81CA-228ED835CF76,842.13,Sprain of interphalangeal (joint) of hand,,,1
+0,156954,ECFB71A7-5885-47CD-8D5D-CA779F0ABAF4,F72A1832-0E07-4A81-8105-59AD9550C088,250.03,"type I diabetes mellitus [juvenile type], uncontrolled, without mention of complication",,,0
+0,156965,ECFB71A7-5885-47CD-8D5D-CA779F0ABAF4,5F106E9A-100F-4B9B-A0C7-61B7B3433992,780.4,Dizziness and giddiness,,,1
+0,156976,ECFB71A7-5885-47CD-8D5D-CA779F0ABAF4,EDBD1BBF-5EE4-411D-977D-744AB96D5782,724.2,Lumbago,,,1
+0,156987,ECFB71A7-5885-47CD-8D5D-CA779F0ABAF4,066D2437-0A5E-47D0-919D-A8FA224EFFA9,250.00,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",2009.0,,0
+0,156998,ECFB71A7-5885-47CD-8D5D-CA779F0ABAF4,DADA9160-DE4F-43BD-99C9-CC822F9ED7CE,524.60,"Temporomandibular joint disorders, unspecified",,,1
+0,157009,ECFB71A7-5885-47CD-8D5D-CA779F0ABAF4,F454F2C2-E791-40BC-8308-E8A2AA792351,008.8,"Intestinal infection due to other organism, not elsewhere classified",,,1

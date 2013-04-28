@@ -1,0 +1,6 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,151446,6978F7C2-D19D-4F43-A139-B6CF7EFA1DC5,CB7E1C58-D487-4C02-9F89-50A6C9B1C9E5,461,Acute sinusitis                                                                                                                                                                                                                                                ,2009.0,2009.0,1
+0,151449,6978F7C2-D19D-4F43-A139-B6CF7EFA1DC5,741B4816-4E50-404C-8842-94331340147E,461.0,Acute maxillary sinusitis,2009.0,,0
+0,151452,6978F7C2-D19D-4F43-A139-B6CF7EFA1DC5,0D1177B1-0ABF-4BF2-B069-9C0ADF813087,V22.1,Supervision of other normal pregnancy,2009.0,,0
+0,151455,6978F7C2-D19D-4F43-A139-B6CF7EFA1DC5,D6D15B21-799D-47A4-894F-A437C6884ADC,466.0,Acute bronchitis,2009.0,,0
+0,151458,6978F7C2-D19D-4F43-A139-B6CF7EFA1DC5,9C7F6EBC-611F-4C70-8674-CE0C989D5D0B,708.9,Unspecified urticaria,2011.0,,0

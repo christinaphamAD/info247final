@@ -1,0 +1,8 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,156591,6E8F2174-0DF1-42C7-8595-C8F38312DEF1,91365C73-265A-462A-A139-346375400534,362.01,Background diabetic retinopathy,2009.0,,0
+0,156598,6E8F2174-0DF1-42C7-8595-C8F38312DEF1,8BEB5DCC-A0A5-4527-A845-7060243E5A3D,V72.84,"Preoperative examination, unspecified",2009.0,,0
+0,156605,6E8F2174-0DF1-42C7-8595-C8F38312DEF1,30C3768E-D542-4285-AE87-B6A7C27739C6,250.02,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, without mention of complication",2009.0,,0
+0,156612,6E8F2174-0DF1-42C7-8595-C8F38312DEF1,A34D2052-03AC-4DDA-91D6-C3755956D855,366.17,Total or mature cataract,2012.0,,0
+0,156619,6E8F2174-0DF1-42C7-8595-C8F38312DEF1,63ADEC0E-5020-4FBE-9BD5-E11E89274CE6,250.52,"Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with ophthalmic manifestations",2009.0,,0
+0,156626,6E8F2174-0DF1-42C7-8595-C8F38312DEF1,915836EE-3855-40B5-9B40-61AF579698B8,272.4,Other and unspecified hyperlipidemia,2009.0,,0
+0,156633,6E8F2174-0DF1-42C7-8595-C8F38312DEF1,C3DD13DD-7D24-43C2-B465-A72DAD36A59E,401.9,Unspecified essential hypertension,,,0

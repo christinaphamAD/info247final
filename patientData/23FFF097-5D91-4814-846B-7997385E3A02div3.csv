@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,763869,23FFF097-5D91-4814-846B-7997385E3A02,LamISIL (terbinafine) oral tablet,250 mg,,50EB810C-1D48-4DB2-9BC1-2E672DB8E273,B08F1049-1F82-4AB8-BC90-761FB1790D5D,2009.0,30.0,3.0,0.0,1.0
+0,763920,23FFF097-5D91-4814-846B-7997385E3A02,Lisinopril oral tablet,10 mg,,DC3AA714-57AA-4905-A52C-34EF68E8BA3E,357471B9-2558-4458-9557-A53C4F83192F,2011.0,90.0,2.0,0.0,1.0

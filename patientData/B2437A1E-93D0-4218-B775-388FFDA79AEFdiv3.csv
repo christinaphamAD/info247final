@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,43141,B2437A1E-93D0-4218-B775-388FFDA79AEF,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,4280579D-D7E6-4DEC-8466-5B3552084AC2,4743DD4E-CC07-45AA-BC35-DCA0823051C0,2012.0,240,0.0,0.0,1.0

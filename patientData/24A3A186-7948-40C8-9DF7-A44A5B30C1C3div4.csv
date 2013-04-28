@@ -1,0 +1,9 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,143068,24A3A186-7948-40C8-9DF7-A44A5B30C1C3,90B86E04-6877-4773-89BD-399AB648D2CB,616.10,"Vaginitis and vulvovaginitis, unspecified",,,1
+0,143072,24A3A186-7948-40C8-9DF7-A44A5B30C1C3,1569ED96-08EC-4ED9-89D1-3DA6D218B77F,627.2,Symptomatic menopausal or female climacteric states,,,0
+0,143076,24A3A186-7948-40C8-9DF7-A44A5B30C1C3,692F98D6-0D94-4173-96C2-4A40247D34AC,V70.0,Routine general medical examination at a health care facility,2010.0,2010.0,1
+0,143080,24A3A186-7948-40C8-9DF7-A44A5B30C1C3,F1625047-9A20-4128-8859-7879A97281F1,272.4,Other and unspecified hyperlipidemia,2009.0,,0
+0,143084,24A3A186-7948-40C8-9DF7-A44A5B30C1C3,A54E0A13-4FF7-45FB-B3E9-8558A06F681A,692.83,Dermatitis due to metals,,,1
+0,143088,24A3A186-7948-40C8-9DF7-A44A5B30C1C3,83C1381A-7E5F-46FB-A03B-C3CE9CF2F5ED,054.1,Genital herpes                                                                                                                                                                                                                                                 ,,,0
+0,143092,24A3A186-7948-40C8-9DF7-A44A5B30C1C3,6F6389E7-19AD-42C2-9FF4-C9F2FD8ED5F6,250.00,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",2010.0,,0
+0,143096,24A3A186-7948-40C8-9DF7-A44A5B30C1C3,EBCB6325-98EE-4C9D-998C-43E34AD8EB3A,401.9,Unspecified essential hypertension,,,0

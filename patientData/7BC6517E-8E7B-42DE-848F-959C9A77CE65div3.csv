@@ -1,0 +1,6 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,138406,7BC6517E-8E7B-42DE-848F-959C9A77CE65,Tamiflu (oseltamivir) oral capsule,75 mg,,,C1F99BEC-A78E-4209-AB79-02D4BAF4D8E8,,,,,
+0,138410,7BC6517E-8E7B-42DE-848F-959C9A77CE65,"Verelan PM (verapamil) oral capsule, extended release",200 mg/24 hours,,,F2A93BD4-A677-4CE7-A278-17D0AF2D1A63,,,,,
+0,138414,7BC6517E-8E7B-42DE-848F-959C9A77CE65,Benicar (olmesartan) oral tablet,20 mg,,,D5FC45CD-B0CA-4CAE-A30B-E76D3D915E2F,,,,,
+0,138418,7BC6517E-8E7B-42DE-848F-959C9A77CE65,Qvar (beclomethasone) inhalation aerosol with adapter,80 mcg/inh,,,68356E92-1AF7-47E3-A9F3-053DA21AB928,,,,,
+0,138422,7BC6517E-8E7B-42DE-848F-959C9A77CE65,Proventil HFA (albuterol) inhalation aerosol with adapter,CFC free 90 mcg/inh,,,F55658C1-4286-4612-999F-61EF67B8F053,,,,,

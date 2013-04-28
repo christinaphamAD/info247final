@@ -1,0 +1,5 @@
+,index,PatientGuid,AllergyGuid,StartYear_x,ReactionName,SeverityName,AllergyName
+0,177831,1C7B1EE8-4883-457D-9880-F6483877E87F,62ED23BF-A634-4502-AF7E-1357E648A196,2011.0,Rash - generalized,Very Mild,PC Pen VK (penicillin V potassium) oral tablet
+0,177858,1C7B1EE8-4883-457D-9880-F6483877E87F,665DFFCA-C35B-4934-AB14-3717DD9B9F3D,2011.0,Rash - generalized,Very Mild,Septra DS (sulfamethoxazole-trimethoprim) oral tablet
+0,177885,1C7B1EE8-4883-457D-9880-F6483877E87F,286F69AC-F18E-4792-95EE-9553AD885EF6,2011.0,Rash - localized,Modest,Singulair (montelukast) oral tablet
+0,177912,1C7B1EE8-4883-457D-9880-F6483877E87F,899B8437-A065-41D1-93ED-BAC1958554A2,2011.0,Rash - generalized,Mild,Tetracycline Hydrochloride (tetracycline) oral capsule

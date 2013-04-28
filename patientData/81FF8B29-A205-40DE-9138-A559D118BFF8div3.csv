@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,794146,81FF8B29-A205-40DE-9138-A559D118BFF8,Lotrisone (betamethasone-clotrimazole topical) topical cream,0.05%-1%,,8ECDCFAC-5EE2-489F-86D3-635FE73F5FA2,83418D24-7FD4-4EA0-8480-7126BB1E53F2,2010.0,30.0,,0.0,1.0
+0,794248,81FF8B29-A205-40DE-9138-A559D118BFF8,Ketoconazole oral tablet,200 mg,,6AC760FB-1946-4DB7-9743-999E4E68BBD2,D5A56962-BF55-439C-ADB3-BFDDB3ADAA7A,2010.0,15.0,0.0,0.0,1.0

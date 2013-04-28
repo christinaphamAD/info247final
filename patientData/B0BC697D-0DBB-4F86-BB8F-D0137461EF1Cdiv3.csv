@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,158220,B0BC697D-0DBB-4F86-BB8F-D0137461EF1C,Vitamin D3 (cholecalciferol) oral capsule,1000 intl units,,,6AB7580F-5890-4B46-808F-FA7B5311507E,,,,,

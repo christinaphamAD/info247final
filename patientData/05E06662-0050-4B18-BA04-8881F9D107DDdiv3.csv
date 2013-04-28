@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,132702,05E06662-0050-4B18-BA04-8881F9D107DD,Phenergan VC with Codeine (codeine/phenylephrine/promethazine) oral syrup,10 mg-5 mg-6.25 mg/5 mL,5.0,F7BB0897-610D-4A21-AC62-F6E577415173,EB2925CE-E36B-4976-B8AC-276E7B567E05,2012.0,240,0.0,0.0,1.0

@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,164147,CF44FDA9-CEBA-4DC5-9E8C-DAEF229DFA50,Zithromax Z-Pak (azithromycin) oral tablet,250 mg,,,E184A89A-D10D-4AC9-8CC9-58C1A6E01382,,,,,
+0,164165,CF44FDA9-CEBA-4DC5-9E8C-DAEF229DFA50,Patanase (olopatadine nasal) nasal spray,665 mcg/inh,,,047A7897-2EB1-47E7-AC2F-C383A681EC51,,,,,

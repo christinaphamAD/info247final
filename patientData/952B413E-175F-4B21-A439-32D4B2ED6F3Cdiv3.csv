@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,21009,952B413E-175F-4B21-A439-32D4B2ED6F3C,Keflex (cephalexin) oral powder for reconstitution,250 mg/5 mL,,CC01560C-9AD1-404F-ABC4-42BB262609AF,8F7623EA-F206-476A-B6F3-49EB28FC6D5E,2010.0,200,0.0,0.0,1.0

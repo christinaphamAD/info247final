@@ -1,0 +1,12 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,63487,5EBCAA1E-C2D4-4B24-BA04-5C36D5A60263,CFE25654-F006-419D-863E-29738902A187,296.34,"Major depressive disorder, recurrent episode, severe degree, specified as with psychotic behavior",2009.0,,1
+0,63499,5EBCAA1E-C2D4-4B24-BA04-5C36D5A60263,04527383-8A7C-4F93-B8F3-5027967D0251,300,"Anxiety, dissociative and somatoform disorders                                                                                                                                                                                                                 ",,,0
+0,63511,5EBCAA1E-C2D4-4B24-BA04-5C36D5A60263,07B77DD0-833D-4867-B575-50620834F7BE,784.0,Headache,2009.0,,1
+0,63523,5EBCAA1E-C2D4-4B24-BA04-5C36D5A60263,45BE05E5-12BF-4BAA-AEF8-5663BF621CF9,780.79,Other malaise and fatigue,,,0
+0,63535,5EBCAA1E-C2D4-4B24-BA04-5C36D5A60263,B8548975-3264-4706-81DA-67F16208F596,789.07,"Abdominal pain, generalized",2009.0,,1
+0,63547,5EBCAA1E-C2D4-4B24-BA04-5C36D5A60263,3D73C354-3352-4778-AFF9-8D6BB36B7AAE,535.0,Acute gastritis                                                                                                                                                                                                                                                ,2009.0,2009.0,1
+0,63559,5EBCAA1E-C2D4-4B24-BA04-5C36D5A60263,C5CB3292-A880-4D14-A52B-94DC0492BA43,569.3,Hemorrhage of rectum and anus,,,1
+0,63571,5EBCAA1E-C2D4-4B24-BA04-5C36D5A60263,DFB2AFF9-4871-4CFF-9FB2-BFF2CD567DC6,296.33,"Major depressive disorder, recurrent episode, severe degree, without mention of psychotic behavior",,,0
+0,63583,5EBCAA1E-C2D4-4B24-BA04-5C36D5A60263,64E3112B-EEBD-4F25-874B-D8901EF3B738,788.1,Dysuria,2009.0,,1
+0,63595,5EBCAA1E-C2D4-4B24-BA04-5C36D5A60263,472F598E-53EB-4A33-90A1-E7685B67873F,787.01,Nausea with vomiting,2009.0,2009.0,1
+0,63607,5EBCAA1E-C2D4-4B24-BA04-5C36D5A60263,AC1CC9A0-AF2C-465D-8FBD-5AF00510E077,787.91,Diarrhea,,,1

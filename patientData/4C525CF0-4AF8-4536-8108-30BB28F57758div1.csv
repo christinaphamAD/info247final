@@ -1,0 +1,2 @@
+,index,PatientGuid,Gender,YearOfBirth,SmokingStatusGuid,VisitYear,Height,Weight,BMI,SystolicBP,DiastolicBP,RespiratoryRate,Temperature,TranscriptGuid,Age,NotSmoker,BloodPressureStatus,BMIStatus
+0,19867,4C525CF0-4AF8-4536-8108-30BB28F57758,F,1990,5ABBAB35-836F-4F3E-8632-CE063828DA15,2012.0,,,,114.0,79.0,,98.599999999999994,BAF01086-198D-4BB7-8B42-E43B55BAEF4F,23,False,Normal,UNK

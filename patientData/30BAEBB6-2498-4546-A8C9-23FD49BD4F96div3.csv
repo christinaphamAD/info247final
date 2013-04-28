@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,12926,30BAEBB6-2498-4546-A8C9-23FD49BD4F96,Fioricet (APAP/butalbital/caffeine) oral tablet,325 mg-50 mg-40 mg,,A83B2FA8-C6ED-44A5-9FE9-AB1555B49029,F04988BF-8D65-4C71-8F05-572FA8C032B4,2011.0,30,0,0.0,1.0
+0,12930,30BAEBB6-2498-4546-A8C9-23FD49BD4F96,Omeprazole oral delayed release capsule,40 mg,,471C9F6E-1A6A-4EA2-980B-C716C49D5FFB,3066F143-9679-439A-BB73-C973624CFBAB,2011.0,30,6,0.0,1.0

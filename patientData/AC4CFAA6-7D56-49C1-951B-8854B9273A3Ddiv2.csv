@@ -1,0 +1,4 @@
+,index,PatientGuid,AllergyGuid,StartYear_x,ReactionName,SeverityName,AllergyName
+0,132495,AC4CFAA6-7D56-49C1-951B-8854B9273A3D,F3A2AE27-B4E2-4CDA-9F50-22E3F9CE9244,2012.0,Diarrhea,Modest,Augmentin (amoxicillin-clavulanate) oral tablet
+0,132500,AC4CFAA6-7D56-49C1-951B-8854B9273A3D,76A4CF26-C464-487B-9CEA-B57EFEF73173,2012.0,Nausea,Modest,Erythromycin Stearate (erythromycin) oral tablet
+0,132505,AC4CFAA6-7D56-49C1-951B-8854B9273A3D,F4B3C376-AB44-4479-9C4B-B90D31167064,2012.0,Rash - generalized,Modest,Septra DS (sulfamethoxazole-trimethoprim) oral tablet

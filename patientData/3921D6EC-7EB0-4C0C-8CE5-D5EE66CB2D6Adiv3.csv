@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,161870,3921D6EC-7EB0-4C0C-8CE5-D5EE66CB2D6A,Fortesta (testosterone) transdermal gel,10 mg/0.5 g,3.0,,D2B4975F-822F-4CC1-9BF6-DC77D8DD524D,,,,,

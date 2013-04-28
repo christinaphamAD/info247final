@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,119128,3A126963-66D5-4FD8-944B-701CEF3A10FC,Nizoral (ketoconazole) oral tablet,200 mg,,62555B85-391A-4011-94B2-AF5B8A1A1A16,726DB717-39DA-4F01-9800-B13CDE4A52BE,2011.0,20,0.0,0.0,1.0
+0,119134,3A126963-66D5-4FD8-944B-701CEF3A10FC,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,3A70973E-8283-4162-B593-89D385961DB4,8E6F105E-F9C5-4F99-8F2B-683FB090815F,2012.0,20,0.0,0.0,1.0

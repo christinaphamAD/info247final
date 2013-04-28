@@ -1,0 +1,5 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,8658,37C376EC-44BC-4DCE-BF74-1C06140345DA,Naphcon-A (naphazoline-pheniramine ophthalmic) ophthalmic solution,0.025%-0.3%,,82548FDA-D3BC-4C6F-AA25-F730CBC8FB25,BFE543E8-3725-4F5D-B154-A0F82724B2DB,2010.0,10,0,0.0,1.0
+0,8665,37C376EC-44BC-4DCE-BF74-1C06140345DA,Sodium Sulamyd (sulfacetamide sodium ophthalmic) ophthalmic solution,10%,,3421B198-DFC9-4C35-AA23-7FC47C57852E,2EC4A1E3-1F11-4111-87BC-EAE6911C693A,2010.0,10,0,0.0,1.0
+0,8672,37C376EC-44BC-4DCE-BF74-1C06140345DA,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,6BF18FFB-05EC-4C25-A31E-E706CE6526FA,91CC3F2E-DD39-4756-8533-B31ABD04D31A,2011.0,20,0,0.0,1.0
+0,8679,37C376EC-44BC-4DCE-BF74-1C06140345DA,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,9C6CB457-F62C-4DD1-AE04-CFE16AF37CDF,C73CAFA2-2098-4620-9784-111CBE640D15,2011.0,240,0,0.0,1.0

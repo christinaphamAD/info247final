@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,202955,AE340B0C-D4A4-440D-9061-114263B626B1,Valium (diazepam) oral tablet,2 mg,4.0,4ADF535E-3165-4347-9F3E-D5E29ADD4A18,3B554C34-40CF-45BE-9E6C-205278CF2908,2012.0,90.0,0.0,0.0,1.0

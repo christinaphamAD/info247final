@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,153465,B1C70F99-D454-4CEE-8D8E-BEDDBA8D2834,Protonix (pantoprazole) oral enteric coated tablet,40 mg,,60271C93-7472-4905-A11B-A968284A95B0,65FF3350-1665-4B26-AC78-1D108B9AABA4,2010.0,30,1.0,0.0,1.0

@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,132851,F418A24D-AFEC-40E6-8158-8A394AA0AFFE,Singulair (montelukast) oral tablet,10 mg,,6DB07A8E-A523-438B-A2DA-68A28994ACFE,AD342F8E-7263-4320-AEB0-479E93877DEA,2010.0,90.0,1.0,0.0,1.0

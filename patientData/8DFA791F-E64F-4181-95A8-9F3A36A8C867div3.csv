@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,142049,8DFA791F-E64F-4181-95A8-9F3A36A8C867,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,5BC9ED58-0472-4157-AD95-409537B0E098,BFC0406D-2220-4DF3-8050-676008BD4CD9,2012.0,20,0.0,0.0,1.0
+0,142054,8DFA791F-E64F-4181-95A8-9F3A36A8C867,Atenolol oral tablet,50 mg,,B145958A-B49F-4700-8569-2FF60D9B59DA,4BF2A2C8-963C-418C-A078-FB8960AEF982,2011.0,90,4.0,0.0,1.0

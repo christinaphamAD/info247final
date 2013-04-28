@@ -1,0 +1,5 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,820350,C555FB90-756B-4968-90ED-BEA03F17EBFA,9ADBB1D1-517E-43CE-9F16-668A6571410F,733.90,"Disorder of bone and cartilage, unspecified",,,0
+0,820368,C555FB90-756B-4968-90ED-BEA03F17EBFA,2F117D57-FAAB-4810-AE5F-72DEC026AB61,786.5,Chest pain                                                                                                                                                                                                                                                     ,2009.0,2009.0,1
+0,820386,C555FB90-756B-4968-90ED-BEA03F17EBFA,AF9139B8-C69C-4468-95CD-8C28B5A510CB,V70.0,Routine general medical examination at a health care facility,2011.0,2011.0,1
+0,820404,C555FB90-756B-4968-90ED-BEA03F17EBFA,F63C4BED-078A-4895-88CA-803B92FBD474,110.1,Dermatophytosis of nail,2009.0,,1

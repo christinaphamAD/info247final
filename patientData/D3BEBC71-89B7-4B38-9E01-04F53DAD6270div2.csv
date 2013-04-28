@@ -1,0 +1,4 @@
+,index,PatientGuid,AllergyGuid,StartYear_x,ReactionName,SeverityName,AllergyName
+0,784,D3BEBC71-89B7-4B38-9E01-04F53DAD6270,208BF0C8-C63F-4E45-A738-1CECF38C4ADA,2012.0,Rash - localized,Modest,Penicillin V Potassium oral tablet
+0,797,D3BEBC71-89B7-4B38-9E01-04F53DAD6270,1CA42A31-35D8-4A5D-A8CD-916E5DA4DB45,2012.0,Rash - localized,Mild,Cipro (ciprofloxacin) oral tablet
+0,810,D3BEBC71-89B7-4B38-9E01-04F53DAD6270,CF600165-7D70-49F2-AF84-FA1FDB002416,2012.0,Rash - localized,Modest,Keflex (cephalexin) oral capsule

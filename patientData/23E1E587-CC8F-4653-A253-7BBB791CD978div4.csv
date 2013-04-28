@@ -1,0 +1,5 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,129161,23E1E587-CC8F-4653-A253-7BBB791CD978,F4D317A7-248E-4FBE-9EDD-848A3C6666AC,535.50,"Unspecified gastritis and gastroduodenitis, without mention of hemorrhage",2010.0,,0
+0,129164,23E1E587-CC8F-4653-A253-7BBB791CD978,91E0F6FC-8E3D-4BBC-8F68-A74674D967BA,271.3,Intestinal disaccharidase deficiencies and disaccharide malabsorption,2010.0,,0
+0,129167,23E1E587-CC8F-4653-A253-7BBB791CD978,085D9117-A66F-4E45-94FA-A7B79ECF1E7E,272.4,Other and unspecified hyperlipidemia,2010.0,,0
+0,129170,23E1E587-CC8F-4653-A253-7BBB791CD978,1DB58C0B-F36E-4F2F-A390-B2ACBC8EE066,461.9,"Acute sinusitis, unspecified",2010.0,,0

@@ -1,0 +1,8 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,153979,9FAE83BA-785B-4410-AF53-C19734B7F35B,6DC86421-F4B8-4981-A46E-4F5E6D6BF9C2,054,Herpes simplex                                                                                                                                                                                                                                                 ,,,1
+0,153984,9FAE83BA-785B-4410-AF53-C19734B7F35B,4B9F71C3-583F-4279-8C80-753187B1B769,244.9,Unspecified hypothyroidism,2009.0,,0
+0,153989,9FAE83BA-785B-4410-AF53-C19734B7F35B,3DCECEBD-BDF5-445B-8C80-8B6108D8790E,272.4,Other and unspecified hyperlipidemia,2009.0,,0
+0,153994,9FAE83BA-785B-4410-AF53-C19734B7F35B,72E0DDD1-0DFB-4CFD-AAF0-96DE4D46CD45,V70.0,Routine general medical examination at a health care facility,2009.0,,1
+0,153999,9FAE83BA-785B-4410-AF53-C19734B7F35B,2E5EA209-F143-4CA5-8812-9725DF59F96C,300.0,Anxiety states                                                                                                                                                                                                                                                 ,2009.0,,0
+0,154004,9FAE83BA-785B-4410-AF53-C19734B7F35B,B9626F90-509F-478C-8AEB-96FA1E8891EB,682.0,Cellulitis and abscess of face,2012.0,2012.0,0
+0,154009,9FAE83BA-785B-4410-AF53-C19734B7F35B,2AC917F6-67F3-4E2F-96C4-ACBD6947A1F2,382.9,Unspecified otitis media,2012.0,2012.0,0

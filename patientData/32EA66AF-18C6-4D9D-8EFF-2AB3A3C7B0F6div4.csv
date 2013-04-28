@@ -1,0 +1,4 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,16601,32EA66AF-18C6-4D9D-8EFF-2AB3A3C7B0F6,407AC6A4-80AE-4ECD-87FB-AADC90E2A161,300.0,Anxiety states                                                                                                                                                                                                                                                 ,,,0
+0,16605,32EA66AF-18C6-4D9D-8EFF-2AB3A3C7B0F6,96C59C12-C3C5-4431-AD29-B15991F31C4E,486,"Pneumonia, unspec.",2009.0,,0
+0,16609,32EA66AF-18C6-4D9D-8EFF-2AB3A3C7B0F6,42D61E48-AAA8-41E7-A447-E9895776DAF4,493.0,Extrinsic asthma                                                                                                                                                                                                                                               ,2009.0,,0

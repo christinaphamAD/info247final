@@ -1,0 +1,4 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,157020,BEC5F7CC-4F6F-4627-8C30-CAB792762212,AFA870EF-FC27-4FF8-A8D3-1EA6DA21C859,705.81,Dyshidrosis,,,0
+0,157029,BEC5F7CC-4F6F-4627-8C30-CAB792762212,41418B5E-7680-4F48-BC3D-7E94FAFA9B08,327,Organic sleep disorders                                                                                                                                                                                                                                        ,2011.0,,0
+0,157032,BEC5F7CC-4F6F-4627-8C30-CAB792762212,A0300CE4-26C0-477A-8380-DBAF63F9EFC1,704,Diseases of hair and hair follicles                                                                                                                                                                                                                            ,,,0

@@ -1,0 +1,2 @@
+,index,PatientGuid,Gender,YearOfBirth,SmokingStatusGuid,VisitYear,Height,Weight,BMI,SystolicBP,DiastolicBP,RespiratoryRate,Temperature,TranscriptGuid,Age,NotSmoker,BloodPressureStatus,BMIStatus
+0,133183,FED06E2E-7123-4030-BB61-8B2FBAF149CF,M,1962,1F3BFBBF-AB76-481B-B1E0-08A3689A54BC,2012.0,71.0,174.0,24.265000000000001,174.0,113.0,16.0,97.799999999999997,D65B270D-3298-40D2-824D-27B50C9EA82D,51,False,Hypertension Stage 2,Normal

@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,169470,75CFB273-A70B-456C-AE17-E2FE8A0E2742,Paxil (PARoxetine) oral tablet,10 mg,,6C54201A-32A8-43DD-99AF-E50CC321484C,F33151A4-D1E4-4241-A24E-07AD5118E0EF,2009.0,,,0.0,1.0

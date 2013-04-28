@@ -1,0 +1,4 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,3835,97210BC6-F905-4B3D-A19A-0DA422FE22F4,"Mucinex DM (dextromethorphan-guaiFENesin) oral tablet, extended release",30 mg-600 mg,,,499BC469-9E57-432C-916B-06D28F4C4AE6,,,,,
+0,3844,97210BC6-F905-4B3D-A19A-0DA422FE22F4,Phenergan (promethazine) injectable solution,25 mg/mL,,,9261C216-FBB4-4C89-83F3-595D6B7C5E10,,,,,
+0,3853,97210BC6-F905-4B3D-A19A-0DA422FE22F4,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,,2AC70E43-EA58-4873-92B7-DE08A06BEF86,,,,,

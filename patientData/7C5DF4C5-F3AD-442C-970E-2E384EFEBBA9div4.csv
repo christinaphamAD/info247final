@@ -1,0 +1,5 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,18776,7C5DF4C5-F3AD-442C-970E-2E384EFEBBA9,7A7D0A7A-DA6A-49A4-A356-13F5DAA3740F,401.9,Unspecified essential hypertension,2009.0,,0
+0,18788,7C5DF4C5-F3AD-442C-970E-2E384EFEBBA9,7CF17E12-3802-4B3E-AA92-777728E76641,272.4,Other and unspecified hyperlipidemia,,,0
+0,18797,7C5DF4C5-F3AD-442C-970E-2E384EFEBBA9,D47BB4E4-920E-4DCF-8CF7-D26B69AF5FA0,786.5,Chest pain                                                                                                                                                                                                                                                     ,2009.0,,0
+0,18800,7C5DF4C5-F3AD-442C-970E-2E384EFEBBA9,75E31237-5BBC-43D5-8824-F6BABD5C01DC,214.1,Lipoma of other skin and subcutaneous tissue,,,0

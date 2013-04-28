@@ -1,0 +1,19 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,55438,5499241C-FF14-4647-AA20-4DB8263A1243,255D2229-6E9D-44BB-BBEB-00FFEA64872B,995.2,Unspec adverse effect of drug due to proper administration,,,1
+0,55455,5499241C-FF14-4647-AA20-4DB8263A1243,5D205768-AE33-4948-84AD-06A7FB910445,784.0,Headache,,,1
+0,55472,5499241C-FF14-4647-AA20-4DB8263A1243,AAA88616-2274-4140-BDBD-0C96F3595C66,727.43,"Ganglion, unspecified",,,1
+0,55489,5499241C-FF14-4647-AA20-4DB8263A1243,329E589A-F9C5-4C32-9270-1DA5718A2B9D,616.1,Vaginitis and vulvovaginitis                                                                                                                                                                                                                                   ,2009.0,,0
+0,55506,5499241C-FF14-4647-AA20-4DB8263A1243,B0A4922D-7AE4-4303-8D8E-340E741FB7D6,009.0,"Infectious colitis, enteritis, and gastroenteritis",,,1
+0,55523,5499241C-FF14-4647-AA20-4DB8263A1243,42D8180C-A3AD-431C-81A3-3B628CE91C4D,789,Other symptoms involving abdomen and pelvis                                                                                                                                                                                                                    ,2009.0,,1
+0,55540,5499241C-FF14-4647-AA20-4DB8263A1243,673E9FC8-BF59-4DF4-A849-6892C4C6F3CD,626.8,Other disorders of menstruation and other abnormal bleeding from female genital tract,,,0
+0,55557,5499241C-FF14-4647-AA20-4DB8263A1243,A7AB3361-EE60-44F4-A1FA-6BF41F337544,728.71,Plantar fascial fibromatosis,,,1
+0,55574,5499241C-FF14-4647-AA20-4DB8263A1243,D568C88E-4EEC-4A45-8997-7D2646548C4D,847.0,Neck sprain,,,1
+0,55591,5499241C-FF14-4647-AA20-4DB8263A1243,04A5AD76-AE62-469B-8C52-9133E8AE5C73,610.1,Diffuse cystic mastopathy,,,1
+0,55608,5499241C-FF14-4647-AA20-4DB8263A1243,04597B28-6D86-4E3B-8A03-AF61A39F4032,626.0,Absence of menstruation,,,1
+0,55625,5499241C-FF14-4647-AA20-4DB8263A1243,8218A0E9-D914-48AC-9E8A-B0F6D48F2E10,626.0,Absence of menstruation,,,1
+0,55642,5499241C-FF14-4647-AA20-4DB8263A1243,957D7375-B9C1-43CD-A774-CB2A75F5148C,078.12,Plantar wart,,,1
+0,55659,5499241C-FF14-4647-AA20-4DB8263A1243,B1A16338-0662-4C47-9885-D39C4B1C6BCD,110.9,Dermatophytosis of unspecified site,,,1
+0,55676,5499241C-FF14-4647-AA20-4DB8263A1243,44F2BB9D-380D-4433-A74B-E2EF35336CF7,V70.0,Routine general medical examination at a health care facility,,,1
+0,55693,5499241C-FF14-4647-AA20-4DB8263A1243,D4A93417-071C-4757-924A-ECEC62A7A7F6,V25.4,Surveillance of previously prescribed contraceptive methods                                                                                                                                                                                                    ,,,1
+0,55710,5499241C-FF14-4647-AA20-4DB8263A1243,3863E452-95FD-49D6-AA03-FCCFFF045847,724.3,Sciatica,,,1
+0,55727,5499241C-FF14-4647-AA20-4DB8263A1243,A1F3AC96-F2C2-404B-AE8A-76E9D41587AB,461.9,"Acute sinusitis, unspecified",2010.0,,0

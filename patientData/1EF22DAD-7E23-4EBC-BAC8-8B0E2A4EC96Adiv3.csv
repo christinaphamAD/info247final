@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,133120,1EF22DAD-7E23-4EBC-BAC8-8B0E2A4EC96A,CloNIDine Hydrochloride (cloNIDine) oral tablet,0.1 mg,,DD580CE2-FE02-4792-96F6-1B2A96C65D10,548941E5-837D-4916-A397-87416A0BA349,2009.0,,0.0,0.0,1.0

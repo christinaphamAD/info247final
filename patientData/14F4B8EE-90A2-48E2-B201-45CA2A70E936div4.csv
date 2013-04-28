@@ -1,0 +1,10 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,47138,14F4B8EE-90A2-48E2-B201-45CA2A70E936,C3FE0509-1325-4A86-A24C-308D114F97B6,585.3,"Chronic kidney disease, Stage III (moderate)",2012.0,,0
+0,47142,14F4B8EE-90A2-48E2-B201-45CA2A70E936,ED9BFC71-F4B8-405D-9DE1-33BB38C74ABF,272.4,Other and unspecified hyperlipidemia,2009.0,,0
+0,47146,14F4B8EE-90A2-48E2-B201-45CA2A70E936,68E79002-2C81-4A8B-9517-51F82F0FABDE,250.02,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, without mention of complication",2009.0,,0
+0,47150,14F4B8EE-90A2-48E2-B201-45CA2A70E936,6BB67523-127A-4A42-B775-59034169974D,372.30,"Conjunctivitis, unspecified",2009.0,,0
+0,47154,14F4B8EE-90A2-48E2-B201-45CA2A70E936,DE04A85B-7972-486A-9B47-7EDE0704B585,401.9,Unspecified essential hypertension,2009.0,,0
+0,47158,14F4B8EE-90A2-48E2-B201-45CA2A70E936,719F7B53-1B5F-49AC-A659-EE9727721CA7,272.4,Other and unspecified hyperlipidemia,2009.0,,0
+0,47162,14F4B8EE-90A2-48E2-B201-45CA2A70E936,1D201A86-CD93-433D-8671-4FDA5B84F825,272.1,Pure hyperglyceridemia,2009.0,,0
+0,47166,14F4B8EE-90A2-48E2-B201-45CA2A70E936,0A70F1AF-9E71-4B44-A815-D9595F6BDF53,401.9,Unspecified essential hypertension,2009.0,,0
+0,47174,14F4B8EE-90A2-48E2-B201-45CA2A70E936,68A22E32-3155-4284-9B50-DBF066466959,250.00,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",2009.0,,0

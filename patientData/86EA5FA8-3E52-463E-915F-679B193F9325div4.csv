@@ -1,0 +1,10 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,72933,86EA5FA8-3E52-463E-915F-679B193F9325,65796BD7-724B-4FB9-8576-030988BA20DB,466.0,Acute bronchitis,2009.0,2009.0,1
+0,72998,86EA5FA8-3E52-463E-915F-679B193F9325,9E282ED2-797E-4B67-B2D9-169A1E16AC94,491,Chronic bronchitis                                                                                                                                                                                                                                             ,,,0
+0,73063,86EA5FA8-3E52-463E-915F-679B193F9325,F5D0F496-2C59-4AEC-9559-2DBA56AFCFDA,461.0,Acute maxillary sinusitis,2009.0,2009.0,1
+0,73128,86EA5FA8-3E52-463E-915F-679B193F9325,158D5475-55DD-4957-B24B-56DE91E0FC3A,722.52,Degeneration of lumbar or lumbosacral intervertebral disc,2000.0,,0
+0,73193,86EA5FA8-3E52-463E-915F-679B193F9325,9335AC94-FBC8-4A23-B891-767B7B924D22,493,Asthma                                                                                                                                                                                                                                                         ,,,0
+0,73258,86EA5FA8-3E52-463E-915F-679B193F9325,614D4995-05E8-4F11-AC24-8EED16ED8C84,V70.0,Routine general medical examination at a health care facility,2009.0,2009.0,1
+0,73323,86EA5FA8-3E52-463E-915F-679B193F9325,75EB6BDF-5904-469F-BB79-A93B3A690829,300.01,Panic disorder without agoraphobia,,,0
+0,73388,86EA5FA8-3E52-463E-915F-679B193F9325,CF480B6D-4269-4C61-91CE-B6C239F870BF,786.2,Cough,,,1
+0,73453,86EA5FA8-3E52-463E-915F-679B193F9325,03BA257B-4EE1-4835-AD44-34239DACD249,477.9,"Allergic rhinitis, cause unspecified",,,0

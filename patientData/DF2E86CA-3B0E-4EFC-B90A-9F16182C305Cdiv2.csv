@@ -1,0 +1,6 @@
+,index,PatientGuid,AllergyGuid,StartYear_x,ReactionName,SeverityName,AllergyName
+0,141734,DF2E86CA-3B0E-4EFC-B90A-9F16182C305C,31E44B72-638D-4520-8B8B-10E50D2F76F0,2011.0,Rash - generalized,Modest,Septra DS (sulfamethoxazole-trimethoprim) oral tablet
+0,141740,DF2E86CA-3B0E-4EFC-B90A-9F16182C305C,0C55EB86-D3E1-4AB7-A63E-6024E315674C,2011.0,Rash - generalized,Modest,Augmentin (amoxicillin-clavulanate) oral tablet
+0,141746,DF2E86CA-3B0E-4EFC-B90A-9F16182C305C,7A00C372-20E8-4651-8FF7-829B03120675,2011.0,Rash - generalized,Modest,Macrobid (nitrofurantoin) oral capsule
+0,141752,DF2E86CA-3B0E-4EFC-B90A-9F16182C305C,CE3DFF0A-01D3-4025-A0D1-93E5E79BE2E6,2011.0,Rash - generalized,Modest,Cipro (ciprofloxacin) oral tablet
+0,141758,DF2E86CA-3B0E-4EFC-B90A-9F16182C305C,998A7BD9-89B3-46FE-BD7C-94D4ECB01746,2011.0,Rash - generalized,Modest,Keflex (cephalexin) oral capsule

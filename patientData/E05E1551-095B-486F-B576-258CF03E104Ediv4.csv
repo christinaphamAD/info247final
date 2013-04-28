@@ -1,0 +1,8 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,14964,E05E1551-095B-486F-B576-258CF03E104E,09284545-034D-4E9C-9076-12036184D699,354.0,Carpal tunnel syndrome,2011.0,,0
+0,14971,E05E1551-095B-486F-B576-258CF03E104E,1A41E18B-F369-41B9-8BC6-18B87785D3BA,724.2,Lumbago,,,1
+0,14978,E05E1551-095B-486F-B576-258CF03E104E,326BDDE6-3125-4B48-878C-FFF2022BB3B6,078.19,Other specified viral warts,2010.0,,0
+0,14985,E05E1551-095B-486F-B576-258CF03E104E,76F0DF61-D40F-4836-9B87-205DDDF5BE30,493,Asthma                                                                                                                                                                                                                                                         ,2010.0,,0
+0,14999,E05E1551-095B-486F-B576-258CF03E104E,49311D72-4E8B-4542-882C-35A398C4E7ED,922.1,Contusion of chest wall,2010.0,,0
+0,15006,E05E1551-095B-486F-B576-258CF03E104E,64927C88-3E39-4EBF-BAF9-4847DA1824EB,739.2,"Nonallopathic lesions of thoracic region, not elsewhere classified",,,0
+0,15013,E05E1551-095B-486F-B576-258CF03E104E,FBE7F7A3-9D27-46C0-AFB4-D57CDFCFACC9,739.1,"Nonallopathic lesions of cervical region, not elsewhere classified",,,0

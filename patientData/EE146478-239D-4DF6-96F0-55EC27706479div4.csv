@@ -1,0 +1,9 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,61028,EE146478-239D-4DF6-96F0-55EC27706479,BD38B7A1-C3A3-47B9-8996-10BD62855DBB,782.1,Rash and other nonspecific skin eruption,,,0
+0,61037,EE146478-239D-4DF6-96F0-55EC27706479,146407AE-FA6D-4D77-8C14-13365006D8DB,842.0,Wrist sprain                                                                                                                                                                                                                                                   ,2010.0,,0
+0,61046,EE146478-239D-4DF6-96F0-55EC27706479,0D6CB06F-F7C6-4ECB-9205-1B5795BE6F5B,842.00,Sprain of unspecified site of wrist,2010.0,,0
+0,61055,EE146478-239D-4DF6-96F0-55EC27706479,8FAF3CD7-0411-4073-B6CB-57B0869EE4B2,V01.8,Contact with or exposure to other communicable diseases,,,0
+0,61064,EE146478-239D-4DF6-96F0-55EC27706479,DB922B37-90D3-44CC-8B78-E601504F22B9,373.11,Hordeolum externum,2010.0,,0
+0,61073,EE146478-239D-4DF6-96F0-55EC27706479,0CA2578E-5526-4B08-AEF5-1219DF15193E,726.90,Enthesopathy of specified site,2009.0,,0
+0,61091,EE146478-239D-4DF6-96F0-55EC27706479,F03BE309-E21C-465D-BAD2-76788D75B778,373.11,Hordeolum externum,2011.0,2011.0,0
+0,61100,EE146478-239D-4DF6-96F0-55EC27706479,00F9CCB5-0EE9-4039-B998-FB64D8D49FA9,110.5,Dermatophytosis of the body,2010.0,,0

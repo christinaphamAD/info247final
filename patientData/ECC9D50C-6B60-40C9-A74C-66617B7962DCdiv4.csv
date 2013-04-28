@@ -1,0 +1,7 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,70836,ECC9D50C-6B60-40C9-A74C-66617B7962DC,883DF3ED-1F36-452B-8ECD-36FD8F35D694,460.,Acute nasopharyngitis [common cold],,,0
+0,70839,ECC9D50C-6B60-40C9-A74C-66617B7962DC,29015734-DB58-4241-940B-56ACC5779A61,193,Malignant neoplasm of thyroid gland                                                                                                                                                                                                                            ,2009.0,,0
+0,70842,ECC9D50C-6B60-40C9-A74C-66617B7962DC,FAC1B886-BF55-46B4-80DA-653878955FD3,786.2,Cough,,,0
+0,70845,ECC9D50C-6B60-40C9-A74C-66617B7962DC,B9FE75F1-67DC-42FF-BF8E-77FA9D79362C,783.1,Abnormal weight gain,2010.0,,0
+0,70851,ECC9D50C-6B60-40C9-A74C-66617B7962DC,91859587-5B1A-4667-A6F8-A97EAA4995FD,382.9,Unspecified otitis media,2011.0,2011.0,0
+0,70854,ECC9D50C-6B60-40C9-A74C-66617B7962DC,026EAD04-41CC-4087-A924-D6F0218F29C2,461.9,"Acute sinusitis, unspecified",2011.0,2011.0,0

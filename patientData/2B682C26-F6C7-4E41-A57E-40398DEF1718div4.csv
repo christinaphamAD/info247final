@@ -1,0 +1,7 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,46139,2B682C26-F6C7-4E41-A57E-40398DEF1718,B14E0673-2A39-40DB-AB64-003426A17D37,466.0,Acute bronchitis,2010.0,,0
+0,46142,2B682C26-F6C7-4E41-A57E-40398DEF1718,C1D36F3E-DD67-48CF-94E9-4FAAA65CEFA7,427.6,Premature beats                                                                                                                                                                                                                                                ,2012.0,,0
+0,46145,2B682C26-F6C7-4E41-A57E-40398DEF1718,6925083C-C79C-41F6-A1B4-90AFD56C628D,796.2,Elevated blood pressure reading without diagnosis of hypertension,2010.0,,0
+0,46148,2B682C26-F6C7-4E41-A57E-40398DEF1718,E1632BF1-1824-49B9-99E2-F314B184DBCF,V70.0,Routine general medical examination at a health care facility,2010.0,,0
+0,46151,2B682C26-F6C7-4E41-A57E-40398DEF1718,1704D6A2-FDD4-4BDB-B098-FA620890C52E,427.61,Supraventricular premature beats,2012.0,,0
+0,46154,2B682C26-F6C7-4E41-A57E-40398DEF1718,1FB4AF02-0BDD-4D58-9020-CDF2DE64F779,272.4,Other and unspecified hyperlipidemia,2010.0,,0

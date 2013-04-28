@@ -1,0 +1,7 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,149447,37F9DE70-571C-483B-8C5E-B470778D1C29,03DDEE3F-FDFD-48BC-8FE5-05954540E8A1,272.4,Other and unspecified hyperlipidemia,,,0
+0,149456,37F9DE70-571C-483B-8C5E-B470778D1C29,0C21B5C8-479F-405E-9E9E-5D9690BB33E6,916.4,"Insect bite, nonvenomous, of hip, thigh, leg, and ankle, without mention of infection",,,0
+0,149465,37F9DE70-571C-483B-8C5E-B470778D1C29,82642949-5340-45DF-A207-CA783EF974B0,465.9,Acute upper respiratory infections of unspecified site,,,1
+0,149474,37F9DE70-571C-483B-8C5E-B470778D1C29,1252E00F-9194-4D87-9DAF-D42075D85251,250.02,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, without mention of complication",,,1
+0,149483,37F9DE70-571C-483B-8C5E-B470778D1C29,3A22C979-E270-4124-973E-F15FE4583B7C,250.00,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",2009.0,,0
+0,149492,37F9DE70-571C-483B-8C5E-B470778D1C29,25391464-38F7-4A42-8358-C1F303D19E51,401.9,Unspecified essential hypertension,2009.0,,0

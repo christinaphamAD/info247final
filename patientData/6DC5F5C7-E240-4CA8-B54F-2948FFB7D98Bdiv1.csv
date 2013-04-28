@@ -1,0 +1,2 @@
+,index,PatientGuid,Gender,YearOfBirth,SmokingStatusGuid,VisitYear,Height,Weight,BMI,SystolicBP,DiastolicBP,RespiratoryRate,Temperature,TranscriptGuid,Age,NotSmoker,BloodPressureStatus,BMIStatus
+0,16374,6DC5F5C7-E240-4CA8-B54F-2948FFB7D98B,F,1974,,2010.0,62.0,130.0,,116.0,94.0,14.0,97.799999999999997,F5F53DA3-2E9C-4E31-B0EC-2118CD14AE92,39,True,Hypertension Stage 1,UNK

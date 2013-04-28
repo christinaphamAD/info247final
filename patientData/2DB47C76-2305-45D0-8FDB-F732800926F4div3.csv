@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,181537,2DB47C76-2305-45D0-8FDB-F732800926F4,Cialis (tadalafil) oral tablet,20 mg,,994A0FBC-D7ED-4E2D-942C-4A68B41591D2,BA0352C0-D585-47D4-8288-F224974D335A,2011.0,10,2.0,0.0,1.0

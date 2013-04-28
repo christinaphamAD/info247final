@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,151376,9D8A6F1D-BC1F-47F2-8F47-B687D32EE82C,Omnaris (ciclesonide nasal) nasal spray,50 mcg/inh,,33A1DC46-ED3D-4802-BD93-FD9F741EC426,BA76430F-D7FC-495E-9F81-0A33514E015C,2011.0,1,3.0,0.0,1.0

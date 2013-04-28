@@ -1,0 +1,2 @@
+,index,PatientGuid,Gender,YearOfBirth,SmokingStatusGuid,VisitYear,Height,Weight,BMI,SystolicBP,DiastolicBP,RespiratoryRate,Temperature,TranscriptGuid,Age,NotSmoker,BloodPressureStatus,BMIStatus
+0,138996,C71E74E6-9118-4463-9F8B-9952DDA6FE02,M,1962,5ABBAB35-836F-4F3E-8632-CE063828DA15,2012.0,67.75,214.0,32.776000000000003,180.0,120.0,16.0,97.599999999999994,B2A66225-5AED-4422-B70E-6685A51CC68A,51,False,Hypertension Crisis,Obese

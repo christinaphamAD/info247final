@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,2178,1A72D5ED-4F45-4D07-814C-0924A85FF699,Alvesco HFA (ciclesonide) inhalation aerosol,CFC free 160 mcg/inh,,ED0A0C59-C8B8-4D84-8C8B-4579D0A73E33,095D76C4-E285-4B30-A2BB-038321595F20,2012.0,1,3.0,0.0,1.0
+0,2189,1A72D5ED-4F45-4D07-814C-0924A85FF699,Xopenex HFA (levalbuterol) inhalation aerosol with adapter,CFC free 45 mcg/inh,,0034803B-8C5B-441B-B404-A30266FCEBEC,715B829F-E6B3-4F78-8415-BD08C15931EA,2012.0,1,2.0,0.0,1.0

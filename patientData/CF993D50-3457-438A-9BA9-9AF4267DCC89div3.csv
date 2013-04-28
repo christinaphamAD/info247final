@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,139556,CF993D50-3457-438A-9BA9-9AF4267DCC89,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,08849D07-F135-4169-A2E8-B12F3B6F09B5,91161EED-47A0-4CA4-BCC0-9A2F7395A3AD,2010.0,20,0.0,0.0,1.0
+0,139559,CF993D50-3457-438A-9BA9-9AF4267DCC89,"Niaspan ER (niacin) oral tablet, extended release",500 mg,,B34E8FA8-8048-4CC0-8AEA-EE21059063CF,5ABF8272-598B-4791-827D-9AAF9631822F,2010.0,90,3.0,0.0,1.0

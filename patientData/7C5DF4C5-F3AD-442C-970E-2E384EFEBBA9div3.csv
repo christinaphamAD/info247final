@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,18776,7C5DF4C5-F3AD-442C-970E-2E384EFEBBA9,Benicar (olmesartan) oral tablet,20 mg,,FEC71EEA-CB9D-4063-A36C-0E7D0948C58D,70E3319C-848A-4B09-90EF-6EE16BB9CA58,2009.0,60,6.0,0.0,1.0
+0,18788,7C5DF4C5-F3AD-442C-970E-2E384EFEBBA9,Simvastatin oral tablet,20 mg,,4F8AFACA-CBEB-4777-AB8A-A41CE811473A,6055C1D1-94C7-4E29-B698-C5C9B3150987,2010.0,90,3.0,0.0,1.0

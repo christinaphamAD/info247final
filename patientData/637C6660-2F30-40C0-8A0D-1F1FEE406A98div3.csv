@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,11567,637C6660-2F30-40C0-8A0D-1F1FEE406A98,"Niaspan ER (niacin) oral tablet, extended release",500 mg,,9EF2FA70-CED0-420A-A4B1-1ADAF7E5B495,A482B097-1ABD-4B38-8224-2E6A409B502F,2010.0,30,1,0.0,1.0

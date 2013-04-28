@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,191181,56B0F63D-5DC8-47D0-B977-FA8A76E4B1F6,Ketorolac Tromethamine (ketorolac) injectable solution,30 mg/mL,,,342F400D-D70F-4FEB-BE3F-29CE49C036E5,,,,,
+0,191192,56B0F63D-5DC8-47D0-B977-FA8A76E4B1F6,Tigan (trimethobenzamide) intramuscular solution,100 mg/mL,,,A63BAD32-32DD-466A-9B7B-2C93F93800A9,,,,,

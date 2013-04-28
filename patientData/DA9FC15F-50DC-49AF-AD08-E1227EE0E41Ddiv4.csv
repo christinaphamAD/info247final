@@ -1,0 +1,8 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,167880,DA9FC15F-50DC-49AF-AD08-E1227EE0E41D,C9ADACF0-0174-4240-B63F-10A285427A64,110.1,Dermatophytosis of nail,2011.0,,0
+0,167885,DA9FC15F-50DC-49AF-AD08-E1227EE0E41D,2A93C76E-911F-4122-B08F-43AF599BDC68,384.2,Perf of tympanic membrane                                                                                                                                                                                                                                      ,,,0
+0,167890,DA9FC15F-50DC-49AF-AD08-E1227EE0E41D,ADA82F5A-F217-4986-8919-5E9D75D255D6,V18.0,Family history of diabetes mellitus,2009.0,,0
+0,167895,DA9FC15F-50DC-49AF-AD08-E1227EE0E41D,5DA45DBA-908C-4EA0-9D32-9F65002C8824,V72.84,"Preoperative examination, unspecified",2010.0,,0
+0,167900,DA9FC15F-50DC-49AF-AD08-E1227EE0E41D,7D6E4C80-E52E-4EC9-975B-D45E6951F280,V70.0,Routine general medical examination at a health care facility,2009.0,,0
+0,167905,DA9FC15F-50DC-49AF-AD08-E1227EE0E41D,FFA954FC-7D28-4600-A5CE-B3C2A02023D2,272.2,Mixed hyperlipidemia,2010.0,,0
+0,167915,DA9FC15F-50DC-49AF-AD08-E1227EE0E41D,42FD7F21-CBD2-4BE7-9F5A-C689C5046D4E,401.9,Unspecified essential hypertension,2009.0,,0

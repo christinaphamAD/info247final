@@ -1,0 +1,6 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,8585,DC4C55EA-C1CB-4BC0-B757-1BA278F79BB5,5CE4EFA2-ECE2-439C-9FC7-0D312A49D11E,250.02,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, without mention of complication",2012.0,,0
+0,8593,DC4C55EA-C1CB-4BC0-B757-1BA278F79BB5,6B93DD5B-E5AF-482C-8BA5-6AE14C298394,729.2,"Neuralgia, neuritis, and radiculitis, unspecified",2010.0,,0
+0,8597,DC4C55EA-C1CB-4BC0-B757-1BA278F79BB5,6A154891-A538-4154-98CC-95ED2A0AD934,272.4,Other and unspecified hyperlipidemia,2012.0,,0
+0,8601,DC4C55EA-C1CB-4BC0-B757-1BA278F79BB5,2F93FC24-A9D6-42A9-A9B5-E4813BED89B2,691.8,Other atopic dermatitis and related conditions,2012.0,,0
+0,8605,DC4C55EA-C1CB-4BC0-B757-1BA278F79BB5,76930CEC-8F68-4BDA-989A-F292C566B6F0,368.10,"Subjective visual disturbance, unspecified",2012.0,,0

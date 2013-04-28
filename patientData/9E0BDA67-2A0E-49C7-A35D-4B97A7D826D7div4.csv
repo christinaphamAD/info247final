@@ -1,0 +1,10 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,615365,9E0BDA67-2A0E-49C7-A35D-4B97A7D826D7,73E015DE-E837-46AB-A65E-1F294AE3EDB7,272.4,Other and unspecified hyperlipidemia,2010.0,,0
+0,615370,9E0BDA67-2A0E-49C7-A35D-4B97A7D826D7,D021EAE2-7754-4097-B189-47D1C63DE9D1,V70.0,Routine general medical examination at a health care facility,2010.0,,0
+0,615375,9E0BDA67-2A0E-49C7-A35D-4B97A7D826D7,E7DBD626-8BFD-4EF5-82FF-C4FA5EB1CD37,401.9,Unspecified essential hypertension,2010.0,,0
+0,615380,9E0BDA67-2A0E-49C7-A35D-4B97A7D826D7,1579A7D6-5394-4894-989F-E66A0B236173,569.3,Hemorrhage of rectum and anus,2011.0,,0
+0,615385,9E0BDA67-2A0E-49C7-A35D-4B97A7D826D7,08AAB1AD-F69D-4CC8-BB10-FD52F4EC6F0B,553,Other hernia of abdominal cavity no obstruction or gangrene                                                                                                                                                                                                    ,2010.0,,0
+0,615390,9E0BDA67-2A0E-49C7-A35D-4B97A7D826D7,2C441D70-C47F-47F0-B94F-1FE6C9EA71E5,493,Asthma                                                                                                                                                                                                                                                         ,2010.0,,0
+0,615395,9E0BDA67-2A0E-49C7-A35D-4B97A7D826D7,65A31633-001B-4244-95F3-34E7E616D9AC,726.33,Olecranon bursitis,2012.0,,0
+0,615400,9E0BDA67-2A0E-49C7-A35D-4B97A7D826D7,4BB12483-36C5-43BD-AF94-5FAF694DBB43,780.52,"Insomnia, unspecified",2010.0,,0
+0,615405,9E0BDA67-2A0E-49C7-A35D-4B97A7D826D7,AEDB8177-2C32-4332-B0ED-F8F7F8977051,704.00,"Alopecia, unspecified",2011.0,,0

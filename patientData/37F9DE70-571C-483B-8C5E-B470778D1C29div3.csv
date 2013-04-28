@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,149492,37F9DE70-571C-483B-8C5E-B470778D1C29,"Klor-Con 8 (potassium chloride) oral tablet, extended release",8 mEq,,37F22BCC-6AE3-4E37-968B-21B09453A9F0,3E237288-A3EF-4B39-94CF-12A13D4D694E,2010.0,60,2.0,0.0,1.0
+0,149537,37F9DE70-571C-483B-8C5E-B470778D1C29,Hydrochlorothiazide oral tablet,25 mg,,FB9B80C9-6B59-43BA-A42B-380645B564B6,3CACCBD7-9532-41CF-B1FD-9DB09DF58269,2010.0,30,2.0,0.0,1.0

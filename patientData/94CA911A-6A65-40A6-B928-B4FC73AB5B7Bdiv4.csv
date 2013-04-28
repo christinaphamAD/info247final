@@ -1,0 +1,8 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,149641,94CA911A-6A65-40A6-B928-B4FC73AB5B7B,67E3B8DF-5E72-41FB-98F5-53C144CE02C8,466.0,Acute bronchitis,2012.0,2012.0,0
+0,149648,94CA911A-6A65-40A6-B928-B4FC73AB5B7B,3EAF9D94-FCD2-4863-8095-69D050B6C0FD,461.9,"Acute sinusitis, unspecified",2012.0,2012.0,0
+0,149655,94CA911A-6A65-40A6-B928-B4FC73AB5B7B,83FEA52A-CFE4-40D5-AFEE-71D963C35E66,696,Psoriasis and similar disorders                                                                                                                                                                                                                                ,,,0
+0,149662,94CA911A-6A65-40A6-B928-B4FC73AB5B7B,A4E48FEB-A77F-4F9C-8948-7463D71D8CC7,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
+0,149669,94CA911A-6A65-40A6-B928-B4FC73AB5B7B,38769F45-6840-405D-BF46-847D1251EA12,565.0,Anal fissure,2009.0,,1
+0,149676,94CA911A-6A65-40A6-B928-B4FC73AB5B7B,18A31151-60AE-4956-B550-8B67618D2B64,845.00,Unspecified site of ankle sprain,,,1
+0,149683,94CA911A-6A65-40A6-B928-B4FC73AB5B7B,E123B113-754F-4071-97D1-A6A07C8243AF,786.52,Painful respiration,,,1

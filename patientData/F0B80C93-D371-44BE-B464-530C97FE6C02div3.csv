@@ -1,0 +1,5 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,60393,F0B80C93-D371-44BE-B464-530C97FE6C02,Tamiflu (oseltamivir) oral capsule,75 mg,,38033A96-6C0D-48F7-A5F5-940E8CC1EBA4,81706F0F-9674-4A44-A268-3B5B53E19662,2009.0,10,,0.0,1.0
+0,60403,F0B80C93-D371-44BE-B464-530C97FE6C02,Tessalon (benzonatate) oral capsule,200 mg,,,D35E505A-02F8-4EFD-A460-00042F85EF3E,,,,,
+0,60413,F0B80C93-D371-44BE-B464-530C97FE6C02,Levaquin (levofloxacin) oral tablet,500 mg,,,DF8DEEE4-8361-4187-81D4-410C18465DF1,,,,,
+0,60423,F0B80C93-D371-44BE-B464-530C97FE6C02,Biaxin (clarithromycin) oral tablet,500 mg,,A78B4BB4-CDDA-470D-BFDB-1D92D2909744,D3751CEE-57AB-48D3-840F-CCE0874FA71D,2009.0,20,0.0,0.0,1.0

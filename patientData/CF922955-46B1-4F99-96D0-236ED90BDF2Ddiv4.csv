@@ -1,0 +1,10 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,12839,CF922955-46B1-4F99-96D0-236ED90BDF2D,802872FB-D5C0-4A06-96CD-112DF0172300,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
+0,12846,CF922955-46B1-4F99-96D0-236ED90BDF2D,F3AB4A70-4CF1-436D-83F3-157F6B382A26,V18.51,Colonic polyps,2010.0,,0
+0,12853,CF922955-46B1-4F99-96D0-236ED90BDF2D,813D1B66-27D2-4A5D-B903-2532253B10F7,465.9,Acute upper respiratory infections of unspecified site,,,1
+0,12860,CF922955-46B1-4F99-96D0-236ED90BDF2D,ECDAD19B-51F9-4F73-A61E-486C7655FC64,528.5,Diseases of lips,,,1
+0,12867,CF922955-46B1-4F99-96D0-236ED90BDF2D,D28C1E83-6898-4536-BFCC-6C132E40793B,214.9,"Lipoma, unspecified site",2009.0,,1
+0,12874,CF922955-46B1-4F99-96D0-236ED90BDF2D,C2CACE3C-3B3A-4C7D-92E4-77957DA683DB,380.4,Impacted cerumen,2009.0,,1
+0,12881,CF922955-46B1-4F99-96D0-236ED90BDF2D,68D1ABEB-F300-4AA6-A419-893B81FA6F33,079.99,Unspecified viral infection in conditions classified elsewhere and of unspecified site,,,1
+0,12888,CF922955-46B1-4F99-96D0-236ED90BDF2D,B89A04B1-ED39-4306-B66E-94B7C5323B92,600.9,Unspecified hyperplasia of prostate                                                                                                                                                                                                                            ,2009.0,,0
+0,12895,CF922955-46B1-4F99-96D0-236ED90BDF2D,55CD1BF8-1284-4190-B561-E6F0900B62BB,380.10,"Infective otitis externa, unspecified",2010.0,,0

@@ -1,0 +1,10 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,73594,24ABCE89-5F59-4130-8F10-684425996418,E02D98E6-89C3-4EBC-BD69-0231C89EE800,786.2,Cough,2009.0,,0
+0,73598,24ABCE89-5F59-4130-8F10-684425996418,79B6D562-4CF2-4D47-B64F-0B41082AE0D7,995.3,"Allergy, unspecified, not elsewhere classified",,,0
+0,73602,24ABCE89-5F59-4130-8F10-684425996418,166BA10D-3955-4151-8E75-31342D6B9F4D,995.2,Unspec adverse effect of drug due to proper administration,,,0
+0,73606,24ABCE89-5F59-4130-8F10-684425996418,D7884B90-3A03-41DE-83A7-356E947DE524,314.01,Attention deficit disorder of childhood with hyperactivity,2009.0,,0
+0,73610,24ABCE89-5F59-4130-8F10-684425996418,DFBE0BA4-B28D-4E90-8D67-66C331ADF5D3,V15.05,Allergy to other foods,,,0
+0,73614,24ABCE89-5F59-4130-8F10-684425996418,6C756205-9F8F-4896-9398-CE9B04D3B1FC,729.5,Pain in limb,2010.0,,0
+0,73618,24ABCE89-5F59-4130-8F10-684425996418,A2376FB5-2FE3-4799-8AF0-D7D0B5BC09BB,461,Acute sinusitis                                                                                                                                                                                                                                                ,2009.0,,0
+0,73622,24ABCE89-5F59-4130-8F10-684425996418,6C7C42FD-9134-4EA8-8153-DBD38A404A3D,V70.0,Routine general medical examination at a health care facility,2010.0,,0
+0,73626,24ABCE89-5F59-4130-8F10-684425996418,FD64B26D-CA05-4629-A144-515C6FF1748C,706.1,Other acne,2010.0,,0

@@ -1,0 +1,3 @@
+,index,PatientGuid,AllergyGuid,StartYear_x,ReactionName,SeverityName,AllergyName
+0,127500,27ACA58A-1895-46F4-880F-770F2EBF6DAD,90DAB7D3-B441-4B0B-B77B-0412B5761EE5,2012.0,Dizziness/Lightheadedness,Severe,Penicillin V Potassium oral tablet
+0,127509,27ACA58A-1895-46F4-880F-770F2EBF6DAD,9E1FE233-7EFA-4AA7-A085-225D95BF9262,2012.0,Rash - localized,Severe,Septra (sulfamethoxazole-trimethoprim) oral tablet

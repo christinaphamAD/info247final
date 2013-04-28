@@ -1,0 +1,15 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,68,77A622AD-5748-4A72-A233-011732B7470F,BB6A2FA1-4849-49F1-9224-101BED1DC516,794.5,Nonspecific abnormal results of function study of thyroid,2009.0,,1
+0,77,77A622AD-5748-4A72-A233-011732B7470F,454523CE-7873-4C24-A8F5-132884FF83EA,388.7,Otalgia                                                                                                                                                                                                                                                        ,,,1
+0,86,77A622AD-5748-4A72-A233-011732B7470F,671B8B6A-E680-4308-B7A0-1B52F422959F,788.41,Urinary frequency,,,0
+0,95,77A622AD-5748-4A72-A233-011732B7470F,8C9AC96B-BF13-42E2-A58C-1CAF5D9FB704,796.2,Elevated blood pressure reading without diagnosis of hypertension,,,0
+0,104,77A622AD-5748-4A72-A233-011732B7470F,1FD56D13-F34E-401E-B55F-77D8F31AF301,842.10,Sprain of unspecified site of hand,,,1
+0,113,77A622AD-5748-4A72-A233-011732B7470F,5831608F-43F7-4A11-B39B-7C53951D326F,733.19,Pathologic fracture of other specified site,2010.0,,1
+0,122,77A622AD-5748-4A72-A233-011732B7470F,7FC13430-92C6-4B15-9A0E-807106084F5A,705.81,Dyshidrosis,,,1
+0,131,77A622AD-5748-4A72-A233-011732B7470F,A1C7AC49-782A-4ACD-BD60-A396CE70ED16,611.72,Lump or mass in breast,2009.0,,1
+0,140,77A622AD-5748-4A72-A233-011732B7470F,D2D2C38F-95AD-418E-AFDA-B7B4844A4D0C,401.9,Unspecified essential hypertension,,,0
+0,149,77A622AD-5748-4A72-A233-011732B7470F,3B4A6709-88C9-4D33-B339-DC84C67C5242,079.99,Unspecified viral infection in conditions classified elsewhere and of unspecified site,,,1
+0,158,77A622AD-5748-4A72-A233-011732B7470F,4FE262AC-AD2D-4B8D-916D-DEC77A0EFA67,V02.61,Hepatitis B carrier,,,0
+0,167,77A622AD-5748-4A72-A233-011732B7470F,8FF5BAA6-140B-4C3E-BAFE-EBBDCE8D6988,V70.0,Routine general medical examination at a health care facility,2011.0,2011.0,1
+0,176,77A622AD-5748-4A72-A233-011732B7470F,C00143EA-BB97-4060-A929-F4260D284F5A,V25.01,Encounter for general counseling on prescription of oral contraceptives,,,0
+0,185,77A622AD-5748-4A72-A233-011732B7470F,0E69503C-F031-4B4A-AAC0-F49A4EF0C746,782.1,Rash and other nonspecific skin eruption,2009.0,2009.0,1

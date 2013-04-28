@@ -1,0 +1,11 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,48860,E97BE1EA-1FA8-4D76-9D79-48044FA07C49,55D10B84-2BB0-4E8D-832A-1197DCCBDF0E,733.00,"Osteoporosis, unspecified",2010.0,,0
+0,48867,E97BE1EA-1FA8-4D76-9D79-48044FA07C49,A3FF96AC-BD11-4810-945C-274E2EF44D60,726.1,Rotator cuff syndrome of shoulder and allied disorders                                                                                                                                                                                                         ,2010.0,,0
+0,48874,E97BE1EA-1FA8-4D76-9D79-48044FA07C49,CD13E4E2-70BA-41B4-8A96-421F3117D052,715.96,"Osteoarthrosis, unspecified whether generalized or localized, involving lower leg",2010.0,,0
+0,48881,E97BE1EA-1FA8-4D76-9D79-48044FA07C49,8129F036-A2B0-476B-8A32-5AAB19AC4ACF,786.2,Cough,2010.0,,0
+0,48888,E97BE1EA-1FA8-4D76-9D79-48044FA07C49,3EB63AE9-61EB-4A6F-B539-5E940DA93B36,995.3,"Allergy, unspecified, not elsewhere classified",2010.0,,0
+0,48895,E97BE1EA-1FA8-4D76-9D79-48044FA07C49,96039FB6-6963-4B7F-B989-CAA676987DE6,V12.72,Personal history of colonic polyps,2010.0,,0
+0,48902,E97BE1EA-1FA8-4D76-9D79-48044FA07C49,948B50F3-EDEC-46C6-AB70-E2BDC7A71FE5,780.79,Other malaise and fatigue,2010.0,,0
+0,48909,E97BE1EA-1FA8-4D76-9D79-48044FA07C49,C8BB88A7-538D-4C1A-8C8D-E4CB0E8A89E1,726.32,Lateral epicondylitis,2010.0,,0
+0,48916,E97BE1EA-1FA8-4D76-9D79-48044FA07C49,7EA123CA-89AA-41C6-A46A-E8B9F3AB2939,786.2,Cough,2010.0,,0
+0,48923,E97BE1EA-1FA8-4D76-9D79-48044FA07C49,323FF4D8-85BC-421C-99A6-244A2097783B,461,Acute sinusitis                                                                                                                                                                                                                                                ,2010.0,2010.0,0

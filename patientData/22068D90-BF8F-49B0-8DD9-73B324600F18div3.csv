@@ -1,0 +1,5 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,123602,22068D90-BF8F-49B0-8DD9-73B324600F18,Lotrimin Ultra Athlete's Foot (butenafine topical) topical cream,1%,,,DA09DE92-4090-4FBA-B84B-A6FD539AB391,,,,,
+0,123634,22068D90-BF8F-49B0-8DD9-73B324600F18,Anusol-HC (hydrocortisone topical) rectal cream with applicator,2.5%,,6738B420-20FA-4B6D-A686-E8156B6162AA,54711B84-DF30-4299-BD27-4AF9A7B78AE3,2010.0,30,1.0,0.0,1.0
+0,123666,22068D90-BF8F-49B0-8DD9-73B324600F18,Anusol-HC (hydrocortisone topical) rectal suppository,25 mg,,99A28C17-FC21-43BA-8AF4-08DAB6F11D62,0902DA1A-80AC-41F4-B53B-DE6E691579EC,2010.0,30,1.0,0.0,1.0
+0,123698,22068D90-BF8F-49B0-8DD9-73B324600F18,Viagra (sildenafil) oral tablet,100 mg,,EBCD0EC7-093D-4C22-941A-B0C3FD94CF1F,1287E6B2-47CE-487A-ADC8-ECCAB53665A6,2010.0,10,3.0,0.0,1.0

@@ -1,0 +1,18 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,59771,92E7A327-3E22-4A32-B9FA-52A21A9F4E8E,3BD9898D-7C40-45A4-B923-05D949741994,290.0,"Senile dementia, uncomplicated",,,0
+0,59805,92E7A327-3E22-4A32-B9FA-52A21A9F4E8E,377B5B3E-E00C-4B96-889C-06C46BC0E005,272.4,Other and unspecified hyperlipidemia,2009.0,,0
+0,59822,92E7A327-3E22-4A32-B9FA-52A21A9F4E8E,8465232E-9834-4329-9C6D-147E482A5E03,716.90,"Arthropathy, unspecified, site unspecified",2009.0,,1
+0,59839,92E7A327-3E22-4A32-B9FA-52A21A9F4E8E,79925243-EC14-40F3-A542-1DA96AF25BB8,250.00,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",2009.0,,0
+0,59856,92E7A327-3E22-4A32-B9FA-52A21A9F4E8E,EF673AB9-18DE-4B98-86F6-2103EBB1DE9C,427.89,Other specified cardiac dysrhythmias,2009.0,,0
+0,59873,92E7A327-3E22-4A32-B9FA-52A21A9F4E8E,96775141-D084-4A56-809D-248232B11D33,799.81,Decreased libido,2009.0,,1
+0,59890,92E7A327-3E22-4A32-B9FA-52A21A9F4E8E,1771BA1C-5050-40FD-AA4B-2B7F04CC1AFE,788.32,"Stress incontinence, male",,,0
+0,59907,92E7A327-3E22-4A32-B9FA-52A21A9F4E8E,0729E4CD-65B2-498A-B7CC-3094219309CE,717.9,Unspecified internal derangement of knee,,,0
+0,59924,92E7A327-3E22-4A32-B9FA-52A21A9F4E8E,1EB38F07-71D8-4C69-89CC-6AA0F89EB520,995.20,"Unspecified adverse effect of unspecified drug, medicinal and biological substance",,,0
+0,59941,92E7A327-3E22-4A32-B9FA-52A21A9F4E8E,5975DBC7-2344-448F-89D6-785946227389,786.09,Other dyspnea and respiratory abnormality,,,1
+0,59958,92E7A327-3E22-4A32-B9FA-52A21A9F4E8E,11FF5DC0-ED4D-4ABD-9AE4-8EB035CF51F5,112.9,Candidiasis of unspecified site,,,0
+0,59975,92E7A327-3E22-4A32-B9FA-52A21A9F4E8E,B9D5108A-5F99-49F6-83B4-99CA9479BA12,845.0,Ankle sprain                                                                                                                                                                                                                                                   ,2010.0,,0
+0,59992,92E7A327-3E22-4A32-B9FA-52A21A9F4E8E,FF89AC8E-DF42-4B2A-AED1-B179AC8C6F6E,530.81,Esophageal reflux,2010.0,,0
+0,60009,92E7A327-3E22-4A32-B9FA-52A21A9F4E8E,D2355DA0-2DC1-4E28-973A-D32D4CDCABF5,786.09,Other dyspnea and respiratory abnormality,2009.0,,0
+0,60026,92E7A327-3E22-4A32-B9FA-52A21A9F4E8E,32F9DADE-4E19-4B04-8C31-2983435CE426,401.9,Unspecified essential hypertension,2009.0,,0
+0,60043,92E7A327-3E22-4A32-B9FA-52A21A9F4E8E,E66CD6C4-F74D-4B7B-BE46-480D8D5BD49D,466.0,Acute bronchitis,2010.0,,0
+0,60111,92E7A327-3E22-4A32-B9FA-52A21A9F4E8E,77A52102-15C2-4558-BF1A-A63771C09CDD,296.23,"Major depressive disorder, single episode, severe degree, without mention of psychotic behavior",2009.0,,0

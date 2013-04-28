@@ -1,0 +1,15 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,846538,9E891FAA-CF9E-486C-9586-E340EA9028B0,E5B238F8-7DB6-4C70-B4FD-3806952BD0C3,V02.61,Hepatitis B carrier,2009.0,,0
+0,846658,9E891FAA-CF9E-486C-9586-E340EA9028B0,B2109C6A-DC44-42F1-A2B2-4EED94316036,786.2,Cough,,,1
+0,846778,9E891FAA-CF9E-486C-9586-E340EA9028B0,4A45ECBA-A92B-481E-A999-66BFC5BD0273,493.1,Intrinsic asthma                                                                                                                                                                                                                                               ,2009.0,,0
+0,846898,9E891FAA-CF9E-486C-9586-E340EA9028B0,1B2F31D2-65CC-49FD-B95A-7B2E820023F8,288.50,"Leukocytopenia, unspecified",2009.0,,0
+0,847018,9E891FAA-CF9E-486C-9586-E340EA9028B0,468CAD20-9B09-45DA-8002-7CA6789DB871,560.81,Intestinal or peritoneal adhesions with obstruction [postoperative] [postinfection],2009.0,,0
+0,847138,9E891FAA-CF9E-486C-9586-E340EA9028B0,3DC5C665-BE58-4862-9AD6-9187AEAF0859,722.73,"Intervertebral disc disorder with myelopathy, lumbar region",2010.0,,0
+0,847258,9E891FAA-CF9E-486C-9586-E340EA9028B0,D5147BA4-6760-4FED-A324-AE01CB2C58D3,530.1,Esophagitis                                                                                                                                                                                                                                                    ,2009.0,,0
+0,847378,9E891FAA-CF9E-486C-9586-E340EA9028B0,27F5784B-79B9-4F31-88E1-C237F170D612,268.9,Unspecified vitamin D deficiency,,,0
+0,847498,9E891FAA-CF9E-486C-9586-E340EA9028B0,16CFE8A4-41BE-4EDD-B5EA-CE10077DFB85,786.09,Other dyspnea and respiratory abnormality,,,1
+0,847618,9E891FAA-CF9E-486C-9586-E340EA9028B0,4B4719D3-6460-4A10-A9BD-CED1761390E4,788.41,Urinary frequency,,,0
+0,847738,9E891FAA-CF9E-486C-9586-E340EA9028B0,D6F90D2F-3C94-418B-8898-DE664BADBC27,733.90,"Disorder of bone and cartilage, unspecified",2009.0,,0
+0,847858,9E891FAA-CF9E-486C-9586-E340EA9028B0,5A074816-D7E5-4844-B7C3-E803AA8D90C4,788.41,Urinary frequency,2009.0,,1
+0,847978,9E891FAA-CF9E-486C-9586-E340EA9028B0,B3415097-DD32-4C9D-B7AD-F0D29977EFE8,785.2,Undiagnosed cardiac murmurs,2009.0,,0
+0,848098,9E891FAA-CF9E-486C-9586-E340EA9028B0,4C608CB1-F2A1-444E-8B30-5535707264D3,486.,"Pneumonia, organism unspecified",2012.0,2012.0,0

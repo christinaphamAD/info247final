@@ -1,0 +1,10 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,55198,23D0B983-0D98-4A2B-8113-4D95204E0C69,108ADDFF-1267-4684-9A72-0C70003D7359,724.2,Lumbago,,,1
+0,55218,23D0B983-0D98-4A2B-8113-4D95204E0C69,FBAE64C8-EEE6-4DB3-A419-0ECD7C5EF193,300.01,Panic disorder without agoraphobia,,,1
+0,55238,23D0B983-0D98-4A2B-8113-4D95204E0C69,96C37EB0-38F7-490B-A1FA-6EEC076804F1,692,Contact dermatitis and other eczema                                                                                                                                                                                                                            ,,,1
+0,55258,23D0B983-0D98-4A2B-8113-4D95204E0C69,2810DAA3-2009-4788-A58F-9703967C7ED0,599.0,"Urinary tract infection, site not specified",,,1
+0,55278,23D0B983-0D98-4A2B-8113-4D95204E0C69,9D5F94E8-E491-460F-AA7E-988FD90C4D39,V25.01,Encounter for general counseling on prescription of oral contraceptives,,,1
+0,55298,23D0B983-0D98-4A2B-8113-4D95204E0C69,A35FEFF6-A10D-4AFC-B153-C499F85ECC7B,780.39,Other convulsions,,,1
+0,55318,23D0B983-0D98-4A2B-8113-4D95204E0C69,190D8152-268D-4360-94A8-D0CEAE4A8067,789.06,"Abdominal pain, epigastric",2010.0,,0
+0,55338,23D0B983-0D98-4A2B-8113-4D95204E0C69,B319E957-847E-4EED-A4A9-FA90C719671D,078.10,"Viral warts, unspecified",,,1
+0,55358,23D0B983-0D98-4A2B-8113-4D95204E0C69,D54FCA63-398D-4D6D-8B4F-3258A6C13317,787.01,Nausea with vomiting,2010.0,,0

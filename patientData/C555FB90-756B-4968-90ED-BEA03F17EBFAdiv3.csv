@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,820404,C555FB90-756B-4968-90ED-BEA03F17EBFA,LamISIL (terbinafine) oral tablet,250 mg,,2BB5D5A7-9B29-4D1C-A021-7F84C81A2EFA,DA29AA9E-7FDC-452C-9F85-FA3B5C14CB51,2009.0,30.0,2.0,0.0,1.0

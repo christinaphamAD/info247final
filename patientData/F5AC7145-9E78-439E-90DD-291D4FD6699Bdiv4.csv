@@ -1,0 +1,10 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,16181,F5AC7145-9E78-439E-90DD-291D4FD6699B,97EF14A7-EBD5-4C5B-918E-115DE24798E2,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
+0,16197,F5AC7145-9E78-439E-90DD-291D4FD6699B,BB1AA579-56F2-4296-9C49-13EBFCF859A1,V72.84,"Preoperative examination, unspecified",2010.0,,0
+0,16213,F5AC7145-9E78-439E-90DD-291D4FD6699B,289D50C3-CF77-4AFC-8775-7885F0F550DB,366,Cataract                                                                                                                                                                                                                                                       ,2011.0,,0
+0,16229,F5AC7145-9E78-439E-90DD-291D4FD6699B,311C5B5A-23C0-4D84-A9E5-B5C6BB41910F,461.9,"Acute sinusitis, unspecified",,,1
+0,16245,F5AC7145-9E78-439E-90DD-291D4FD6699B,0C0BB79E-8C11-4531-88B5-C1999244E8DB,238.2,Neoplasm of uncertain behavior of skin,,,1
+0,16261,F5AC7145-9E78-439E-90DD-291D4FD6699B,277E1C25-EF5C-4AB7-B6E6-35F6625ED118,346,Migraine                                                                                                                                                                                                                                                       ,2010.0,,0
+0,16277,F5AC7145-9E78-439E-90DD-291D4FD6699B,F65E9607-6CFD-4716-8CDC-695848FB1708,296.32,"Major depressive disorder, recurrent episode, moderate degree",,,0
+0,16309,F5AC7145-9E78-439E-90DD-291D4FD6699B,78859E1E-0663-436E-9485-D8EF0B470813,340,Multiple sclerosis,2010.0,,0
+0,16341,F5AC7145-9E78-439E-90DD-291D4FD6699B,D43546E2-6C0A-4864-9EE7-FB8DA9B5E502,724.3,Sciatica,,,0

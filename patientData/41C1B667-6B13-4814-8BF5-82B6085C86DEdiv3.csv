@@ -1,0 +1,4 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,131113,41C1B667-6B13-4814-8BF5-82B6085C86DE,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,6EECD060-5CBE-42D2-8EC0-1009261499DC,C8380FCA-A12B-4C01-BA4D-9A7A430958C6,2010.0,20,0.0,0.0,1.0
+0,131119,41C1B667-6B13-4814-8BF5-82B6085C86DE,"Mucinex D Max Strength (guaiFENesin-pseudoephedrine) oral tablet, extended release",1200 mg-120 mg,,2B887172-AF3A-4B0D-A772-59F529A8B23C,A22EE48D-2AAF-4D26-8C2A-F2AAF9235E6F,2010.0,20,0.0,0.0,1.0
+0,131125,41C1B667-6B13-4814-8BF5-82B6085C86DE,Lovastatin oral tablet,20 mg,,9CAC7316-865F-4E74-8192-0814F823E2B3,16802C4F-79EF-4AAA-8768-1311FD236E40,2009.0,,0.0,0.0,1.0

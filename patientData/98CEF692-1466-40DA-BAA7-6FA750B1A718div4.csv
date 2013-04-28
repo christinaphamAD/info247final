@@ -1,0 +1,14 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,118558,98CEF692-1466-40DA-BAA7-6FA750B1A718,4767ED8D-B769-4746-99B9-22B59FEBEC08,564.0,Constipation,,,0
+0,118582,98CEF692-1466-40DA-BAA7-6FA750B1A718,48E355DC-41EB-4545-9474-31939E7C1A2D,530.81,Esophageal reflux,,,0
+0,118606,98CEF692-1466-40DA-BAA7-6FA750B1A718,2DBAC059-2691-441E-86EB-3BFBE347B85C,786.50,Unspecified chest pain,,,1
+0,118630,98CEF692-1466-40DA-BAA7-6FA750B1A718,DA94D759-A97E-415D-BAEE-50B9D5705F78,V22.0,Supervision of normal first pregnancy,,,1
+0,118654,98CEF692-1466-40DA-BAA7-6FA750B1A718,3B868128-910D-4841-86FF-6ACC35471198,477.9,"Allergic rhinitis, cause unspecified",,,0
+0,118678,98CEF692-1466-40DA-BAA7-6FA750B1A718,84602FAC-3283-455B-BA60-6CF9A943D687,729.1,"Myalgia and myositis, unspecified",2009.0,,1
+0,118702,98CEF692-1466-40DA-BAA7-6FA750B1A718,031D7EC8-AFD8-413B-8EED-7951F2479A04,590.80,"Pyelonephritis, unspecified",,,1
+0,118726,98CEF692-1466-40DA-BAA7-6FA750B1A718,A419C698-B61C-44C1-B163-991DA8EE94E6,569.42,Anal or rectal pain,2009.0,,1
+0,118750,98CEF692-1466-40DA-BAA7-6FA750B1A718,21070AD8-DD05-4616-84B4-BBF0C2A8E273,461,Acute sinusitis                                                                                                                                                                                                                                                ,2012.0,,0
+0,118774,98CEF692-1466-40DA-BAA7-6FA750B1A718,702A62DD-AABE-4788-A323-C938851A1439,519.11,Acute bronchospasm,,,0
+0,118798,98CEF692-1466-40DA-BAA7-6FA750B1A718,F89CB058-0BF3-4210-AF5D-92FED0099CC8,300.01,Panic disorder without agoraphobia,2010.0,,0
+0,118870,98CEF692-1466-40DA-BAA7-6FA750B1A718,E04A08A9-8A92-4364-A2EE-9BE0A2D12D12,786.2,Cough,2012.0,,0
+0,118918,98CEF692-1466-40DA-BAA7-6FA750B1A718,1930CA80-76D0-4ECF-8C26-BC3566E8DDCB,461,Acute sinusitis                                                                                                                                                                                                                                                ,,,1

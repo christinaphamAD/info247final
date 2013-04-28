@@ -1,0 +1,3 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,60877,51EB3D24-9436-434E-8C23-54BAB1DF4EBD,ED7A364D-2173-482F-946D-5353B3B3806A,V01.9,Contact with or exposure to unspecified communicable disease,2011.0,,0
+0,60887,51EB3D24-9436-434E-8C23-54BAB1DF4EBD,4361231F-4FE2-4AF4-8597-8C9FB96291C9,V70.0,Routine general medical examination at a health care facility,2010.0,,0

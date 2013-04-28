@@ -1,0 +1,10 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,128675,41FCAAF7-63B1-4F44-B281-7A0B97B03518,CFCA3283-290F-4E90-845F-331006E85B2F,565.0,Anal fissure,,,1
+0,128684,41FCAAF7-63B1-4F44-B281-7A0B97B03518,5D13E44B-11FD-4C6B-A97D-41E631CAE51B,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
+0,128693,41FCAAF7-63B1-4F44-B281-7A0B97B03518,AC775F9B-FDEF-4934-920F-492FFACDE850,847.0,Neck sprain,2009.0,,1
+0,128702,41FCAAF7-63B1-4F44-B281-7A0B97B03518,B5A64E5E-A0F1-4EA7-9584-778D8CD8847F,724.2,Lumbago,,,1
+0,128711,41FCAAF7-63B1-4F44-B281-7A0B97B03518,30859CA1-CC19-410A-95A8-D7EB60715A93,346.90,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus",2011.0,,0
+0,128720,41FCAAF7-63B1-4F44-B281-7A0B97B03518,8A50CD64-BC07-4CE8-B69D-E216FCC9DF7F,840.5,Subscapularis (muscle) sprain,,,1
+0,128729,41FCAAF7-63B1-4F44-B281-7A0B97B03518,F97534DB-12D1-4BED-8D84-3D28AB69CCD5,296.21,"Major depressive disorder, single episode, mild degree",2011.0,,0
+0,128738,41FCAAF7-63B1-4F44-B281-7A0B97B03518,733FCB5F-9E2F-4724-B0BA-54EEA2C08D65,786.2,Cough,2010.0,,0
+0,128756,41FCAAF7-63B1-4F44-B281-7A0B97B03518,FFD7F5FF-ED1F-43D0-9DD9-83554CF887C4,780.52,"Insomnia, unspecified",2011.0,,0

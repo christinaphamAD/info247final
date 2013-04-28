@@ -1,0 +1,4 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,10282,23E8A1CB-D3B2-4FDF-91BC-1C4B12564D94,"Protonix (pantoprazole) oral granule, enteric coated",40 mg,,E2439B37-11B0-495B-AA72-66B025D5C1A7,6083CD16-FCCB-4AA2-8DEE-AE8EF307B86B,2011.0,31,6,0.0,1.0
+0,10288,23E8A1CB-D3B2-4FDF-91BC-1C4B12564D94,Protonix (pantoprazole) oral enteric coated tablet,40 mg,,0E3BD974-7A29-4540-8335-16A74284A64B,DB3D38A6-38FC-444B-8571-EF4650FDA547,2012.0,30,6,0.0,1.0
+0,10294,23E8A1CB-D3B2-4FDF-91BC-1C4B12564D94,Keflex (cephalexin) oral capsule,500 mg,,956271DE-39C0-4295-9EE0-46FFC4478775,ED5A6844-F3D5-489D-9F2B-0BC3E0935986,2012.0,30,0,0.0,1.0

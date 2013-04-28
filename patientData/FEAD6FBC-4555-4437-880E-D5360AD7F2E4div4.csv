@@ -1,0 +1,9 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,161498,FEAD6FBC-4555-4437-880E-D5360AD7F2E4,966615C0-87E9-41C4-972A-016050B93DF5,296.33,"Major depressive disorder, recurrent episode, severe degree, without mention of psychotic behavior",,,0
+0,161516,FEAD6FBC-4555-4437-880E-D5360AD7F2E4,683DDA69-11BE-47D1-96C8-1C749C9B435E,305.02,"Alcohol abuse, episodic drinking behavior",,,0
+0,161534,FEAD6FBC-4555-4437-880E-D5360AD7F2E4,CBC0FD54-6E13-4F29-B931-2E7CDE544E22,461.9,"Acute sinusitis, unspecified",,,1
+0,161552,FEAD6FBC-4555-4437-880E-D5360AD7F2E4,B8BB0427-78F1-4FF0-8847-352EA0C1C132,487,Influenza                                                                                                                                                                                                                                                      ,,,1
+0,161570,FEAD6FBC-4555-4437-880E-D5360AD7F2E4,2F547D26-791F-451B-926B-64577E16E8D2,372.03,Other mucopurulent conjunctivitis,,,1
+0,161588,FEAD6FBC-4555-4437-880E-D5360AD7F2E4,4034ABB6-8DF9-4766-A366-AE9E4E0F04E2,465.9,Acute upper respiratory infections of unspecified site,,,1
+0,161606,FEAD6FBC-4555-4437-880E-D5360AD7F2E4,417569DF-E269-45F5-B4D1-EA77E1A5CD61,704.8,Other specified diseases of hair and hair follicles,,,1
+0,161624,FEAD6FBC-4555-4437-880E-D5360AD7F2E4,197F4FE4-9B8C-4DC8-8341-711F9DA231AC,462.,Acute pharyngitis,2011.0,2011.0,0

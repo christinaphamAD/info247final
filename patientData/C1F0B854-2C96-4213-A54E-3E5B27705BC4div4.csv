@@ -1,0 +1,5 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,44921,C1F0B854-2C96-4213-A54E-3E5B27705BC4,9014E59B-1CC8-40BE-A9E4-0DEABE2C3260,719.43,Pain in joint involving forearm,2009.0,,1
+0,44928,C1F0B854-2C96-4213-A54E-3E5B27705BC4,F8220058-B855-4EA8-8B56-864601F0C414,466.0,Acute bronchitis,,,1
+0,44935,C1F0B854-2C96-4213-A54E-3E5B27705BC4,6882F5CD-1047-4F19-AB08-CF7FA21C9F9F,708.9,Unspecified urticaria,,,1
+0,44942,C1F0B854-2C96-4213-A54E-3E5B27705BC4,FFCEF3BC-1F95-4490-B4C1-3DD33A70B8AF,461,Acute sinusitis                                                                                                                                                                                                                                                ,2009.0,2009.0,1

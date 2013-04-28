@@ -1,0 +1,5 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,130630,A2DFE3F6-0C59-4A12-ABD8-7DEB59275A86,0AD40F99-95FA-4AD3-898B-395C46CF51DA,216.9,"Benign neoplasm of skin, site unspecified",2009.0,,1
+0,130635,A2DFE3F6-0C59-4A12-ABD8-7DEB59275A86,DFD3122B-B474-45B5-87A0-85368921BC07,527.5,Sialolithiasis,2009.0,,1
+0,130640,A2DFE3F6-0C59-4A12-ABD8-7DEB59275A86,4D63379D-33A7-4994-AB5C-B5049C439C60,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
+0,130645,A2DFE3F6-0C59-4A12-ABD8-7DEB59275A86,216926EC-D7E1-4860-999A-7CBD93F092E9,530.81,Esophageal reflux,2009.0,,1

@@ -1,0 +1,6 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,73666,5A5D4D2B-2605-46F7-BA57-69F55E85334F,8E5E0E48-C503-42F5-B811-047D77283098,251.2,"Hypoglycemia, unspecified",,,0
+0,73669,5A5D4D2B-2605-46F7-BA57-69F55E85334F,97F83BB2-674F-4023-AEE4-742939732A71,785.1,Palpitations,,,0
+0,73672,5A5D4D2B-2605-46F7-BA57-69F55E85334F,41E9A2E1-AADC-460A-984C-7A32AC05E1A2,493.0,Extrinsic asthma                                                                                                                                                                                                                                               ,2009.0,,0
+0,73678,5A5D4D2B-2605-46F7-BA57-69F55E85334F,788FF42F-890A-4098-BA24-B9DB5A21868B,466.0,Acute bronchitis,2011.0,2011.0,0
+0,73681,5A5D4D2B-2605-46F7-BA57-69F55E85334F,598AC141-14EC-4ABE-ABC4-F8203D6A8D82,461.9,"Acute sinusitis, unspecified",2011.0,2011.0,0

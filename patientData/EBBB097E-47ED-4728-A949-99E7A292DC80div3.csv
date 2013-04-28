@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,139080,EBBB097E-47ED-4728-A949-99E7A292DC80,Cipro (ciprofloxacin) oral tablet,500 mg,,6FA102F7-CA55-4D17-A0A7-47FEDAAC4C9E,B484AC92-AB7F-4A43-B244-6EBA10114D9E,2012.0,10,0.0,0.0,1.0
+0,139088,EBBB097E-47ED-4728-A949-99E7A292DC80,Pyridium (phenazopyridine) oral tablet,200 mg,,74D4B261-C359-4AC8-B8DF-01C362819251,A48FABD0-D5BF-470C-BBAD-D758034FA558,2012.0,15,0.0,0.0,1.0

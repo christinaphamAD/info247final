@@ -1,0 +1,16 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,55761,6CAAA224-87BA-4021-9E8F-4E1F41A71C25,30D599E0-155F-4878-A47C-12CE3F94DAA5,722.91,Other and unspecified disc disorder of cervical region,2010.0,,0
+0,55769,6CAAA224-87BA-4021-9E8F-4E1F41A71C25,48159E2A-00FC-43FC-9783-2EF6B9B8C2BB,574.21,"Calculus of gallbladder without mention of cholecystitis, with obstruction",2009.0,,0
+0,55777,6CAAA224-87BA-4021-9E8F-4E1F41A71C25,E5921424-06AF-4716-AE96-3C0164F3523F,241.0,Nontoxic uninodular goiter,2009.0,2010.0,0
+0,55785,6CAAA224-87BA-4021-9E8F-4E1F41A71C25,111BED1A-10DB-47D1-9A9D-58DDD723C635,789.01,"Abdominal pain, right upper quadrant",,,0
+0,55793,6CAAA224-87BA-4021-9E8F-4E1F41A71C25,D8C17D3E-6F13-4289-A2AA-6D6D333F0F0A,553.21,Incisional hernia without mention of obstruction or gangrene,2010.0,,0
+0,55801,6CAAA224-87BA-4021-9E8F-4E1F41A71C25,C0BC9E4B-6A70-4198-B618-703C558D9C2D,600.9,Unspecified hyperplasia of prostate                                                                                                                                                                                                                            ,,,0
+0,55809,6CAAA224-87BA-4021-9E8F-4E1F41A71C25,A7BC4C10-472E-4373-A161-719E8EDBE184,723.4,Brachial neuritis or radiculitis NOS,2010.0,,0
+0,55817,6CAAA224-87BA-4021-9E8F-4E1F41A71C25,25C32BEE-29BF-41DA-908D-814DCAF2B527,474.1,Hypertrophy of tonsils and adenoids                                                                                                                                                                                                                            ,2009.0,,0
+0,55825,6CAAA224-87BA-4021-9E8F-4E1F41A71C25,ADC2D8B4-A074-4DB8-A43F-A9B66DD29670,794.31,Nonspecific abnormal electrocardiogram [ECG] [EKG],2010.0,,0
+0,55833,6CAAA224-87BA-4021-9E8F-4E1F41A71C25,19634C00-1FE6-4C40-8BF1-BB3238F741B2,726.10,"Disorders of bursae and tendons in shoulder region, unspecified",,,0
+0,55841,6CAAA224-87BA-4021-9E8F-4E1F41A71C25,FDB50058-AB7B-4BA3-81BA-C63C101D549A,V72.84,"Preoperative examination, unspecified",,,0
+0,55849,6CAAA224-87BA-4021-9E8F-4E1F41A71C25,8A67D408-566D-48F1-B6A9-E1214E99EC67,V18.51,Colonic polyps,2012.0,,0
+0,55857,6CAAA224-87BA-4021-9E8F-4E1F41A71C25,9DB70634-F396-4608-85E9-16D7F6037B37,607.84,Impotence of organic origin,2012.0,,0
+0,55873,6CAAA224-87BA-4021-9E8F-4E1F41A71C25,471C0661-5127-42C6-BA2C-F1EBB5089AC2,786.2,Cough,2011.0,2011.0,0
+0,55881,6CAAA224-87BA-4021-9E8F-4E1F41A71C25,239C7AF8-7EFF-4F0B-8686-FFD34BB56F79,461.9,"Acute sinusitis, unspecified",2011.0,2011.0,0

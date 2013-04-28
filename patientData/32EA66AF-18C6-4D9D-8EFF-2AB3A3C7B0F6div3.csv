@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,16605,32EA66AF-18C6-4D9D-8EFF-2AB3A3C7B0F6,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,4A9E2ED0-FBA3-4373-A6E7-C23AE8DDAEAA,F870C3A2-B1B7-4CF2-B1D8-42BA8E80AF35,2009.0,20,,0.0,1.0
+0,16609,32EA66AF-18C6-4D9D-8EFF-2AB3A3C7B0F6,Proventil HFA (albuterol) inhalation aerosol with adapter,CFC free 90 mcg/inh,,A721CE0B-D806-47ED-B96D-5908719E1DA5,448F04BA-C4E6-4516-9225-0B8DDB776DF5,2009.0,1,,0.0,1.0

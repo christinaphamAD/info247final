@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,156626,6E8F2174-0DF1-42C7-8595-C8F38312DEF1,Lovaza (omega-3 polyunsaturated fatty acids) oral capsule,ethyl esters 1000 mg,,0618B107-5BC7-4C7D-979D-8C880755F80A,5AB75E51-3622-453B-A32E-4A963DF3EA98,2011.0,120,11.0,0.0,1.0
+0,156633,6E8F2174-0DF1-42C7-8595-C8F38312DEF1,Ramipril oral capsule,10 mg,,6995C25E-91E0-40F5-8DAA-18F3393DC7EE,329C582B-4F2F-4BE1-87FE-36FDD1427CAC,2011.0,30,11.0,0.0,1.0

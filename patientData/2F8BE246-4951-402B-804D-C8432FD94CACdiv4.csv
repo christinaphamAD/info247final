@@ -1,0 +1,12 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,156460,2F8BE246-4951-402B-804D-C8432FD94CAC,CFC06C73-7591-48FD-800D-07E6160E33D1,717.9,Unspecified internal derangement of knee,2010.0,,1
+0,156467,2F8BE246-4951-402B-804D-C8432FD94CAC,2AEECCF2-D877-41FB-8D3B-2C54CD01190E,625.9,Unspecified symptom associated with female genital organs,,,1
+0,156474,2F8BE246-4951-402B-804D-C8432FD94CAC,0B52617A-13A6-4AFB-B7F3-578E87957D8A,401.9,Unspecified essential hypertension,,,0
+0,156481,2F8BE246-4951-402B-804D-C8432FD94CAC,B265CC0D-53BE-4728-962B-82AE3805C914,616.10,"Vaginitis and vulvovaginitis, unspecified",,,1
+0,156488,2F8BE246-4951-402B-804D-C8432FD94CAC,1739130D-5805-45B0-8D60-9BE777B58A86,840.8,Sprain of other specified sites of shoulder and upper arm,2009.0,2009.0,1
+0,156495,2F8BE246-4951-402B-804D-C8432FD94CAC,0C7197EE-B38C-48B0-AB56-9F51EA8C5855,627,Menopausal and postmenopausal disorders                                                                                                                                                                                                                        ,2009.0,,0
+0,156502,2F8BE246-4951-402B-804D-C8432FD94CAC,2C81CCF0-AB75-4CDC-8D1A-AC569918BFEE,218.9,"Leiomyoma of uterus, unspecified",2009.0,,0
+0,156509,2F8BE246-4951-402B-804D-C8432FD94CAC,B18EE010-6A37-4D25-B5E0-F3EA5E39AC49,786.5,Chest pain                                                                                                                                                                                                                                                     ,,,1
+0,156516,2F8BE246-4951-402B-804D-C8432FD94CAC,E343912B-543F-45EE-9E66-FD552C5725B7,V70.0,Routine general medical examination at a health care facility,2011.0,2011.0,1
+0,156523,2F8BE246-4951-402B-804D-C8432FD94CAC,F71F481A-CF7F-42B2-B01B-5DD2807641B7,847.2,Lumbar sprain,2010.0,,0
+0,156530,2F8BE246-4951-402B-804D-C8432FD94CAC,7DFA4A7B-38DA-4E4A-84D8-B3F1720F0EE2,724.2,Lumbago,2010.0,,0

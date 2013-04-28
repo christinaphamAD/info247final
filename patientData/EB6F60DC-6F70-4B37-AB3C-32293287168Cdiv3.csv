@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,20884,EB6F60DC-6F70-4B37-AB3C-32293287168C,Norco (acetaminophen-HYDROcodone) oral tablet,325 mg-10 mg,3.0,31E39413-DB63-400C-BAA3-8682250BCF19,BEF89406-A168-4230-8C33-6B7256125CB5,2010.0,60,,0.0,1.0
+0,20914,EB6F60DC-6F70-4B37-AB3C-32293287168C,Cymbalta (DULoxetine) oral delayed release capsule,60 mg,,4DFA1CA5-21BA-42A2-BB82-046D4CB87DA0,DA16F212-C060-4A92-B6FC-3B28814793A5,2009.0,30,2.0,0.0,1.0

@@ -1,0 +1,5 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,53918,F10432A9-48CF-4F69-931B-4AB5BCAE23E9,Crestor (rosuvastatin) oral tablet,20 mg,,,6AA94BC3-6853-43C6-8DC4-3D0A0E981CE6,,,,,
+0,53938,F10432A9-48CF-4F69-931B-4AB5BCAE23E9,Lisinopril oral tablet,10 mg,,,0E42FEDD-8620-4BD0-8764-29DD81B42CD4,,,,,
+0,53942,F10432A9-48CF-4F69-931B-4AB5BCAE23E9,Hydrochlorothiazide oral capsule,12.5 mg,,,DA4EEE02-278D-4A1F-98C7-83D0678FBA85,,,,,
+0,53946,F10432A9-48CF-4F69-931B-4AB5BCAE23E9,"NIFEdipine ER (NIFEdipine) oral tablet, extended release",60 mg,,,9241915D-537D-4424-9C16-ACC4A9E7264F,,,,,

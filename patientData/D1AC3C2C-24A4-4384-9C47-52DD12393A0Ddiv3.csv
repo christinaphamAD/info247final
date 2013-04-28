@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,60233,D1AC3C2C-24A4-4384-9C47-52DD12393A0D,Polytrim (polymyxin B-trimethoprim ophthalmic) ophthalmic solution,10000 units-1 mg/mL,,CF05BC9B-3D3F-4617-84DC-C1D9267CDE0D,016A56A4-4375-4BC2-987C-8FE8F420E081,2009.0,10 cc,0.0,0.0,1.0

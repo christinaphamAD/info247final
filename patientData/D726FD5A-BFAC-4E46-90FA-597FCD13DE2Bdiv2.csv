@@ -1,0 +1,5 @@
+,index,PatientGuid,AllergyGuid,StartYear_x,ReactionName,SeverityName,AllergyName
+0,616500,D726FD5A-BFAC-4E46-90FA-597FCD13DE2B,3813069C-FEBE-49CC-ACD3-582A9BE4C13F,2011.0,Itchiness,Very Mild,Ziac (bisoprolol-hydrochlorothiazide) oral tablet
+0,616755,D726FD5A-BFAC-4E46-90FA-597FCD13DE2B,E8A1367E-254C-4EA1-A1B0-5D892A14ABF7,2011.0,Rash - generalized,Mild,Verapamil Hydrochloride (verapamil) oral tablet
+0,617010,D726FD5A-BFAC-4E46-90FA-597FCD13DE2B,937303C4-69E7-4AC7-AF0B-75BFCA9F8941,2011.0,Rash - generalized,Mild,Septra DS (sulfamethoxazole-trimethoprim) oral tablet
+0,617265,D726FD5A-BFAC-4E46-90FA-597FCD13DE2B,F2D06F77-C8B8-4A6C-AC4F-8EAFA42130E7,2011.0,Rash - generalized,Mild,PC Pen VK (penicillin V potassium) oral tablet

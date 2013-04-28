@@ -1,0 +1,14 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,181179,610A49BC-EC66-47C9-8C98-F65F158BB040,AFE02822-2849-403B-9610-0B162D8A4927,733.90,"Disorder of bone and cartilage, unspecified",2004.0,,0
+0,181199,610A49BC-EC66-47C9-8C98-F65F158BB040,CAD3EACD-7DAB-4202-9837-244D0AEED368,627,Menopausal and postmenopausal disorders                                                                                                                                                                                                                        ,,,0
+0,181219,610A49BC-EC66-47C9-8C98-F65F158BB040,B12DC380-40C1-4857-AE9C-2EB7A31D0046,780.79,Other malaise and fatigue,2009.0,,1
+0,181239,610A49BC-EC66-47C9-8C98-F65F158BB040,451D8368-EEAC-4D64-9EE2-3442AA1A5D5E,465.9,Acute upper respiratory infections of unspecified site,,,1
+0,181259,610A49BC-EC66-47C9-8C98-F65F158BB040,6DD019FF-3EA3-4048-AC07-5CA68F3BF774,268.9,Unspecified vitamin D deficiency,2009.0,2010.0,1
+0,181279,610A49BC-EC66-47C9-8C98-F65F158BB040,D6CC7D12-AD8D-434E-A04C-60086616B136,729.1,"Myalgia and myositis, unspecified",,,0
+0,181299,610A49BC-EC66-47C9-8C98-F65F158BB040,C5AE505F-35C2-42BB-BB02-60E2C0114BE1,722.10,Displacement of lumbar intervertebral disc without myelopathy,,,0
+0,181319,610A49BC-EC66-47C9-8C98-F65F158BB040,E8B0C367-7EBF-4591-8C80-6BF41A596943,333.1,Essential and other specified forms of tremor,,,0
+0,181339,610A49BC-EC66-47C9-8C98-F65F158BB040,ADC10C9F-838A-41B9-807E-762F7445A961,789.00,"Abdominal pain, unspecified site",,,1
+0,181359,610A49BC-EC66-47C9-8C98-F65F158BB040,B0E8282A-800E-49B3-A6BE-D203B7DD0FE4,789.04,"Abdominal pain, left lower quadrant",,,1
+0,181379,610A49BC-EC66-47C9-8C98-F65F158BB040,9A97C7DF-DA88-4C92-A1FA-E0C97443E389,599.72,Microscopic hematuria,1999.0,,0
+0,181399,610A49BC-EC66-47C9-8C98-F65F158BB040,AD1820DC-321B-4523-A8CE-F5D5C2116CEB,V70.0,Routine general medical examination at a health care facility,2012.0,2012.0,1
+0,181419,610A49BC-EC66-47C9-8C98-F65F158BB040,2894F1C6-13CF-4A31-9F23-BFCDBFE426F0,053.9,Herpes zoster without mention of complication,2009.0,2009.0,1

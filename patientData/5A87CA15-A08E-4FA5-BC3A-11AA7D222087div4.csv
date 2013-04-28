@@ -1,0 +1,11 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,6703,5A87CA15-A08E-4FA5-BC3A-11AA7D222087,366EC1A4-97D7-4E8E-ABFE-1160C37B9E3E,788.41,Urinary frequency,2009.0,,0
+0,6710,5A87CA15-A08E-4FA5-BC3A-11AA7D222087,0EAAC7CB-C07D-4B0D-B795-825DA95C0890,786.2,Cough,,,1
+0,6717,5A87CA15-A08E-4FA5-BC3A-11AA7D222087,E483B63C-7B71-4065-BA65-8E9D10DD33D6,462,"Pharyngitis, acute",,,1
+0,6724,5A87CA15-A08E-4FA5-BC3A-11AA7D222087,FE19B128-4BE6-4B93-AB52-95AA9D499ECC,461.9,"Acute sinusitis, unspecified",,,1
+0,6731,5A87CA15-A08E-4FA5-BC3A-11AA7D222087,0EA05787-DCEA-4122-A7C5-9A25ACF551DD,V01.9,Contact with or exposure to unspecified communicable disease,,,1
+0,6738,5A87CA15-A08E-4FA5-BC3A-11AA7D222087,1F80F4FE-2DC6-429E-AF8F-C908952C82F6,V70.0,Routine general medical examination at a health care facility,2009.0,2009.0,1
+0,6745,5A87CA15-A08E-4FA5-BC3A-11AA7D222087,ECF955DE-AA2F-4847-BBB0-CA46FE3A2944,719.40,"Pain in joint, site unspecified",2009.0,,1
+0,6752,5A87CA15-A08E-4FA5-BC3A-11AA7D222087,B117BB51-D4EA-4B5B-85BD-CD9D6595950E,722.52,Degeneration of lumbar or lumbosacral intervertebral disc,2008.0,,0
+0,6759,5A87CA15-A08E-4FA5-BC3A-11AA7D222087,61D9020B-A599-48AF-AA09-D1714C24494F,627,Menopausal and postmenopausal disorders                                                                                                                                                                                                                        ,2008.0,,0
+0,6766,5A87CA15-A08E-4FA5-BC3A-11AA7D222087,F475BC76-3D41-4908-8A97-DE65D160C937,466.0,Acute bronchitis,,,1

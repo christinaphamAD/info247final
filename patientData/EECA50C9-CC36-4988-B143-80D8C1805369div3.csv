@@ -1,0 +1,4 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,130777,EECA50C9-CC36-4988-B143-80D8C1805369,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,A076BC19-E9C3-4408-B3D8-8E2400CC7189,F35B3060-6C09-4ED4-9A41-D6036E281C2B,2010.0,20,0.0,0.0,1.0
+0,130780,EECA50C9-CC36-4988-B143-80D8C1805369,Atorvastatin Calcium (atorvastatin) oral tablet,10 mg,,A1527889-B4AB-4633-8D3B-C1C0814A3479,725EF559-E1D5-4FF1-AF9D-AF95C01BDEE3,2011.0,30,3.0,0.0,1.0
+0,130786,EECA50C9-CC36-4988-B143-80D8C1805369,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,7416736C-3ADF-412C-9937-834933135195,4843BFA1-D79D-4AFD-A328-A7E7862B2400,2010.0,20,0.0,0.0,1.0

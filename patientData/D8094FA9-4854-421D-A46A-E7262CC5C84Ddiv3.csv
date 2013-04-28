@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,171147,D8094FA9-4854-421D-A46A-E7262CC5C84D,NexIUM (esomeprazole) oral delayed release capsule,40 mg,,5CD5BC6C-DA89-4BDF-9DB4-96F1B1E238C8,D091E116-DFA5-4818-92FF-F36D6A4301FE,2012.0,30,6.0,0.0,1.0
+0,171211,D8094FA9-4854-421D-A46A-E7262CC5C84D,Desonide (desonide topical) topical cream,0.05%,,,8569C21F-30D0-49FC-AA6A-3A1F4011B51A,,,,,

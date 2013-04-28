@@ -1,0 +1,15 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,196777,B8D1B75C-DA4B-4276-B098-FEEB08490A74,85877196-0D2B-46A6-84E2-306FAD37A68C,463.,Acute tonsillitis,2009.0,,0
+0,196790,B8D1B75C-DA4B-4276-B098-FEEB08490A74,0C16D2FD-F040-4DE2-BEBA-32C7FBF6C7A0,789.06,"Abdominal pain, epigastric",2012.0,,0
+0,196803,B8D1B75C-DA4B-4276-B098-FEEB08490A74,1D6DC17C-A218-410C-9B03-4FE90D0B609C,466,Acute bronchitis and bronchiolitis                                                                                                                                                                                                                             ,2009.0,,0
+0,196816,B8D1B75C-DA4B-4276-B098-FEEB08490A74,441971CB-8749-4008-87F3-92BF212970E5,461.9,"Acute sinusitis, unspecified",2011.0,2011.0,0
+0,196829,B8D1B75C-DA4B-4276-B098-FEEB08490A74,BCBEAA3A-B48D-498E-86C7-AEBFCE5DD0B0,466,Acute bronchitis and bronchiolitis                                                                                                                                                                                                                             ,2009.0,,0
+0,196842,B8D1B75C-DA4B-4276-B098-FEEB08490A74,521A1AD2-0E2B-4CD1-AAE4-D3549C1FD411,722.93,Other and unspecified disc disorder of lumbar region,2011.0,,0
+0,196855,B8D1B75C-DA4B-4276-B098-FEEB08490A74,EB704B96-42EA-4DBE-8B8E-E4F3D14B5293,722.4,Degeneration of cervical intervertebral disc,2011.0,,0
+0,196868,B8D1B75C-DA4B-4276-B098-FEEB08490A74,77C8C5DA-E7FA-4466-91DA-3916A2EE0F51,739.2,"Nonallopathic lesions of thoracic region, not elsewhere classified",2012.0,,0
+0,196881,B8D1B75C-DA4B-4276-B098-FEEB08490A74,235559B9-3554-4282-8B64-6904DE279C58,786.2,Cough,2011.0,2011.0,0
+0,196894,B8D1B75C-DA4B-4276-B098-FEEB08490A74,A18BE61F-5401-4B26-AFE5-90CE1A6983EE,530.81,Esophageal reflux,2012.0,,0
+0,196907,B8D1B75C-DA4B-4276-B098-FEEB08490A74,D4B3B07D-4F6D-4C97-8B89-E099744C652E,724.2,Lumbago,2009.0,,0
+0,196933,B8D1B75C-DA4B-4276-B098-FEEB08490A74,352ADFE7-51B4-4EBD-A990-EB448F832D18,724.4,"Thoracic or lumbosacral neuritis or radiculitis, unspecified",2009.0,,0
+0,196959,B8D1B75C-DA4B-4276-B098-FEEB08490A74,C21D902A-C74F-44C5-ADCC-F3A794277907,599.72,Microscopic hematuria,2011.0,2011.0,0
+0,196972,B8D1B75C-DA4B-4276-B098-FEEB08490A74,F50F9E59-AAB1-411D-93C5-F728A3219EF9,382.9,Unspecified otitis media,2011.0,2011.0,0

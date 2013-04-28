@@ -1,0 +1,4 @@
+,index,PatientGuid,AllergyGuid,StartYear_x,ReactionName,SeverityName,AllergyName
+0,41689,EA220208-62E7-42EB-BC84-349C5E2C869C,4E379517-C8A6-421C-9D90-0736ED7E4CB6,2012.0,Diarrhea,Severe,Augmentin (amoxicillin-clavulanate) oral tablet
+0,41695,EA220208-62E7-42EB-BC84-349C5E2C869C,1DBBC6EE-7625-40DC-BEDB-7C04B5624082,2012.0,Pain/cramping,Severe,Erythromycin Stearate (erythromycin) oral tablet
+0,41701,EA220208-62E7-42EB-BC84-349C5E2C869C,7715F10C-3E2B-4B89-8D9C-E417CF5749C3,2012.0,Nausea,Modest,Codeine Sulfate (codeine) oral tablet

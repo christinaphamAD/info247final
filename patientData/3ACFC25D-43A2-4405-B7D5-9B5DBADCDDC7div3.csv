@@ -1,0 +1,4 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,140908,3ACFC25D-43A2-4405-B7D5-9B5DBADCDDC7,Avalide (hydrochlorothiazide-irbesartan) oral tablet,12.5 mg-150 mg,,6F18AF24-89A8-4EF4-8DDC-94E7B28F75D1,9E5A19F3-560E-452C-9F00-7BF042B6DFEB,2010.0,90,3.0,0.0,1.0
+0,140918,3ACFC25D-43A2-4405-B7D5-9B5DBADCDDC7,Hyzaar (hydrochlorothiazide-losartan) oral tablet,12.5 mg-50 mg,,D041D291-B83E-45C2-AE4F-26376AF1CEB6,1579E33D-8F8D-45E8-88B9-8D4C6F516972,2010.0,30,3.0,0.0,1.0
+0,140923,3ACFC25D-43A2-4405-B7D5-9B5DBADCDDC7,Omnaris (ciclesonide nasal) nasal spray,50 mcg/inh,,77B1692C-6290-486D-8B9F-516249D1987D,BFB1EE31-D77F-4552-9CF9-205BF5316461,2010.0,1,5.0,0.0,1.0

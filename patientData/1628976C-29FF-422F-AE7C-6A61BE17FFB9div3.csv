@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,117006,1628976C-29FF-422F-AE7C-6A61BE17FFB9,Retin-A (tretinoin topical) topical cream,0.05%,,431BF26A-0BEF-4175-A36C-E870C9EE7D8D,55024DB7-534C-42EF-A507-8641E5484E26,2009.0,45 g,0.0,0.0,1.0
+0,117016,1628976C-29FF-422F-AE7C-6A61BE17FFB9,Medrol Dosepak (methylPREDNISolone) oral tablet,4 mg,,05414BAD-ABC3-4695-AD58-E099B0A9E8C9,64D3F35B-F9C9-479F-A168-BA2AE6CEFDD5,2009.0,1 pack,0.0,0.0,1.0

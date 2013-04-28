@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,8701,997075DD-73BA-44F0-8A82-1C1D632B64FB,Omeprazole oral delayed release capsule,40 mg,,9771C7DB-18BB-4718-A8C7-BE8DB1CD0DFB,2C178488-E530-4F67-B058-D4EA7F38F7DF,2011.0,30,2,0.0,1.0

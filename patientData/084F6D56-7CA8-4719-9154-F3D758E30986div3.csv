@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,176113,084F6D56-7CA8-4719-9154-F3D758E30986,Flexeril (cyclobenzaprine) oral tablet,10 mg,,,FB4F0188-C107-4B7C-80E5-6E4FA92C640B,,,,,
+0,176119,084F6D56-7CA8-4719-9154-F3D758E30986,Lodine (etodolac) oral tablet,500 mg,,,97395E3F-A42D-4A26-9D01-C23F9B48AFFE,,,,,
