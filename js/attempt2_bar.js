@@ -84,7 +84,7 @@ function drawYAxis(stroke){
   		.range([0,0])
 
   	var fin = d3.scale.linear()
-  		.range([-1*parseInt(d3.select('#canvas').style('height').split('p'))*.87,0]);
+  		.range([0,-1*parseInt(d3.select('#canvas').style('height').split('p'))*.87]);
 
 	var yaxis = canvas.append('g')
     	.attr('class','axis')
@@ -117,8 +117,8 @@ function drawYAxis(stroke){
 	} 
 
 function drawBars(chart){
-	var x = drawXAxis('black')
-	var y = drawYAxis('black')
+	var x = drawXAxis('rgb(124, 123, 123)')
+	var y = drawYAxis('rgb(124, 123, 123)')
 
   	x.domain(data.map(function(d) { return d.age; }));
   	y.domain([0, d3.max(getyAxisValues(data))]);
@@ -128,6 +128,7 @@ function drawBars(chart){
       .data(data)
     .enter().append("rect")
       .attr("class", "bar")
+      .attr('fill','#1f77b4')
       .attr("x", function(d) { return parseInt(d3.select('#canvas').style('width').split('p'))*0.1 + x(d.age); })
       .attr("width", x.rangeBand())
       .attr("y", function(d) { return y(d.population) })
@@ -135,10 +136,10 @@ function drawBars(chart){
       .style('opacity',0)
       .transition()
       .delay(function(d,i){
-      	return 100 
+      	return 250+250*i
       })
       .style('opacity',1)
-	  .duration();
+	  .duration(600);
 	  //.ease('linear');
 }
 
