@@ -1,0 +1,4 @@
+,index,PatientGuid,AllergyGuid,StartYear_x,ReactionName,SeverityName,AllergyName
+0,12934,3E2E1606-E0C2-4CBC-9668-2434CEB45BFD,8BC7AA27-EB71-4F6A-85AB-496AD7E27B4E,2011.0,Hives,Modest,Septra DS (sulfamethoxazole-trimethoprim) oral tablet
+0,12947,3E2E1606-E0C2-4CBC-9668-2434CEB45BFD,09D3AA8C-17F4-46D9-BC65-BE8FCAD9584A,2012.0,Pain/cramping,Severe,SulfADIAZINE oral tablet
+0,12960,3E2E1606-E0C2-4CBC-9668-2434CEB45BFD,3D1D60E1-39C3-43D2-856F-DC011E5409D0,2012.0,Vomiting,Modest,Lexapro (escitalopram) oral tablet

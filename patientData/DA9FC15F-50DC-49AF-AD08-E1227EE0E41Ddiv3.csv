@@ -1,0 +1,4 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,167905,DA9FC15F-50DC-49AF-AD08-E1227EE0E41D,Lovaza (omega-3 polyunsaturated fatty acids) oral capsule,ethyl esters 1000 mg,,D94B2EF5-F07C-4BE9-8483-89855E352754,71CB3E25-EC1A-4A6E-82DD-8DFFEFD400C0,2011.0,120,11.0,0.0,1.0
+0,167910,DA9FC15F-50DC-49AF-AD08-E1227EE0E41D,Crestor (rosuvastatin) oral tablet,20 mg,,,F2DC013C-FB43-4566-A041-F101557D405B,,,,,
+0,167915,DA9FC15F-50DC-49AF-AD08-E1227EE0E41D,Hydrochlorothiazide-Lisinopril oral tablet,25 mg-20 mg,,3D18044B-713F-4FB3-B5D2-917CCDB0D046,53ED3537-E551-4DE9-AD2F-47D599D243EA,2011.0,90,3.0,0.0,1.0

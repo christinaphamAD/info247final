@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,4038,8E6733FB-8375-4809-A82D-0E9B010D7700,Lipitor (atorvastatin) oral tablet,10 mg,,44C08EE8-6681-4B83-A9F4-1E6731C767AD,7049ED95-1D93-437D-A1D0-F5267C750AEA,2009.0,#90,3.0,0.0,1.0

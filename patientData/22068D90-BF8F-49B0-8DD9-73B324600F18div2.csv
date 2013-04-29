@@ -1,0 +1,3 @@
+,index,PatientGuid,AllergyGuid,StartYear_x,ReactionName,SeverityName,AllergyName
+0,123090,22068D90-BF8F-49B0-8DD9-73B324600F18,56CFAD2B-B7D0-4B94-8639-4C38ED2DEE0D,2011.0,Pain/cramping,Modest,Tetracycline Hydrochloride (tetracycline) oral capsule
+0,123098,22068D90-BF8F-49B0-8DD9-73B324600F18,4B10D531-9F75-4966-B68E-96EC45287F07,2011.0,Rash - generalized,Mild,PC Pen VK (penicillin V potassium) oral tablet

@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,6851,7E1175BB-F09E-4C3E-BB65-14526FE028B1,Amoxil (amoxicillin) oral tablet,875 mg,,EBA52A57-ACB8-4F77-844D-958A8052D399,AED26E81-B3D0-4957-92BE-1E5188B52A9B,2011.0,20,0.0,0.0,1.0
+0,6864,7E1175BB-F09E-4C3E-BB65-14526FE028B1,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,21F17E62-EEB3-4914-A92C-BDB08FB35A21,D8D167E6-7B29-435F-88BF-A0168297CE07,2011.0,240,0.0,0.0,1.0

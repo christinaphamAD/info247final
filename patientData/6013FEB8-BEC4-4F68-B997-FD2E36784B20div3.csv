@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,194395,6013FEB8-BEC4-4F68-B997-FD2E36784B20,Naphcon-A (naphazoline-pheniramine ophthalmic) ophthalmic solution,0.025%-0.3%,,C67C00D6-29D5-4CDB-8651-1A8C8C46C298,49A2DF0F-8DD3-4315-BAE6-C3D325B9762A,2010.0,10,0.0,0.0,1.0
+0,194398,6013FEB8-BEC4-4F68-B997-FD2E36784B20,Tobrex (tobramycin ophthalmic) ophthalmic solution,0.3%,,D0C99237-9902-4FDD-9437-4F1BDBDF7065,902AB42B-F010-442F-BA95-D0D03D96D9CF,2010.0,5,1.0,0.0,1.0

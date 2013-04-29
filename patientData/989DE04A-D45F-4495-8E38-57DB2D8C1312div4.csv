@@ -1,0 +1,9 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,62416,989DE04A-D45F-4495-8E38-57DB2D8C1312,20AC8BCF-FD74-41B9-BEA4-0D5B89BFCFC8,717.9,Unspecified internal derangement of knee,2009.0,,0
+0,62422,989DE04A-D45F-4495-8E38-57DB2D8C1312,AC597480-2A6A-4221-9480-6011C705B89C,355.6,Lesion of plantar nerve,2010.0,,0
+0,62428,989DE04A-D45F-4495-8E38-57DB2D8C1312,4938E107-3287-4FA9-B4C3-940449A4B24D,V72.84,"Preoperative examination, unspecified",2010.0,,0
+0,62434,989DE04A-D45F-4495-8E38-57DB2D8C1312,DAA4D2BD-756E-480C-9E6F-9F39D35E5997,250.02,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, without mention of complication",2010.0,,0
+0,62440,989DE04A-D45F-4495-8E38-57DB2D8C1312,F90A21BC-CB9D-49C4-94A1-1B9E024C22B1,133.0,Scabies,2010.0,,0
+0,62446,989DE04A-D45F-4495-8E38-57DB2D8C1312,41312DE9-8E49-4CAC-A2DE-325BE7C4E9A5,995.2,Unspec adverse effect of drug due to proper administration,2010.0,,0
+0,62452,989DE04A-D45F-4495-8E38-57DB2D8C1312,69B076C6-3E19-4DED-9E27-6B19B75DEA86,401.9,Unspecified essential hypertension,2010.0,,0
+0,62464,989DE04A-D45F-4495-8E38-57DB2D8C1312,0366F88B-038E-4FAD-AE13-D69A5C9C4E2D,250.00,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",,,0

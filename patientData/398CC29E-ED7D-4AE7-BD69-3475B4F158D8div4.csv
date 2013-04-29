@@ -1,0 +1,4 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,267545,398CC29E-ED7D-4AE7-BD69-3475B4F158D8,C08AAE31-682C-49BE-BA6E-14807C61E775,401.9,Unspecified essential hypertension,2010.0,,0
+0,267647,398CC29E-ED7D-4AE7-BD69-3475B4F158D8,B5C4B42B-8849-4B2A-A158-50E24491007E,110.5,Dermatophytosis of the body,2010.0,,0
+0,267698,398CC29E-ED7D-4AE7-BD69-3475B4F158D8,FE115BDA-7676-4ED6-A8D7-C276ECBD4334,V70.0,Routine general medical examination at a health care facility,2012.0,,0

@@ -1,0 +1,7 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,138394,7BC6517E-8E7B-42DE-848F-959C9A77CE65,FF59A61F-1C91-43F6-BBF1-59700D9F4F42,272.4,Other and unspecified hyperlipidemia,2011.0,,0
+0,138398,7BC6517E-8E7B-42DE-848F-959C9A77CE65,B773D33C-EDAC-4116-8C20-956648056D7C,786.09,Other dyspnea and respiratory abnormality,2011.0,,0
+0,138402,7BC6517E-8E7B-42DE-848F-959C9A77CE65,21C5AD4D-E8A3-4F0A-9878-C13CA96D83FA,V70.0,Routine general medical examination at a health care facility,2011.0,,0
+0,138406,7BC6517E-8E7B-42DE-848F-959C9A77CE65,7E2D6E0A-3625-49FE-925B-84D314763ACD,487,Influenza                                                                                                                                                                                                                                                      ,2009.0,2009.0,0
+0,138410,7BC6517E-8E7B-42DE-848F-959C9A77CE65,D92751DA-32F1-436E-B365-856964F5127A,401.9,Unspecified essential hypertension,2011.0,,0
+0,138418,7BC6517E-8E7B-42DE-848F-959C9A77CE65,C8814A7C-36AE-49EA-B3FC-8A5EFFD56302,493.92,"Asthma, unspecified type, with acute exacerbation",2009.0,2009.0,0

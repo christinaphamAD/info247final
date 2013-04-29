@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,53998,3A8701A2-6011-4F8F-AA06-4B7F48F75997,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,E73838ED-9F8B-4E9F-876E-23A85FF392EF,17335452-04D6-4D40-8983-A8E47621C07C,2011.0,20.0,0.0,0.0,1.0
+0,54004,3A8701A2-6011-4F8F-AA06-4B7F48F75997,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,1670DFDE-C30A-4112-B9EC-6B7546E61EFD,D0B7CE0D-36C5-4887-ACD9-1AE8B5ED94A3,2011.0,240.0,0.0,0.0,1.0

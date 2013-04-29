@@ -1,0 +1,11 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,192094,71994951-5D7D-4EE4-B60E-FB83CB75AD33,51BFBA5B-8418-4181-A2F5-0E957E8E5CDD,722.93,Other and unspecified disc disorder of lumbar region,2011.0,,0
+0,192166,71994951-5D7D-4EE4-B60E-FB83CB75AD33,103F2B42-3798-49E8-9F6C-322CE8B8A665,300,"Anxiety, dissociative and somatoform disorders                                                                                                                                                                                                                 ",2010.0,,0
+0,192238,71994951-5D7D-4EE4-B60E-FB83CB75AD33,54C01624-7764-427F-8318-56D54EE02B14,722.73,"Intervertebral disc disorder with myelopathy, lumbar region",2011.0,,0
+0,192310,71994951-5D7D-4EE4-B60E-FB83CB75AD33,CED6BEAF-4122-4C00-9DAB-D0160AFBB532,780.79,Other malaise and fatigue,2010.0,,0
+0,192382,71994951-5D7D-4EE4-B60E-FB83CB75AD33,AFF6388A-D1BB-4ED8-AC06-2CFC5C692BD0,724.4,"Thoracic or lumbosacral neuritis or radiculitis, unspecified",2011.0,,0
+0,192886,71994951-5D7D-4EE4-B60E-FB83CB75AD33,CE802173-4A8C-4DA0-BFD1-5DBA367E1606,244.9,Unspecified hypothyroidism,2010.0,,0
+0,193030,71994951-5D7D-4EE4-B60E-FB83CB75AD33,0B0FA3F3-3BE2-4B20-B5F6-933EE201ADB1,724.4,"Thoracic or lumbosacral neuritis or radiculitis, unspecified",2010.0,,0
+0,193462,71994951-5D7D-4EE4-B60E-FB83CB75AD33,C83589A4-4FA7-4DE0-AF00-9ED210EC6AE8,799.81,Decreased libido,2010.0,,0
+0,193606,71994951-5D7D-4EE4-B60E-FB83CB75AD33,188BAB0A-820C-4DD7-B323-CE64CF2D5CB2,296.23,"Major depressive disorder, single episode, severe degree, without mention of psychotic behavior",2010.0,,0
+0,193894,71994951-5D7D-4EE4-B60E-FB83CB75AD33,3D5ABE0D-8A47-415F-AACB-CE96D33F2316,724.2,Lumbago,2011.0,,0

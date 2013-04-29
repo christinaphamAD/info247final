@@ -1,0 +1,14 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,156310,755A50B2-ED26-463A-A73A-C8342D06349B,E5B4C489-91B2-497E-9DC3-026684817605,847.0,Neck sprain,2011.0,,0
+0,156320,755A50B2-ED26-463A-A73A-C8342D06349B,6B4878C5-5E26-4624-B378-06FF631979AE,E812,Other motor vehicle collision with  motor vehicle                                                                                                                                                                                                              ,2010.0,2010.0,0
+0,156330,755A50B2-ED26-463A-A73A-C8342D06349B,90BC87CB-1ADD-4638-B53E-0C4074599F6F,110.4,Dermatophytosis of foot,2011.0,,0
+0,156340,755A50B2-ED26-463A-A73A-C8342D06349B,E00897A7-F3E8-494A-B4E5-27533666EC4E,728.71,Plantar fascial fibromatosis,2012.0,,0
+0,156350,755A50B2-ED26-463A-A73A-C8342D06349B,CDB12ABA-7F25-4C24-AF27-2D5E9521B99C,V70.0,Routine general medical examination at a health care facility,2010.0,,0
+0,156360,755A50B2-ED26-463A-A73A-C8342D06349B,E9A284E8-0425-4611-AC1C-39D0EEFB7E2C,E812,Other motor vehicle collision with  motor vehicle                                                                                                                                                                                                              ,2011.0,,0
+0,156370,755A50B2-ED26-463A-A73A-C8342D06349B,0173E251-FE67-4331-AF52-70D453BEAD69,726.32,Lateral epicondylitis,2009.0,,0
+0,156380,755A50B2-ED26-463A-A73A-C8342D06349B,F185B4D9-722B-44D6-AB9A-AE02E409BBE3,840.9,Sprain of unspecified site of shoulder and upper arm,2010.0,2010.0,0
+0,156390,755A50B2-ED26-463A-A73A-C8342D06349B,24ED8E46-C033-49E7-9205-B735828871A8,724.2,Lumbago,2011.0,,0
+0,156400,755A50B2-ED26-463A-A73A-C8342D06349B,2ED502F6-B487-431C-A9C6-083329AA5DE5,728.71,Plantar fascial fibromatosis,,,1
+0,156430,755A50B2-ED26-463A-A73A-C8342D06349B,B23FBAE8-A5AE-4527-87F8-24837E5AB61F,847.0,Neck sprain,2010.0,2010.0,0
+0,156440,755A50B2-ED26-463A-A73A-C8342D06349B,AA6A0A0B-A480-45E4-8E42-9196BF4A4B7C,682.6,"Cellulitis and abscess of leg, except foot",2011.0,,0
+0,156450,755A50B2-ED26-463A-A73A-C8342D06349B,1E2C9AFA-2B7A-462B-B985-A7BA41721E03,846.0,Lumbosacral (joint) (ligament) sprain,2011.0,,0

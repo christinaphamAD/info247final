@@ -1,0 +1,2 @@
+,index,PatientGuid,Gender,YearOfBirth,SmokingStatusGuid,VisitYear,Height,Weight,BMI,SystolicBP,DiastolicBP,RespiratoryRate,Temperature,TranscriptGuid,Age,NotSmoker,BloodPressureStatus
+0,42319,766FA252-F9C7-4C9E-B2FC-3729F49F36A0,F,1950,,2012.0,,,,,,,,32AA88E0-547F-47E0-AD6D-E8C3C2DEE8F3,63,True,UNK

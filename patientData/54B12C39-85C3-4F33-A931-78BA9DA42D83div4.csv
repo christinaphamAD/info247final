@@ -1,0 +1,6 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,763005,54B12C39-85C3-4F33-A931-78BA9DA42D83,C1C622E5-F621-4735-9C48-2E47DEDFDD89,V70,General medical exam                                                                                                                                                                                                                                           ,,,0
+0,763035,54B12C39-85C3-4F33-A931-78BA9DA42D83,DA7E3375-A436-4A8C-87F6-3F2450D7E97A,401.9,Unspecified essential hypertension,,,0
+0,763065,54B12C39-85C3-4F33-A931-78BA9DA42D83,BE9F4A85-BDD9-497B-8926-9822A66C8CD3,V72.84,"Preoperative examination, unspecified",,,1
+0,763095,54B12C39-85C3-4F33-A931-78BA9DA42D83,B09C41F9-B03E-4B03-AAE5-DC2649CD560A,727.3,Other bursitis disorders,,,1
+0,763125,54B12C39-85C3-4F33-A931-78BA9DA42D83,FB9C9AF7-E1A9-4441-A6E5-61603271FAD0,486.,"Pneumonia, organism unspecified",2011.0,,0

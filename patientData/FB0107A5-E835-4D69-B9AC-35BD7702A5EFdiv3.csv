@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,42295,FB0107A5-E835-4D69-B9AC-35BD7702A5EF,Pataday (olopatadine ophthalmic) ophthalmic solution,0.2%,,081C84FC-EDCD-495F-B340-AA3CA83A6D0E,8C3BCC15-102F-4A79-BB14-E65A3FF78870,2012.0,1,3.0,0.0,1.0
+0,42304,FB0107A5-E835-4D69-B9AC-35BD7702A5EF,Veramyst (fluticasone nasal) nasal spray,27.5 mcg/inh,,281E2157-2A11-44C5-A96C-313375AE06C3,61799663-46C5-4A91-8D38-E872C9C3F799,2012.0,1,3.0,0.0,1.0

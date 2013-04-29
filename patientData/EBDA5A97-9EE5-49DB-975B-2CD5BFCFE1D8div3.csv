@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,17088,EBDA5A97-9EE5-49DB-975B-2CD5BFCFE1D8,Amoxil (amoxicillin) oral tablet,500 mg,,727F0E43-7492-4EFC-8652-914871AD6FDF,8227F066-FF36-45EF-8880-57CB1265E102,2011.0,30,0.0,0.0,1.0
+0,17091,EBDA5A97-9EE5-49DB-975B-2CD5BFCFE1D8,"Mucinex D Max Strength (guaiFENesin-pseudoephedrine) oral tablet, extended release",1200 mg-120 mg,,401009C6-E71B-4E3E-AF96-23067AECC2ED,5F2DE46D-7CB4-4D65-8332-DA4E89202EB2,2011.0,28,0.0,0.0,1.0

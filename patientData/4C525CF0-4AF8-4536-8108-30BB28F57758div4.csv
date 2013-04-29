@@ -1,0 +1,12 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,19858,4C525CF0-4AF8-4536-8108-30BB28F57758,538588FA-56EE-47BF-8A49-0637F4FE1E81,285.9,"Anemia, unspecified",,,0
+0,19868,4C525CF0-4AF8-4536-8108-30BB28F57758,F1774F38-8029-4EFB-AD30-18A2E7C6EA84,780.79,Other malaise and fatigue,,,1
+0,19878,4C525CF0-4AF8-4536-8108-30BB28F57758,0F2295C7-3FBF-4BBC-8548-292F1B551BEF,345.9,"Epilepsy, unspecified                                                                                                                                                                                                                                          ",,,0
+0,19888,4C525CF0-4AF8-4536-8108-30BB28F57758,E882CBB3-BEE4-4239-BEAD-30F839C6C99C,682.5,Cellulitis and abscess of buttock,2010.0,,0
+0,19898,4C525CF0-4AF8-4536-8108-30BB28F57758,43595797-6355-491E-98DC-40007BB8C77A,780.2,Syncope and collapse,,,1
+0,19908,4C525CF0-4AF8-4536-8108-30BB28F57758,211F46AC-586C-4C76-A1A6-6129CB8DB075,784.0,Headache,,,1
+0,19918,4C525CF0-4AF8-4536-8108-30BB28F57758,8682C294-5543-43FD-8D79-67009B231910,V70.0,Routine general medical examination at a health care facility,2011.0,2011.0,1
+0,19928,4C525CF0-4AF8-4536-8108-30BB28F57758,C5A42CD0-0B64-413C-96FE-76ED0D8FF6EB,569.3,Hemorrhage of rectum and anus,,,1
+0,19938,4C525CF0-4AF8-4536-8108-30BB28F57758,31A8E7D5-05ED-4447-87C0-99AD5FC18685,V25.01,Encounter for general counseling on prescription of oral contraceptives,,,0
+0,19948,4C525CF0-4AF8-4536-8108-30BB28F57758,48D93DC7-B0AB-4BEC-8861-A479D93CFE5C,455.6,Unspecified hemorrhoids without mention of complication,,,1
+0,19958,4C525CF0-4AF8-4536-8108-30BB28F57758,8099FE7A-1A74-417B-8DA3-CAC09BCE0776,726.19,Other specified disorders of bursae and tendons in shoulder region,2010.0,,0

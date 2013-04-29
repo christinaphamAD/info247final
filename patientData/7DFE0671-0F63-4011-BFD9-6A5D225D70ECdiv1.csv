@@ -1,0 +1,2 @@
+,index,PatientGuid,Gender,YearOfBirth,SmokingStatusGuid,VisitYear,Height,Weight,BMI,SystolicBP,DiastolicBP,RespiratoryRate,Temperature,TranscriptGuid,Age,NotSmoker,BloodPressureStatus,BMIStatus
+0,116805,7DFE0671-0F63-4011-BFD9-6A5D225D70EC,M,1939,,2011.0,66.0,160.0,25.0,160.0,80.0,16.0,98.5,EA92ACA7-0086-4B3F-872F-AF1FDF264BF7,74,True,Prehypertension,Overweight

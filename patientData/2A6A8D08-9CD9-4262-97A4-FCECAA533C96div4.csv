@@ -1,0 +1,6 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,194138,2A6A8D08-9CD9-4262-97A4-FCECAA533C96,50F340CA-F0F8-4D8A-85D9-0118644B870D,729.5,Pain in limb,2010.0,,0
+0,194142,2A6A8D08-9CD9-4262-97A4-FCECAA533C96,F73BAD34-DA53-44E7-84BE-577920CB37A8,V70.0,Routine general medical examination at a health care facility,2009.0,,0
+0,194146,2A6A8D08-9CD9-4262-97A4-FCECAA533C96,B6AD7324-2F57-45EB-884A-5A65DDF3A5A5,389.0,Conductive hearing loss                                                                                                                                                                                                                                        ,2009.0,,0
+0,194150,2A6A8D08-9CD9-4262-97A4-FCECAA533C96,9AF1A917-AE37-46A6-AE25-9A2AD1E13DE1,110.1,Dermatophytosis of nail,2011.0,,0
+0,194154,2A6A8D08-9CD9-4262-97A4-FCECAA533C96,3EE5DFD6-5F9B-4891-ACCC-06C638D60FCD,110.1,Dermatophytosis of nail,2010.0,,0

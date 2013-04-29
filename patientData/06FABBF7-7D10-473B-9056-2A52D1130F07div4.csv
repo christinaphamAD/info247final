@@ -1,0 +1,14 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,16431,06FABBF7-7D10-473B-9056-2A52D1130F07,C37C6A3B-4EF8-461F-BAD1-04BDE65660BE,616.1,Vaginitis and vulvovaginitis                                                                                                                                                                                                                                   ,2011.0,,0
+0,16461,06FABBF7-7D10-473B-9056-2A52D1130F07,79F7D523-FD3A-489D-91D9-167263704639,401.9,Unspecified essential hypertension,2010.0,,0
+0,16471,06FABBF7-7D10-473B-9056-2A52D1130F07,F55D5F79-9541-46EC-AE3A-1F84E85D2A01,739.1,"Nonallopathic lesions of cervical region, not elsewhere classified",2009.0,,0
+0,16481,06FABBF7-7D10-473B-9056-2A52D1130F07,3A21AD42-353D-4E63-8B7D-580AE926D757,780.4,Dizziness and giddiness,2010.0,,0
+0,16491,06FABBF7-7D10-473B-9056-2A52D1130F07,801BBEAF-5B2F-45EC-99E6-5C1CD88C7141,726.12,Bicipital tenosynovitis,,,1
+0,16501,06FABBF7-7D10-473B-9056-2A52D1130F07,905EB860-A634-4833-A93F-6672CD01B057,V70.0,Routine general medical examination at a health care facility,2009.0,,0
+0,16511,06FABBF7-7D10-473B-9056-2A52D1130F07,53A0245E-F52E-4527-9700-7D72923CB0FD,V76.2,Screening for malignant neoplasms of the cervix,2011.0,,0
+0,16521,06FABBF7-7D10-473B-9056-2A52D1130F07,0819E54A-B8DB-41D1-82AA-813A3C0261A7,V72.3,Gynecological examination,2011.0,,0
+0,16531,06FABBF7-7D10-473B-9056-2A52D1130F07,3E8ED191-4CFA-419D-AD78-9A0C920DD736,716.90,"Arthropathy, unspecified, site unspecified",,,1
+0,16541,06FABBF7-7D10-473B-9056-2A52D1130F07,76032061-47DF-4527-B055-A4CC6C40821D,727.05,Other tenosynovitis or hand and wrist,2009.0,,0
+0,16551,06FABBF7-7D10-473B-9056-2A52D1130F07,F19A667F-6CDD-48C2-B559-E2ACD02E0A5B,724.4,"Thoracic or lumbosacral neuritis or radiculitis, unspecified",2009.0,,0
+0,16561,06FABBF7-7D10-473B-9056-2A52D1130F07,DE4E3647-1E78-4D4C-88F3-452CD222E21D,401.9,Unspecified essential hypertension,2011.0,,0
+0,16571,06FABBF7-7D10-473B-9056-2A52D1130F07,1A75D188-B5F8-4461-8057-4F97E5ED2E82,599.0,"Urinary tract infection, site not specified",2011.0,2011.0,0

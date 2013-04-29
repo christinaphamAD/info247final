@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,145713,EA3C8F77-73F2-4DFD-9182-AC20A958487A,Tobrex (tobramycin ophthalmic) ophthalmic solution,0.3%,,0E6EF760-C7E3-484D-A884-7EC37DEC8C2F,88CCEEBE-4F38-4D52-A013-DDD2B4CF1322,2010.0,5,1.0,0.0,1.0
+0,145720,EA3C8F77-73F2-4DFD-9182-AC20A958487A,"Allegra-D 12 Hour (fexofenadine-pseudoephedrine) oral tablet, extended release",60 mg-120 mg,,EAAAFA9D-B4E7-4C9F-B317-B40FC11856BC,0A317136-B765-4FDD-AE3C-4A1BF1880645,2010.0,30,1.0,0.0,1.0

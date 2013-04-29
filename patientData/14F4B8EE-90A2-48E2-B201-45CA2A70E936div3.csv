@@ -1,0 +1,5 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,47162,14F4B8EE-90A2-48E2-B201-45CA2A70E936,Simvastatin oral tablet,10 mg,,,588FD349-209E-430B-9BD6-80A4B8D8484E,,,,,
+0,47166,14F4B8EE-90A2-48E2-B201-45CA2A70E936,AmLODIPine Besylate (amLODIPine) oral tablet,5 mg,,,25F45C2D-28CC-41EB-86F3-3CF24F2114D4,,,,,
+0,47170,14F4B8EE-90A2-48E2-B201-45CA2A70E936,Hydrochlorothiazide oral tablet,25 mg,,,A69D4377-A1A1-4753-9FDC-BF2445ADC1B8,,,,,
+0,47174,14F4B8EE-90A2-48E2-B201-45CA2A70E936,Glimepiride oral tablet,2 mg,,,8DD0AB79-93D8-4A93-809F-A739F2D48FF1,,,,,

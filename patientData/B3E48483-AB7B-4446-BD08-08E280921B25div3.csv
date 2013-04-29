@@ -1,0 +1,8 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,1992,B3E48483-AB7B-4446-BD08-08E280921B25,NovoLOG FlexPen (insulin aspart) subcutaneous solution,100 units/mL,,,8A5ABE4A-7336-4E8B-8D92-4623C1E1AF2F,,,,,
+0,1995,B3E48483-AB7B-4446-BD08-08E280921B25,Lantus Solostar Pen (insulin glargine) subcutaneous solution,100 units/mL,,,A1629CC2-97AA-47CD-9D1E-82011F1913A2,,,,,
+0,1998,B3E48483-AB7B-4446-BD08-08E280921B25,Magnesium Oxide oral tablet,400 mg,,,B379D7A3-1273-42B4-AD30-9D0F387EEA19,,,,,
+0,2001,B3E48483-AB7B-4446-BD08-08E280921B25,Ecotrin Adult Low Strength (aspirin) oral enteric coated tablet,81 mg,,,769BE36E-CB7B-44E4-BCAC-B757EC055773,,,,,
+0,2004,B3E48483-AB7B-4446-BD08-08E280921B25,Glucose Gel (glucose) oral gel,40%,,,07181BD6-3944-49FB-8390-CA70D066D0F7,,,,,
+0,2007,B3E48483-AB7B-4446-BD08-08E280921B25,Lisinopril oral tablet,10 mg,,,4DD769AF-826C-4A58-B8E2-D68336C31B8E,,,,,
+0,2010,B3E48483-AB7B-4446-BD08-08E280921B25,Pravachol (pravastatin) oral tablet,40 mg,,,4501D1B8-56EB-454B-BFAB-7EDB522CFD3C,,,,,

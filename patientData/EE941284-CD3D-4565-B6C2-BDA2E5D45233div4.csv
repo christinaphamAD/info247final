@@ -1,0 +1,14 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,153114,EE941284-CD3D-4565-B6C2-BDA2E5D45233,783AE43F-0475-4D22-972B-47A4C862ECDE,716.9,Unspecified arthropathy                                                                                                                                                                                                                                        ,2009.0,,0
+0,153189,EE941284-CD3D-4565-B6C2-BDA2E5D45233,05879980-8E3F-4E27-BB0A-49DAF64B1B84,079.99,Unspecified viral infection in conditions classified elsewhere and of unspecified site,2009.0,,1
+0,153204,EE941284-CD3D-4565-B6C2-BDA2E5D45233,6ADCCD8D-2D3B-4343-B56C-5E31D0CFB45C,682.9,Cellulitis and abscess of unspecified sites,,,1
+0,153219,EE941284-CD3D-4565-B6C2-BDA2E5D45233,34143C36-B789-45F1-8953-7269E7C409B7,461,Acute sinusitis                                                                                                                                                                                                                                                ,2009.0,,1
+0,153234,EE941284-CD3D-4565-B6C2-BDA2E5D45233,350D7D62-D52F-4869-AA8A-AB1A581A0A1B,955.2,Injury to ulnar nerve,,,1
+0,153249,EE941284-CD3D-4565-B6C2-BDA2E5D45233,4550CD21-CE1F-456A-BDAA-B1C520518D1B,564.00,"Constipation, unspecified",2009.0,,1
+0,153264,EE941284-CD3D-4565-B6C2-BDA2E5D45233,5F94CC58-82AC-41FE-814B-BACA37054F7D,272.4,Other and unspecified hyperlipidemia,2009.0,,0
+0,153279,EE941284-CD3D-4565-B6C2-BDA2E5D45233,A7600278-D939-4BF0-80F7-BD866F880770,V70.0,Routine general medical examination at a health care facility,2009.0,,1
+0,153294,EE941284-CD3D-4565-B6C2-BDA2E5D45233,EB9A3CD3-012E-4803-B7D1-BEE9E823ECCA,727.04,Radial styloid tenosynovitis,,,1
+0,153309,EE941284-CD3D-4565-B6C2-BDA2E5D45233,24564E36-E271-4432-8F57-DE3C7FD10642,728.71,Plantar fascial fibromatosis,2009.0,,1
+0,153324,EE941284-CD3D-4565-B6C2-BDA2E5D45233,D32E6A18-E817-4D57-BB72-EB6C366D5C35,078.81,Epidemic vertigo,,,1
+0,153339,EE941284-CD3D-4565-B6C2-BDA2E5D45233,6CEB691A-905C-41AF-8AF1-93C9A5D1CB89,372.30,"Conjunctivitis, unspecified",2010.0,,0
+0,153369,EE941284-CD3D-4565-B6C2-BDA2E5D45233,9DBDFFB1-5748-46E0-AB09-F700FFA8DA83,296.32,"Major depressive disorder, recurrent episode, moderate degree",2009.0,,0

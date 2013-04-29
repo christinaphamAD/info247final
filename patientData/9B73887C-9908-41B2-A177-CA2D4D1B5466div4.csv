@@ -1,0 +1,12 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,156802,9B73887C-9908-41B2-A177-CA2D4D1B5466,ED21F9A9-2A0B-488D-B07B-073BB1A8258F,466.0,Acute bronchitis,,,1
+0,156809,9B73887C-9908-41B2-A177-CA2D4D1B5466,870BCBB5-C334-450B-875F-0B85BA4DBDF3,296.33,"Major depressive disorder, recurrent episode, severe degree, without mention of psychotic behavior",,,1
+0,156816,9B73887C-9908-41B2-A177-CA2D4D1B5466,F8EA176A-F1F0-40DF-9E46-1A7EB73553C7,278.0,Obesity                                                                                                                                                                                                                                                        ,,,0
+0,156823,9B73887C-9908-41B2-A177-CA2D4D1B5466,004B1D62-7197-4DB2-BD68-242314409EB2,272.4,Other and unspecified hyperlipidemia,2009.0,,0
+0,156830,9B73887C-9908-41B2-A177-CA2D4D1B5466,807BD13D-8325-4779-9191-32CB89E90719,401.9,Unspecified essential hypertension,2009.0,,0
+0,156837,9B73887C-9908-41B2-A177-CA2D4D1B5466,6A1AA5E1-5E06-474D-B5B3-3815339BF1A9,455.6,Unspecified hemorrhoids without mention of complication,2009.0,,1
+0,156844,9B73887C-9908-41B2-A177-CA2D4D1B5466,2B3BEC2B-AB1A-42B4-AA19-53A708CE7270,565.0,Anal fissure,2009.0,,1
+0,156851,9B73887C-9908-41B2-A177-CA2D4D1B5466,AC7946AD-5EA4-4F32-BE12-76C49E61581B,E906.0,Dog bite,,,1
+0,156858,9B73887C-9908-41B2-A177-CA2D4D1B5466,58EBBE9B-DCE0-4AAC-A77E-BFF81E2AFC1B,V45.77,Acquired absence of genital organs,2009.0,,0
+0,156865,9B73887C-9908-41B2-A177-CA2D4D1B5466,6E23243C-BC20-437F-A2BA-CEE00DB964A6,796.2,Elevated blood pressure reading without diagnosis of hypertension,,,1
+0,156872,9B73887C-9908-41B2-A177-CA2D4D1B5466,79BFB7EB-EFB9-424A-9FD8-9BA3786B154D,300.0,Anxiety states                                                                                                                                                                                                                                                 ,2009.0,,0

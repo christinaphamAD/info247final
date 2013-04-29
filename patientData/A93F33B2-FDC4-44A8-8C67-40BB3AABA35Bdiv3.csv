@@ -1,0 +1,4 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,46157,A93F33B2-FDC4-44A8-8C67-40BB3AABA35B,Lopid (gemfibrozil) oral tablet,600 mg,,7FF07FC1-28AA-498F-9878-71DF4534FA0F,35F80ADC-8107-4D6E-9FB4-FE1DC5B24593,2010.0,60,2.0,0.0,1.0
+0,46181,A93F33B2-FDC4-44A8-8C67-40BB3AABA35B,Lipitor (atorvastatin) oral tablet,20 mg,,3FD8BF0D-1FC2-4D5E-B49F-D4A9E92A046E,265B9F35-FC9C-4E17-9D1B-08EC7B3F5BBC,2010.0,28,,0.0,1.0
+0,46187,A93F33B2-FDC4-44A8-8C67-40BB3AABA35B,Lovaza (omega-3 polyunsaturated fatty acids) oral capsule,ethyl esters 1000 mg,,9AF26BAB-2176-4726-8FC5-7CF3D19E75ED,18045B55-A0FA-4AAD-A5EA-E402D11B0A3E,2010.0,120,6.0,0.0,1.0

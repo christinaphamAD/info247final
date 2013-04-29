@@ -1,0 +1,10 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,131975,35FB2042-EDC5-4F1C-BEBA-8672086C5BF9,8BB99782-2B5F-42C5-A2B1-0DBF03769B61,780.2,Syncope and collapse,,,0
+0,131981,35FB2042-EDC5-4F1C-BEBA-8672086C5BF9,213415B8-D4A0-4CA1-8C93-2ABB14E13907,V70.0,Routine general medical examination at a health care facility,2010.0,,0
+0,131987,35FB2042-EDC5-4F1C-BEBA-8672086C5BF9,785D59AB-31B5-446F-BA5C-4863337E519B,719.41,Pain in joint involving shoulder region,,,0
+0,131993,35FB2042-EDC5-4F1C-BEBA-8672086C5BF9,AB23D8E7-09B3-452B-B727-B3304ABE3AE8,272.1,Pure hyperglyceridemia,2010.0,,0
+0,131999,35FB2042-EDC5-4F1C-BEBA-8672086C5BF9,CCB56F49-453D-4AEB-B8C0-CDBFD13297C6,250.02,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, without mention of complication",2010.0,,0
+0,132005,35FB2042-EDC5-4F1C-BEBA-8672086C5BF9,9196BC5F-BD6B-4853-9004-F4BDB1FB9778,285.9,"Anemia, unspecified",2010.0,,0
+0,132011,35FB2042-EDC5-4F1C-BEBA-8672086C5BF9,5AF4B190-AC86-47C7-A809-F63B3CE47962,272.4,Other and unspecified hyperlipidemia,2009.0,,0
+0,132017,35FB2042-EDC5-4F1C-BEBA-8672086C5BF9,3EFBB942-9368-41EB-8768-203B2FD996B2,250.00,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",2009.0,,0
+0,132029,35FB2042-EDC5-4F1C-BEBA-8672086C5BF9,B2CA555D-7F12-409D-B45B-BD5A45EE9EF5,840.7,Superior glenoid labrum lesion,2010.0,,0

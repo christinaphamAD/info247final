@@ -1,0 +1,7 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,3186,E1750915-0127-4E0B-AE1B-0A983BE499D7,AA84B1C7-51B1-47E4-8BAA-08A7014C3163,564.1,Irritable bowel syndrome,,,0
+0,3192,E1750915-0127-4E0B-AE1B-0A983BE499D7,BAD816E3-C53B-40B6-8E0B-61517EF1C26E,V72.3,Gynecological examination,,,1
+0,3198,E1750915-0127-4E0B-AE1B-0A983BE499D7,978C3552-F089-41C1-ABBA-C034E9909A82,V70.0,Routine general medical examination at a health care facility,,,1
+0,3204,E1750915-0127-4E0B-AE1B-0A983BE499D7,EF9D05C9-B6F8-4FBC-B192-C4B75DC2B731,477.0,Allergic rhinitis due to pollen,,,1
+0,3210,E1750915-0127-4E0B-AE1B-0A983BE499D7,412D1283-7319-4123-8666-F2EEA529CF03,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
+0,3216,E1750915-0127-4E0B-AE1B-0A983BE499D7,9FFAC327-4D15-4338-B326-F3C1F3E9EEE5,477,Allergic rhinitis                                                                                                                                                                                                                                              ,,,1

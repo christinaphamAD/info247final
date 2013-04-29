@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,8334,08FF0070-7A9B-43E1-9F46-19A301C63977,PriLOSEC (omeprazole) oral delayed release capsule,40 mg,,,231DB5D7-D998-4B29-A32C-F8908D9758EC,,,,,

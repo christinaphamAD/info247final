@@ -1,0 +1,11 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,60179,D1AC3C2C-24A4-4384-9C47-52DD12393A0D,06A61111-3E15-46A4-A86C-2F7F7AD08433,374.30,"Ptosis of eyelid, unspecified",,,1
+0,60185,D1AC3C2C-24A4-4384-9C47-52DD12393A0D,351A102C-DEC5-4A11-B6FA-3438FDFE6EEC,788.41,Urinary frequency,2009.0,2009.0,1
+0,60191,D1AC3C2C-24A4-4384-9C47-52DD12393A0D,DE066BBB-1ED1-4131-9B9C-3C47B1207F20,696,Psoriasis and similar disorders                                                                                                                                                                                                                                ,,,0
+0,60197,D1AC3C2C-24A4-4384-9C47-52DD12393A0D,F574B3CE-0E30-4EFE-BB03-6CDE5C362661,V70.0,Routine general medical examination at a health care facility,2011.0,2011.0,1
+0,60203,D1AC3C2C-24A4-4384-9C47-52DD12393A0D,4B728C6B-B520-41AA-AF48-A0CE8FD1DB4E,041.12,Methicillin resistant Staphylococcus aureus in conditions classified elsewhere and of unspecified site,,,1
+0,60209,D1AC3C2C-24A4-4384-9C47-52DD12393A0D,8239034C-8E1C-4F1B-83FA-D5379309554C,793.80,"Abnormal mammogram, unspecified",2006.0,2006.0,1
+0,60215,D1AC3C2C-24A4-4384-9C47-52DD12393A0D,A443A659-D187-4596-875D-EAC7F1E6C89E,627.2,Symptomatic menopausal or female climacteric states,,,0
+0,60221,D1AC3C2C-24A4-4384-9C47-52DD12393A0D,5F376948-6229-4F7D-89E7-F49B568F8BD6,696.1,Other psoriasis and similar disorders excluding psoriatic arthropathy,,,0
+0,60227,D1AC3C2C-24A4-4384-9C47-52DD12393A0D,81FDAD62-1C93-4AC8-B015-FDE0323F0151,627,Menopausal and postmenopausal disorders                                                                                                                                                                                                                        ,2002.0,,0
+0,60233,D1AC3C2C-24A4-4384-9C47-52DD12393A0D,03D0E649-C6FA-4C29-9EFA-99EC051B8F86,372.00,"Acute conjunctivitis, unspecified",2009.0,2009.0,1

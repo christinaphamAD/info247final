@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,132359,FB076249-7115-476B-8E69-8834C059DD51,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,A575607D-713A-4630-9682-DD4ACEB35C08,687B52B0-3FA3-4EC0-9C48-D5CA1D6D26DF,2011.0,20,0.0,0.0,1.0
+0,132429,FB076249-7115-476B-8E69-8834C059DD51,Tobrex (tobramycin ophthalmic) ophthalmic solution,0.3%,,E742C69F-286E-4D6F-B9FA-33E366186EB8,2A1BE23D-5F84-4170-93B0-57A64FB6FE8B,2011.0,5,1.0,0.0,1.0

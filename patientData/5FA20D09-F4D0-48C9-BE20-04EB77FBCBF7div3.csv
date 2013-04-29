@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,777,5FA20D09-F4D0-48C9-BE20-04EB77FBCBF7,Robaxin-750 (methocarbamol) oral tablet,750 mg,,A80E8B28-E6BE-43AA-B5E1-09219D388B00,EBFC8CDB-A65D-4194-B1E1-0203F33D3474,2010.0,60,0.0,0.0,1.0

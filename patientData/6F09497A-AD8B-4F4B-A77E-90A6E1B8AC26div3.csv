@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,136960,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,Advair Diskus (fluticasone-salmeterol) inhalation powder,500 mcg-50 mcg,,,2292EF46-1443-4C5A-8DAE-5BDEB7BF2786,,,,,
+0,136975,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,Xopenex HFA (levalbuterol) inhalation aerosol with adapter,CFC free 45 mcg/inh,,,1472594A-017B-4ECB-8CF1-BE9DFC1FB4F7,,,,,

@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,44781,D0D8AA95-0022-4845-875D-3B93F9481EBA,Norvasc (amLODIPine) oral tablet,5 mg,,F3E255D9-3E60-4ACF-9EDF-9FA18B6322FB,81EF35A3-F9D8-489C-BACE-3E963E5C7E45,2010.0,90,3.0,0.0,1.0

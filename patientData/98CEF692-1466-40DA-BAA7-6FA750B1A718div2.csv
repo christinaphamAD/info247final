@@ -1,0 +1,3 @@
+,index,PatientGuid,AllergyGuid,StartYear_x,ReactionName,SeverityName,AllergyName
+0,118558,98CEF692-1466-40DA-BAA7-6FA750B1A718,277CF6F5-2C36-4D4C-8700-46AFA52691A2,2012.0,Nausea,Severe,Sulfamethoxazole-Trimethoprim oral tablet
+0,118570,98CEF692-1466-40DA-BAA7-6FA750B1A718,C9AF1499-C771-4A8D-AAD6-F8B3362497EE,2012.0,Nausea,Modest,Septra DS (sulfamethoxazole-trimethoprim) oral tablet

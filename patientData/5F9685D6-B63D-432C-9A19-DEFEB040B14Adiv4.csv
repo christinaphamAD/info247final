@@ -1,0 +1,7 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,167589,5F9685D6-B63D-432C-9A19-DEFEB040B14A,6FF81B86-62F4-415F-929C-39E8DECB9D32,789.00,"Abdominal pain, unspecified site",2011.0,,0
+0,167596,5F9685D6-B63D-432C-9A19-DEFEB040B14A,32F6040B-F9FA-4E20-ABD1-3DE119A03E1C,380.4,Impacted cerumen,2009.0,,0
+0,167603,5F9685D6-B63D-432C-9A19-DEFEB040B14A,184FBDD2-4285-4B7E-A4E4-54BE21900D80,382.9,Unspecified otitis media,2009.0,,0
+0,167610,5F9685D6-B63D-432C-9A19-DEFEB040B14A,40E84233-8C18-4EDF-9536-BA998FCC8E71,389.0,Conductive hearing loss                                                                                                                                                                                                                                        ,2009.0,,0
+0,167617,5F9685D6-B63D-432C-9A19-DEFEB040B14A,D26C978C-E377-4B7A-A4E2-7521D53D6374,599.71,Gross hematuria,2011.0,,0
+0,167624,5F9685D6-B63D-432C-9A19-DEFEB040B14A,3E2D7F89-2EC0-4DF3-96ED-76E82DEAA920,599.0,"Urinary tract infection, site not specified",2010.0,,0

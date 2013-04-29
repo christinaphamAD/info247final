@@ -1,0 +1,9 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,65516,4F865335-F6BF-4AEB-B65E-5FF1CB6887CA,0DCFB0C1-5EB7-4976-B662-323C46509CF5,995.3,"Allergy, unspecified, not elsewhere classified",2009.0,,0
+0,65520,4F865335-F6BF-4AEB-B65E-5FF1CB6887CA,F3E33396-0B37-4331-AF65-358229F3D2FF,110.3,Dermatophytosis of groin and perianal area,2009.0,,0
+0,65524,4F865335-F6BF-4AEB-B65E-5FF1CB6887CA,0A30E3B7-C222-457A-88E5-A24E8EA1B3FA,366.9,Unspecified cataract,2009.0,,0
+0,65528,4F865335-F6BF-4AEB-B65E-5FF1CB6887CA,1045CDDF-4C69-4E91-B4C4-B007DB378CA0,701.9,Unspecified hypertrophic and atrophic conditions of skin,2010.0,,0
+0,65532,4F865335-F6BF-4AEB-B65E-5FF1CB6887CA,17A43CD0-9BE5-40B4-BA6E-C2BE1573E630,493.0,Extrinsic asthma                                                                                                                                                                                                                                               ,2009.0,,0
+0,65536,4F865335-F6BF-4AEB-B65E-5FF1CB6887CA,F5062A36-EF21-4A18-BA25-CFE5139CCD2B,701.9,Unspecified hypertrophic and atrophic conditions of skin,2010.0,,0
+0,65540,4F865335-F6BF-4AEB-B65E-5FF1CB6887CA,82D3E304-B9C1-4083-969C-79010C74B683,401.9,Unspecified essential hypertension,2009.0,,0
+0,65552,4F865335-F6BF-4AEB-B65E-5FF1CB6887CA,4DBC72F0-1CAC-4022-9911-8F594CAC843A,372.30,"Conjunctivitis, unspecified",2012.0,2012.0,0

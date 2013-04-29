@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,73542,F7B6A0D1-982E-47F1-B49B-680C3A719061,Advair Diskus (fluticasone-salmeterol) inhalation powder,250 mcg-50 mcg,,D7451717-B338-4262-893F-0FCC4C0652CC,9EAECAB3-8BD1-4E41-AE48-2C582F790C9F,2011.0,60,0,0.0,1.0
+0,73574,F7B6A0D1-982E-47F1-B49B-680C3A719061,Singulair (montelukast) oral tablet,10 mg,,8EC407C9-38B6-4B3A-8597-458BD8681B4E,56E586E9-62BE-4BBE-8B50-7569F4F1EAAA,2009.0,30,,0.0,1.0

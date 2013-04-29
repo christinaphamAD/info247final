@@ -1,0 +1,10 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,132630,05E06662-0050-4B18-BA04-8881F9D107DD,9F2BA8BA-1160-410D-B211-24DCBFFDCD52,465.9,Acute upper respiratory infections of unspecified site,,,1
+0,132639,05E06662-0050-4B18-BA04-8881F9D107DD,A14DA4D2-C620-4B39-B504-52E5E99711DB,477.9,"Allergic rhinitis, cause unspecified",,,0
+0,132648,05E06662-0050-4B18-BA04-8881F9D107DD,A4C50DFF-5C24-41F4-A711-5CE0AE7854FF,847.2,Lumbar sprain,,,1
+0,132657,05E06662-0050-4B18-BA04-8881F9D107DD,F18D932E-A5C8-4C83-9E14-75FFC939D587,786.52,Painful respiration,,,1
+0,132666,05E06662-0050-4B18-BA04-8881F9D107DD,07A7D1AB-4501-488D-B716-87796EF859F0,844.1,Sprain of medial collateral ligament of knee,,,1
+0,132675,05E06662-0050-4B18-BA04-8881F9D107DD,7EB0BF7D-6DBE-494F-A06F-8EDCFBF6300E,V45.77,Acquired absence of genital organs,,,0
+0,132684,05E06662-0050-4B18-BA04-8881F9D107DD,85E02261-6716-47C1-BAE1-E86986210C86,461.8,Other acute sinusitis,,,1
+0,132693,05E06662-0050-4B18-BA04-8881F9D107DD,9FEFF289-3385-46D1-80CB-EFD9027C66A3,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
+0,132702,05E06662-0050-4B18-BA04-8881F9D107DD,AD39614C-1822-4B06-9391-2565E14F87CC,786.2,Cough,2012.0,,0

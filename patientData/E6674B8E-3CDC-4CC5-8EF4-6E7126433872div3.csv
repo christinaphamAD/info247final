@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,118226,E6674B8E-3CDC-4CC5-8EF4-6E7126433872,Zithromax Z-Pak (azithromycin) oral tablet,250 mg,,6C26E7BA-1D23-4660-B9B0-7AF9AA22E3AE,8EBEDD47-D907-4EF2-ACF5-A6BE409F8981,2011.0,1,0.0,0.0,1.0

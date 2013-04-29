@@ -1,0 +1,10 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,131241,832126DD-C089-45DD-B0D0-83D1DEFFFAFC,C1D0334B-1BC0-4D8E-99CA-185565044BDE,300.00,"Anxiety state, unspecified",,,1
+0,131246,832126DD-C089-45DD-B0D0-83D1DEFFFAFC,9A82141D-CD5F-4B1C-B62C-2808AAAA81F0,345.9,"Epilepsy, unspecified                                                                                                                                                                                                                                          ",,,0
+0,131251,832126DD-C089-45DD-B0D0-83D1DEFFFAFC,F2A3574F-1F9C-4682-8AD4-2D7BB96D858C,V70.0,Routine general medical examination at a health care facility,2010.0,2010.0,1
+0,131256,832126DD-C089-45DD-B0D0-83D1DEFFFAFC,80868578-9440-4A8C-A9AA-3C3F6EEEC2B0,599.0,"Urinary tract infection, site not specified",,,1
+0,131261,832126DD-C089-45DD-B0D0-83D1DEFFFAFC,116541E4-4B20-401B-9BAD-CD43129E050C,556.9,"Ulcerative colitis, unspecified",,,0
+0,131266,832126DD-C089-45DD-B0D0-83D1DEFFFAFC,CB891D83-8C91-43D4-9438-DF30BFE9EABE,627,Menopausal and postmenopausal disorders                                                                                                                                                                                                                        ,2007.0,,0
+0,131271,832126DD-C089-45DD-B0D0-83D1DEFFFAFC,1DE53D62-2D09-42AA-8241-E98F59EA411C,268.9,Unspecified vitamin D deficiency,2010.0,,0
+0,131276,832126DD-C089-45DD-B0D0-83D1DEFFFAFC,03C8EA0C-A4CA-4F77-BAC0-45052E70C586,461.9,"Acute sinusitis, unspecified",2011.0,2011.0,1
+0,131281,832126DD-C089-45DD-B0D0-83D1DEFFFAFC,8A4A666F-FD0B-412A-AD96-88464704955F,466.0,Acute bronchitis,2011.0,2011.0,0

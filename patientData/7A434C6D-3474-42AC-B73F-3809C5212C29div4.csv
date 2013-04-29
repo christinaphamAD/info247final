@@ -1,0 +1,7 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,43009,7A434C6D-3474-42AC-B73F-3809C5212C29,CAF90F45-8DF8-4D92-AF44-1C54FD4D925D,296.20,"Major depressive disorder, single episode, unspecified degree",,,0
+0,43025,7A434C6D-3474-42AC-B73F-3809C5212C29,A28974A6-1A75-4D54-BB47-1D79C8EB30CF,701.9,Unspecified hypertrophic and atrophic conditions of skin,2011.0,,0
+0,43041,7A434C6D-3474-42AC-B73F-3809C5212C29,D52A02D0-E23A-4C12-A280-7DA622FBFBE7,716.9,Unspecified arthropathy                                                                                                                                                                                                                                        ,,,1
+0,43057,7A434C6D-3474-42AC-B73F-3809C5212C29,82864B9C-9C3F-4122-87D8-C448DAF67C52,709.00,"Dyschromia, unspecified",2011.0,,0
+0,43073,7A434C6D-3474-42AC-B73F-3809C5212C29,C34ECAEF-34A6-4DD9-8199-DE80AC5C1123,V70.0,Routine general medical examination at a health care facility,,,0
+0,43089,7A434C6D-3474-42AC-B73F-3809C5212C29,7F768CEE-0D68-4C7E-86D3-78CF70B4A9A0,401.9,Unspecified essential hypertension,2009.0,,0

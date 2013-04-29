@@ -1,0 +1,16 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,146468,6FA4491E-07BC-41D7-B3E7-AE339D58C0E6,9283CED8-76DF-4AAE-84B6-129A49F74B6B,845.00,Unspecified site of ankle sprain,,,1
+0,146479,6FA4491E-07BC-41D7-B3E7-AE339D58C0E6,EC9E3EE7-CFDE-4F03-8D00-2014CD3E2FAD,780.52,"Insomnia, unspecified",2012.0,,0
+0,146490,6FA4491E-07BC-41D7-B3E7-AE339D58C0E6,005892DF-CE2F-4926-8972-226466D52EF9,611.71,Mastodynia,2009.0,,1
+0,146501,6FA4491E-07BC-41D7-B3E7-AE339D58C0E6,833BE163-EBDD-4A2B-B128-7B0395C5877D,477.9,"Allergic rhinitis, cause unspecified",2009.0,,1
+0,146512,6FA4491E-07BC-41D7-B3E7-AE339D58C0E6,5816870B-E2D0-4EB1-8187-85CF6AD03A32,477,Allergic rhinitis                                                                                                                                                                                                                                              ,,,1
+0,146523,6FA4491E-07BC-41D7-B3E7-AE339D58C0E6,8EC403BE-9063-4A50-B3A9-9FD8C6848918,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
+0,146534,6FA4491E-07BC-41D7-B3E7-AE339D58C0E6,B50BF5B7-C5AB-462D-B76D-AB2CD56ED378,110.2,Dermatophytosis of hand,,,1
+0,146545,6FA4491E-07BC-41D7-B3E7-AE339D58C0E6,12C61F96-1FCF-4532-A4F3-AFDDE34F1C06,346,Migraine                                                                                                                                                                                                                                                       ,,,0
+0,146556,6FA4491E-07BC-41D7-B3E7-AE339D58C0E6,AFC2250F-2211-43A2-B973-DAAA7841C53B,616.10,"Vaginitis and vulvovaginitis, unspecified",2009.0,,1
+0,146567,6FA4491E-07BC-41D7-B3E7-AE339D58C0E6,97D3BF53-E1AB-4F62-82A9-E439E3FDAA07,780.4,Dizziness and giddiness,,,1
+0,146578,6FA4491E-07BC-41D7-B3E7-AE339D58C0E6,93B654D6-7EBE-4E63-829A-EF32EA48BD41,V45.77,Acquired absence of genital organs,2009.0,,1
+0,146589,6FA4491E-07BC-41D7-B3E7-AE339D58C0E6,6CB30519-7897-44EB-95EE-F997ABDE9D21,354.0,Carpal tunnel syndrome,,,1
+0,146600,6FA4491E-07BC-41D7-B3E7-AE339D58C0E6,2C334101-FD9A-4442-87AA-2DFDC86ED192,346.9,"Migraine, unspecified                                                                                                                                                                                                                                          ",,,0
+0,146611,6FA4491E-07BC-41D7-B3E7-AE339D58C0E6,1D7AD7D8-0477-4A31-99DD-79E6400E6CF5,787.1,Heartburn,2012.0,,0
+0,146622,6FA4491E-07BC-41D7-B3E7-AE339D58C0E6,AB0AEB64-6330-4767-B208-7AE710ACEDB6,461.9,"Acute sinusitis, unspecified",2012.0,2012.0,0

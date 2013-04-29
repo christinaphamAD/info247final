@@ -1,0 +1,10 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,133048,1EF22DAD-7E23-4EBC-BAC8-8B0E2A4EC96A,02772C7B-AB76-43F9-9099-38359C807748,272.4,Other and unspecified hyperlipidemia,2009.0,,0
+0,133057,1EF22DAD-7E23-4EBC-BAC8-8B0E2A4EC96A,341B822D-4ECC-4492-A51C-3E4F44C4F9DB,053.9,Herpes zoster without mention of complication,,,1
+0,133066,1EF22DAD-7E23-4EBC-BAC8-8B0E2A4EC96A,4681036F-16C4-4F7B-AC33-753FC7BABA7F,054.0,Eczema herpeticum,,,1
+0,133075,1EF22DAD-7E23-4EBC-BAC8-8B0E2A4EC96A,8EEF7175-C3A6-42C4-91DA-8089B4A3EBAC,V72.84,"Preoperative examination, unspecified",,,1
+0,133084,1EF22DAD-7E23-4EBC-BAC8-8B0E2A4EC96A,67464D75-DB1E-4383-A8A5-D8D20693E4C6,250.52,"Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with ophthalmic manifestations",,,0
+0,133093,1EF22DAD-7E23-4EBC-BAC8-8B0E2A4EC96A,1849EE07-9ECF-44CF-9FC2-D976E9815766,366,Cataract                                                                                                                                                                                                                                                       ,,,0
+0,133102,1EF22DAD-7E23-4EBC-BAC8-8B0E2A4EC96A,EC00A9E4-863F-4AE6-B5AC-E2204B8A5B2F,250.42,"Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with renal manifestations",,,0
+0,133111,1EF22DAD-7E23-4EBC-BAC8-8B0E2A4EC96A,6820A351-9EE9-4E18-903F-FDF76584F0A0,487,Influenza                                                                                                                                                                                                                                                      ,,,1
+0,133120,1EF22DAD-7E23-4EBC-BAC8-8B0E2A4EC96A,50E2B7AB-7EB0-4117-9FFF-AF03D520C554,401.9,Unspecified essential hypertension,,,0

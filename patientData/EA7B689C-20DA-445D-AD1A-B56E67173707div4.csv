@@ -1,0 +1,7 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,149690,EA7B689C-20DA-445D-AD1A-B56E67173707,054E1B9E-BB5D-4DE5-B712-28165B2E7B03,616.10,"Vaginitis and vulvovaginitis, unspecified",,,1
+0,149696,EA7B689C-20DA-445D-AD1A-B56E67173707,B613C6CF-BB2F-45C0-AFA3-2D21C91346A1,V76.2,Screening for malignant neoplasms of the cervix,2011.0,2011.0,1
+0,149702,EA7B689C-20DA-445D-AD1A-B56E67173707,C23203A2-ADF2-4AFE-A34A-9A0E7B72E47B,795.02,Papanicolaou smear of cervix with atypical squamous cells cannot exclude high grade squamous intraepithelial lesion (ASC-H),2011.0,,0
+0,149708,EA7B689C-20DA-445D-AD1A-B56E67173707,C3C8BEA4-3109-42D6-8844-BE566F5925A3,V25.9,Encounter for unspecified contraceptive management,,,0
+0,149714,EA7B689C-20DA-445D-AD1A-B56E67173707,863A89B7-75F7-49AB-A0BC-F98EE3DE0D4F,461.9,"Acute sinusitis, unspecified",,,1
+0,149720,EA7B689C-20DA-445D-AD1A-B56E67173707,21438516-54F2-4D1C-BC0F-EAC229602D13,599.0,"Urinary tract infection, site not specified",2011.0,,0

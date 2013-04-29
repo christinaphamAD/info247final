@@ -1,0 +1,2 @@
+,index,PatientGuid,Gender,YearOfBirth,SmokingStatusGuid,VisitYear,Height,Weight,BMI,SystolicBP,DiastolicBP,RespiratoryRate,Temperature,TranscriptGuid,Age,NotSmoker,BloodPressureStatus,BMIStatus
+0,3223,379D7809-EE84-4A3B-A81C-0B6CE2EFBDDE,F,1959,5ABBAB35-836F-4F3E-8632-CE063828DA15,2012.0,71.0,246.0,36.031999999999996,150.0,100.0,16.0,97.799999999999997,B5973BAC-CC95-406F-AA5F-11D980BBF4ED,54,False,Hypertension Stage 1,Obese

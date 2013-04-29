@@ -1,0 +1,4 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,19849,D8C59642-DC7D-4484-B09C-2FF3A43C6C41,Fioricet (APAP/butalbital/caffeine) oral tablet,325 mg-50 mg-40 mg,,67E1D26A-0CE1-4A5A-8323-5CD18C2C3BFF,E22903C0-F19B-4D01-8A09-3FB74BD5C3F6,2011.0,50,0.0,0.0,1.0
+0,19852,D8C59642-DC7D-4484-B09C-2FF3A43C6C41,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,80A00E53-02C2-4921-8EA4-DEA96F3FF66E,540CC2F9-67D4-4B13-ADC8-BE0CD8883FB4,2011.0,20,0.0,0.0,1.0
+0,19855,D8C59642-DC7D-4484-B09C-2FF3A43C6C41,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,51A6014E-9F58-4F57-86C0-A7BA73EDB1CC,A99B48AC-BA53-4D0E-9FDF-26B063C495CE,2011.0,20,0.0,0.0,1.0

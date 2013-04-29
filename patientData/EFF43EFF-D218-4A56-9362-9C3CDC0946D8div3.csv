@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,792232,EFF43EFF-D218-4A56-9362-9C3CDC0946D8,Trilipix (fenofibric acid) oral delayed release capsule,135 mg,,99ABB6AE-6BA8-417A-A5FD-080A3C25BAD1,32FC721B-7698-4370-9C68-F269173AF91B,2011.0,30.0,5.0,0.0,1.0

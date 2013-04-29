@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,3670,29D12DD8-4189-498B-BE73-0C420D8C7C6A,Phenergan (promethazine) injectable solution,25 mg/mL,,,6781AB1D-B88D-4F38-83D1-377A8557DEE3,,,,,

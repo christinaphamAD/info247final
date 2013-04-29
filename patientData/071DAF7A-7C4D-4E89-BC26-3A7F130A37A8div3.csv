@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,44627,071DAF7A-7C4D-4E89-BC26-3A7F130A37A8,Zoloft (sertraline) oral tablet,50 mg,,5D431DE7-0967-4263-A550-CA0F828A7675,AACFA301-2169-4A5E-BFAE-C5590E196E44,2009.0,30,4.0,0.0,1.0

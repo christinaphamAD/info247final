@@ -1,0 +1,8 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,167512,B1A63F73-9B44-4E59-B38C-DC01E649DED2,27C934B2-CC76-46AC-894A-350734E1F71B,780.5,Sleep disturbances                                                                                                                                                                                                                                             ,2012.0,,0
+0,167517,B1A63F73-9B44-4E59-B38C-DC01E649DED2,AC073B8B-B7BA-4852-A4D1-59051A1B8D7A,782.0,Disturbance of skin sensation,2011.0,,0
+0,167522,B1A63F73-9B44-4E59-B38C-DC01E649DED2,716DD10B-2FC8-4F77-9CD2-6E8FB6E9BD96,682.9,Cellulitis and abscess of unspecified sites,2009.0,,0
+0,167527,B1A63F73-9B44-4E59-B38C-DC01E649DED2,80E204E2-B61E-4595-89A7-9EE46630FA55,V70.0,Routine general medical examination at a health care facility,,,0
+0,167532,B1A63F73-9B44-4E59-B38C-DC01E649DED2,A672DA07-5A5B-439B-8B9F-A36AEDAFCC6E,268.9,Unspecified vitamin D deficiency,2012.0,,0
+0,167537,B1A63F73-9B44-4E59-B38C-DC01E649DED2,733D0137-7C93-49A3-9EF6-8B0C68B26E7F,401.9,Unspecified essential hypertension,2012.0,,0
+0,167542,B1A63F73-9B44-4E59-B38C-DC01E649DED2,FBFCEC7A-09B4-4C55-82D5-FD4010EACCB5,799.81,Decreased libido,2011.0,,0

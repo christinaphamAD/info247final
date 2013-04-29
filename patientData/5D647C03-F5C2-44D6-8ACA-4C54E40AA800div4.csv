@@ -1,0 +1,7 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,54408,5D647C03-F5C2-44D6-8ACA-4C54E40AA800,B2ECDE04-00A1-4923-89E8-22246CEA0E9B,300.0,Anxiety states                                                                                                                                                                                                                                                 ,2009.0,,0
+0,54436,5D647C03-F5C2-44D6-8ACA-4C54E40AA800,2C83FE1E-F775-4A75-8819-5812C5EA1CB8,461.9,"Acute sinusitis, unspecified",2010.0,,0
+0,54450,5D647C03-F5C2-44D6-8ACA-4C54E40AA800,562E0743-A8D5-4DF8-8EB3-9A161C2D046B,599.0,"Urinary tract infection, site not specified",,,0
+0,54464,5D647C03-F5C2-44D6-8ACA-4C54E40AA800,29F7C243-9D4D-41ED-B600-B868FED55837,V18.0,Family history of diabetes mellitus,2011.0,,0
+0,54478,5D647C03-F5C2-44D6-8ACA-4C54E40AA800,EB3FB901-AD9A-4470-B43D-BDFF60BB17F4,477.9,"Allergic rhinitis, cause unspecified",2010.0,,0
+0,54492,5D647C03-F5C2-44D6-8ACA-4C54E40AA800,3A96071D-EE7E-4046-B2AA-AC16BB4A3E1E,787.91,Diarrhea,2011.0,,0

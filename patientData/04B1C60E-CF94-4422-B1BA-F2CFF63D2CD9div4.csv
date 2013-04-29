@@ -1,0 +1,6 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,176083,04B1C60E-CF94-4422-B1BA-F2CFF63D2CD9,666B5BF8-C3B9-42B6-AB46-03D82511B7A8,V72.3,Gynecological examination,,,1
+0,176089,04B1C60E-CF94-4422-B1BA-F2CFF63D2CD9,CB25D5AD-7BB2-4420-9C79-53B2B54BC424,724.2,Lumbago,,,1
+0,176095,04B1C60E-CF94-4422-B1BA-F2CFF63D2CD9,D826669D-BB04-4EC2-A2DA-573DE46D87A6,627,Menopausal and postmenopausal disorders                                                                                                                                                                                                                        ,,,1
+0,176101,04B1C60E-CF94-4422-B1BA-F2CFF63D2CD9,969A038D-3FF7-41DC-B51A-1C099A327449,462.,Acute pharyngitis,2011.0,2011.0,0
+0,176107,04B1C60E-CF94-4422-B1BA-F2CFF63D2CD9,D136002D-246D-4803-BC1E-3BDD5E6F525F,786.2,Cough,2011.0,2011.0,0

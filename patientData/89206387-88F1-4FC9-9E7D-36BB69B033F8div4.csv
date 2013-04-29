@@ -1,0 +1,28 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,267977,89206387-88F1-4FC9-9E7D-36BB69B033F8,E0F506EB-8521-447C-B33E-0282BFA7C42B,272.4,Other and unspecified hyperlipidemia,2010.0,,0
+0,269705,89206387-88F1-4FC9-9E7D-36BB69B033F8,133617A7-413C-479D-9A58-0ADD3EC1901B,244.9,Unspecified hypothyroidism,2011.0,,0
+0,271433,89206387-88F1-4FC9-9E7D-36BB69B033F8,3C5B88F3-6F0F-41BC-9C39-100C8B194291,461.0,Acute sinusitis                                                                                                                                                                                                                                                ,,,0
+0,273161,89206387-88F1-4FC9-9E7D-36BB69B033F8,81D2437C-8D0D-482B-8D3C-100F3F8813E8,528.2,Oral aphthae,2010.0,,0
+0,274889,89206387-88F1-4FC9-9E7D-36BB69B033F8,8F2C4C81-06D1-4897-8D28-2ACED372D280,610.2,Fibroadenosis of breast,2009.0,,0
+0,276617,89206387-88F1-4FC9-9E7D-36BB69B033F8,B6269F40-FBF2-4E5E-89F1-2BCE05059876,530.11,Reflux esophagitis,2012.0,,0
+0,278345,89206387-88F1-4FC9-9E7D-36BB69B033F8,F7E24229-1995-49F8-87F2-38CC02890BA9,786.5,Unspecified chest pain,2009.0,,0
+0,280073,89206387-88F1-4FC9-9E7D-36BB69B033F8,955F73F8-B83C-4119-8663-44426DE333C9,238.2,Neoplasm of uncertain behavior of skin,2012.0,,0
+0,281801,89206387-88F1-4FC9-9E7D-36BB69B033F8,F46CFC3C-F288-47B6-8AB4-620945C409BD,285.9,"Anemia, unspecified",2011.0,,0
+0,283529,89206387-88F1-4FC9-9E7D-36BB69B033F8,6EAE7400-8761-4B4D-ABC1-65B441CD2227,296.21,"Major depressive disorder, single episode, mild degree",2010.0,,0
+0,285257,89206387-88F1-4FC9-9E7D-36BB69B033F8,368C02F9-6C38-4A10-A851-6BCF10C61574,782.1,Rash and other nonspecific skin eruption,2010.0,,0
+0,286985,89206387-88F1-4FC9-9E7D-36BB69B033F8,9D406EF1-3670-4F11-BE3D-8633943C18AB,553.0,Other hernia of abdominal cavity no obstruction or gangrene                                                                                                                                                                                                    ,2009.0,,0
+0,288713,89206387-88F1-4FC9-9E7D-36BB69B033F8,70332E4B-6F25-40D0-8935-8CEDD1D7A579,246.9,Unspecified disorder of thyroid,2011.0,,0
+0,290441,89206387-88F1-4FC9-9E7D-36BB69B033F8,40B5A0FC-530F-4155-A25D-973E37F7D728,447.6,"Arteritis, unspecified",2009.0,,0
+0,292169,89206387-88F1-4FC9-9E7D-36BB69B033F8,4551D44B-77FE-49F9-972A-C860F2EC835C,920.0,"Contusion of face, scalp, and neck except eye(s)                                                                                                                                                                                                               ",2009.0,,0
+0,293897,89206387-88F1-4FC9-9E7D-36BB69B033F8,3007E446-17CE-4AA2-B0BC-CB91DC7DEF34,692.9,"Contact dermatitis and other eczema, unspecified cause",2009.0,,0
+0,295625,89206387-88F1-4FC9-9E7D-36BB69B033F8,F59DDD8B-92FA-443D-AAB8-D1B78E2F9C58,535.0,Acute gastritis                                                                                                                                                                                                                                                ,2009.0,,0
+0,297353,89206387-88F1-4FC9-9E7D-36BB69B033F8,7546AB22-6897-4D76-B6BD-F60A1A5D8170,705.81,Dyshidrosis,2009.0,,0
+0,299081,89206387-88F1-4FC9-9E7D-36BB69B033F8,BBCBCA0D-EA65-4541-B499-0CEABD607EE9,783.1,Abnormal weight gain,2011.0,,0
+0,302537,89206387-88F1-4FC9-9E7D-36BB69B033F8,8EACB484-2BD9-4448-969B-0DDB4F109435,682.6,"Cellulitis and abscess of leg, except foot",2009.0,,0
+0,304265,89206387-88F1-4FC9-9E7D-36BB69B033F8,338CE8E1-3AC5-475E-89FF-1C234569CA15,724.2,Lumbago,2012.0,,0
+0,305993,89206387-88F1-4FC9-9E7D-36BB69B033F8,0F51E42F-56F3-4529-A529-56E0EFD2D4C9,847.0,Neck sprain,2009.0,,0
+0,307721,89206387-88F1-4FC9-9E7D-36BB69B033F8,C60D9966-C808-4892-8604-6312741CE348,530.1,Esophagitis                                                                                                                                                                                                                                                    ,2009.0,,0
+0,314633,89206387-88F1-4FC9-9E7D-36BB69B033F8,2EF52F30-65A0-47ED-86E9-96857C338984,296.22,"Major depressive disorder, single episode, moderate degree",2012.0,,0
+0,316361,89206387-88F1-4FC9-9E7D-36BB69B033F8,86059106-0D91-4032-9C51-971CA7D089A9,250.0,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",2011.0,,0
+0,321545,89206387-88F1-4FC9-9E7D-36BB69B033F8,0D724294-2C32-45CB-96B5-9A9EA00C2EB4,382.9,Unspecified otitis media,2010.0,,0
+0,323273,89206387-88F1-4FC9-9E7D-36BB69B033F8,4EF71EED-84E2-4BDD-B12C-E381E1D9C4E6,782.3,Edema,,,0

@@ -1,0 +1,5 @@
+,index,PatientGuid,AllergyGuid,StartYear_x,ReactionName,SeverityName,AllergyName
+0,71637,63D90903-8A99-416A-BD36-678CA18351AC,69266ACC-D6D4-4724-A5C1-5DF36F12A18F,2012.0,Rash - localized,Modest,Codeine Sulfate (codeine) oral tablet
+0,71655,63D90903-8A99-416A-BD36-678CA18351AC,89F0923A-77FB-47FC-97EC-665683E966C0,2012.0,Rash - localized,Modest,SulfADIAZINE oral tablet
+0,71673,63D90903-8A99-416A-BD36-678CA18351AC,B7C5F7B9-63AF-4C22-9F96-D467FFA347F2,2012.0,Pain/cramping,Modest,Tetracap (tetracycline) oral capsule
+0,71691,63D90903-8A99-416A-BD36-678CA18351AC,D1B85049-B3E6-484B-9787-D88D9CD4FC4A,2012.0,Irregular Heartbeat,Modest,Vicodin ES (acetaminophen-HYDROcodone) oral tablet

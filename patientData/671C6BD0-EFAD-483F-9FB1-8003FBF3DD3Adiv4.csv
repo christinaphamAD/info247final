@@ -1,0 +1,9 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,764988,671C6BD0-EFAD-483F-9FB1-8003FBF3DD3A,D23BF2DC-570B-4AAE-AEC5-11F238EB48D4,287.3,Primary thrombocytopenia,2012.0,,0
+0,765039,671C6BD0-EFAD-483F-9FB1-8003FBF3DD3A,C1C6F569-E3C6-4DB4-BE79-200BBDAC9505,719.4,Pain in joint                                                                                                                                                                                                                                                  ,2011.0,,0
+0,765090,671C6BD0-EFAD-483F-9FB1-8003FBF3DD3A,011C4CC1-FAD0-49DC-88D4-27F94CA8DFC4,278.0,Obesity                                                                                                                                                                                                                                                        ,2012.0,,0
+0,765141,671C6BD0-EFAD-483F-9FB1-8003FBF3DD3A,D638E960-4038-4446-91A2-85CF3C05C798,780.79,Other malaise and fatigue,2011.0,,0
+0,765192,671C6BD0-EFAD-483F-9FB1-8003FBF3DD3A,66F028EF-FCF0-4CB6-94B1-8B02CC5B74ED,272.2,Mixed hyperlipidemia,2011.0,,0
+0,765243,671C6BD0-EFAD-483F-9FB1-8003FBF3DD3A,0894675E-0EB1-4098-AB09-8595602DF2D0,477.9,"Allergic rhinitis, cause unspecified",2012.0,,0
+0,765294,671C6BD0-EFAD-483F-9FB1-8003FBF3DD3A,9A6CB408-9A8F-4F2C-803C-E3F05943E197,372.30,"Conjunctivitis, unspecified",2012.0,,0
+0,765345,671C6BD0-EFAD-483F-9FB1-8003FBF3DD3A,9C30636D-7A91-4158-B5B7-F74ADB93DBF2,401.9,Unspecified essential hypertension,2012.0,,0

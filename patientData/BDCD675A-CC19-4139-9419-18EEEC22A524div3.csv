@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,8076,BDCD675A-CC19-4139-9419-18EEEC22A524,Fioricet (APAP/butalbital/caffeine) oral tablet,325 mg-50 mg-40 mg,,B8D7F1E8-725B-44E5-B226-14560D405216,737302E3-0E50-4BD6-9E9D-8D29BDD03A00,2011.0,30,0.0,0.0,1.0
+0,8097,BDCD675A-CC19-4139-9419-18EEEC22A524,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,35D47DA4-30B7-4A64-BD26-98B067C33F18,3BD1DC3C-5617-4E7D-8081-FFFAF11FB091,2011.0,20,0.0,0.0,1.0

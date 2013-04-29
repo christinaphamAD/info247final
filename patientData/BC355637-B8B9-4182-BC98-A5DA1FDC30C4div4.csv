@@ -1,0 +1,8 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,143132,BC355637-B8B9-4182-BC98-A5DA1FDC30C4,81CF465A-0FF0-42F5-8F44-33E114002BF0,V72.3,Gynecological examination,,,0
+0,143142,BC355637-B8B9-4182-BC98-A5DA1FDC30C4,6A2DFFFF-ECE7-4BA8-A775-6E9F17EF55FD,706.1,Other acne,2009.0,,1
+0,143152,BC355637-B8B9-4182-BC98-A5DA1FDC30C4,D4B7234B-2D30-46AE-9A87-996D2E44C016,796.2,Elevated blood pressure reading without diagnosis of hypertension,,,1
+0,143162,BC355637-B8B9-4182-BC98-A5DA1FDC30C4,51AD090D-A307-45C6-8C07-BBC39B956EE8,844.0,Sprain of lateral collateral ligament of knee,,,1
+0,143172,BC355637-B8B9-4182-BC98-A5DA1FDC30C4,47B6D5B7-B5D2-42BE-8B2B-BF612B55D2EC,296.22,"Major depressive disorder, single episode, moderate degree",,,1
+0,143182,BC355637-B8B9-4182-BC98-A5DA1FDC30C4,DCC2EDB5-14B3-48C3-95E3-D93AFDF791D7,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
+0,143192,BC355637-B8B9-4182-BC98-A5DA1FDC30C4,AEB6A787-8E25-4AB8-9DAE-4A2EFD045FC5,461.9,"Acute sinusitis, unspecified",,,0

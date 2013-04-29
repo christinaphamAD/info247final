@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,156872,9B73887C-9908-41B2-A177-CA2D4D1B5466,Lexapro (escitalopram) oral tablet,10 mg,,7B91D328-4820-43EA-B2B1-68DBC07E36B1,C0965662-41D1-4589-BEAA-6A652738FF80,2011.0,30,3.0,0.0,1.0

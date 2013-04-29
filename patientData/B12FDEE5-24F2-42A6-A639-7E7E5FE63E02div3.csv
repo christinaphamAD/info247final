@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,130702,B12FDEE5-24F2-42A6-A639-7E7E5FE63E02,Synthroid (levothyroxine) oral tablet,175 mcg (0.175 mg),,A4D540B5-2E14-49E4-9474-27E8D6BC947B,7438A6E6-141E-4369-96A1-E2B43CED8723,2010.0,90,3.0,0.0,1.0
+0,130714,B12FDEE5-24F2-42A6-A639-7E7E5FE63E02,AcipHex (RABEprazole) oral enteric coated tablet,20 mg,,BE1E51FD-BC90-4DC2-B3E5-C5819D3267E0,901A0633-9632-4A73-A162-6B1D10185DB5,2010.0,12,,0.0,1.0

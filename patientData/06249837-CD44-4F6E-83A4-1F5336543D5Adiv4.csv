@@ -1,0 +1,16 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,11699,06249837-CD44-4F6E-83A4-1F5336543D5A,280AC40C-57C4-400E-9B35-0C8FF24DE886,V01.9,Contact with or exposure to unspecified communicable disease,2012.0,,0
+0,11718,06249837-CD44-4F6E-83A4-1F5336543D5A,5E7E2736-A776-4ACA-9EE9-406DDA4C0950,V70.0,Routine general medical examination at a health care facility,2012.0,,0
+0,11737,06249837-CD44-4F6E-83A4-1F5336543D5A,B52ACB16-9241-4152-80E1-53A8A9196F20,607.84,Impotence of organic origin,2011.0,,0
+0,11756,06249837-CD44-4F6E-83A4-1F5336543D5A,0C6849FC-6375-46E9-9442-5E203DBCD32D,327.23,Obstructive sleep apnea (adult) (pediatric),2011.0,2012.0,0
+0,11775,06249837-CD44-4F6E-83A4-1F5336543D5A,7D05A647-EE60-4F89-BE78-5F1599AD68EE,786.50,Unspecified chest pain,2011.0,,0
+0,11794,06249837-CD44-4F6E-83A4-1F5336543D5A,C60C0726-F4C1-4D9C-953D-604C9395DD8B,726.10,"Disorders of bursae and tendons in shoulder region, unspecified",2009.0,2012.0,0
+0,11813,06249837-CD44-4F6E-83A4-1F5336543D5A,1196780E-5B6F-4606-A11E-92232DE96F57,473,Chronic sinusitis                                                                                                                                                                                                                                              ,2011.0,2012.0,0
+0,11832,06249837-CD44-4F6E-83A4-1F5336543D5A,F880DF67-4B69-43B1-B164-CB1841C5BDAC,345.0,Generalized nonconvulsive epilepsy                                                                                                                                                                                                                             ,2009.0,2012.0,0
+0,11851,06249837-CD44-4F6E-83A4-1F5336543D5A,0E304065-822D-437E-8A5A-135CD913728F,296.0,"Bipolar i disorder, single manic episode                                                                                                                                                                                                                       ",2009.0,2012.0,0
+0,11870,06249837-CD44-4F6E-83A4-1F5336543D5A,7E28AC15-24DC-4AF7-B176-5751BB4C974C,493.00,Extrinsic asthma without mention of status asthmaticus,2010.0,2012.0,0
+0,11908,06249837-CD44-4F6E-83A4-1F5336543D5A,F37C6746-FC68-42B7-8489-68D6D2E146E2,780.39,Other convulsions,2009.0,,0
+0,12003,06249837-CD44-4F6E-83A4-1F5336543D5A,2EE3303E-A257-4516-895C-99C960F7B34F,300,"Anxiety, dissociative and somatoform disorders                                                                                                                                                                                                                 ",2010.0,,0
+0,12022,06249837-CD44-4F6E-83A4-1F5336543D5A,BD2F0DD7-4EC1-4799-ACF3-A85FBBB39C5D,493.92,"Asthma, unspecified type, with acute exacerbation",2009.0,2012.0,0
+0,12041,06249837-CD44-4F6E-83A4-1F5336543D5A,3B434195-6E79-4FCC-A792-D1146C0C14E3,780.52,"Insomnia, unspecified",2009.0,2012.0,0
+0,12098,06249837-CD44-4F6E-83A4-1F5336543D5A,FD1BE043-1F40-44F6-8791-F9F34B6D6885,786.2,Cough,,2012.0,0

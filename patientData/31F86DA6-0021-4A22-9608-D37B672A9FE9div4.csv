@@ -1,0 +1,12 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,827690,31F86DA6-0021-4A22-9608-D37B672A9FE9,9BE03B15-BF38-492C-9EEA-34B4848E0506,V70.0,Routine general medical examination at a health care facility,2011.0,2011.0,1
+0,827720,31F86DA6-0021-4A22-9608-D37B672A9FE9,5238EF9C-EFF9-454E-B4DF-3B91E260FBB4,266.2,Other B-complex deficiencies,2009.0,,0
+0,827750,31F86DA6-0021-4A22-9608-D37B672A9FE9,2C13184B-A9F0-4AEA-938A-3F0F8FC4B5CF,268.9,Unspecified vitamin D deficiency,2010.0,,0
+0,827780,31F86DA6-0021-4A22-9608-D37B672A9FE9,948B2E52-0448-4B0F-B1B4-760D9263A1CA,690.10,"Seborrheic dermatitis, unspecified",,,1
+0,827810,31F86DA6-0021-4A22-9608-D37B672A9FE9,3A378042-0448-44C4-B5F0-863197A9CC35,477.9,"Allergic rhinitis, cause unspecified",,,0
+0,827840,31F86DA6-0021-4A22-9608-D37B672A9FE9,9FA0F01D-9AE8-4E73-B690-97C0E1A4B6A6,386.11,Benign paroxysmal positional vertigo,,,0
+0,827870,31F86DA6-0021-4A22-9608-D37B672A9FE9,BF9C34FC-C628-4F28-BA07-B435D92ADD8E,278.01,Morbid obesity,,,0
+0,827900,31F86DA6-0021-4A22-9608-D37B672A9FE9,96FDB942-9DDD-4811-888B-BA622514C477,238.2,Neoplasm of uncertain behavior of skin,,,1
+0,827930,31F86DA6-0021-4A22-9608-D37B672A9FE9,63F55043-2150-4C86-8303-D499A314EF12,729.1,"Myalgia and myositis, unspecified",,,1
+0,827960,31F86DA6-0021-4A22-9608-D37B672A9FE9,4A078040-C11C-4083-ACE6-EC42EA8281F9,327.1,Organic disorder of excessive somnolence                                                                                                                                                                                                                       ,2009.0,,1
+0,827990,31F86DA6-0021-4A22-9608-D37B672A9FE9,B013E942-5E5C-4BB9-ADB0-BC58C244C6F7,844.9,Sprain of unspecified site of knee and leg,2009.0,,0

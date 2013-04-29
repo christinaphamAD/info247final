@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,3174,D167143F-DBA6-4B09-A3C2-0A93FB878622,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,,E5BD3C04-4363-428B-A909-98373A22345D,,,,,
+0,3183,D167143F-DBA6-4B09-A3C2-0A93FB878622,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,,A1E5BBD9-6B2E-4E60-A11B-BA88F22797D8,,,,,

@@ -1,0 +1,4 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,136088,FC028396-FF04-4A78-8B3F-9055F265A04C,Tobrex (tobramycin ophthalmic) ophthalmic solution,0.3%,,9E183E14-926C-4467-99B4-75CE764B210E,906419EA-79A9-48D8-88BA-F48121393412,2010.0,5,0.0,0.0,1.0
+0,136582,FC028396-FF04-4A78-8B3F-9055F265A04C,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,2E432B5D-DAFA-40BA-9710-2A999CFEF93D,9EF97C8D-BDEB-411E-9428-E59A3CCBD8B1,2010.0,240,0.0,0.0,1.0
+0,136620,FC028396-FF04-4A78-8B3F-9055F265A04C,Zithromax Z-Pak (azithromycin) oral tablet,250 mg,,863561E7-579E-4601-B5BD-A1E77894D23E,CD999949-5D58-4E69-B2D8-EEE5E39E0D7A,2010.0,1,0.0,0.0,1.0

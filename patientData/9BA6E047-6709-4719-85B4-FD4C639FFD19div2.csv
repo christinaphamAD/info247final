@@ -1,0 +1,5 @@
+,index,PatientGuid,AllergyGuid,StartYear_x,ReactionName,SeverityName,AllergyName
+0,194401,9BA6E047-6709-4719-85B4-FD4C639FFD19,3F6AFD02-28F8-4A87-9C1C-6E8133E2BADE,2011.0,Rash - generalized,Mild,Septra DS (sulfamethoxazole-trimethoprim) oral tablet
+0,194418,9BA6E047-6709-4719-85B4-FD4C639FFD19,C7F6AC0F-3985-4295-BF9D-738A753504F0,2012.0,Dizziness/Lightheadedness,Severe,CeleXA (citalopram) oral tablet
+0,194435,9BA6E047-6709-4719-85B4-FD4C639FFD19,B5F3F1F9-35A0-4618-88F4-C415CC9E03EB,2011.0,Rash - generalized,Mild,PC Pen VK (penicillin V potassium) oral tablet
+0,194452,9BA6E047-6709-4719-85B4-FD4C639FFD19,ECCA7B54-CD0E-4F78-A320-FB98F95E16CC,2011.0,Rash - generalized,Modest,Erythromycin Stearate (erythromycin) oral tablet

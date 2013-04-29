@@ -1,0 +1,5 @@
+,index,PatientGuid,AllergyGuid,StartYear_x,ReactionName,SeverityName,AllergyName
+0,168178,75CFB273-A70B-456C-AE17-E2FE8A0E2742,B55C62B6-AA0A-4C06-AE34-3AB907336F2E,2012.0,Rash - localized,Severe,Codeine Sulfate (codeine) oral tablet
+0,168195,75CFB273-A70B-456C-AE17-E2FE8A0E2742,B6D0B8C3-73A3-416C-8315-B42B872AD0C5,2012.0,Facial swelling,Severe,Nitrofurantoin Macrocrystals (nitrofurantoin) oral capsule
+0,168212,75CFB273-A70B-456C-AE17-E2FE8A0E2742,E77D5F97-D5EF-4AD4-B489-DC3B91484769,2012.0,Vomiting,Modest,Demerol HCl (meperidine) injectable solution
+0,168229,75CFB273-A70B-456C-AE17-E2FE8A0E2742,0AAE7589-DDD5-44C7-A0F6-E385F2D57306,2012.0,Rash - localized,Modest,Septra (sulfamethoxazole-trimethoprim) oral tablet

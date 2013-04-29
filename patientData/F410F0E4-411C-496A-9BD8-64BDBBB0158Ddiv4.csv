@@ -1,0 +1,9 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,70316,F410F0E4-411C-496A-9BD8-64BDBBB0158D,368A59DD-33C8-40A9-9EBE-0198183D17D3,782.3,Edema,2011.0,,0
+0,70321,F410F0E4-411C-496A-9BD8-64BDBBB0158D,DC82E580-6F98-406E-BDC0-837A8F919D6E,V72.84,"Preoperative examination, unspecified",2011.0,,0
+0,70326,F410F0E4-411C-496A-9BD8-64BDBBB0158D,A03F75DC-A1A0-443E-8D84-D651262C86E8,478.1,Other diseases of nasal cavity and sinuses,2011.0,,0
+0,70331,F410F0E4-411C-496A-9BD8-64BDBBB0158D,789258F1-9004-4B73-8881-D6F0E491E30E,782.1,Rash and other nonspecific skin eruption,2011.0,,0
+0,70336,F410F0E4-411C-496A-9BD8-64BDBBB0158D,989D578F-A44E-48DF-B478-E3CC3DFCDC05,473,Chronic sinusitis                                                                                                                                                                                                                                              ,2011.0,,0
+0,70341,F410F0E4-411C-496A-9BD8-64BDBBB0158D,69EE1508-5583-4602-8992-2D1C59332B17,382.9,Unspecified otitis media,2009.0,,0
+0,70346,F410F0E4-411C-496A-9BD8-64BDBBB0158D,6CF689F7-0BAD-4A3E-BC5A-74C2C3BA8D8B,493.00,Extrinsic asthma without mention of status asthmaticus,2010.0,,0
+0,70351,F410F0E4-411C-496A-9BD8-64BDBBB0158D,D563501F-8237-4C43-8D10-ACC626EB0104,461.9,"Acute sinusitis, unspecified",2009.0,,0

@@ -1,0 +1,2 @@
+,index,PatientGuid,Gender,YearOfBirth,SmokingStatusGuid,VisitYear,Height,Weight,BMI,SystolicBP,DiastolicBP,RespiratoryRate,Temperature,TranscriptGuid,Age,NotSmoker,BloodPressureStatus
+0,161416,36DEA18F-2C50-4388-8E97-D4C23A4579F4,F,1976,5ABBAB35-836F-4F3E-8632-CE063828DA15,2012.0,,154.0,,140.0,85.0,14.0,97.400000000000006,569753C5-E443-47AE-B3E9-8C6238B11D53,37,False,Prehypertension

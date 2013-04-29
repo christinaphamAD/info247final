@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,142858,8AC60D17-87C5-43B6-978C-A3F119C6C777,Lodine (etodolac) oral tablet,500 mg,,18BFEE4F-D143-42BD-9009-E0305564723E,9B36B96A-AB77-4B6F-AD3E-B0DCD7452B0D,2012.0,60,0.0,0.0,1.0
+0,142864,8AC60D17-87C5-43B6-978C-A3F119C6C777,SUMAtriptan Succinate (SUMAtriptan) oral tablet,50 mg,,8DE14B4B-FAEA-46F8-A19C-79C2C5EDB599,2551EDC7-EF42-4E08-A737-4E7D1710B7A1,2009.0,20,4.0,0.0,1.0

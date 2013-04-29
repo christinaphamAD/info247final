@@ -1,0 +1,10 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,1543,DCD7836A-3E97-41EE-BCFC-06DB4E2424C1,1CB0716A-E1D5-45F2-9511-05E32A8A27DF,V22,Normal pregnancy                                                                                                                                                                                                                                               ,,,0
+0,1547,DCD7836A-3E97-41EE-BCFC-06DB4E2424C1,57920C8C-0E9D-4551-B421-112DEFB7E44F,794.8,Nonspecific abnormal results of function study of liver,2010.0,,0
+0,1551,DCD7836A-3E97-41EE-BCFC-06DB4E2424C1,A8E2A976-0124-45B2-AA12-1BC459424E31,V70.0,Routine general medical examination at a health care facility,2010.0,,0
+0,1555,DCD7836A-3E97-41EE-BCFC-06DB4E2424C1,11D6141F-B9AE-42B4-9AC0-287D9CCA4CBC,244.9,Unspecified hypothyroidism,2010.0,,0
+0,1559,DCD7836A-3E97-41EE-BCFC-06DB4E2424C1,4FDF454A-F85A-48A4-9939-5662DC6B4132,788.41,Urinary frequency,2010.0,,0
+0,1563,DCD7836A-3E97-41EE-BCFC-06DB4E2424C1,2468F6FA-913C-4A2D-A615-9196FFE59AF8,786.2,Cough,,,0
+0,1567,DCD7836A-3E97-41EE-BCFC-06DB4E2424C1,DB8FB93E-0F80-438A-AFC9-C2688ED89EA5,272.4,Other and unspecified hyperlipidemia,2010.0,,0
+0,1571,DCD7836A-3E97-41EE-BCFC-06DB4E2424C1,FFD4FC61-CD31-40E9-886A-CDB8B8943CD9,461.9,"Acute sinusitis, unspecified",,,0
+0,1575,DCD7836A-3E97-41EE-BCFC-06DB4E2424C1,611D1E27-1019-4687-9B0C-3208EE789219,846.0,Lumbosacral (joint) (ligament) sprain,2010.0,,0

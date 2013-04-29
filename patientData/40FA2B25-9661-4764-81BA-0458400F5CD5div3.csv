@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,696,40FA2B25-9661-4764-81BA-0458400F5CD5,Lunesta (eszopiclone) oral tablet,3 mg,4.0,DAEE3330-DA9D-446C-9D42-8B387B12B75E,9325B4FC-F906-48A0-A2D9-49123E5D1480,2011.0,90,1.0,0.0,1.0

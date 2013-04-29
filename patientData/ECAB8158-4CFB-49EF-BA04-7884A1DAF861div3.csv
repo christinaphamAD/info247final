@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,127825,ECAB8158-4CFB-49EF-BA04-7884A1DAF861,Keflex (cephalexin) oral capsule,monohydrate 500 mg,,5EBDE730-D61D-4628-B7D4-907E48BA19CB,044FD833-AAD6-4928-A368-8E93A9EAEDF9,2009.0,,,0.0,1.0

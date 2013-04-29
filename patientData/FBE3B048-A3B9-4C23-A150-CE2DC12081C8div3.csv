@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,823214,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,Ventolin HFA (albuterol) inhalation aerosol with adapter,CFC free 90 mcg/inh,,E6AEBC70-2FD0-4885-8D71-B1E9CD7C4B82,390C7F2F-FB8E-46BE-A678-7F3EC88635E1,2009.0,,0.0,0.0,1.0
+0,823406,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,Pravastatin Sodium (pravastatin) oral tablet,40 mg,,BF970BF6-4C98-4CD3-AC1A-CF8C3669706B,B59C7290-EAC4-44B7-8467-47F014B7BED1,2011.0,90.0,3.0,0.0,1.0

@@ -1,0 +1,6 @@
+,index,PatientGuid,AllergyGuid,StartYear_x,ReactionName,SeverityName,AllergyName
+0,48937,795BFB33-D923-44ED-B282-480E54E174F9,51052EA2-C6E7-455D-9957-0CA2F289A268,2011.0,Dizziness/Lightheadedness,Severe,"Pristiq (desvenlafaxine) oral tablet, extended release"
+0,48960,795BFB33-D923-44ED-B282-480E54E174F9,B6F60F09-1C2D-4229-9B47-3DC22D353E86,2011.0,Itchiness,Mild,Tylenol with Codeine (acetaminophen-codeine) oral liquid
+0,48983,795BFB33-D923-44ED-B282-480E54E174F9,F8AE4B39-C8E9-46D9-90C0-AD444A903CE8,2011.0,Nausea,Mild,LamISIL (terbinafine) oral tablet
+0,49006,795BFB33-D923-44ED-B282-480E54E174F9,CA671573-6136-4C78-B957-D05021889033,2011.0,Rash - generalized,Very Mild,Septra DS (sulfamethoxazole-trimethoprim) oral tablet
+0,49029,795BFB33-D923-44ED-B282-480E54E174F9,7CF63D5F-C5E4-403B-9350-DF88E2BF52FA,2012.0,Rash - localized,Modest,"Wellbutrin XL (buPROPion) oral tablet, extended release"

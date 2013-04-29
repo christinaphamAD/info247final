@@ -1,0 +1,4 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,860047,46209E44-9138-4A36-B9B5-EBBC2D0DB51B,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,B4D26BDF-2CC6-4E3D-B7EC-2FFD61325D01,D9E17993-5810-4218-9D3D-26C222034FA7,2011.0,20.0,0.0,0.0,1.0
+0,860056,46209E44-9138-4A36-B9B5-EBBC2D0DB51B,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,D91C06D3-31F1-4208-921F-D88F0669693E,45670F11-EF3F-45B9-96A2-C031ECB75BD6,2011.0,20.0,0.0,0.0,1.0
+0,860065,46209E44-9138-4A36-B9B5-EBBC2D0DB51B,Elimite (permethrin topical) topical cream,5%,,,4969EFA2-A8CE-4BFA-8C2B-B887946BF11B,,,,,

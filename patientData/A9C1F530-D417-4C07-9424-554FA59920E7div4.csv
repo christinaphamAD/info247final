@@ -1,0 +1,11 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,615500,A9C1F530-D417-4C07-9424-554FA59920E7,95F50660-80FF-4828-82AF-0D0E16998FD2,595.1,Chronic interstitial cystitis,2009.0,,0
+0,615524,A9C1F530-D417-4C07-9424-554FA59920E7,2D5A0B3C-54E5-46C4-A6AD-234BF087F403,401.9,Unspecified essential hypertension,2007.0,,0
+0,615548,A9C1F530-D417-4C07-9424-554FA59920E7,7816A2A1-A8A7-4773-AE5E-39B5AE12327D,790.29,Other abnormal glucose,2010.0,,0
+0,615572,A9C1F530-D417-4C07-9424-554FA59920E7,418669A3-367B-4FDD-A2B9-3E73BC9B7EA9,V70.0,Routine general medical examination at a health care facility,2011.0,2011.0,1
+0,615596,A9C1F530-D417-4C07-9424-554FA59920E7,CE2E5545-9FE2-4080-B56E-4D213D912EF4,244.9,Unspecified hypothyroidism,,,0
+0,615620,A9C1F530-D417-4C07-9424-554FA59920E7,C2E74A95-8B53-4EC9-9674-9C76A843532B,174,Malignant neoplasm of female breast                                                                                                                                                                                                                            ,2005.0,,0
+0,615644,A9C1F530-D417-4C07-9424-554FA59920E7,9A1D4365-CB19-462D-8BB5-AF583AE999FE,794.5,Nonspecific abnormal results of function study of thyroid,2009.0,,1
+0,615668,A9C1F530-D417-4C07-9424-554FA59920E7,789C2113-6500-40CA-9E50-C8B1622099DD,599.0,"Urinary tract infection, site not specified",,,1
+0,615692,A9C1F530-D417-4C07-9424-554FA59920E7,FC5AB37F-672A-41BF-8B4C-EBA80256A74A,268,Vitamin d deficiency                                                                                                                                                                                                                                           ,2009.0,,0
+0,615716,A9C1F530-D417-4C07-9424-554FA59920E7,91C56246-F85D-49F8-A4C0-F7291093230C,790.4,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH],2009.0,,1

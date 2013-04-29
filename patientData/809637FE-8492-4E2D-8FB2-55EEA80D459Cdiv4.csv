@@ -1,0 +1,10 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,61109,809637FE-8492-4E2D-8FB2-55EEA80D459C,FC1EB648-6C84-4DFC-B140-2A39478D9847,448.1,"Nevus, non-neoplastic",,,1
+0,61122,809637FE-8492-4E2D-8FB2-55EEA80D459C,FD503025-0310-416E-874F-3F9461402A41,V70.0,Routine general medical examination at a health care facility,2009.0,,1
+0,61135,809637FE-8492-4E2D-8FB2-55EEA80D459C,D3A9A9BB-2D24-4AF4-9E83-3FA7618A7D0E,995.2,Unspec adverse effect of drug due to proper administration,2010.0,,0
+0,61148,809637FE-8492-4E2D-8FB2-55EEA80D459C,402F471B-D2AC-4114-A505-4341977E209F,780.2,Syncope and collapse,,,1
+0,61161,809637FE-8492-4E2D-8FB2-55EEA80D459C,8C2E1FCB-16FF-4F6A-9BE1-74BD849B13B4,110.8,Dermatophytosis of other specified sites,,,1
+0,61174,809637FE-8492-4E2D-8FB2-55EEA80D459C,8C4C652A-A2C7-4655-AD26-2E161064C62D,401.9,Unspecified essential hypertension,2010.0,,0
+0,61226,809637FE-8492-4E2D-8FB2-55EEA80D459C,47295264-E76A-4C46-8B29-81913708DD45,300.0,Anxiety states                                                                                                                                                                                                                                                 ,,,0
+0,61252,809637FE-8492-4E2D-8FB2-55EEA80D459C,D9E4A404-3DBE-4574-8D1C-D5AAAE356172,706.1,Other acne,,,0
+0,61265,809637FE-8492-4E2D-8FB2-55EEA80D459C,B10EA228-6B58-4CF0-A708-D91D125E5EA0,110.0,Dermatophytosis of scalp and beard,2010.0,,0

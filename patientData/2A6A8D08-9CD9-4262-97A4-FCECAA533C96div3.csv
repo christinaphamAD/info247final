@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,194154,2A6A8D08-9CD9-4262-97A4-FCECAA533C96,Itraconazole oral capsule,100 mg,,608AE109-EE1F-48E1-BF9C-5708C6EB4904,FE2D188D-42CE-42C0-A3C0-0E1E83F4008B,2011.0,14,0.0,0.0,1.0
+0,194162,2A6A8D08-9CD9-4262-97A4-FCECAA533C96,LamISIL (terbinafine) oral tablet,250 mg,,538CEDF5-74BA-4873-8E92-DCF188E42755,9EC77355-99BF-4498-80E7-14C0C364B349,2010.0,30,0.0,0.0,1.0

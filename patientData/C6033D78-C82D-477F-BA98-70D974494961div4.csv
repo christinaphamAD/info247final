@@ -1,0 +1,11 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,122522,C6033D78-C82D-477F-BA98-70D974494961,778DD6A3-D24F-43C9-8C25-1287C3CAF994,786.2,Cough,2009.0,,0
+0,122534,C6033D78-C82D-477F-BA98-70D974494961,B0129F62-378C-4360-AC4A-24400608716B,296.33,"Major depressive disorder, recurrent episode, severe degree, without mention of psychotic behavior",,,1
+0,122546,C6033D78-C82D-477F-BA98-70D974494961,33BD5554-4C93-49FC-8FD2-4D874F7E9152,V70.0,Routine general medical examination at a health care facility,,,1
+0,122558,C6033D78-C82D-477F-BA98-70D974494961,99C72A57-80A8-4D76-A83D-5D69E08E343A,V22,Normal pregnancy                                                                                                                                                                                                                                               ,,,1
+0,122570,C6033D78-C82D-477F-BA98-70D974494961,E7870BB1-15AD-44FD-BBDB-7CF5E63B29AC,382.9,Unspecified otitis media,2009.0,,0
+0,122582,C6033D78-C82D-477F-BA98-70D974494961,FB56171B-0D2B-45C6-A620-A30E1431FF94,214,Lipoma                                                                                                                                                                                                                                                         ,,,0
+0,122594,C6033D78-C82D-477F-BA98-70D974494961,5AB5EF10-2B47-43F3-9409-B10A02FB5986,354.0,Carpal tunnel syndrome,,,1
+0,122606,C6033D78-C82D-477F-BA98-70D974494961,EE1D39CA-D1B0-40F5-A73D-EEDAD711A483,V22.2,"Pregnant state, incidental",2009.0,,0
+0,122618,C6033D78-C82D-477F-BA98-70D974494961,04D01F39-735B-473F-9BF1-F02E83F98403,244.9,Unspecified hypothyroidism,,,0
+0,122630,C6033D78-C82D-477F-BA98-70D974494961,F83DA64B-8AB9-48A9-AA83-FB543876C8CA,461.9,"Acute sinusitis, unspecified",2009.0,,0

@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,132035,9E1AAB44-11A7-40B5-BB7F-8789CD41E376,AmLODIPine Besylate (amLODIPine) oral tablet,5 mg,,6AE80252-ABBF-4996-8B87-23D9DEA06728,3F92C05B-A472-4326-A923-65DC3A1FB8FD,2011.0,30,2.0,0.0,1.0

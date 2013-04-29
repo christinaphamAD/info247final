@@ -1,0 +1,11 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,141502,860D4BF8-E73F-48D7-B1EA-9C96944E6CC3,0D40ED73-573C-41AB-810D-028293A18835,274.9,"Gout, unspecified",2010.0,,0
+0,141550,860D4BF8-E73F-48D7-B1EA-9C96944E6CC3,83D4AD36-DFB0-41BE-A84C-06F8974A79B7,272.4,Other and unspecified hyperlipidemia,,,0
+0,141558,860D4BF8-E73F-48D7-B1EA-9C96944E6CC3,155B1B94-4369-4F98-9027-1373951A3017,786.5,Chest pain                                                                                                                                                                                                                                                     ,,,1
+0,141566,860D4BF8-E73F-48D7-B1EA-9C96944E6CC3,5383C297-6EF5-4508-82C4-2B139F3274A7,702.1,Seborrheic keratosis,,,0
+0,141574,860D4BF8-E73F-48D7-B1EA-9C96944E6CC3,BE30BFB1-72E3-4366-ACC5-66CBDA627D3B,600.90,"Hyperplasia of prostate, unspecified, without urinary obstruction and other lower urinary symptoms (LUTS)",,,0
+0,141582,860D4BF8-E73F-48D7-B1EA-9C96944E6CC3,BD76FAA8-5A69-45BB-9C1C-BABBD21AD521,V72.84,"Preoperative examination, unspecified",,,1
+0,141590,860D4BF8-E73F-48D7-B1EA-9C96944E6CC3,98825A19-603B-4B59-9446-C66D9C2AA33D,403.11,"Hypertensive renal disease, benign, with renal failure",,,0
+0,141598,860D4BF8-E73F-48D7-B1EA-9C96944E6CC3,FE993033-CA5D-4054-BA3A-F8BDCE237961,372.13,Vernal conjunctivitis,,,1
+0,141606,860D4BF8-E73F-48D7-B1EA-9C96944E6CC3,5EBAF5D0-28F9-47EF-B30F-F91023A5255F,372.42,"Peripheral pterygium, progressive",,,0
+0,141614,860D4BF8-E73F-48D7-B1EA-9C96944E6CC3,275C2D5F-2F69-414B-B7CE-886ADC0FE0BA,401.9,Unspecified essential hypertension,,,0

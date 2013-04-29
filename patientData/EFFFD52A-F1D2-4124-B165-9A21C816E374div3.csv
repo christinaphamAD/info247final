@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,139283,EFFFD52A-F1D2-4124-B165-9A21C816E374,TraMADol Hydrochloride (traMADol) oral tablet,50 mg,,81BB2B49-6C43-4030-A2C0-818C816CB108,BC8B40D5-98EB-44AA-BD6E-E8041F9E9292,2010.0,30,0.0,0.0,1.0

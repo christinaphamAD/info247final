@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,131895,09A725B9-6B95-4816-93DA-85DAAFC155AC,NexIUM (esomeprazole) oral delayed release capsule,40 mg,,9E9AC8EA-4FA2-4744-94EF-5624800B5E52,482750F8-1762-4167-A14E-07D508F42AFE,2011.0,30,6.0,0.0,1.0

@@ -1,0 +1,4 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,826790,F335EC23-B58A-4F1C-A077-D2BFE9A44A01,"Ritalin LA (methylphenidate) oral capsule, extended release",40 mg/24 hr,2.0,636C76DD-CDD9-4E96-A6B9-678664DB6AD8,F362B5FD-7126-4A46-BA29-DFAFD9A5CB0A,2010.0,,,0.0,1.0
+0,826830,F335EC23-B58A-4F1C-A077-D2BFE9A44A01,"Wellbutrin XL (buPROPion) oral tablet, extended release",150 mg/24 hours,,C046CC77-063F-43B3-934F-C76D4FD93F78,D8177DED-5425-4E79-8111-AEB49234A9D8,2010.0,,,0.0,1.0
+0,826835,F335EC23-B58A-4F1C-A077-D2BFE9A44A01,"Effexor XR (venlafaxine) oral capsule, extended release",75 mg,,7417BB48-5361-4DA9-8BD8-BCA01250F28F,2C8ED7D2-306C-4378-BBDF-DDF57FC004A1,2010.0,,,0.0,1.0

@@ -1,0 +1,4 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,4038,8E6733FB-8375-4809-A82D-0E9B010D7700,6D59C365-2600-4968-8088-056938AFF9C8,272.4,Other and unspecified hyperlipidemia,2009.0,,0
+0,4050,8E6733FB-8375-4809-A82D-0E9B010D7700,F4E69F0C-3A38-4618-B42E-37383947BA58,368.9,Unspecified visual disturbance,2009.0,,0
+0,4053,8E6733FB-8375-4809-A82D-0E9B010D7700,0DFB4133-FBDA-490F-9767-A91CF4EF2FCD,V70.0,Routine general medical examination at a health care facility,2010.0,,0

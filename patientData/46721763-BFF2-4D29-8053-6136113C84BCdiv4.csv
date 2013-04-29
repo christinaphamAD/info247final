@@ -1,0 +1,8 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,66172,46721763-BFF2-4D29-8053-6136113C84BC,850D5C54-19B1-4878-BB76-7CF818270B83,717.9,Unspecified internal derangement of knee,2011.0,,0
+0,66180,46721763-BFF2-4D29-8053-6136113C84BC,29CA6130-0789-4D7D-876E-7D60B76E3705,466.0,Acute bronchitis,,,0
+0,66188,46721763-BFF2-4D29-8053-6136113C84BC,9F76F66F-65D0-44DE-81BC-C23E4CB5C11C,569.3,Hemorrhage of rectum and anus,2010.0,,0
+0,66196,46721763-BFF2-4D29-8053-6136113C84BC,BB21AA20-AC4C-4402-9AFD-E72BB9363F4D,382.9,Unspecified otitis media,2009.0,,0
+0,66204,46721763-BFF2-4D29-8053-6136113C84BC,41FCE050-6485-4338-B682-F295F46967EE,493.0,Extrinsic asthma                                                                                                                                                                                                                                               ,2009.0,,0
+0,66212,46721763-BFF2-4D29-8053-6136113C84BC,E49DB53A-471C-4B72-B8C1-80C5C5C90320,845.00,Unspecified site of ankle sprain,2011.0,,0
+0,66220,46721763-BFF2-4D29-8053-6136113C84BC,B732EFC2-AD7C-4317-8A0A-E631F9B7E9E3,845.00,Unspecified site of ankle sprain,2011.0,,0

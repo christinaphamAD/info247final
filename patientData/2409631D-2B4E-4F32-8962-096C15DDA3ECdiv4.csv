@@ -1,0 +1,10 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,2200,2409631D-2B4E-4F32-8962-096C15DDA3EC,163C7471-9014-426B-97CA-27502941AD69,724.2,Lumbago,2012.0,,0
+0,2226,2409631D-2B4E-4F32-8962-096C15DDA3EC,07F4E28F-8162-47D4-8B54-42A8DA62EFE2,053,Herpes zoster                                                                                                                                                                                                                                                  ,2012.0,2012.0,0
+0,2330,2409631D-2B4E-4F32-8962-096C15DDA3EC,35EC732B-2F52-486C-8DD3-4784146B409A,V70.0,Routine general medical examination at a health care facility,2010.0,,0
+0,2356,2409631D-2B4E-4F32-8962-096C15DDA3EC,D7AAE79F-3241-44E1-AF8F-EB8A72C5DEA2,728.85,Spasm of muscle,2012.0,2012.0,0
+0,2382,2409631D-2B4E-4F32-8962-096C15DDA3EC,E8FF69CC-9C93-4C58-A40E-F5ADDE2A21F2,726.10,"Disorders of bursae and tendons in shoulder region, unspecified",2012.0,,0
+0,2408,2409631D-2B4E-4F32-8962-096C15DDA3EC,8C725E5E-7E09-4535-859D-5D9EF588E416,846.0,Lumbosacral (joint) (ligament) sprain,2012.0,,0
+0,2434,2409631D-2B4E-4F32-8962-096C15DDA3EC,87ADC384-134C-4C66-81CC-62EDCFC3FC7D,382.9,Unspecified otitis media,2012.0,2012.0,0
+0,2460,2409631D-2B4E-4F32-8962-096C15DDA3EC,2D2A9F23-E746-406A-AB2E-C8C0C1B5564C,401.9,Unspecified essential hypertension,2010.0,,0
+0,2564,2409631D-2B4E-4F32-8962-096C15DDA3EC,0BCF3A0F-87F7-4FB6-B48F-DC87C3B2708A,244.9,Unspecified hypothyroidism,2011.0,,0

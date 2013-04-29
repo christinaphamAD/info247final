@@ -1,0 +1,11 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,46967,7A82F33C-4FF0-41A2-B0C7-45657E7CF002,F298FD67-3F8E-40DD-AD3B-18D074881866,847.0,Neck sprain,,,1
+0,46976,7A82F33C-4FF0-41A2-B0C7-45657E7CF002,A5CE4B74-B4C8-4E51-BC46-5B0451440BAA,691.8,Other atopic dermatitis and related conditions,,,1
+0,46985,7A82F33C-4FF0-41A2-B0C7-45657E7CF002,AE4947E2-73E5-4D3F-9141-654D634344F8,611.8,Other specified disorders of breast,,,1
+0,46994,7A82F33C-4FF0-41A2-B0C7-45657E7CF002,1F1065BD-EA62-41EA-BAE6-8DE6E9A0E78E,477,Allergic rhinitis                                                                                                                                                                                                                                              ,,,1
+0,47003,7A82F33C-4FF0-41A2-B0C7-45657E7CF002,C2169579-A666-4105-B35B-8FD89E706C0C,V72.3,Gynecological examination,2009.0,,1
+0,47012,7A82F33C-4FF0-41A2-B0C7-45657E7CF002,E45D31F7-B2C4-49BB-90C0-B2237925D419,V70.0,Routine general medical examination at a health care facility,2009.0,,1
+0,47021,7A82F33C-4FF0-41A2-B0C7-45657E7CF002,212FFD68-D196-4AE3-AB6E-B46223D9E244,244.9,Unspecified hypothyroidism,2009.0,,1
+0,47030,7A82F33C-4FF0-41A2-B0C7-45657E7CF002,995BA064-D014-43EA-9458-D80844B9A79C,648.83,"Abnormal glucose tolerance of mother, antepartum",2009.0,,1
+0,47039,7A82F33C-4FF0-41A2-B0C7-45657E7CF002,8EAF15B8-BEF3-4999-8E23-E2ABEA4DFB26,272.4,Other and unspecified hyperlipidemia,,,0
+0,47048,7A82F33C-4FF0-41A2-B0C7-45657E7CF002,F5A304A6-5B67-458F-B5FF-251DD0C92CD4,461.9,"Acute sinusitis, unspecified",2010.0,,0

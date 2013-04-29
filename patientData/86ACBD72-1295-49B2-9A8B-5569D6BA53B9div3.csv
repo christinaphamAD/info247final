@@ -1,0 +1,5 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,60892,86ACBD72-1295-49B2-9A8B-5569D6BA53B9,Zithromax Z-Pak (azithromycin) oral tablet,250 mg,,B07068D9-857A-4B20-A086-BC45525E0F5E,40B97A02-AB53-4889-BA9C-645006A0EA16,2010.0,1,0.0,0.0,1.0
+0,60922,86ACBD72-1295-49B2-9A8B-5569D6BA53B9,Tessalon (benzonatate) oral capsule,200 mg,,917EEAEB-CF93-423E-A71E-0274DE1765B3,7B1AE4BD-A185-4662-B540-11B4388D8763,2010.0,30,0.0,0.0,1.0
+0,60928,86ACBD72-1295-49B2-9A8B-5569D6BA53B9,Advair Diskus (fluticasone-salmeterol) inhalation powder,500 mcg-50 mcg,,B019E5F4-6000-421A-AF7E-415CFF21AB89,2566908C-787C-46B2-BF74-D2205811646B,2010.0,3,3.0,0.0,1.0
+0,60934,86ACBD72-1295-49B2-9A8B-5569D6BA53B9,Xopenex HFA (levalbuterol) inhalation aerosol with adapter,CFC free 45 mcg/inh,,,433AE5C2-BADD-479B-9C81-F95466CD8277,,,,,

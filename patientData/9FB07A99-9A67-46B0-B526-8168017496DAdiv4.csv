@@ -1,0 +1,7 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,765900,9FB07A99-9A67-46B0-B526-8168017496DA,AB66C89A-3433-4EBC-ADE7-0EC9EE834BDE,110.5,Dermatophytosis of the body,,,1
+0,766002,9FB07A99-9A67-46B0-B526-8168017496DA,799E73F1-7D84-4A79-8C79-1C733AF21E45,327.52,Sleep related leg cramps,,,1
+0,766104,9FB07A99-9A67-46B0-B526-8168017496DA,7A20799A-0F43-4797-9F24-3E0EE18BBCB1,250.40,"Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with renal manifestations",,,0
+0,766206,9FB07A99-9A67-46B0-B526-8168017496DA,AE4F2A18-9297-4BF3-9A27-B370E34D7899,V70.0,Routine general medical examination at a health care facility,,,1
+0,766308,9FB07A99-9A67-46B0-B526-8168017496DA,FB6D5542-D49C-4612-A593-C596844B4409,250.42,"Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with renal manifestations",,,1
+0,766410,9FB07A99-9A67-46B0-B526-8168017496DA,A578371E-84B8-44E2-91F5-640358D6AB45,599.0,"Urinary tract infection, site not specified",2009.0,2009.0,1

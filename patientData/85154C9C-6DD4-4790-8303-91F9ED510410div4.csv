@@ -1,0 +1,5 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,790832,85154C9C-6DD4-4790-8303-91F9ED510410,1E633CBB-7507-4F8E-852A-662E78A66A96,847.0,Neck sprain,2009.0,,1
+0,790952,85154C9C-6DD4-4790-8303-91F9ED510410,B1B05F9B-3262-447D-B533-6D2AC9D0AB9D,716.9,Unspecified arthropathy                                                                                                                                                                                                                                        ,2009.0,,0
+0,791012,85154C9C-6DD4-4790-8303-91F9ED510410,097B18F2-14CC-4469-A86B-9ECFB1369F5A,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
+0,791072,85154C9C-6DD4-4790-8303-91F9ED510410,894CF28E-98B8-4C66-8DC2-E9A7214DD80B,272.4,Other and unspecified hyperlipidemia,,,0

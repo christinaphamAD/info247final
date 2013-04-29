@@ -1,0 +1,4 @@
+,index,PatientGuid,AllergyGuid,StartYear_x,ReactionName,SeverityName,AllergyName
+0,144777,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,E72DDEBA-791D-4DEF-B9D0-172C950CF7B6,2012.0,Rash - generalized,Modest,Amoxil (amoxicillin) oral capsule
+0,144784,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,4813C127-36C4-4BD3-92DB-E03A8E47B4A5,2012.0,Pain/cramping,Modest,Zocor (simvastatin) oral tablet
+0,144791,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,DAB3BE06-9E54-4D98-A0B4-F780A4441010,2012.0,Pain/cramping,Modest,Crestor (rosuvastatin) oral tablet

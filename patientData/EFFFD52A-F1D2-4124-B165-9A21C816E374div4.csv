@@ -1,0 +1,10 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,139243,EFFFD52A-F1D2-4124-B165-9A21C816E374,E118CD65-CFDE-4988-92B9-38551E3DBFAB,427.89,Other specified cardiac dysrhythmias,,,0
+0,139248,EFFFD52A-F1D2-4124-B165-9A21C816E374,5CCA2BF1-531C-40BA-897A-51017A124DB6,V04.81,Need for prophylactic vaccination and inoculation against influenza,,,0
+0,139253,EFFFD52A-F1D2-4124-B165-9A21C816E374,8DB1E1B1-3F11-4C72-B201-80C52F13F134,796.2,Elevated blood pressure reading without diagnosis of hypertension,2010.0,,0
+0,139258,EFFFD52A-F1D2-4124-B165-9A21C816E374,78A566DC-2EFC-45B2-9EE5-CEFD0C86FC4E,716.90,"Arthropathy, unspecified, site unspecified",2010.0,,0
+0,139263,EFFFD52A-F1D2-4124-B165-9A21C816E374,B2711D2A-94B6-4D7E-B524-E15A90CB5CFA,789.0,Abdominal pain,2010.0,,0
+0,139268,EFFFD52A-F1D2-4124-B165-9A21C816E374,80C183C2-BFE1-4CD2-BE5F-E496322D60C6,V70.0,Routine general medical examination at a health care facility,2010.0,,0
+0,139273,EFFFD52A-F1D2-4124-B165-9A21C816E374,8FACDB47-6F0D-4081-9B6D-E8C45A71C09F,443.9,"Peripheral vascular disease, unspecified",2010.0,,0
+0,139278,EFFFD52A-F1D2-4124-B165-9A21C816E374,81C5BF75-D8D1-4CA9-BEE3-F6AC0B7C1F1E,726.6,Enthesopathy of knee                                                                                                                                                                                                                                           ,2009.0,,0
+0,139283,EFFFD52A-F1D2-4124-B165-9A21C816E374,CF2A1E23-80E6-46C1-90F4-D9BBC538C58F,788.0,Renal colic,2010.0,,0

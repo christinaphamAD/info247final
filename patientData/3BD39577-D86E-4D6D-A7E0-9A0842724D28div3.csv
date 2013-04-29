@@ -1,0 +1,3 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,139144,3BD39577-D86E-4D6D-A7E0-9A0842724D28,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,706F178E-789F-4324-A257-8D67E6D263F5,ACA558C3-6223-4E68-970C-C03231E83AC4,2010.0,20,0.0,0.0,1.0
+0,139225,3BD39577-D86E-4D6D-A7E0-9A0842724D28,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,E0614F24-F6AE-4E8C-8240-022BF2F4086A,98F6A418-15BC-4774-9B4F-CB9AEA954465,2010.0,60,0.0,0.0,1.0

@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,63607,5EBCAA1E-C2D4-4B24-BA04-5C36D5A60263,Lomotil (atropine-diphenoxylate) oral tablet,0.025 mg-2.5 mg,5.0,A9022871-2B0D-4A88-96B9-D886EA4CDBDB,50E19907-E45D-408F-833A-9084A6FA09CF,2009.0,30,1.0,0.0,1.0

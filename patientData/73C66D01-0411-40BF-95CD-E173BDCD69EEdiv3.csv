@@ -1,0 +1,4 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,168088,73C66D01-0411-40BF-95CD-E173BDCD69EE,Crestor (rosuvastatin) oral tablet,10 mg,,,8432546D-8F14-42F3-A57C-20F97A860588,,,,,
+0,168102,73C66D01-0411-40BF-95CD-E173BDCD69EE,Lipitor (atorvastatin) oral tablet,20 mg,,7DBF3637-4AAB-4AEF-91FD-4B8FBEAE4517,09A12206-4750-4293-ABC3-7DD84609B4D9,2012.0,90,3.0,0.0,1.0
+0,168116,73C66D01-0411-40BF-95CD-E173BDCD69EE,Diprolene AF (betamethasone topical) topical cream,"dipropionate, augmented 0.05%",,3FA3F38E-F71B-4230-8B46-9425740604CA,F4495032-D1D8-483A-AF49-F995606ACB68,2012.0,60,2.0,0.0,1.0

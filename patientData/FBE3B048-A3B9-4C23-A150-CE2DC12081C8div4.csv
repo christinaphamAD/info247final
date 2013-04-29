@@ -1,0 +1,20 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,821582,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,E20F3F94-CBF9-447C-899E-0B31466E0A93,720.2,"Sacroiliitis, not elsewhere classified",,,1
+0,821678,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,58127D73-9259-44EA-B031-1DFA143F4DF7,354.0,Carpal tunnel syndrome,,,1
+0,821774,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,C083919D-44F4-42D0-B3B7-1F72354EAB70,527.8,Other specified diseases of the salivary glands,,,1
+0,821870,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,3BF6C746-6310-4CDB-95F2-22195F188C9C,729.1,"Myalgia and myositis, unspecified",,,0
+0,821966,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,71BB2D2F-C2EE-4925-95F5-2DF221F9154D,724.2,Lumbago,,,1
+0,822062,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,0FE13595-B079-4326-8CB1-450862B01415,780.4,Dizziness and giddiness,,,1
+0,822158,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,103B1C15-3D4D-4D96-8AA9-5EECFEE41D2E,703.0,Ingrowing nail,,,1
+0,822254,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,65C92231-A153-4E0C-9C00-6D51AA60268A,296.33,"Major depressive disorder, recurrent episode, severe degree, without mention of psychotic behavior",2009.0,,0
+0,822350,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,1EA4AF3D-98AE-46C1-BB2C-6FE2FD3125B3,703.0,Ingrowing nail,,,1
+0,822446,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,D85FCB73-17F9-4EDE-9ED3-80C7F374F0D1,V72.3,Gynecological examination,,,1
+0,822542,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,72BD2F88-9E62-4D6E-8BDA-8D4BF85514B5,995.3,"Allergy, unspecified, not elsewhere classified",,,1
+0,822638,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,A3BED943-712B-4842-8935-B09DED72EE16,626.8,Other disorders of menstruation and other abnormal bleeding from female genital tract,2009.0,,1
+0,822734,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,B2D819C0-95C6-4DF6-AB2C-B74843EAAD26,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
+0,822830,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,937DE5B1-741B-46B6-8D47-CB10E42C9316,461.9,"Acute sinusitis, unspecified",,,1
+0,822926,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,CD76A16D-DCB2-4213-BB8A-D28FB1C0F1AC,729.1,"Myalgia and myositis, unspecified",2009.0,,0
+0,823022,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,B4904DE7-6D29-4383-93A5-E2364CC411DB,703.0,Ingrowing nail,,,0
+0,823118,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,F9DD901D-925F-486F-8217-E3472D3BAC52,783.5,Polydipsia,,,1
+0,823214,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,5D4F84E3-03DE-469F-B04B-952D96845D51,493,Asthma                                                                                                                                                                                                                                                         ,2009.0,,0
+0,823406,FBE3B048-A3B9-4C23-A150-CE2DC12081C8,F74F60E0-D9E6-4C3D-9E83-98FD9DD8A48B,272.4,Other and unspecified hyperlipidemia,2009.0,,0

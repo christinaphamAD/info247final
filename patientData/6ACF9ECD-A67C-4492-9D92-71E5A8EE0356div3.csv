@@ -1,0 +1,4 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,122687,6ACF9ECD-A67C-4492-9D92-71E5A8EE0356,Promethazine with Dextromethorphan (dextromethorphan-promethazine) oral syrup,15 mg-6.25 mg/5 mL,,B488FEBC-0003-4132-9088-85ABAE1F4CE0,C3623DD1-7DD0-40D3-B577-549B741A49B9,2012.0,240,0.0,0.0,1.0
+0,122807,6ACF9ECD-A67C-4492-9D92-71E5A8EE0356,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,EC641FA5-46F3-446C-AAE4-27C0E792CF51,FD15019D-5603-42EF-8A87-4A8B417210E9,2012.0,20,0.0,0.0,1.0
+0,122831,6ACF9ECD-A67C-4492-9D92-71E5A8EE0356,Zithromax Z-Pak (azithromycin) oral tablet,250 mg,,16A19382-C128-4243-8858-6BC99EF2B463,22CB8B34-D77F-4EAB-82A7-912F9C5852FB,2011.0,1,0.0,0.0,1.0

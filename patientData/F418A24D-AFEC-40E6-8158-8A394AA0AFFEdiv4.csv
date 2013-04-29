@@ -1,0 +1,5 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,132839,F418A24D-AFEC-40E6-8158-8A394AA0AFFE,664A6D9A-D0F2-4B97-89EA-479964593029,733.00,"Osteoporosis, unspecified",2007.0,,0
+0,132843,F418A24D-AFEC-40E6-8158-8A394AA0AFFE,5A29D7C9-914A-43AD-BB23-9DBA62751D7C,V70.0,Routine general medical examination at a health care facility,2010.0,2010.0,1
+0,132847,F418A24D-AFEC-40E6-8158-8A394AA0AFFE,581AA79A-390D-4FE9-BB18-A8678AF09E99,174,Malignant neoplasm of female breast                                                                                                                                                                                                                            ,2008.0,,0
+0,132851,F418A24D-AFEC-40E6-8158-8A394AA0AFFE,5218E1DE-5DF3-4B17-8ABA-C30BC56871B8,493.90,"Asthma, unspecified type, without mention of status asthmaticus",,,0

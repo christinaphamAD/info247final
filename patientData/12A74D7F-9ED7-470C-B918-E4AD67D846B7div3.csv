@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,170621,12A74D7F-9ED7-470C-B918-E4AD67D846B7,"Venlafaxine Hydrochloride ER (venlafaxine) oral capsule, extended release",75 mg,,D3EB005F-30CC-4736-AAA8-3E03BE354A6E,2881D7B8-59FC-4DD9-AD9D-D17286C4CE8F,2009.0,90,3.0,0.0,1.0

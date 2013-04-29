@@ -1,0 +1,15 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,70451,A89BE484-9A14-4B52-909E-65A0AABB5389,41715F40-8C61-46CA-86A0-1587D29B990D,493.92,"Asthma, unspecified type, with acute exacerbation",2011.0,,0
+0,70479,A89BE484-9A14-4B52-909E-65A0AABB5389,BF863269-A605-4F74-B242-21EE032AB6E3,250.00,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",2009.0,,0
+0,70542,A89BE484-9A14-4B52-909E-65A0AABB5389,BBBE71A1-63E4-439D-8AD9-3DB05383756C,477.9,"Allergic rhinitis, cause unspecified",2009.0,,0
+0,70549,A89BE484-9A14-4B52-909E-65A0AABB5389,3E910DA5-9081-4258-A335-5C5F43DD64EF,V72.3,Gynecological examination,2011.0,,0
+0,70556,A89BE484-9A14-4B52-909E-65A0AABB5389,C73725A8-D59A-4176-899D-A3D4733FBD42,250.02,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, without mention of complication",2009.0,,0
+0,70563,A89BE484-9A14-4B52-909E-65A0AABB5389,AFE4624F-4009-46FB-9AE1-A9D3212F7179,V76.2,Screening for malignant neoplasms of the cervix,2011.0,,0
+0,70570,A89BE484-9A14-4B52-909E-65A0AABB5389,0BED1A91-0885-4DE5-BF3D-AACF99DFFBC7,V70.0,Routine general medical examination at a health care facility,2011.0,,0
+0,70577,A89BE484-9A14-4B52-909E-65A0AABB5389,32D43D31-EA56-4359-95B9-C98394B0CA3C,726.0,Adhesive capsulitis of shoulder,2011.0,,0
+0,70584,A89BE484-9A14-4B52-909E-65A0AABB5389,B0F2994E-0127-48A0-98FF-D80F2506EBBD,345.90,"Epilepsy, unspecified, without mention of intractable epilepsy",2009.0,,0
+0,70591,A89BE484-9A14-4B52-909E-65A0AABB5389,388D4DD5-D2F8-4E8B-A991-7FE7AE4CC0D6,599.0,"Urinary tract infection, site not specified",2010.0,,0
+0,70598,A89BE484-9A14-4B52-909E-65A0AABB5389,5B46CE82-6487-4044-A7F2-A6D0786C67C7,401.9,Unspecified essential hypertension,2009.0,,0
+0,70626,A89BE484-9A14-4B52-909E-65A0AABB5389,B06C0F13-3F54-4F3C-826F-A7C83AE8A351,691,Atopic dermatitis and related conditions                                                                                                                                                                                                                       ,2010.0,,0
+0,70647,A89BE484-9A14-4B52-909E-65A0AABB5389,CE5D08A4-1A75-42E7-8B9B-AEB173E0BF39,244.9,Unspecified hypothyroidism,2009.0,,0
+0,70703,A89BE484-9A14-4B52-909E-65A0AABB5389,DEF67788-1E59-42AD-8734-DF39FC390B2E,272.2,Mixed hyperlipidemia,2009.0,,0

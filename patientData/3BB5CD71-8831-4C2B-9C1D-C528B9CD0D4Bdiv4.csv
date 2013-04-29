@@ -1,0 +1,5 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,155428,3BB5CD71-8831-4C2B-9C1D-C528B9CD0D4B,C7396DAF-737C-4FAE-9DCE-13021E58F27F,461.9,"Acute sinusitis, unspecified",2009.0,,0
+0,155431,3BB5CD71-8831-4C2B-9C1D-C528B9CD0D4B,869BCB44-54B8-4FE0-8505-5A99D7C06F7D,401.9,Unspecified essential hypertension,2009.0,,0
+0,155434,3BB5CD71-8831-4C2B-9C1D-C528B9CD0D4B,F3BF88B5-895E-4F86-863A-BCA9305F195F,296.23,"Major depressive disorder, single episode, severe degree, without mention of psychotic behavior",,,1
+0,155437,3BB5CD71-8831-4C2B-9C1D-C528B9CD0D4B,131290B4-8FFE-4238-ABC2-DA1462E91262,296.32,"Major depressive disorder, recurrent episode, moderate degree",,,1

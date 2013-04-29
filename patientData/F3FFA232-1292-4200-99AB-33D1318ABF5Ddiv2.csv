@@ -1,0 +1,5 @@
+,index,PatientGuid,AllergyGuid,StartYear_x,ReactionName,SeverityName,AllergyName
+0,21343,F3FFA232-1292-4200-99AB-33D1318ABF5D,08ECB6CD-CA9B-4DAD-A65C-64DA4098EF76,2011.0,Itchiness,Severe,Vicodin (acetaminophen-HYDROcodone) oral tablet
+0,21375,F3FFA232-1292-4200-99AB-33D1318ABF5D,83AA1A24-A914-4D5B-AD72-7AD538C154D7,2011.0,Diarrhea,Severe,Zithromax (azithromycin) oral tablet
+0,21407,F3FFA232-1292-4200-99AB-33D1318ABF5D,38700C2B-44DD-4B8A-AF1A-825F3D1F32DD,2011.0,Rash - generalized,Mild,Septra DS (sulfamethoxazole-trimethoprim) oral tablet
+0,21439,F3FFA232-1292-4200-99AB-33D1318ABF5D,25310B09-69EC-48C6-9859-F1F9B21E559F,2011.0,Rash - generalized,Mild,PC Pen VK (penicillin V potassium) oral tablet

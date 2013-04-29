@@ -1,0 +1,4 @@
+,index,PatientGuid,AllergyGuid,StartYear_x,ReactionName,SeverityName,AllergyName
+0,191410,7A3FAFA2-4048-48FD-983F-FB6458028FF6,07E3A78F-EE1E-41B1-834B-5DEA81A71B98,2011.0,Itchiness,Modest,Tylenol with Codeine (acetaminophen-codeine) oral liquid
+0,191422,7A3FAFA2-4048-48FD-983F-FB6458028FF6,E6FED01A-E195-4166-A568-B9C4968087CB,2011.0,Nausea,Modest,Sudafed Sinus (acetaminophen-pseudoephedrine) oral tablet
+0,191434,7A3FAFA2-4048-48FD-983F-FB6458028FF6,6B8BBBE7-685D-419A-8514-CC23637EB55B,2011.0,Itchiness,Modest,Morphine Sulfate (morphine) intravenous solution

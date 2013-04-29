@@ -1,0 +1,2 @@
+,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,175031,CB33689A-DAF9-41A6-8831-EFDAEA30B3A6,Oracea (doxycycline) oral delayed release capsule,40 mg,,79E06511-72B0-4784-9CCE-BF9BD42D1497,BF9CFB2E-BB5B-441F-B694-295CD4175479,2011.0,,,0.0,1.0

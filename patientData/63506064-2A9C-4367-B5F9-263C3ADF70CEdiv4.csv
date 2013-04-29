@@ -1,0 +1,15 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,15275,63506064-2A9C-4367-B5F9-263C3ADF70CE,A3823F2B-9FF7-406A-AD7B-15A57DF10D38,268.9,Unspecified vitamin D deficiency,2011.0,,0
+0,15303,63506064-2A9C-4367-B5F9-263C3ADF70CE,3B8B28B9-6819-45DD-B49A-1DF18C89D900,401.9,Unspecified essential hypertension,2011.0,,0
+0,15317,63506064-2A9C-4367-B5F9-263C3ADF70CE,E5F1EE5F-9D21-4398-BEDB-2D2F77866BE5,714,Rheumatoid arthritis and other inflam polyarthropathies                                                                                                                                                                                                        ,2011.0,,0
+0,15331,63506064-2A9C-4367-B5F9-263C3ADF70CE,005C39A4-00A6-437E-917D-313ECE2A5DB8,696.0,Psoriatic arthropathy,2011.0,,0
+0,15345,63506064-2A9C-4367-B5F9-263C3ADF70CE,8869097A-9061-4F6D-92F1-5308758A53C0,280.1,Iron deficiency anemia secondary to inadequate dietary iron intake,2012.0,,0
+0,15359,63506064-2A9C-4367-B5F9-263C3ADF70CE,EC990FB2-65FB-40D6-A87B-67941897612C,275.09,Other disorders of iron metabolism,2011.0,,0
+0,15373,63506064-2A9C-4367-B5F9-263C3ADF70CE,18680A00-DB38-4980-9E94-79E57C8BA81A,780.7,Malaise and fatigue,2011.0,,0
+0,15387,63506064-2A9C-4367-B5F9-263C3ADF70CE,6D36B6B2-D31C-484F-B69F-7CCAB666394F,465.9,Acute upper respiratory infections of unspecified site,,,1
+0,15401,63506064-2A9C-4367-B5F9-263C3ADF70CE,49EE34C2-487D-4040-884A-B2A84B3EE353,782.7,Spontaneous ecchymoses,,,0
+0,15415,63506064-2A9C-4367-B5F9-263C3ADF70CE,5605B9F0-D1F0-45FE-8EFF-F50CCF5CE11D,715.94,"Osteoarthrosis, unspecified whether generalized or localized, involving hand",,,0
+0,15429,63506064-2A9C-4367-B5F9-263C3ADF70CE,B02E7508-40B2-4DED-9776-F73836235F33,268.9,Unspecified vitamin D deficiency,2012.0,,0
+0,15443,63506064-2A9C-4367-B5F9-263C3ADF70CE,5BF0CF11-0B2A-4D45-8514-240F74C84A22,110.3,Dermatophytosis of groin and perianal area,2011.0,,0
+0,15457,63506064-2A9C-4367-B5F9-263C3ADF70CE,13D745AD-2E6F-4855-8A47-5DDA1B6F5AC0,250.00,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",2011.0,,0
+0,15513,63506064-2A9C-4367-B5F9-263C3ADF70CE,2B6DBF8F-D5AB-4B0B-B514-ACF23CAE5968,250.02,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, without mention of complication",2011.0,,0

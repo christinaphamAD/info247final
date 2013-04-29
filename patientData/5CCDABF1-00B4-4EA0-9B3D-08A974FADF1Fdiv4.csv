@@ -1,0 +1,9 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,1933,5CCDABF1-00B4-4EA0-9B3D-08A974FADF1F,24F601D1-6162-4430-933C-1AE037F1BEAF,724.4,"Thoracic or lumbosacral neuritis or radiculitis, unspecified",2009.0,,0
+0,1948,5CCDABF1-00B4-4EA0-9B3D-08A974FADF1F,7DEFA8D1-7DE2-40EB-8B4B-3023533107B8,724.2,Lumbago,,,0
+0,1953,5CCDABF1-00B4-4EA0-9B3D-08A974FADF1F,053F6FC0-1A3D-4BA5-AB22-4647999070BE,401.9,Unspecified essential hypertension,2010.0,,0
+0,1958,5CCDABF1-00B4-4EA0-9B3D-08A974FADF1F,F23F1502-0CA5-4A4F-A75F-59CF2FDEDB47,272.4,Other and unspecified hyperlipidemia,2010.0,,0
+0,1963,5CCDABF1-00B4-4EA0-9B3D-08A974FADF1F,F56C0344-80A1-46F5-B1B6-CB3179754215,739.3,"Nonallopathic lesions of lumbar region, not elsewhere classified",,,0
+0,1968,5CCDABF1-00B4-4EA0-9B3D-08A974FADF1F,633F4421-566B-4FD9-A3A0-FA3196DCC3CE,250.02,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, without mention of complication",2010.0,,0
+0,1973,5CCDABF1-00B4-4EA0-9B3D-08A974FADF1F,526B1890-6F9B-4285-ABEF-C0B963A35675,250.00,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",2010.0,,0
+0,1978,5CCDABF1-00B4-4EA0-9B3D-08A974FADF1F,F554124C-3B4F-4B39-A170-E5377FA8468C,799.81,Decreased libido,2010.0,,0

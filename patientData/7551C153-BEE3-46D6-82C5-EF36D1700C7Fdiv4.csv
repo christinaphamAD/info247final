@@ -1,0 +1,4 @@
+,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
+0,175002,7551C153-BEE3-46D6-82C5-EF36D1700C7F,B2C8BF29-9E8B-4B2A-9D1C-43AB058884A0,401.9,Unspecified essential hypertension,2011.0,,0
+0,175005,7551C153-BEE3-46D6-82C5-EF36D1700C7F,CF9A483D-3921-4B20-BB95-5045B3955F14,600.01,Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS),2011.0,,0
+0,175008,7551C153-BEE3-46D6-82C5-EF36D1700C7F,9A6051AA-3F2F-4A91-83A6-B2D4EF3E9D0D,466.0,Acute bronchitis,2011.0,2011.0,0
