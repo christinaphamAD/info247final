@@ -103,6 +103,13 @@ img {
 	height: 100%;
 }
 
+.axis path,
+.axis line {
+    fill: none;
+    stroke-width:2.60;
+    shape-rendering: crispEdges;
+}
+
 
 #footer, 
 .push {
