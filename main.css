@@ -95,7 +95,8 @@ table, th, td {
 
 .half {
 	width: 45%;
-	height: 300px;
+	min-height: 300px;
+	height: auto;
 }
 
 #testd3 {

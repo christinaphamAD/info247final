@@ -61,13 +61,20 @@ function getPatientData(ref, data) {
     .append('<div id="prescriptions" class="container half left"><h2>Prescriptions</h2></div>')
     .append('<div id="diagnoses" class="container half right"><h2>Diagnoses</h2><table></table></div>')
 
-    console.log(data[ref][2] + "div2.csv")
     $.ajax({
         type: "GET",
         url: "patientData/" + data[ref][2] + "div2.csv",
         dataType: "text",
         success: function(data) {createTable("allergies", parseData(data));}
      });
+
+    $.ajax({
+        type: "GET",
+        url: "patientData/" + data[ref][2] + "div4.csv",
+        dataType: "text",
+        success: function(data) {createTable("diagnoses", parseData(data));}
+     });
+
 }
 
 function createTable(location, data) {
@@ -80,7 +87,6 @@ function createTable(location, data) {
             $("#allergies table")
             .append("<tr><td><strong>Allergy Name</strong></td><td><strong>Severity</strong></td><td><strong>Reaction</strong></td></tr>")
             for (var k=1; k<(data.length-1); k++){
-                console.log(k)
                 $('#allergies table')
                 .append('<tr><td>' + data[k][7] + '</td><td>' + data[k][6] + '</td><td>' + data[k][5] + '</td></tr>')
             }
@@ -88,5 +94,17 @@ function createTable(location, data) {
     }
 
     if(location =="diagnoses"){
+        if(data.length < 3){
+            $("#diagnoses")
+            .append("No diagnoses listed.");
+        }
+        else {
+            $("#diagnoses table")
+            .append("<tr><td><strong>Description</strong></td></tr>")
+            for (var k=1; k<(data.length-1); k++){
+                $('#diagnoses table')
+                .append('<tr><td>' + data[k][5] + '</td></tr>')
+            }
+        }
     }
 }
