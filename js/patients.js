@@ -24,8 +24,8 @@ function parseData(input) {
         var data = allTextLines[i].split(',');
         var tarr = [];
         for (var j=0; j<data.length; j++) {
-            if(data[j].length == 0){
-                tarr.push("N/A")
+            if(data[j].length == 0 || data[j] == "unspecified"){
+                tarr.push("")
             }
             else{
                 tarr.push(data[j].replace(/"/g,''));
@@ -67,14 +67,14 @@ function getPatientData(ref, data) {
     .append('<strong>Year of Birth:</strong> ' + data[ref][4] + '<br />')
     .append('<strong>Age:</strong> ' + data[ref][15] + '<br />')
     $('#detailInfo')
-    .append('<strong>Height:</strong> ' + data[ref][7] + '<br />')
-    .append('<strong>Weight:</strong> ' + data[ref][8] + '<br />')
+    .append('<strong>Height:</strong> ' + data[ref][7] + '"<br />')
+    .append('<strong>Weight:</strong> ' + data[ref][8] + ' lbs<br />')
     .append('<strong>Last Visit:</strong> ' + data[ref][6].substring(0,4) + '<br />')
 
     $('#patient').append('<div id="bulletData" class="container half left"><h2>Bullet Charts</h2></div>')
-    .append('<div id="allergies" class="container half right"><h2>Allergies</h2><table></table></div>')
+    .append('<div id="allergies" class="container half right"><h2>Allergies</h2><table cellpadding="0" cellspacing="0"></table></div>')
     .append('<div id="prescriptions" class="container half left"><h2>Prescriptions</h2></div>')
-    .append('<div id="diagnoses" class="container half right"><h2>Diagnoses</h2><table></table></div>')
+    .append('<div id="diagnoses" class="container half right"><h2>Diagnoses</h2><table cellpadding="0" cellspacing="0"></table></div>')
 
     $.ajax({
         type: "GET",
@@ -100,10 +100,10 @@ function createTable(location, data) {
         }
         else {
             $("#allergies table")
-            .append("<tr><td><strong>Allergy Name</strong></td><td><strong>Severity</strong></td><td><strong>Reaction</strong></td></tr>")
+            .append("<tr class='tabHead'><td><strong>Allergy Name</strong></td><td><strong>Reaction</strong></td><td class='medtd'><strong>Severity</strong></td></tr>")
             for (var k=1; k<(data.length-1); k++){
                 $('#allergies table')
-                .append('<tr><td>' + data[k][7] + '</td><td>' + data[k][6] + '</td><td>' + data[k][5] + '</td></tr>')
+                .append('<tr><td>' + data[k][7] + '</td><td>' + data[k][5] + '</td><td>' + data[k][6] + '</td></tr>')
             }
         }
     }
@@ -115,10 +115,25 @@ function createTable(location, data) {
         }
         else {
             $("#diagnoses table")
-            .append("<tr><td><strong>Description</strong></td><td><strong>Acute</strong></td></tr>")
-            for (var k=1; k<(data.length-1); k++){
-                $('#diagnoses table')
-                .append('<tr><td>' + data[k][5] + '</td><td>' + data[k][8] + '</td></tr>')
+            .append("<tr class='tabHead'><td><strong>Description</strong></td><td class='medtd'><strong>Years Active</strong></td><td class='smalltd'><strong>Acute</strong></td></tr>")
+            for (var k=1; k<(data.length-1) && k<6; k++){
+                if (data.length > 5){
+                    if (data[k][6].length > 0){
+                        if (data[k][7].length > 0) {
+                            // insert year start and year end
+                            yearEnd = data[k][7].substring(0,4)
+                        }
+                        else {
+                            yearEnd = ""
+                        }
+                        $('#diagnoses table').append('<tr><td>' + data[k][5] + '</td><td>' + data[k][6].substring(0,4) + ' - ' + yearEnd + '</td><td>' + data[k][8] + '</td></tr>')
+                    }
+                    else {
+                        //ignore
+                        $('#diagnoses table').append('<tr><td>' + data[k][5] + '</td><td>N/A</td><td>' + data[k][8] + '</td></tr>')
+                    }
+                }
+                
             }
         }
     }
