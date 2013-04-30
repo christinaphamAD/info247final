@@ -32,8 +32,10 @@ function parseData(input) {
 }
 
 function createWaitingList(lines) {
+    $('#patientList ul').append('<li><h2>Upcoming Patients</h2></li>')
     for (var k=1; k<lines.length; k++){
-        $('#patientList ul').append('<li>' + k + '. <a id="' + lines[k][1] + '" data-attr="' + k + '">Patient ' + lines[k][1] + '</a></li>')
+        $('#patientList ul')
+        .append('<li>' + k + '. <a id="' + lines[k][1] + '" data-attr="' + k + '">Patient ' + lines[k][1] + '</a></li>')
     }
     $('#patientList ul li').hide().each(function(e){
         $(this).delay(e*200).slideDown();
@@ -51,10 +53,13 @@ function createWaitingList(lines) {
 function getPatientData(ref, data) {
     $('#patient').append('<div id="genData" class="container"></div>')
     $('#genData').append('<h1>Patient ' + data[ref][1] + '</h1>' )
-    .append('<h3>Gender: ' + data[ref][3] + '</h3>')
-    .append('<h3>Year of Birth: ' + data[ref][4])
-    .append('<h3>Age: ' + data[ref][15] + '</h3>')
-    .append('<h3>Smoker: ' + data[ref][16] + '</h3>')
+    .append('<strong>Gender:</strong> ' + data[ref][3] + '<br />')
+    .append('<strong>Year of Birth:</strong> ' + data[ref][4] + '<br />')
+    .append('<strong>Age:</strong> ' + data[ref][15] + '<br />')
+    .append('<strong>Last Visit:</strong> ' + data[ref][6].substring(0,4) + '<br />')
+    .append('<strong>Height:</strong> ' + data[ref][7] + '<br />')
+    .append('<strong>Weight:</strong> ' + data[ref][8] + '<br />')
+    .append('<strong>NonSmoker:</strong> ' + data[ref][16] + '')
 
     $('#patient').append('<div id="bulletData" class="container half left"><h2>Bullet Charts</h2></div>')
     .append('<div id="allergies" class="container half right"><h2>Allergies</h2><table></table></div>')
