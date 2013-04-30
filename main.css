@@ -53,6 +53,11 @@ img {
 	width: 100%;
 }
 
+table, th, td {
+	width: 100%;
+	border: 1px solid #333;
+}
+
 .hide {
 	display: none !important;
 }
