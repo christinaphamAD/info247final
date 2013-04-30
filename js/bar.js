@@ -38,9 +38,11 @@ function drawXAxis(color){
 	var axisvalues = getxAxisValues(data)
 	
 	var xscale = d3.scale.ordinal()
+    .domain(axisvalues)
   	.rangeBands([0,parseInt(d3.select('#canvas').style('width').split('p'))*.87]);
 
   var init = d3.scale.ordinal()
+    .domain(axisvalues)
   	.rangeBands([0,0])
 
   var xaxis = canvas.append('g')
@@ -51,12 +53,14 @@ function drawXAxis(color){
     .attr('fill',color)
     .call(d3.svg.axis()
       .scale(init)
-      .orient('bottom'))
+      .orient('bottom')
+      .tickSize(0)
+      .tickPadding(10))
     .transition()
     .duration(1000)
     .call(d3.svg.axis()
     	.scale(xscale)
-    	.orient('bottom'));
+    	.orient('bottom').tickSize(0).tickPadding(10));
   
 /*
   var xaxislabel = canvas.append('text')
@@ -81,66 +85,97 @@ function drawYAxis(stroke){
 
 	var init = d3.scale.linear()
   		//.domain([axisvalues])
-  		.range([0,0])
+  		//.range([0,0])
 
-  	var fin = d3.scale.linear()
+  var fin = d3.scale.linear()
   		.range([0,-1*parseInt(d3.select('#canvas').style('height').split('p'))*.87]);
+
+  var yindent = parseInt(d3.select("#canvas").style('height').split('p')[0])
+  var xindent = parseInt(d3.select("#canvas").style('width').split('p')[0])
+
+  var xinit = (d3.select("#canvas").style('width').split('p')[0]*.10)
+  var yinit = (d3.select("#canvas").style('height').split('p')[0]*.92)
+
 
 	var yaxis = canvas.append('g')
     	.attr('class','axis')
-    	.attr('transform','translate('+((d3.select('#canvas').style('width').split('p')[0])*.10)+','+
-    							   (d3.select('#canvas').style('height').split('p')[0]*.92)+')')
+    	.attr('transform','translate('+xinit+','+yinit+')')
     	.attr('stroke',stroke)
     	.attr('fill',stroke)
     	.call(d3.svg.axis()
       		.scale(init)
-      		.orient('left'))
+      		.orient('left')
+          .tickSize(0))
     	.transition()
     	.duration(1000)
     	.call(d3.svg.axis()
     		.scale(fin)
-    		.orient('left'));
-  	/*var yaxislabel = canvas.append('text')
+    		.orient('left')
+        .tickFormat("")
+        .tickSize(0));
+  var yaxislabel = canvas.append('text')
+      .attr('font-size',17)
 	    .attr('class', 'y label')
 	    .attr('text-anchor','end')
-	    .attr('y',charty+shift-fontshift+5)
-	    .attr('x',-(chartx+3))
-	    .attr('dy','.75em')
-	    .attr('transform',"rotate("+rot+")")
-	    .attr('font-family','Helvetica')
-	    .attr('stroke',stroke)
-	    .attr('fill',stroke)
-	    .attr('stroke-width',-1)
-	    .text(label)
-	    */
-	    return yscale
+     //  .attr('dy','.75em')
+      .attr('transform',"rotate(-90)")
+      .attr('font-family','Helvetica')
+      .attr('stroke',stroke)
+      .attr('fill',stroke)
+      .attr('stroke-width',-1)
+      .text("label")
+      .attr('y',yindent*.125)
+      .attr('x',xindent*.05-yinit)
+      .transition()
+      .duration(1000)
+	    .attr('y',1*yindent*.125)
+	    .attr('x',-1*(xindent*.05));
+
+
+	return yscale
 	} 
 
 function drawBars(chart){
 	var x = drawXAxis('rgb(124, 123, 123)')
 	var y = drawYAxis('rgb(124, 123, 123)')
 
-  	x.domain(data.map(function(d) { return d.age; }));
+  	x.domain(data.map(function(d) {return d.age; }));
   	y.domain([0, d3.max(getyAxisValues(data))]);
 
-  	console.log(chart)
+var xshift = (parseInt(d3.select("#canvas").style('width').split('p'))*0.1)
+var yshift = (parseInt(d3.select("#canvas").style('height').split('p'))*0.92)
+
   	canvas.selectAll(".bar")
       .data(data)
     .enter().append("rect")
       .attr("class", "bar")
       .attr('fill','#1f77b4')
-      .attr("x", function(d) { return parseInt(d3.select('#canvas').style('width').split('p'))*0.1 + x(d.age); })
+      .attr("x", function(d) { return xshift+ x(d.age); })
       .attr("width", x.rangeBand())
       .attr("y", function(d) { return y(d.population) })
-      .attr("height", function(d,i) { return (parseInt(d3.select('#canvas').style('height').split('p'))*0.92)-y(d.population); })
+      .attr("height", function(d,i) { return yshift-y(d.population); })
       .style('opacity',0)
       .transition()
       .delay(function(d,i){
-      	return 250+250*i
+      	return 200+250*i
       })
       .style('opacity',1)
 	  .duration(600);
 	  //.ease('linear');
+
+  canvas.selectAll('text')
+    .data(data)
+  .enter().append('text');
+  //.attr('x','0')
+ // .attr('y','0')
+   /* .attr("x", function(d){return xshift + x(d.age) + x.rangeBand()/2})
+    .attr("y", function(d) { return y(d.age)})
+    .attr("dx", -3) // padding-right
+    .attr("dy", ".35em") // vertical-align: middle
+    .attr("text-anchor", "end") // text-align: right*/
+  //  .text("hi");
+
+
 }
 
 
