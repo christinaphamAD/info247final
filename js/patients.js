@@ -24,10 +24,16 @@ function parseData(input) {
         var data = allTextLines[i].split(',');
         var tarr = [];
         for (var j=0; j<data.length; j++) {
-          tarr.push(data[j]);
+            if(data[j].length == 0){
+                tarr.push("N/A")
+            }
+            else{
+                tarr.push(data[j].replace(/"/g,''));
+            }
         }
         lines.push(tarr);
     }
+    console.log(lines)
     return lines
 }
 
@@ -52,14 +58,18 @@ function createWaitingList(lines) {
 
 function getPatientData(ref, data) {
     $('#patient').append('<div id="genData" class="container"></div>')
-    $('#genData').append('<h1>Patient ' + data[ref][1] + '</h1>' )
+    $('#genData')
+    .append('<h1>Patient ' + data[ref][1] + '</h1>' )
+    .append('<div class="tri-patient left" id="basicInfo"></div><div class="tri-patient left" id="detailInfo"></div>')
+
+    $('#basicInfo')
     .append('<strong>Gender:</strong> ' + data[ref][3] + '<br />')
     .append('<strong>Year of Birth:</strong> ' + data[ref][4] + '<br />')
     .append('<strong>Age:</strong> ' + data[ref][15] + '<br />')
-    .append('<strong>Last Visit:</strong> ' + data[ref][6].substring(0,4) + '<br />')
+    $('#detailInfo')
     .append('<strong>Height:</strong> ' + data[ref][7] + '<br />')
     .append('<strong>Weight:</strong> ' + data[ref][8] + '<br />')
-    .append('<strong>NonSmoker:</strong> ' + data[ref][16] + '')
+    .append('<strong>Last Visit:</strong> ' + data[ref][6].substring(0,4) + '<br />')
 
     $('#patient').append('<div id="bulletData" class="container half left"><h2>Bullet Charts</h2></div>')
     .append('<div id="allergies" class="container half right"><h2>Allergies</h2><table></table></div>')
@@ -105,10 +115,10 @@ function createTable(location, data) {
         }
         else {
             $("#diagnoses table")
-            .append("<tr><td><strong>Description</strong></td></tr>")
+            .append("<tr><td><strong>Description</strong></td><td><strong>Acute</strong></td></tr>")
             for (var k=1; k<(data.length-1); k++){
                 $('#diagnoses table')
-                .append('<tr><td>' + data[k][5] + '</td></tr>')
+                .append('<tr><td>' + data[k][5] + '</td><td>' + data[k][8] + '</td></tr>')
             }
         }
     }
