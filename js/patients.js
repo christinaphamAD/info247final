@@ -36,7 +36,7 @@ function createWaitingList(lines) {
         $('#patientList ul').append('<li>' + k + '. <a id="' + lines[k][1] + '" data-attr="' + k + '">Patient ' + lines[k][1] + '</a></li>')
     }
     $('#patientList ul li').hide().each(function(e){
-        $(this).delay(e*350).slideDown();
+        $(this).delay(e*200).slideDown();
     })
 
     $('#patientList a').bind('click', function(e){
@@ -72,21 +72,21 @@ function getPatientData(ref, data) {
 
 function createTable(location, data) {
     if(location == "allergies"){
-        if(data.length < 2){
+        if(data.length < 3){
             $("#allergies")
-            .empty()
             .append("No allergies listed.");
         }
         else {
             $("#allergies table")
-            .append("<tr><td><strong>Allergy Name</strong></td><td>Severity</td><td>Reaction</td><td>Start Year</td></tr>")
+            .append("<tr><td><strong>Allergy Name</strong></td><td><strong>Severity</strong></td><td><strong>Reaction</strong></td></tr>")
             for (var k=1; k<(data.length-1); k++){
                 console.log(k)
                 $('#allergies table')
-                .append('<tr><td><strong>' + data[k][7] + '</strong></td><td>' + data[k][6] + '</td><td>' + data[k][5] + '</td><td>' + data[k][4].substring(0,4) + '</td></tr>')
+                .append('<tr><td>' + data[k][7] + '</td><td>' + data[k][6] + '</td><td>' + data[k][5] + '</td></tr>')
             }
         }
     }
 
-    
+    if(location =="diagnoses"){
+    }
 }
