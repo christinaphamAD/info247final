@@ -3,7 +3,7 @@
 //if d3 not in repo, put this line in html: <script src="http://d3js.org/d3.v3.min.js"></script>
 
 
-d3.csv("js/data.csv", function(error, data) {
+d3.csv("js/lab_bar_data.csv", function(error, data) {
 
 var height = 95
 var width = 100
@@ -60,7 +60,15 @@ function drawXAxis(color){
     .duration(1000)
     .call(d3.svg.axis()
     	.scale(xscale)
-    	.orient('bottom').tickSize(0).tickPadding(10));
+    	.orient('bottom')
+      .tickSize(0)
+      .tickPadding(10))
+    .selectAll("text")
+      .style("text-anchor","end")
+      .attr("font-size",12)
+      .attr("transform",function(d){
+        return "rotate(-35)"
+      });
   
 /*
   var xaxislabel = canvas.append('text')
@@ -139,7 +147,7 @@ function drawBars(chart){
 	var x = drawXAxis('rgb(124, 123, 123)')
 	var y = drawYAxis('rgb(124, 123, 123)')
 
-  	x.domain(data.map(function(d) {return d.age; }));
+  	x.domain(data.map(function(d) {return d.lab; }));
   	y.domain([0, d3.max(getyAxisValues(data))]);
 
 var xshift = (parseInt(d3.select("#canvas").style('width').split('p'))*0.1)
@@ -149,11 +157,14 @@ var yshift = (parseInt(d3.select("#canvas").style('height').split('p'))*0.92)
       .data(data)
     .enter().append("rect")
       .attr("class", "bar")
+      .attr("id",function(d){      //Christina, this is where you should add the id you want
+        console.log(d.lab)
+      })
       .attr('fill','#1f77b4')
-      .attr("x", function(d) { return xshift+ x(d.age); })
+      .attr("x", function(d) { return xshift+ x(d.lab); })
       .attr("width", x.rangeBand())
-      .attr("y", function(d) { return y(d.population) })
-      .attr("height", function(d,i) { return yshift-y(d.population); })
+      .attr("y", function(d) { return y(d.numablabs) })
+      .attr("height", function(d,i) { return yshift-y(d.numablabs); })
       .style('opacity',0)
       .transition()
       .delay(function(d,i){
@@ -168,8 +179,8 @@ var yshift = (parseInt(d3.select("#canvas").style('height').split('p'))*0.92)
   .enter().append('text');
   //.attr('x','0')
  // .attr('y','0')
-   /* .attr("x", function(d){return xshift + x(d.age) + x.rangeBand()/2})
-    .attr("y", function(d) { return y(d.age)})
+   /* .attr("x", function(d){return xshift + x(d.lab) + x.rangeBand()/2})
+    .attr("y", function(d) { return y(d.lab)})
     .attr("dx", -3) // padding-right
     .attr("dy", ".35em") // vertical-align: middle
     .attr("text-anchor", "end") // text-align: right*/
@@ -213,7 +224,7 @@ function getxAxisValues(data){
     var data_arr = new Array()
     for (var i=0;i<data.length;i++){
       //var twoel = Array(data[i]['Date']).concat(Array(data[i]['Hours']))
-      data_arr.push(data[i]['age'])
+      data_arr.push(data[i]['lab'])
     }
     return data_arr
   }
@@ -222,7 +233,7 @@ function getyAxisValues(data){
     var data_arr = new Array()
     for (var i=0;i<data.length;i++){
       //var twoel = Array(data[i]['Date']).concat(Array(data[i]['Hours']))
-      var toadd = +(data[i]['population'])
+      var toadd = +(data[i]['numablabs'])
       console.log(typeof toadd)
       data_arr.push(toadd)
     }
@@ -239,79 +250,3 @@ function getyAxisValues(data){
 
 
 
-
-
-
-/*
-function drawlines(){
-  for (var i=0;i<verticks;i++){
-    var line = canvas.append("line")
-      .attr({
-        'class':'line',
-        "x1": chartx,
-        "y1": charty+ i*(height/verticks),
-        "x2": chartx,
-        "y2": charty+ i*(height/verticks)
-      })
-      .style({
-        stroke:'rgb(255, 255, 255)',
-        'stroke-width':1   
-      })
-      .transition()
-      .attr({
-        "x2": chartx + width,
-      })
-      .ease('linear')
-      .delay(300)
-      .duration(250);
-   }
-   getSleepData();
-   getRunData();
-   makeVis('#mat')
-   appendText('Love, Sleep, and Athletic Performance',30,'chart_text',chartx+5,charty-15);
-   appendNote('Night of first kiss',20,465,320,-25);
-   appendNote('Valentines Day',20,600,665,8);
-   appendNote('Pretty much stopped running here...',19,895,640,0)
-   appendNote('After She Left :(',20,955,705,25);
-}
-
-
-
-
-function getSleepData(){
-  var data = d3.tsv('data.csv',function(data){
-    var data_arr = Array()
-    for (var i=0;i<data.length;i++){
-      var twoel = Array(data[i]['Date']).concat(Array(data[i]['Hours']))
-      data_arr.push(twoel)
-    }
-    appendLine(data_arr,'rgb(192, 55, 55)',sleepscale,'sleepline') 
-  })
-}
-
-function appendLine(data,color,yscale,id){
-  var line = d3.svg.line()
-    .defined(function(d) {
-     return !(d[1] ==''|| isNaN(d[1]));})
-    .x(function(d,i){return xscale(i); })
-    .y(function(d){
-      return yscale(d[1]); })
-    .interpolate('basis');
-  var series = d3.select('svg')
-    .append('svg:path')
-    .attr('d',line(data))
-    .attr("stroke",color)
-    .attr("fill","none")
-    .attr("stroke-width", 3)
-    .attr("id",id);
-  var totalLength = series.node().getTotalLength();
-  series
-    .attr("stroke-dasharray", totalLength + " " + totalLength)
-    .attr("stroke-dashoffset", totalLength)
-    .transition()
-    .duration(3500)
-    .ease("linear")
-    .attr("stroke-dashoffset", 0);
-}
-
-*/  
