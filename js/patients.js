@@ -100,7 +100,7 @@ function createTable(location, data) {
         }
         else {
             $("#allergies table")
-            .append("<tr class='tabHead'><td><strong>Allergy Name</strong></td><td><strong>Reaction</strong></td><td class='medtd'><strong>Severity</strong></td></tr>")
+            .append("<tr class='tabHead'><th>Allergy Name</th><th>Reaction</th><th class='smalltd'>Severity</th></tr>")
             for (var k=1; k<(data.length-1); k++){
                 $('#allergies table')
                 .append('<tr><td>' + data[k][7] + '</td><td>' + data[k][5] + '</td><td>' + data[k][6] + '</td></tr>')
@@ -115,7 +115,7 @@ function createTable(location, data) {
         }
         else {
             $("#diagnoses table")
-            .append("<tr class='tabHead'><td><strong>Description</strong></td><td class='medtd'><strong>Years Active</strong></td><td class='smalltd'><strong>Acute</strong></td></tr>")
+            .append("<tr class='tabHead'><th>Description</th><th class='smalltd'>Years Active</th><th class='smalltd'>Acute</th></tr>")
             for (var k=1; k<(data.length-1) && k<6; k++){
                 if (data.length > 5){
                     if (data[k][6].length > 0){
