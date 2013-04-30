@@ -1,6 +1,5 @@
 $(document).ready(function() {
     $('#patient').hide();
-    $('#patientList').append('<ul></ul>');
 
     $.ajax({
         type: "GET",
@@ -33,19 +32,20 @@ function parseData(input) {
         }
         lines.push(tarr);
     }
-    console.log(lines)
     return lines
 }
 
 function createWaitingList(lines) {
-    $('#patientList ul').append('<li><h2>Upcoming Patients</h2></li>')
-    for (var k=1; k<lines.length; k++){
-        $('#patientList ul')
-        .append('<li>' + k + '. <a id="' + lines[k][1] + '" data-attr="' + k + '">Patient ' + lines[k][1] + '</a></li>')
-    }
-    $('#patientList ul li').hide().each(function(e){
-        $(this).delay(e*200).slideDown();
-    })
+    $('#patientList').append('<table cellpadding="0" cellspacing="0"></table>')
+
+    createTable("patientList", lines)
+    // for (var k=1; k<lines.length; k++){
+    //     $('#patientList')
+    //     .append('<li>' + k + '. <a id="' + lines[k][1] + '" data-attr="' + k + '">Patient ' + lines[k][1] + '</a></li>')
+    // }
+    // $('#patientList ul li').hide().each(function(e){
+    //     $(this).delay(e*200).slideDown();
+    // })
 
     $('#patientList a').bind('click', function(e){
         $('#home').fadeOut();
@@ -115,7 +115,7 @@ function createTable(location, data) {
         }
         else {
             $("#diagnoses table")
-            .append("<tr class='tabHead'><th>Description</th><th class='smalltd'>Years Active</th><th class='smalltd'>Acute</th></tr>")
+            .append("<tr class='tabHead'><th>Description</th><th class='smalltd'>Years Active</th><th class='tinytd'>Acute</th></tr>")
             for (var k=1; k<(data.length-1) && k<6; k++){
                 if (data.length > 5){
                     if (data[k][6].length > 0){
@@ -135,6 +135,17 @@ function createTable(location, data) {
                 }
                 
             }
+        }
+    }
+
+    if(location == "prescriptions") {
+
+    }
+
+    if (location == "patientList"){
+        $('#patientList table').append('<tr class="tabHead"><th>Upcoming Patients</th></tr>')
+        for(var k=1; k<data.length; k++){
+            $('#patientList table').append('<tr><td>' + k + '. ' + '<a id="' + data[k][1] + '" data-attr="' + k + '">Patient ' + data[k][1] + '</a></td></tr>')
         }
     }
 }
