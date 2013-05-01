@@ -1,7 +1,7 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,142834,8AC60D17-87C5-43B6-978C-A3F119C6C777,68705DB2-0D92-4E00-AE41-11561F3CE96C,461.9,"Acute sinusitis, unspecified",,,1
+0,142834,8AC60D17-87C5-43B6-978C-A3F119C6C777,68705DB2-0D92-4E00-AE41-11561F3CE96C,461.9,Acute sinusitis unspecified,,,1
 0,142840,8AC60D17-87C5-43B6-978C-A3F119C6C777,3703A5BB-17CE-41AF-A3F6-439523E26D03,625.4,Premenstrual tension syndromes,,,0
-0,142846,8AC60D17-87C5-43B6-978C-A3F119C6C777,28B9CFFD-BC36-4CED-8987-52C7AA96C853,719.40,"Pain in joint, site unspecified",,,1
+0,142846,8AC60D17-87C5-43B6-978C-A3F119C6C777,28B9CFFD-BC36-4CED-8987-52C7AA96C853,719.40,Pain in joint site unspecified,,,1
 0,142852,8AC60D17-87C5-43B6-978C-A3F119C6C777,17210950-6A6F-4044-8BA8-536BA34CE6D5,300.02,Generalized anxiety disorder,,,0
 0,142858,8AC60D17-87C5-43B6-978C-A3F119C6C777,F5950731-2AE0-4CC3-A9E3-3289E047D39D,354.0,Carpal tunnel syndrome,2012.0,,0
-0,142864,8AC60D17-87C5-43B6-978C-A3F119C6C777,4D97E864-1194-416E-822E-CD0F05E98B9F,346.9,"Migraine, unspecified                                                                                                                                                                                                                                          ",,,0
+0,142864,8AC60D17-87C5-43B6-978C-A3F119C6C777,4D97E864-1194-416E-822E-CD0F05E98B9F,346.9,Migraine unspecified                                                                                                                                                                                                                                          ,,,0

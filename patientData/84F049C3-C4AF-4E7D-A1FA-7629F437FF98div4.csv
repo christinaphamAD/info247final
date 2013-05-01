@@ -1,8 +1,8 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,126146,84F049C3-C4AF-4E7D-A1FA-7629F437FF98,2421D289-203D-4090-A7AD-005E4E172DE9,715.95,"Osteoarthrosis, unspecified whether generalized or localized, involving pelvic region and thigh",2009.0,,0
-0,126155,84F049C3-C4AF-4E7D-A1FA-7629F437FF98,4479F32D-7D10-42B8-AEA2-07DA83F8BD34,726.10,"Disorders of bursae and tendons in shoulder region, unspecified",2009.0,,0
+0,126146,84F049C3-C4AF-4E7D-A1FA-7629F437FF98,2421D289-203D-4090-A7AD-005E4E172DE9,715.95,Osteoarthrosis unspecified whether generalized or localized involving pelvic region and thigh,2009.0,,0
+0,126155,84F049C3-C4AF-4E7D-A1FA-7629F437FF98,4479F32D-7D10-42B8-AEA2-07DA83F8BD34,726.10,Disorders of bursae and tendons in shoulder region unspecified,2009.0,,0
 0,126164,84F049C3-C4AF-4E7D-A1FA-7629F437FF98,045EBCC4-3493-4CBD-9925-13152A1E411A,354.0,Carpal tunnel syndrome,2009.0,,0
 0,126173,84F049C3-C4AF-4E7D-A1FA-7629F437FF98,07D56A61-B630-4978-9AFB-50127FD32195,562.10,Diverticulosis of colon (without mention of hemorrhage),2009.0,,0
-0,126182,84F049C3-C4AF-4E7D-A1FA-7629F437FF98,4B4C1F35-7B94-439F-B667-6011F460071F,729.2,"Neuralgia, neuritis, and radiculitis, unspecified",2009.0,,0
+0,126182,84F049C3-C4AF-4E7D-A1FA-7629F437FF98,4B4C1F35-7B94-439F-B667-6011F460071F,729.2,Neuralgia neuritis and radiculitis unspecified,2009.0,,0
 0,126191,84F049C3-C4AF-4E7D-A1FA-7629F437FF98,C238FAE2-4422-48CC-8A66-77BB90B5818E,V70.0,Routine general medical examination at a health care facility,,,0
 0,126200,84F049C3-C4AF-4E7D-A1FA-7629F437FF98,ADD875AD-D16C-41EB-A2E2-DD8D2C87433D,272.1,Pure hyperglyceridemia,2009.0,,0

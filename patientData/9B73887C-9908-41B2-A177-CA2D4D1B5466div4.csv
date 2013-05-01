@@ -1,6 +1,6 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,156802,9B73887C-9908-41B2-A177-CA2D4D1B5466,ED21F9A9-2A0B-488D-B07B-073BB1A8258F,466.0,Acute bronchitis,,,1
-0,156809,9B73887C-9908-41B2-A177-CA2D4D1B5466,870BCBB5-C334-450B-875F-0B85BA4DBDF3,296.33,"Major depressive disorder, recurrent episode, severe degree, without mention of psychotic behavior",,,1
+0,156809,9B73887C-9908-41B2-A177-CA2D4D1B5466,870BCBB5-C334-450B-875F-0B85BA4DBDF3,296.33,Major depressive disorder recurrent episode severe degree without mention of psychotic behavior,,,1
 0,156816,9B73887C-9908-41B2-A177-CA2D4D1B5466,F8EA176A-F1F0-40DF-9E46-1A7EB73553C7,278.0,Obesity                                                                                                                                                                                                                                                        ,,,0
 0,156823,9B73887C-9908-41B2-A177-CA2D4D1B5466,004B1D62-7197-4DB2-BD68-242314409EB2,272.4,Other and unspecified hyperlipidemia,2009.0,,0
 0,156830,9B73887C-9908-41B2-A177-CA2D4D1B5466,807BD13D-8325-4779-9191-32CB89E90719,401.9,Unspecified essential hypertension,2009.0,,0

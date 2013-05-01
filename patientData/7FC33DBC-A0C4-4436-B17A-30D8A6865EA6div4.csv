@@ -1,12 +1,12 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,19968,7FC33DBC-A0C4-4436-B17A-30D8A6865EA6,7C7DA5FD-B227-471E-85E5-04EDAA2E6691,599.7,Hematuria,2007.0,,0
 0,19974,7FC33DBC-A0C4-4436-B17A-30D8A6865EA6,5ED40978-FBA2-47D0-949C-11976709ECF6,272.4,Other and unspecified hyperlipidemia,2008.0,,0
-0,19980,7FC33DBC-A0C4-4436-B17A-30D8A6865EA6,031EB520-0E38-4705-BF32-2459E2BDD766,715.0,"Osteoarthrosis, generalized                                                                                                                                                                                                                                    ",,,0
+0,19980,7FC33DBC-A0C4-4436-B17A-30D8A6865EA6,031EB520-0E38-4705-BF32-2459E2BDD766,715.0,Osteoarthrosis generalized                                                                                                                                                                                                                                    ,,,0
 0,19986,7FC33DBC-A0C4-4436-B17A-30D8A6865EA6,DFF67DD4-E1B3-4EC7-A760-787C02F95E65,386.11,Benign paroxysmal positional vertigo,,,0
 0,19992,7FC33DBC-A0C4-4436-B17A-30D8A6865EA6,966B9BF4-85D8-4C16-A2E7-883BA0AE4B00,790.21,Impaired fasting glucose,2004.0,2009.0,1
 0,19998,7FC33DBC-A0C4-4436-B17A-30D8A6865EA6,1AB1320E-26C1-4B9A-8A72-94424FBB9CE4,V70.0,Routine general medical examination at a health care facility,2010.0,2010.0,1
-0,20004,7FC33DBC-A0C4-4436-B17A-30D8A6865EA6,B02CA8BE-04FA-4B70-96A7-D70239C63E07,733.90,"Disorder of bone and cartilage, unspecified",2006.0,,0
-0,20010,7FC33DBC-A0C4-4436-B17A-30D8A6865EA6,49D8CCDD-6E23-403B-8E8B-E2FD6DE07533,250.00,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",2009.0,,0
+0,20004,7FC33DBC-A0C4-4436-B17A-30D8A6865EA6,B02CA8BE-04FA-4B70-96A7-D70239C63E07,733.90,Disorder of bone and cartilage unspecified,2006.0,,0
+0,20010,7FC33DBC-A0C4-4436-B17A-30D8A6865EA6,49D8CCDD-6E23-403B-8E8B-E2FD6DE07533,250.00,type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type not stated as uncontrolled without mention of complication,2009.0,,0
 0,20016,7FC33DBC-A0C4-4436-B17A-30D8A6865EA6,A1FB5095-9674-49CD-B94D-EC407F6A7D6C,530.81,Esophageal reflux,,,0
 0,20022,7FC33DBC-A0C4-4436-B17A-30D8A6865EA6,5E6D5CE7-1577-4D45-979C-ED61942DB51F,466.0,Acute bronchitis,,,1
 0,20028,7FC33DBC-A0C4-4436-B17A-30D8A6865EA6,99CFB69E-CD3B-4143-B5DB-4A76942A2A49,691.8,Other atopic dermatitis and related conditions,,,0

@@ -1,7 +1,7 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,19858,4C525CF0-4AF8-4536-8108-30BB28F57758,538588FA-56EE-47BF-8A49-0637F4FE1E81,285.9,"Anemia, unspecified",,,0
+0,19858,4C525CF0-4AF8-4536-8108-30BB28F57758,538588FA-56EE-47BF-8A49-0637F4FE1E81,285.9,Anemia unspecified,,,0
 0,19868,4C525CF0-4AF8-4536-8108-30BB28F57758,F1774F38-8029-4EFB-AD30-18A2E7C6EA84,780.79,Other malaise and fatigue,,,1
-0,19878,4C525CF0-4AF8-4536-8108-30BB28F57758,0F2295C7-3FBF-4BBC-8548-292F1B551BEF,345.9,"Epilepsy, unspecified                                                                                                                                                                                                                                          ",,,0
+0,19878,4C525CF0-4AF8-4536-8108-30BB28F57758,0F2295C7-3FBF-4BBC-8548-292F1B551BEF,345.9,Epilepsy unspecified                                                                                                                                                                                                                                          ,,,0
 0,19888,4C525CF0-4AF8-4536-8108-30BB28F57758,E882CBB3-BEE4-4239-BEAD-30F839C6C99C,682.5,Cellulitis and abscess of buttock,2010.0,,0
 0,19898,4C525CF0-4AF8-4536-8108-30BB28F57758,43595797-6355-491E-98DC-40007BB8C77A,780.2,Syncope and collapse,,,1
 0,19908,4C525CF0-4AF8-4536-8108-30BB28F57758,211F46AC-586C-4C76-A1A6-6129CB8DB075,784.0,Headache,,,1

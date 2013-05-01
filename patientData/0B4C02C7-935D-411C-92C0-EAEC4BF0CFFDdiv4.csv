@@ -1,10 +1,10 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,172471,0B4C02C7-935D-411C-92C0-EAEC4BF0CFFD,1F3CF8B6-ED57-4DED-A1C6-01A6F0FF5080,296.23,"Major depressive disorder single episode severe degree without mention of psychotic behavior",2009.0,,1
+0,172471,0B4C02C7-935D-411C-92C0-EAEC4BF0CFFD,1F3CF8B6-ED57-4DED-A1C6-01A6F0FF5080,296.23,Major depressive disorder single episode severe degree without mention of psychotic behavior,2009.0,,1
 0,172477,0B4C02C7-935D-411C-92C0-EAEC4BF0CFFD,133204F0-FA6E-4F3A-A8FC-05182E034C59,V25.02,Encounter for general counseling on initiation of other contraceptive measures,,,0
 0,172483,0B4C02C7-935D-411C-92C0-EAEC4BF0CFFD,FB0724A9-FD0B-494D-91EA-17C18975FDD5,626.0,Absence of menstruation,2010.0,,0
 0,172489,0B4C02C7-935D-411C-92C0-EAEC4BF0CFFD,E5D22BBE-2A1E-4276-A5B5-3CADE7936276,V25.03,Encounter for emergency contraceptive counseling and prescription,,,1
 0,172495,0B4C02C7-935D-411C-92C0-EAEC4BF0CFFD,4A59E27D-6955-4195-A303-5EF4A55F568B,727.04,Radial styloid tenosynovitis,,,1
-0,172501,0B4C02C7-935D-411C-92C0-EAEC4BF0CFFD,AC66947D-1DEA-4727-947B-BCDC1AA5C304,493,Asthma,,,                                                                                                                                                                                                                                                         ,2009.0,,0
+0,172501,0B4C02C7-935D-411C-92C0-EAEC4BF0CFFD,AC66947D-1DEA-4727-947B-BCDC1AA5C304,493,Asthma                                                                                                                                                                                                                                                         ,2009.0,,0
 0,172507,0B4C02C7-935D-411C-92C0-EAEC4BF0CFFD,DA3EC08D-C123-46FB-9D29-CC9892030FED,786.52,Painful respiration,,,1
-0,172513,0B4C02C7-935D-411C-92C0-EAEC4BF0CFFD,8E03ED5B-6CF7-4830-AAC9-1F96C58F031F,599.0,"Urinary tract infection, site not specified",2009.0,2009.0,1
-0,172525,0B4C02C7-935D-411C-92C0-EAEC4BF0CFFD,7C6BD6AD-2EB3-4210-AA8C-48C4F8AB74B9,590.80,"Pyelonephritis, unspecified",2010.0,,0
+0,172513,0B4C02C7-935D-411C-92C0-EAEC4BF0CFFD,8E03ED5B-6CF7-4830-AAC9-1F96C58F031F,599.0,Urinary tract infection site not specified,2009.0,2009.0,1
+0,172525,0B4C02C7-935D-411C-92C0-EAEC4BF0CFFD,7C6BD6AD-2EB3-4210-AA8C-48C4F8AB74B9,590.80,Pyelonephritis unspecified,2010.0,,0

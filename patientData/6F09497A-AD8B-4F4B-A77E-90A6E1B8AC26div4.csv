@@ -1,17 +1,17 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,136735,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,EADF851E-0B15-4E2E-9655-0F576E6B0ACC,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
 0,136750,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,A277237C-A43B-42CB-AF85-1320DE8CF690,285.2,Anemia in chronic illness                                                                                                                                                                                                                                      ,2011.0,,0
-0,136765,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,8E387244-EE6E-4402-9105-1327B29B99DA,216.9,"Benign neoplasm of skin, site unspecified",,,1
+0,136765,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,8E387244-EE6E-4402-9105-1327B29B99DA,216.9,Benign neoplasm of skin site unspecified,,,1
 0,136780,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,A34C484D-AFD0-4CE0-BBED-2D6B15F35FF2,585,Chronic renal failure                                                                                                                                                                                                                                          ,2011.0,,0
 0,136795,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,D1F5065E-0E62-4FBD-B2D2-3555008651DE,272.4,Other and unspecified hyperlipidemia,2011.0,,0
 0,136810,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,1DFCAF20-4B6F-44A3-803D-3E5E8FF65664,244.9,Unspecified hypothyroidism,2011.0,,0
 0,136825,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,3A71CC72-7F67-41AE-B4BA-4D8C95ECEE14,465.9,Acute upper respiratory infections of unspecified site,,,1
-0,136840,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,5D639B1F-FD09-49D4-9373-530A73AD63C8,009.0,"Infectious colitis, enteritis, and gastroenteritis",,,1
-0,136855,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,3CAEDA83-5006-4B9F-BE0E-605A43B7147E,250.00,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",,,0
+0,136840,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,5D639B1F-FD09-49D4-9373-530A73AD63C8,009.0,Infectious colitis enteritis and gastroenteritis,,,1
+0,136855,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,3CAEDA83-5006-4B9F-BE0E-605A43B7147E,250.00,type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type not stated as uncontrolled without mention of complication,,,0
 0,136870,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,DD1B8AAD-A621-41D1-BB9D-7ADDD99ABD36,585.,Chronic renal failure,,,0
 0,136885,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,44DCF58A-58BA-4E30-94E8-7D7D4565046A,386.11,Benign paroxysmal positional vertigo,,,1
 0,136900,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,F6E950C0-903F-4654-9C5E-8889F167297C,173.3,Other malignant neoplasm of skin of other and unspecified parts of face,,,1
 0,136915,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,351393D5-DC7D-4E26-8EC2-B37671EF517E,185.,Malignant neoplasm of prostate,2011.0,,0
 0,136930,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,1EEED363-9D78-4541-B2BE-D6181096D522,459.39,Chronic venous hypertension with other complication,,,0
-0,136945,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,E8267E6C-2498-4A17-8684-DEC4FC042440,496,"COPD, NOS",,,0
+0,136945,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,E8267E6C-2498-4A17-8684-DEC4FC042440,496,COPD NOS,,,0
 0,136960,6F09497A-AD8B-4F4B-A77E-90A6E1B8AC26,203A1040-466E-4F2A-97D4-BD7089C22DD3,501,Asbestosis,2011.0,,0

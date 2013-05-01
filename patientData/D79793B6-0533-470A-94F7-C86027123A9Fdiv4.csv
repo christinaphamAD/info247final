@@ -1,9 +1,9 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,156537,D79793B6-0533-470A-94F7-C86027123A9F,C042346A-6B95-433A-8252-2EF3423C1310,296.33,"Major depressive disorder, recurrent episode, severe degree, without mention of psychotic behavior",2009.0,,0
+0,156537,D79793B6-0533-470A-94F7-C86027123A9F,C042346A-6B95-433A-8252-2EF3423C1310,296.33,Major depressive disorder recurrent episode severe degree without mention of psychotic behavior,2009.0,,0
 0,156543,D79793B6-0533-470A-94F7-C86027123A9F,5F86B558-568F-4DBD-8658-3A30FA1F16FF,786.2,Cough,,,1
 0,156549,D79793B6-0533-470A-94F7-C86027123A9F,D1D30F86-5D13-496E-82D7-3AF7A03D0D0D,465.9,Acute upper respiratory infections of unspecified site,2009.0,,1
 0,156555,D79793B6-0533-470A-94F7-C86027123A9F,567B17F8-BA66-47C6-850B-7A5A51C4A209,723,Other disorders of cervical region                                                                                                                                                                                                                             ,,,1
 0,156561,D79793B6-0533-470A-94F7-C86027123A9F,C64A8FDF-EA2C-41FB-B7E9-CB13B6896220,V72.3,Gynecological examination,2009.0,,1
 0,156567,D79793B6-0533-470A-94F7-C86027123A9F,4A79FF40-1D00-496F-81F5-D1A79A20950C,V70.0,Routine general medical examination at a health care facility,2009.0,,1
-0,156573,D79793B6-0533-470A-94F7-C86027123A9F,DC9C5BA9-127C-4E53-9B31-EF792AEA3C75,296.33,"Major depressive disorder, recurrent episode, severe degree, without mention of psychotic behavior",2009.0,,0
+0,156573,D79793B6-0533-470A-94F7-C86027123A9F,DC9C5BA9-127C-4E53-9B31-EF792AEA3C75,296.33,Major depressive disorder recurrent episode severe degree without mention of psychotic behavior,2009.0,,0
 0,156579,D79793B6-0533-470A-94F7-C86027123A9F,C1B6238C-6C08-4481-8210-F4F81247596C,054,Herpes simplex                                                                                                                                                                                                                                                 ,,,1

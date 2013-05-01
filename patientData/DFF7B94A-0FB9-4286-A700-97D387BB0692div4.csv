@@ -1,12 +1,12 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,138488,DFF7B94A-0FB9-4286-A700-97D387BB0692,FBAE9990-8603-4B28-9FE1-28FADE93F436,786.2,Cough,2009.0,,0
-0,138496,DFF7B94A-0FB9-4286-A700-97D387BB0692,F10A2240-7953-43DF-BB2D-2E048AC3FCCE,493.92,"Asthma, unspecified type, with acute exacerbation",2012.0,,0
-0,138512,DFF7B94A-0FB9-4286-A700-97D387BB0692,D1F39161-CD36-416F-BBE7-5E138FA121CF,434.9,"Cerebral artery occlusion, unspecified                                                                                                                                                                                                                         ",2010.0,,0
+0,138496,DFF7B94A-0FB9-4286-A700-97D387BB0692,F10A2240-7953-43DF-BB2D-2E048AC3FCCE,493.92,Asthma unspecified type with acute exacerbation,2012.0,,0
+0,138512,DFF7B94A-0FB9-4286-A700-97D387BB0692,D1F39161-CD36-416F-BBE7-5E138FA121CF,434.9,Cerebral artery occlusion unspecified                                                                                                                                                                                                                         ,2010.0,,0
 0,138520,DFF7B94A-0FB9-4286-A700-97D387BB0692,49A22250-7177-4C5A-B6A0-AFBC721D7306,493.8,Other  forms of asthma                                                                                                                                                                                                                                         ,2009.0,,0
 0,138528,DFF7B94A-0FB9-4286-A700-97D387BB0692,E45CF2D3-513D-4553-8752-C42A13FF1132,530.11,Reflux esophagitis,2009.0,,0
 0,138536,DFF7B94A-0FB9-4286-A700-97D387BB0692,155C778D-5AB1-46C0-A9B1-DCFB236DECAF,553.3,Diaphragmatic hernia without mention of obstruction or gangrene,2010.0,,0
-0,138544,DFF7B94A-0FB9-4286-A700-97D387BB0692,C1AE8BC8-35A8-4DD6-AA15-DF532DAE4661,477.9,"Allergic rhinitis, cause unspecified",2012.0,,0
+0,138544,DFF7B94A-0FB9-4286-A700-97D387BB0692,C1AE8BC8-35A8-4DD6-AA15-DF532DAE4661,477.9,Allergic rhinitis cause unspecified,2012.0,,0
 0,138552,DFF7B94A-0FB9-4286-A700-97D387BB0692,568DFF70-8571-433C-B97C-8EB37220BE39,133.0,Scabies,2010.0,,0
-0,138568,DFF7B94A-0FB9-4286-A700-97D387BB0692,7FF61AAF-A7F7-4E24-A7EE-C1BADC9307CF,461.9,"Acute sinusitis, unspecified",2010.0,,0
+0,138568,DFF7B94A-0FB9-4286-A700-97D387BB0692,7FF61AAF-A7F7-4E24-A7EE-C1BADC9307CF,461.9,Acute sinusitis unspecified,2010.0,,0
 0,138584,DFF7B94A-0FB9-4286-A700-97D387BB0692,90B2F8AC-4486-43D9-8C8A-C7535B003C97,786.2,Cough,2010.0,,0
 0,138592,DFF7B94A-0FB9-4286-A700-97D387BB0692,80838BC8-2422-418D-944A-DBD6F5EB5A86,401.9,Unspecified essential hypertension,2009.0,,0

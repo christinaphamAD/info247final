@@ -1,5 +1,5 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,176275,38179484-6004-459E-B9DC-F5EF82FB3913,C780C49D-9788-4BD0-B074-42881D940864,724.4,"Thoracic or lumbosacral neuritis or radiculitis, unspecified",2010.0,,0
+0,176275,38179484-6004-459E-B9DC-F5EF82FB3913,C780C49D-9788-4BD0-B074-42881D940864,724.4,Thoracic or lumbosacral neuritis or radiculitis unspecified,2010.0,,0
 0,176280,38179484-6004-459E-B9DC-F5EF82FB3913,63A2BEB6-BDA4-463D-9861-557EC50E5EBD,722.93,Other and unspecified disc disorder of lumbar region,2010.0,,0
 0,176285,38179484-6004-459E-B9DC-F5EF82FB3913,2C726F87-97E6-49DD-99D6-8307D589A544,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
 0,176290,38179484-6004-459E-B9DC-F5EF82FB3913,D8B0F0A5-F29C-49F2-AA60-BB72470E6AE1,465.9,Acute upper respiratory infections of unspecified site,,,1

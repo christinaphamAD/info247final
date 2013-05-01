@@ -1,7 +1,7 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,196713,E64FEF19-64CD-4716-B29A-FE4F15BFD21B,8B891EED-CCDD-4BC7-A331-5515F7AB6432,461.9,"Acute sinusitis, unspecified",2010.0,,0
+0,196713,E64FEF19-64CD-4716-B29A-FE4F15BFD21B,8B891EED-CCDD-4BC7-A331-5515F7AB6432,461.9,Acute sinusitis unspecified,2010.0,,0
 0,196729,E64FEF19-64CD-4716-B29A-FE4F15BFD21B,7E8884FB-C99A-4DBF-8110-9BE0A13D0307,277.4,Disorders of bilirubin excretion,,,1
 0,196737,E64FEF19-64CD-4716-B29A-FE4F15BFD21B,23412C31-CDAC-43CC-9BF5-ADC9863D7F8C,791,NonSpecified findings on exam of urine                                                                                                                                                                                                                         ,,,1
 0,196745,E64FEF19-64CD-4716-B29A-FE4F15BFD21B,D1BE353A-8825-4F94-98DF-D2A6947CA598,401.9,Unspecified essential hypertension,,,1
-0,196753,E64FEF19-64CD-4716-B29A-FE4F15BFD21B,45C77EC0-6238-4360-8EE9-FFD590433204,648.83,"Abnormal glucose tolerance of mother, antepartum",,,0
+0,196753,E64FEF19-64CD-4716-B29A-FE4F15BFD21B,45C77EC0-6238-4360-8EE9-FFD590433204,648.83,Abnormal glucose tolerance of mother antepartum,,,0
 0,196761,E64FEF19-64CD-4716-B29A-FE4F15BFD21B,DB91B502-5244-481D-B82E-B2D8C2E8B433,382.00,Acute suppurative otitis media without spontaneous rupture of ear drum,2010.0,,0

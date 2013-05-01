@@ -1,7 +1,7 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,8609,37C376EC-44BC-4DCE-BF74-1C06140345DA,40B72C4A-6B28-407F-8B6D-11CEF794DD30,794.8,Nonspecific abnormal results of function study of liver,2010.0,,0
 0,8616,37C376EC-44BC-4DCE-BF74-1C06140345DA,73256FE5-A639-4336-90C6-7783A1B6CDA2,272.4,Other and unspecified hyperlipidemia,2010.0,,0
-0,8623,37C376EC-44BC-4DCE-BF74-1C06140345DA,C7ADB562-FB89-43BD-9146-88FC33CB3E35,381.00,"Acute nonsuppurative otitis media, unspecified",,,0
+0,8623,37C376EC-44BC-4DCE-BF74-1C06140345DA,C7ADB562-FB89-43BD-9146-88FC33CB3E35,381.00,Acute nonsuppurative otitis media unspecified,,,0
 0,8630,37C376EC-44BC-4DCE-BF74-1C06140345DA,BC70F06D-8A70-4092-AA71-8D6BB6F6378A,462.,Acute pharyngitis,,,1
 0,8637,37C376EC-44BC-4DCE-BF74-1C06140345DA,82404F9C-5355-4C5C-8B0C-95BBDAE3A905,305.1,Tobacco use disorder,2010.0,,0
 0,8644,37C376EC-44BC-4DCE-BF74-1C06140345DA,23F6EF2C-77FF-4031-8D05-B4241BC72426,250.0,Diabetes mellitus no complication                                                                                                                                                                                                                              ,2010.0,,0

@@ -1,6 +1,6 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,161795,BD555073-A950-4B0A-AAEB-D5B3C296FDAA,FD3C7894-5F76-4096-B7BC-27B6D3C87A93,493.0,Extrinsic asthma                                                                                                                                                                                                                                               ,2010.0,,0
-0,161807,BD555073-A950-4B0A-AAEB-D5B3C296FDAA,134690B2-EA6E-4D38-9037-5E62D4DD03FE,216.9,"Benign neoplasm of skin, site unspecified",2009.0,,0
+0,161807,BD555073-A950-4B0A-AAEB-D5B3C296FDAA,134690B2-EA6E-4D38-9037-5E62D4DD03FE,216.9,Benign neoplasm of skin site unspecified,2009.0,,0
 0,161813,BD555073-A950-4B0A-AAEB-D5B3C296FDAA,633D4DE7-4260-4A35-BD83-6D7E22B608DA,455.6,Unspecified hemorrhoids without mention of complication,2009.0,,0
 0,161819,BD555073-A950-4B0A-AAEB-D5B3C296FDAA,ADE66908-4755-40C8-BBF2-B3379B197E0D,238.2,Neoplasm of uncertain behavior of skin,2009.0,,0
 0,161825,BD555073-A950-4B0A-AAEB-D5B3C296FDAA,E725ABED-6E60-4BF3-8C23-72E537AC1C15,717.9,Unspecified internal derangement of knee,2009.0,,0

@@ -1,9 +1,9 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,63379,B0F8F77C-054D-438D-9E31-5BD2B5C304D6,7129E9E8-3BAD-4463-92A3-31F8CCE3B362,724.2,Lumbago,2011.0,,0
-0,63391,B0F8F77C-054D-438D-9E31-5BD2B5C304D6,F48F97AC-7EB7-47A3-8B8A-718F1E841070,300.00,"Anxiety state, unspecified",2010.0,,0
+0,63391,B0F8F77C-054D-438D-9E31-5BD2B5C304D6,F48F97AC-7EB7-47A3-8B8A-718F1E841070,300.00,Anxiety state unspecified,2010.0,,0
 0,63403,B0F8F77C-054D-438D-9E31-5BD2B5C304D6,40CE1146-05AC-4946-8939-80359ABCDE75,V70.0,Routine general medical examination at a health care facility,,,0
 0,63409,B0F8F77C-054D-438D-9E31-5BD2B5C304D6,695CEF90-A826-4B5F-8CD1-B856C8130AE7,790.21,Impaired fasting glucose,,,0
-0,63415,B0F8F77C-054D-438D-9E31-5BD2B5C304D6,95B272B9-427B-4E79-8FCA-D5296600D16B,729.2,"Neuralgia, neuritis, and radiculitis, unspecified",2010.0,,0
+0,63415,B0F8F77C-054D-438D-9E31-5BD2B5C304D6,95B272B9-427B-4E79-8FCA-D5296600D16B,729.2,Neuralgia neuritis and radiculitis unspecified,2010.0,,0
 0,63421,B0F8F77C-054D-438D-9E31-5BD2B5C304D6,BD70A217-491F-4D5D-BBC0-90522D942448,401.9,Unspecified essential hypertension,,,0
-0,63445,B0F8F77C-054D-438D-9E31-5BD2B5C304D6,6F4DBABE-B4D5-4EAE-A497-99D0F5B50AB6,493.9,"Asthma, unspecified                                                                                                                                                                                                                                            ",,,0
+0,63445,B0F8F77C-054D-438D-9E31-5BD2B5C304D6,6F4DBABE-B4D5-4EAE-A497-99D0F5B50AB6,493.9,Asthma unspecified                                                                                                                                                                                                                                            ,,,0
 0,63469,B0F8F77C-054D-438D-9E31-5BD2B5C304D6,25B7672D-4A0D-4FB1-982B-A23FC40DD880,493.02,Extrinsic asthma with acute exacerbation,2012.0,,0

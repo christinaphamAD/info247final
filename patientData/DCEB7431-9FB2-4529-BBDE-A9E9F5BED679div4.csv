@@ -1,16 +1,16 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,144777,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,0106C74E-018B-456B-B207-10F5F58E60FC,995.2,Unspec adverse effect of drug due to proper administration,2010.0,,0
-0,144798,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,E2A4E44E-0BF4-46DD-9521-2D80C427D930,477.9,"Allergic rhinitis, cause unspecified",2009.0,,0
+0,144798,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,E2A4E44E-0BF4-46DD-9521-2D80C427D930,477.9,Allergic rhinitis cause unspecified,2009.0,,0
 0,144819,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,9CA5D40B-5472-4043-BE91-51D57218E9E2,724.02,Spinal stenosis of lumbar region,2012.0,,0
 0,144840,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,AB75EFEB-6AAB-4D28-81E9-758FEF4562F8,577.0,Acute pancreatitis,2012.0,2012.0,0
-0,144861,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,9F51E148-16E6-4A16-8747-88CFE7CB71FF,721.42,"Spondylosis with myelopathy, lumbar region",2012.0,,0
+0,144861,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,9F51E148-16E6-4A16-8747-88CFE7CB71FF,721.42,Spondylosis with myelopathy lumbar region,2012.0,,0
 0,144882,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,170B9225-17B4-48DA-86F7-944E0C605459,783.1,Abnormal weight gain,2010.0,,0
 0,144903,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,FD92A8DB-E742-44B6-9A95-D9EF80DA4FF5,272.1,Pure hyperglyceridemia,2010.0,,0
 0,144924,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,8AB3B172-FD87-46F6-B6E3-5B1D4D1AD554,414.01,Coronary atherosclerosis of native coronary artery,2009.0,,0
-0,145008,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,A208A2FE-8022-4B2F-846B-6BABD7B31662,296.3,"Major depressive disorder, recurrent episode                                                                                                                                                                                                                   ",2009.0,,0
+0,145008,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,A208A2FE-8022-4B2F-846B-6BABD7B31662,296.3,Major depressive disorder recurrent episode                                                                                                                                                                                                                   ,2009.0,,0
 0,145050,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,DAC9A846-4F51-4C15-A03B-8F82900F1068,268,Vitamin d deficiency                                                                                                                                                                                                                                           ,2012.0,,0
 0,145071,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,1534FFDF-1C81-424D-90B3-ABF07114AA7E,300.0,Anxiety states                                                                                                                                                                                                                                                 ,2009.0,,0
 0,145092,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,4C298EE9-ACD6-4462-B848-B3A2D959D853,722.93,Other and unspecified disc disorder of lumbar region,2012.0,,0
-0,145113,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,A5545CC1-7DFF-450B-9826-BC1473984FA4,724.4,"Thoracic or lumbosacral neuritis or radiculitis, unspecified",2012.0,,0
+0,145113,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,A5545CC1-7DFF-450B-9826-BC1473984FA4,724.4,Thoracic or lumbosacral neuritis or radiculitis unspecified,2012.0,,0
 0,145176,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,9A44BF81-A64A-428C-91D9-EFA7C92BF3D9,401.9,Unspecified essential hypertension,2009.0,,0
 0,145260,DCEB7431-9FB2-4529-BBDE-A9E9F5BED679,B214B587-B818-4CF9-BC5C-F4AE0F7CAADC,530.81,Esophageal reflux,2009.0,,0

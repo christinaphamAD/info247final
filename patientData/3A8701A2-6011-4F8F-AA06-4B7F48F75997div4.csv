@@ -1,11 +1,11 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,53950,3A8701A2-6011-4F8F-AA06-4B7F48F75997,BF86F52A-D4E3-4268-B69B-3C1D62CC897B,V22.2,"Pregnant state, incidental",2011.0,,1
+0,53950,3A8701A2-6011-4F8F-AA06-4B7F48F75997,BF86F52A-D4E3-4268-B69B-3C1D62CC897B,V22.2,Pregnant state incidental,2011.0,,1
 0,53956,3A8701A2-6011-4F8F-AA06-4B7F48F75997,E7C21525-BF47-4477-8962-69BBF9FE7706,616.1,Vaginitis and vulvovaginitis                                                                                                                                                                                                                                   ,,,1
-0,53962,3A8701A2-6011-4F8F-AA06-4B7F48F75997,9846B63C-A0F9-4E06-A9B5-6DE502E7E740,346.9,"Migraine, unspecified                                                                                                                                                                                                                                          ",,,0
+0,53962,3A8701A2-6011-4F8F-AA06-4B7F48F75997,9846B63C-A0F9-4E06-A9B5-6DE502E7E740,346.9,Migraine unspecified                                                                                                                                                                                                                                          ,,,0
 0,53968,3A8701A2-6011-4F8F-AA06-4B7F48F75997,21405AD2-731E-42DB-9974-7ECA775C68A5,079.99,Unspecified viral infection in conditions classified elsewhere and of unspecified site,,,1
 0,53974,3A8701A2-6011-4F8F-AA06-4B7F48F75997,4EC00D42-BFF5-4478-BB59-B18F820FF9A6,592.0,Calculus of kidney,,,1
 0,53980,3A8701A2-6011-4F8F-AA06-4B7F48F75997,CB71629F-E5D4-40F0-8C70-B468F637FB3B,466.0,Acute bronchitis,2011.0,2011.0,0
 0,53986,3A8701A2-6011-4F8F-AA06-4B7F48F75997,611AAC21-6DB3-4E01-BBC0-CACFDD22BA26,599.72,Microscopic hematuria,2011.0,,0
 0,53992,3A8701A2-6011-4F8F-AA06-4B7F48F75997,042851E6-E80B-404F-9220-E37DBE1EEE66,465.9,Acute upper respiratory infections of unspecified site,,,1
-0,53998,3A8701A2-6011-4F8F-AA06-4B7F48F75997,F18ABB8D-A655-4E4A-8D3B-6DA1EC60D19A,461.9,"Acute sinusitis, unspecified",2011.0,2011.0,0
+0,53998,3A8701A2-6011-4F8F-AA06-4B7F48F75997,F18ABB8D-A655-4E4A-8D3B-6DA1EC60D19A,461.9,Acute sinusitis unspecified,2011.0,2011.0,0
 0,54004,3A8701A2-6011-4F8F-AA06-4B7F48F75997,9800BAFD-B52D-4B63-8F63-E150AD1A959A,787.01,Nausea with vomiting,2011.0,2011.0,0

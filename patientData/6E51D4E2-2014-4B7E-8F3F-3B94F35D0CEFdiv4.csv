@@ -1,10 +1,10 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,44787,6E51D4E2-2014-4B7E-8F3F-3B94F35D0CEF,CAAB70E1-9ECE-49E2-981B-19317CBD5B8E,786.2,Cough,2011.0,2011.0,0
-0,44795,6E51D4E2-2014-4B7E-8F3F-3B94F35D0CEF,4489D004-E585-465A-909F-4574A76C72A0,493.90,"Asthma, unspecified type, without mention of status asthmaticus",,,0
+0,44795,6E51D4E2-2014-4B7E-8F3F-3B94F35D0CEF,4489D004-E585-465A-909F-4574A76C72A0,493.90,Asthma unspecified type without mention of status asthmaticus,,,0
 0,44803,6E51D4E2-2014-4B7E-8F3F-3B94F35D0CEF,724D7F56-16AC-4E06-BDF2-47283D7A2D46,382.9,Unspecified otitis media,2011.0,2011.0,0
 0,44811,6E51D4E2-2014-4B7E-8F3F-3B94F35D0CEF,3931E35C-1EE5-4E83-9BC0-7FC9934758FF,786.0,Dyspnea and respiratory abnormalities                                                                                                                                                                                                                          ,2009.0,2009.0,1
 0,44819,6E51D4E2-2014-4B7E-8F3F-3B94F35D0CEF,1C936C65-82C3-4AFB-95BA-8C3A542AF1E5,780.79,Other malaise and fatigue,,,1
 0,44827,6E51D4E2-2014-4B7E-8F3F-3B94F35D0CEF,65306F2D-40C6-4A1B-9A49-975159F67F4B,V70.0,Routine general medical examination at a health care facility,2010.0,2010.0,1
 0,44835,6E51D4E2-2014-4B7E-8F3F-3B94F35D0CEF,4EE390C2-446C-46B8-853D-BBB1422294BB,535.0,Acute gastritis                                                                                                                                                                                                                                                ,2009.0,,1
 0,44843,6E51D4E2-2014-4B7E-8F3F-3B94F35D0CEF,2D7A4E25-B62E-41EA-A493-C24D4BEC9D78,268.9,Unspecified vitamin D deficiency,2012.0,,0
-0,44851,6E51D4E2-2014-4B7E-8F3F-3B94F35D0CEF,44FDB61C-4A81-4656-B8FE-C8F2CE9B4544,461.9,"Acute sinusitis, unspecified",2011.0,2011.0,0
+0,44851,6E51D4E2-2014-4B7E-8F3F-3B94F35D0CEF,44FDB61C-4A81-4656-B8FE-C8F2CE9B4544,461.9,Acute sinusitis unspecified,2011.0,2011.0,0

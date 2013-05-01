@@ -1,12 +1,12 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,133285,6530C248-867C-456F-8D2F-8B5277EAB7BC,09407B39-3823-4615-B87D-098AC9F42488,473,Chronic sinusitis                                                                                                                                                                                                                                              ,2009.0,,0
 0,133292,6530C248-867C-456F-8D2F-8B5277EAB7BC,76C04765-F8CE-43F4-B768-1BA189A586DD,244.9,Unspecified hypothyroidism,,,0
-0,133299,6530C248-867C-456F-8D2F-8B5277EAB7BC,92DD7616-A7A8-4EFC-8F86-4C27DE4A737D,599.0,"Urinary tract infection, site not specified",,,1
+0,133299,6530C248-867C-456F-8D2F-8B5277EAB7BC,92DD7616-A7A8-4EFC-8F86-4C27DE4A737D,599.0,Urinary tract infection site not specified,,,1
 0,133306,6530C248-867C-456F-8D2F-8B5277EAB7BC,732977C6-E2DA-410E-9921-5AC58905FAC4,401.9,Unspecified essential hypertension,,,0
 0,133313,6530C248-867C-456F-8D2F-8B5277EAB7BC,86CA3F9C-C873-40C2-B8F3-76FD492A0E39,461,Acute sinusitis                                                                                                                                                                                                                                                ,,,0
 0,133320,6530C248-867C-456F-8D2F-8B5277EAB7BC,3FFC2E03-001D-463B-A35F-AB12FD77B22C,466.0,Acute bronchitis,2009.0,,0
 0,133327,6530C248-867C-456F-8D2F-8B5277EAB7BC,F3AC0CCD-D2E5-496B-8C31-AC6CD16220B3,780.79,Other malaise and fatigue,2009.0,,0
-0,133334,6530C248-867C-456F-8D2F-8B5277EAB7BC,512A6A27-838B-4574-9C9A-ADCC96747FC8,477.9,"Allergic rhinitis, cause unspecified",,,0
+0,133334,6530C248-867C-456F-8D2F-8B5277EAB7BC,512A6A27-838B-4574-9C9A-ADCC96747FC8,477.9,Allergic rhinitis cause unspecified,,,0
 0,133341,6530C248-867C-456F-8D2F-8B5277EAB7BC,4E50F0CB-33E8-45F3-AC7B-B8377C37F9D2,702.0,Actinic keratosis,,,0
 0,133348,6530C248-867C-456F-8D2F-8B5277EAB7BC,7AF1D6DD-3500-4789-915B-B860C117E3F5,034.0,Streptococcal sore throat,2009.0,,0
 0,133355,6530C248-867C-456F-8D2F-8B5277EAB7BC,85AE1E3F-A63B-47AF-B023-E12444D265FF,380.4,Impacted cerumen,,,1

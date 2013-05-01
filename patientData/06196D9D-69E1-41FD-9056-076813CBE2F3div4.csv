@@ -1,7 +1,7 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,197237,06196D9D-69E1-41FD-9056-076813CBE2F3,F21E200D-5A57-4452-9695-088CE87CC09F,599.0,"Urinary tract infection, site not specified",2011.0,2011.0,1
+0,197237,06196D9D-69E1-41FD-9056-076813CBE2F3,F21E200D-5A57-4452-9695-088CE87CC09F,599.0,Urinary tract infection site not specified,2011.0,2011.0,1
 0,197262,06196D9D-69E1-41FD-9056-076813CBE2F3,022D5A0C-D998-48B3-A0D0-0BB4CA1205F7,V72.3,Gynecological examination,,,1
 0,197287,06196D9D-69E1-41FD-9056-076813CBE2F3,B4287856-5DE6-494E-9765-14C84348CB7C,V25.0,General counseling and advice for contraceptive management,,,1
-0,197312,06196D9D-69E1-41FD-9056-076813CBE2F3,17737B94-C421-44F9-A831-53769D95DBCC,477.9,"Allergic rhinitis, cause unspecified",,,1
+0,197312,06196D9D-69E1-41FD-9056-076813CBE2F3,17737B94-C421-44F9-A831-53769D95DBCC,477.9,Allergic rhinitis cause unspecified,,,1
 0,197337,06196D9D-69E1-41FD-9056-076813CBE2F3,D908A5EC-C5A9-461D-8335-B14FF6ADDE8A,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
 0,197362,06196D9D-69E1-41FD-9056-076813CBE2F3,C7109828-32BB-4336-BEE7-ED9A1D3586F7,780.79,Other malaise and fatigue,,,1

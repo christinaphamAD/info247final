@@ -1,8 +1,8 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,157081,29D25CD8-A722-4C69-95F2-CC60D4273141,598BA08B-ACEA-4ACA-8309-1F08B880362F,455.6,Unspecified hemorrhoids without mention of complication,,,1
-0,157086,29D25CD8-A722-4C69-95F2-CC60D4273141,68A1FC98-74D2-40C8-A7B6-82D29BF53EB3,599.0,"Urinary tract infection, site not specified",2009.0,2009.0,1
+0,157086,29D25CD8-A722-4C69-95F2-CC60D4273141,68A1FC98-74D2-40C8-A7B6-82D29BF53EB3,599.0,Urinary tract infection site not specified,2009.0,2009.0,1
 0,157091,29D25CD8-A722-4C69-95F2-CC60D4273141,83942E90-B4A3-44ED-9453-BB0D10F6ADCA,617,Endometriosis                                                                                                                                                                                                                                                  ,2009.0,,0
 0,157096,29D25CD8-A722-4C69-95F2-CC60D4273141,E890AF7A-E370-43BD-B1B2-C49E3B414FBC,V25.01,Encounter for general counseling on prescription of oral contraceptives,,,0
-0,157101,29D25CD8-A722-4C69-95F2-CC60D4273141,D74DB5B7-C138-40DD-977B-DABD077EB634,915.6,"Superficial foreign body (splinter) of fingers, without major open wound and without mention of infection",2009.0,2009.0,1
+0,157101,29D25CD8-A722-4C69-95F2-CC60D4273141,D74DB5B7-C138-40DD-977B-DABD077EB634,915.6,Superficial foreign body (splinter) of fingers without major open wound and without mention of infection,2009.0,2009.0,1
 0,157106,29D25CD8-A722-4C69-95F2-CC60D4273141,7A21F941-5F3B-405C-AD51-F3E120B2EC71,V70.0,Routine general medical examination at a health care facility,2009.0,2009.0,1
-0,157111,29D25CD8-A722-4C69-95F2-CC60D4273141,6442C0B0-357B-4A40-A809-96F374390A7C,346.9,"Migraine, unspecified                                                                                                                                                                                                                                          ",,,0
+0,157111,29D25CD8-A722-4C69-95F2-CC60D4273141,6442C0B0-357B-4A40-A809-96F374390A7C,346.9,Migraine unspecified                                                                                                                                                                                                                                          ,,,0

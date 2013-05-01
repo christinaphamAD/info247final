@@ -1,6 +1,6 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,260761,DF251E86-1947-4DAC-826E-304A50D28DCD,35D653B8-5DF6-4CD4-AD6E-21B3397B910F,250.02,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, without mention of complication",2011.0,,0
+0,260761,DF251E86-1947-4DAC-826E-304A50D28DCD,35D653B8-5DF6-4CD4-AD6E-21B3397B910F,250.02,type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type uncontrolled without mention of complication,2011.0,,0
 0,260841,DF251E86-1947-4DAC-826E-304A50D28DCD,B0813F6E-EED5-42D6-A5F4-2A06E98A5E11,272.4,Other and unspecified hyperlipidemia,2011.0,,0
-0,260881,DF251E86-1947-4DAC-826E-304A50D28DCD,1AD103A0-1F0D-41DA-9B7C-715A1A7EAD0A,250.00,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",2009.0,,0
-0,260921,DF251E86-1947-4DAC-826E-304A50D28DCD,ABF5B3B6-0A89-466F-B1BB-82390E568231,535.50,"Unspecified gastritis and gastroduodenitis, without mention of hemorrhage",2010.0,,0
+0,260881,DF251E86-1947-4DAC-826E-304A50D28DCD,1AD103A0-1F0D-41DA-9B7C-715A1A7EAD0A,250.00,type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type not stated as uncontrolled without mention of complication,2009.0,,0
+0,260921,DF251E86-1947-4DAC-826E-304A50D28DCD,ABF5B3B6-0A89-466F-B1BB-82390E568231,535.50,Unspecified gastritis and gastroduodenitis without mention of hemorrhage,2010.0,,0
 0,260961,DF251E86-1947-4DAC-826E-304A50D28DCD,A24EDA5A-237B-4262-A908-FBEEAC5C704C,401.9,Unspecified essential hypertension,2011.0,,0

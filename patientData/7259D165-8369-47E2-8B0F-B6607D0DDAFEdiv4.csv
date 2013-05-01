@@ -1,14 +1,14 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,149732,7259D165-8369-47E2-8B0F-B6607D0DDAFE,6C119F1D-888E-432B-8D77-27E2DEC899B0,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
-0,149816,7259D165-8369-47E2-8B0F-B6607D0DDAFE,369AC7F4-F5D4-4DF4-9592-3213090D0B4C,599.0,"Urinary tract infection, site not specified",,,1
-0,149900,7259D165-8369-47E2-8B0F-B6607D0DDAFE,FA3752B8-1041-456B-A48C-3A7D03758C61,403.91,"Hypertensive renal disease, unspecified, with renal failure",2009.0,,0
+0,149816,7259D165-8369-47E2-8B0F-B6607D0DDAFE,369AC7F4-F5D4-4DF4-9592-3213090D0B4C,599.0,Urinary tract infection site not specified,,,1
+0,149900,7259D165-8369-47E2-8B0F-B6607D0DDAFE,FA3752B8-1041-456B-A48C-3A7D03758C61,403.91,Hypertensive renal disease unspecified with renal failure,2009.0,,0
 0,149984,7259D165-8369-47E2-8B0F-B6607D0DDAFE,CBDFA03E-43D7-418F-80A1-4B62CB136898,466.0,Acute bronchitis,,,1
 0,150068,7259D165-8369-47E2-8B0F-B6607D0DDAFE,042357C5-EDEB-4AA3-89C5-5AA7FA8F0331,724.2,Lumbago,,,1
-0,150152,7259D165-8369-47E2-8B0F-B6607D0DDAFE,B51AEAD1-D1BA-46F8-BFF5-6D83928F2453,682.6,"Cellulitis and abscess of leg, except foot",,,1
+0,150152,7259D165-8369-47E2-8B0F-B6607D0DDAFE,B51AEAD1-D1BA-46F8-BFF5-6D83928F2453,682.6,Cellulitis and abscess of leg except foot,,,1
 0,150236,7259D165-8369-47E2-8B0F-B6607D0DDAFE,C7AEE678-7EAA-4DAA-AB5C-7988CADD4C3C,493.00,Extrinsic asthma without mention of status asthmaticus,2009.0,,0
-0,150320,7259D165-8369-47E2-8B0F-B6607D0DDAFE,3D095989-9C1B-4EE7-9979-7BF60342E7EC,250.40,"Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with renal manifestations",,,0
+0,150320,7259D165-8369-47E2-8B0F-B6607D0DDAFE,3D095989-9C1B-4EE7-9979-7BF60342E7EC,250.40,Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type not stated as uncontrolled with renal manifestations,,,0
 0,150404,7259D165-8369-47E2-8B0F-B6607D0DDAFE,3ED044E5-542F-4132-BD54-C6933FDA13C1,230.3,Carcinoma in situ of colon,2009.0,,0
 0,150488,7259D165-8369-47E2-8B0F-B6607D0DDAFE,57373E0A-D615-40B1-A2C4-EC32A8A5C839,276.51,Dehydration,,,1
-0,150572,7259D165-8369-47E2-8B0F-B6607D0DDAFE,863B7319-5BD8-4AAC-AD02-F469C3723780,008.8,"Intestinal infection due to other organism, not elsewhere classified",,,1
+0,150572,7259D165-8369-47E2-8B0F-B6607D0DDAFE,863B7319-5BD8-4AAC-AD02-F469C3723780,008.8,Intestinal infection due to other organism not elsewhere classified,,,1
 0,150656,7259D165-8369-47E2-8B0F-B6607D0DDAFE,967CF487-4760-4AF3-B5AC-591988E1862B,401.9,Unspecified essential hypertension,2009.0,,0
-0,150992,7259D165-8369-47E2-8B0F-B6607D0DDAFE,B577A7FC-4B5C-40E1-87F4-999568CB3402,250.00,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",2009.0,,0
+0,150992,7259D165-8369-47E2-8B0F-B6607D0DDAFE,B577A7FC-4B5C-40E1-87F4-999568CB3402,250.00,type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type not stated as uncontrolled without mention of complication,2009.0,,0

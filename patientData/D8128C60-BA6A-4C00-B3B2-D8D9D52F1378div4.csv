@@ -1,7 +1,7 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,163529,D8128C60-BA6A-4C00-B3B2-D8D9D52F1378,FFBD6795-2037-4176-AFD0-16825C8240D8,786.2,Cough,2009.0,,0
 0,163534,D8128C60-BA6A-4C00-B3B2-D8D9D52F1378,8DAB4603-DD80-4FA9-B4A2-43037D4881A9,461,Acute sinusitis                                                                                                                                                                                                                                                ,2009.0,,0
-0,163539,D8128C60-BA6A-4C00-B3B2-D8D9D52F1378,8A66EC39-31A3-4E46-B95F-71040A7E19F1,461.9,"Acute sinusitis, unspecified",,,1
+0,163539,D8128C60-BA6A-4C00-B3B2-D8D9D52F1378,8A66EC39-31A3-4E46-B95F-71040A7E19F1,461.9,Acute sinusitis unspecified,,,1
 0,163544,D8128C60-BA6A-4C00-B3B2-D8D9D52F1378,E4E202B2-940E-48EB-AF94-80C6F5964933,466.0,Acute bronchitis,,,1
 0,163549,D8128C60-BA6A-4C00-B3B2-D8D9D52F1378,EFA83D64-2CC8-4075-84F0-9698CE5E708C,373.11,Hordeolum externum,2010.0,,0
 0,163554,D8128C60-BA6A-4C00-B3B2-D8D9D52F1378,2CBF8D11-0E94-4C7D-BD47-7BFD1AF36BE0,373.11,Hordeolum externum,2009.0,,1

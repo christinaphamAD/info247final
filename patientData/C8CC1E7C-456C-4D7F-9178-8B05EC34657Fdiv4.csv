@@ -1,14 +1,14 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,770144,C8CC1E7C-456C-4D7F-9178-8B05EC34657F,EBB9486C-F853-4583-A50A-1EF0917E9D9E,428.32,"Diastolic heart failure, chronic",2012.0,,0
+0,770144,C8CC1E7C-456C-4D7F-9178-8B05EC34657F,EBB9486C-F853-4583-A50A-1EF0917E9D9E,428.32,Diastolic heart failure chronic,2012.0,,0
 0,770416,C8CC1E7C-456C-4D7F-9178-8B05EC34657F,C7128226-815F-4A57-BF33-2B794CD5E9C8,250.0,Diabetes mellitus no complication                                                                                                                                                                                                                              ,2010.0,,0
 0,770688,C8CC1E7C-456C-4D7F-9178-8B05EC34657F,B887D48D-4FF3-4835-AB21-3C29336C8E0B,272.4,Other and unspecified hyperlipidemia,2010.0,,0
 0,770960,C8CC1E7C-456C-4D7F-9178-8B05EC34657F,D426B3F7-3863-4C78-B385-40EBBEBE10B4,425.1,Hypertrophic obstructive cardiomyopathy,2012.0,,0
 0,771232,C8CC1E7C-456C-4D7F-9178-8B05EC34657F,0BE4BBE6-4060-454B-ABA1-4C15A5412D8D,843.0,Iliofemoral (ligament) sprain,2010.0,,0
-0,771504,C8CC1E7C-456C-4D7F-9178-8B05EC34657F,B6F94B85-249E-4883-93BF-4CDA7A682211,604.90,"Orchitis and epididymitis, unspecified",2010.0,,0
+0,771504,C8CC1E7C-456C-4D7F-9178-8B05EC34657F,B6F94B85-249E-4883-93BF-4CDA7A682211,604.90,Orchitis and epididymitis unspecified,2010.0,,0
 0,771776,C8CC1E7C-456C-4D7F-9178-8B05EC34657F,27559A61-CDD3-4903-BB72-5BEA0D8B6BDD,458.0,Orthostatic hypotension,2011.0,2011.0,0
 0,772048,C8CC1E7C-456C-4D7F-9178-8B05EC34657F,EC33B9FD-23A9-402E-BB86-9417FDBB7692,V70.0,Routine general medical examination at a health care facility,2012.0,,0
 0,772320,C8CC1E7C-456C-4D7F-9178-8B05EC34657F,7CE3D61C-35B7-4ADB-A6F5-9E34FB1C4437,280.1,Iron deficiency anemia secondary to inadequate dietary iron intake,2011.0,,0
 0,772592,C8CC1E7C-456C-4D7F-9178-8B05EC34657F,DA9AC286-13AE-482A-A75E-D95CD956FC86,276.51,Dehydration,2011.0,2011.0,0
-0,772864,C8CC1E7C-456C-4D7F-9178-8B05EC34657F,9FCF8B17-44CB-4DA0-8680-E6EC9DD2C0D4,346.81,"Other forms of migraine, with intractable migraine, so stated, without mention of status migrainosus",2010.0,,0
-0,773136,C8CC1E7C-456C-4D7F-9178-8B05EC34657F,1AF98663-5336-4E94-83A8-617FF7ED5CA6,250.02,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, without mention of complication",2010.0,,0
+0,772864,C8CC1E7C-456C-4D7F-9178-8B05EC34657F,9FCF8B17-44CB-4DA0-8680-E6EC9DD2C0D4,346.81,Other forms of migraine with intractable migraine so stated without mention of status migrainosus,2010.0,,0
+0,773136,C8CC1E7C-456C-4D7F-9178-8B05EC34657F,1AF98663-5336-4E94-83A8-617FF7ED5CA6,250.02,type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type uncontrolled without mention of complication,2010.0,,0
 0,774496,C8CC1E7C-456C-4D7F-9178-8B05EC34657F,933B0FAE-6333-4DF1-A849-E12C03736854,401.9,Unspecified essential hypertension,2011.0,,0

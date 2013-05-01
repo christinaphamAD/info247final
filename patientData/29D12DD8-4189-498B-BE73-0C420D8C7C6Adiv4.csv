@@ -1,7 +1,7 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,3670,29D12DD8-4189-498B-BE73-0C420D8C7C6A,B2891540-B3BD-40B3-9D91-24827B9416EC,461,Acute sinusitis                                                                                                                                                                                                                                                ,2009.0,,0
 0,3675,29D12DD8-4189-498B-BE73-0C420D8C7C6A,40935B86-0257-4B1A-9FDC-48A8DD95620E,786.2,Cough,2009.0,,0
-0,3680,29D12DD8-4189-498B-BE73-0C420D8C7C6A,FF2A4A9F-7583-42D0-AD49-CEE194F7829B,461.9,"Acute sinusitis, unspecified",,,1
+0,3680,29D12DD8-4189-498B-BE73-0C420D8C7C6A,FF2A4A9F-7583-42D0-AD49-CEE194F7829B,461.9,Acute sinusitis unspecified,,,1
 0,3685,29D12DD8-4189-498B-BE73-0C420D8C7C6A,66F3B037-2979-4A76-AA66-D257CED1285A,381.0,Acute nonsuppurative otitis media                                                                                                                                                                                                                              ,2009.0,,0
 0,3690,29D12DD8-4189-498B-BE73-0C420D8C7C6A,D611FA2A-BDE3-4662-9C19-EC9781454EA6,V70.0,Routine general medical examination at a health care facility,,,1
 0,3695,29D12DD8-4189-498B-BE73-0C420D8C7C6A,F738FD16-07AE-48BA-9237-FF55F44C5492,V72.3,Gynecological examination,,,1

@@ -1,8 +1,8 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,8334,08FF0070-7A9B-43E1-9F46-19A301C63977,24C2F393-91F4-4891-82C9-08D5A89FB8C3,533,"Peptic ulcer, site unspecified                                                                                                                                                                                                                                 ",,,1
+0,8334,08FF0070-7A9B-43E1-9F46-19A301C63977,24C2F393-91F4-4891-82C9-08D5A89FB8C3,533,Peptic ulcer site unspecified                                                                                                                                                                                                                                 ,,,1
 0,8344,08FF0070-7A9B-43E1-9F46-19A301C63977,BE524BB4-DBA5-4BBB-91DF-257E9D9CC607,703.0,Ingrowing nail,,,1
 0,8354,08FF0070-7A9B-43E1-9F46-19A301C63977,DEC11767-C7BD-4DFD-8215-26B7C7A37300,530.81,Esophageal reflux,,,1
-0,8364,08FF0070-7A9B-43E1-9F46-19A301C63977,E798AF67-F04B-404E-A6DC-42BCCA53CA5F,386.30,"Labyrinthitis, unspecified",,,1
+0,8364,08FF0070-7A9B-43E1-9F46-19A301C63977,E798AF67-F04B-404E-A6DC-42BCCA53CA5F,386.30,Labyrinthitis unspecified,,,1
 0,8374,08FF0070-7A9B-43E1-9F46-19A301C63977,99DC8D5C-5768-4529-BAE9-81B9D064B5B1,524.6,Temporomandibular joint disorders                                                                                                                                                                                                                              ,,,1
-0,8384,08FF0070-7A9B-43E1-9F46-19A301C63977,3E893567-A8C9-4050-AABB-A5C77761FCCC,477.9,"Allergic rhinitis, cause unspecified",,,1
+0,8384,08FF0070-7A9B-43E1-9F46-19A301C63977,3E893567-A8C9-4050-AABB-A5C77761FCCC,477.9,Allergic rhinitis cause unspecified,,,1
 0,8394,08FF0070-7A9B-43E1-9F46-19A301C63977,237E3670-4119-48F1-82CA-E01BCE8EEF54,110.1,Dermatophytosis of nail,,,1

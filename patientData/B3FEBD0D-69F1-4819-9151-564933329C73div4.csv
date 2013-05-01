@@ -1,20 +1,20 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,61278,B3FEBD0D-69F1-4819-9151-564933329C73,0BC3078D-3A4E-4DF7-B41B-1E56544FA597,599.0,"Urinary tract infection, site not specified",,,1
-0,61303,B3FEBD0D-69F1-4819-9151-564933329C73,48B13FB3-05CE-43E2-AB73-348F914B9E83,296.23,"Major depressive disorder, single episode, severe degree, without mention of psychotic behavior",,,1
-0,61328,B3FEBD0D-69F1-4819-9151-564933329C73,7851F2FD-CDEB-4D69-ACC6-396C0F8B2DAA,959.01,"Head injury, unspecified",,,1
-0,61353,B3FEBD0D-69F1-4819-9151-564933329C73,9A287478-5735-49D0-ADC4-3FA106DEE947,599.0,"Urinary tract infection, site not specified",,,1
+0,61278,B3FEBD0D-69F1-4819-9151-564933329C73,0BC3078D-3A4E-4DF7-B41B-1E56544FA597,599.0,Urinary tract infection site not specified,,,1
+0,61303,B3FEBD0D-69F1-4819-9151-564933329C73,48B13FB3-05CE-43E2-AB73-348F914B9E83,296.23,Major depressive disorder single episode severe degree without mention of psychotic behavior,,,1
+0,61328,B3FEBD0D-69F1-4819-9151-564933329C73,7851F2FD-CDEB-4D69-ACC6-396C0F8B2DAA,959.01,Head injury unspecified,,,1
+0,61353,B3FEBD0D-69F1-4819-9151-564933329C73,9A287478-5735-49D0-ADC4-3FA106DEE947,599.0,Urinary tract infection site not specified,,,1
 0,61378,B3FEBD0D-69F1-4819-9151-564933329C73,E6E2296B-CCE2-41F6-A4CE-40D58635159A,V72.3,Gynecological examination,,,1
 0,61403,B3FEBD0D-69F1-4819-9151-564933329C73,3E8043CE-0892-49E7-B943-49B5A07F6164,717.9,Unspecified internal derangement of knee,,,0
 0,61428,B3FEBD0D-69F1-4819-9151-564933329C73,7A997D44-D9C7-456E-A67F-519EC8A52AA4,847.0,Neck sprain,,,1
 0,61453,B3FEBD0D-69F1-4819-9151-564933329C73,34C834AB-BCE5-4119-BA1E-78382E65B184,788.41,Urinary frequency,2010.0,,0
-0,61478,B3FEBD0D-69F1-4819-9151-564933329C73,6A144BA2-8E01-479B-9EB3-87BDC100BCA0,300.00,"Anxiety state, unspecified",,,1
-0,61503,B3FEBD0D-69F1-4819-9151-564933329C73,5E9C0F4B-56CB-4627-96C4-8F690199D387,346.9,"Migraine, unspecified                                                                                                                                                                                                                                          ",,,0
-0,61528,B3FEBD0D-69F1-4819-9151-564933329C73,289CCA02-D592-403E-9B01-92162ADFDD06,V72.84,"Preoperative examination, unspecified",,,1
+0,61478,B3FEBD0D-69F1-4819-9151-564933329C73,6A144BA2-8E01-479B-9EB3-87BDC100BCA0,300.00,Anxiety state unspecified,,,1
+0,61503,B3FEBD0D-69F1-4819-9151-564933329C73,5E9C0F4B-56CB-4627-96C4-8F690199D387,346.9,Migraine unspecified                                                                                                                                                                                                                                          ,,,0
+0,61528,B3FEBD0D-69F1-4819-9151-564933329C73,289CCA02-D592-403E-9B01-92162ADFDD06,V72.84,Preoperative examination unspecified,,,1
 0,61553,B3FEBD0D-69F1-4819-9151-564933329C73,A119DB13-3A0C-477B-A58F-97E775DFC6FC,724.3,Sciatica,,,1
 0,61578,B3FEBD0D-69F1-4819-9151-564933329C73,2DDCB901-E2D6-445F-9665-9EC40DAA1006,719.07,Effusion of ankle and foot joint,,,1
 0,61603,B3FEBD0D-69F1-4819-9151-564933329C73,883F08AA-51BF-4F6D-9925-D3209D1A245F,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
-0,61628,B3FEBD0D-69F1-4819-9151-564933329C73,C8F87CA9-D54D-4CF6-B563-E46075EA38B6,719.40,"Pain in joint, site unspecified",2009.0,,0
+0,61628,B3FEBD0D-69F1-4819-9151-564933329C73,C8F87CA9-D54D-4CF6-B563-E46075EA38B6,719.40,Pain in joint site unspecified,2009.0,,0
 0,61653,B3FEBD0D-69F1-4819-9151-564933329C73,E0EBF08C-FD6D-45AD-BF01-E5B174AA5FD7,844.8,Sprain of other specified sites of knee and leg,,,1
-0,61678,B3FEBD0D-69F1-4819-9151-564933329C73,186683A5-FB57-4182-A6BC-FFE7A46E9FF4,300.00,"Anxiety state, unspecified",,,1
+0,61678,B3FEBD0D-69F1-4819-9151-564933329C73,186683A5-FB57-4182-A6BC-FFE7A46E9FF4,300.00,Anxiety state unspecified,,,1
 0,61703,B3FEBD0D-69F1-4819-9151-564933329C73,FD565689-0C97-47F6-AE43-455C7CDC93CF,787.01,Nausea with vomiting,2011.0,,0
-0,61803,B3FEBD0D-69F1-4819-9151-564933329C73,96B00CFA-DCF8-40CA-8754-7AD271F96207,461.9,"Acute sinusitis, unspecified",,,1
+0,61803,B3FEBD0D-69F1-4819-9151-564933329C73,96B00CFA-DCF8-40CA-8754-7AD271F96207,461.9,Acute sinusitis unspecified,,,1

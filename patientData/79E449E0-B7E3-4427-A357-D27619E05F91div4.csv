@@ -1,4 +1,4 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,158875,79E449E0-B7E3-4427-A357-D27619E05F91,B505871D-A648-4A10-B689-8DDF9C89877D,V70.0,Routine general medical examination at a health care facility,2009.0,,0
-0,158878,79E449E0-B7E3-4427-A357-D27619E05F91,06BAAED8-F090-4DD8-A685-F9BC72D9179D,739.3,"Nonallopathic lesions of lumbar region, not elsewhere classified",2011.0,,0
+0,158878,79E449E0-B7E3-4427-A357-D27619E05F91,06BAAED8-F090-4DD8-A685-F9BC72D9179D,739.3,Nonallopathic lesions of lumbar region not elsewhere classified,2011.0,,0
 0,158881,79E449E0-B7E3-4427-A357-D27619E05F91,E0819CDD-5CCC-475D-BD85-FED2482ED667,401.9,Unspecified essential hypertension,2009.0,,0

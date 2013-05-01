@@ -1,9 +1,9 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,145641,FCE62C7A-1583-4A2C-8BD5-AB8FFFEB35BA,8F2AD816-6867-4F3C-8F2A-2313FB2ABAA7,382.9,Unspecified otitis media,2011.0,2011.0,0
 0,145650,FCE62C7A-1583-4A2C-8BD5-AB8FFFEB35BA,306B4CCF-1665-45E3-8CCF-3DC44C1029B9,780.4,Dizziness and giddiness,,,1
-0,145659,FCE62C7A-1583-4A2C-8BD5-AB8FFFEB35BA,2C1987CF-E8C2-4A36-9EBB-4CE09A0E3C75,296.32,"Major depressive disorder, recurrent episode, moderate degree",,,0
+0,145659,FCE62C7A-1583-4A2C-8BD5-AB8FFFEB35BA,2C1987CF-E8C2-4A36-9EBB-4CE09A0E3C75,296.32,Major depressive disorder recurrent episode moderate degree,,,0
 0,145668,FCE62C7A-1583-4A2C-8BD5-AB8FFFEB35BA,2C531CB9-A5ED-4BDB-A9FB-668E69307CF4,626.8,Other disorders of menstruation and other abnormal bleeding from female genital tract,,,1
 0,145677,FCE62C7A-1583-4A2C-8BD5-AB8FFFEB35BA,41691156-BEB3-4EE3-AD7E-72BA23F90022,V70.0,Routine general medical examination at a health care facility,,,1
-0,145686,FCE62C7A-1583-4A2C-8BD5-AB8FFFEB35BA,E4EBC301-4006-40EF-AAE5-8AF8CF642180,296.33,"Major depressive disorder, recurrent episode, severe degree, without mention of psychotic behavior",,,1
+0,145686,FCE62C7A-1583-4A2C-8BD5-AB8FFFEB35BA,E4EBC301-4006-40EF-AAE5-8AF8CF642180,296.33,Major depressive disorder recurrent episode severe degree without mention of psychotic behavior,,,1
 0,145695,FCE62C7A-1583-4A2C-8BD5-AB8FFFEB35BA,87003FC9-0508-4F75-9424-E34F21431737,354.0,Carpal tunnel syndrome,,,1
 0,145704,FCE62C7A-1583-4A2C-8BD5-AB8FFFEB35BA,6B669507-5F36-436A-9343-7D1D116AD676,461,Acute sinusitis                                                                                                                                                                                                                                                ,2011.0,2011.0,0

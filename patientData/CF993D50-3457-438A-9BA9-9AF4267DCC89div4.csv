@@ -1,6 +1,6 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,139547,CF993D50-3457-438A-9BA9-9AF4267DCC89,EC111D56-E81E-4A91-96DB-625869EFEF9E,110.4,Dermatophytosis of foot,2010.0,,0
 0,139550,CF993D50-3457-438A-9BA9-9AF4267DCC89,15097EF3-57B8-4A3E-955C-66530F2FFCB7,V70.0,Routine general medical examination at a health care facility,2010.0,,0
-0,139553,CF993D50-3457-438A-9BA9-9AF4267DCC89,2B7801E4-F351-4D68-8036-B695124F9CDB,250.00,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",2010.0,,0
-0,139556,CF993D50-3457-438A-9BA9-9AF4267DCC89,B5F1A3DD-FB71-4CAB-BA8F-CC84B9F90126,461.9,"Acute sinusitis, unspecified",2010.0,,0
+0,139553,CF993D50-3457-438A-9BA9-9AF4267DCC89,2B7801E4-F351-4D68-8036-B695124F9CDB,250.00,type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type not stated as uncontrolled without mention of complication,2010.0,,0
+0,139556,CF993D50-3457-438A-9BA9-9AF4267DCC89,B5F1A3DD-FB71-4CAB-BA8F-CC84B9F90126,461.9,Acute sinusitis unspecified,2010.0,,0
 0,139559,CF993D50-3457-438A-9BA9-9AF4267DCC89,9F08CE2A-9265-484D-A127-D86C063DD470,272.4,Other and unspecified hyperlipidemia,2010.0,,0

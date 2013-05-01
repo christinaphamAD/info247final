@@ -1,17 +1,17 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,176295,B65136D2-F2B8-4829-A74F-F5F811F6EA48,D2BF1665-10B4-44D4-B962-01CA5B29F928,272.4,Other and unspecified hyperlipidemia,2009.0,,0
 0,176391,B65136D2-F2B8-4829-A74F-F5F811F6EA48,9FDCBBD6-FAA9-4177-83B3-07589529C555,266.2,Other B-complex deficiencies,2010.0,,0
-0,176487,B65136D2-F2B8-4829-A74F-F5F811F6EA48,9A71F28D-0606-4D7A-BC31-2A265D94E30B,521.24,"Abrasion, localized",,,1
+0,176487,B65136D2-F2B8-4829-A74F-F5F811F6EA48,9A71F28D-0606-4D7A-BC31-2A265D94E30B,521.24,Abrasion localized,,,1
 0,176583,B65136D2-F2B8-4829-A74F-F5F811F6EA48,996072BD-6B42-4853-AD40-601357024C5F,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
 0,176679,B65136D2-F2B8-4829-A74F-F5F811F6EA48,8C19E6D3-5DF2-461D-A5E8-7B04EC976834,238.2,Neoplasm of uncertain behavior of skin,,,1
 0,176775,B65136D2-F2B8-4829-A74F-F5F811F6EA48,15F865A9-E961-491E-91B7-986B1F6EAB8C,702.0,Actinic keratosis,,,1
-0,176871,B65136D2-F2B8-4829-A74F-F5F811F6EA48,D69F3ADC-D28A-4200-A32D-989E8FD24310,173.6,"Other malignant neoplasm of skin of upper limb, including shoulder",,,1
-0,176967,B65136D2-F2B8-4829-A74F-F5F811F6EA48,258C858F-2279-4A04-AA2D-A43FC75B81EB,232.6,"Carcinoma in situ of skin of upper limb, including shoulder",2009.0,,1
+0,176871,B65136D2-F2B8-4829-A74F-F5F811F6EA48,D69F3ADC-D28A-4200-A32D-989E8FD24310,173.6,Other malignant neoplasm of skin of upper limb including shoulder,,,1
+0,176967,B65136D2-F2B8-4829-A74F-F5F811F6EA48,258C858F-2279-4A04-AA2D-A43FC75B81EB,232.6,Carcinoma in situ of skin of upper limb including shoulder,2009.0,,1
 0,177063,B65136D2-F2B8-4829-A74F-F5F811F6EA48,A1F1D0A5-A41A-43CB-8C4F-A4D36A4A1AD0,V12.72,Personal history of colonic polyps,2009.0,,1
 0,177159,B65136D2-F2B8-4829-A74F-F5F811F6EA48,1336BBC1-7FCD-4291-AAE6-D5F30C56B38B,691.8,Other atopic dermatitis and related conditions,,,1
 0,177255,B65136D2-F2B8-4829-A74F-F5F811F6EA48,9ED38EB7-11F1-4DFB-80E4-E1DA0CB3AD9C,466.0,Acute bronchitis,,,1
 0,177351,B65136D2-F2B8-4829-A74F-F5F811F6EA48,F0F2B645-A60F-438B-885E-F6FB29F0269A,401.9,Unspecified essential hypertension,2009.0,,0
-0,177447,B65136D2-F2B8-4829-A74F-F5F811F6EA48,1FB86736-F2A1-4FC9-9BAE-FC1CDA67EB9D,285.9,"Anemia, unspecified",,,1
-0,177543,B65136D2-F2B8-4829-A74F-F5F811F6EA48,7D6AC3EF-83C5-456E-947C-7EF2B3ECF01B,250.00,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",2009.0,,0
+0,177447,B65136D2-F2B8-4829-A74F-F5F811F6EA48,1FB86736-F2A1-4FC9-9BAE-FC1CDA67EB9D,285.9,Anemia unspecified,,,1
+0,177543,B65136D2-F2B8-4829-A74F-F5F811F6EA48,7D6AC3EF-83C5-456E-947C-7EF2B3ECF01B,250.00,type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type not stated as uncontrolled without mention of complication,2009.0,,0
 0,177639,B65136D2-F2B8-4829-A74F-F5F811F6EA48,BD392315-639E-420C-BD99-9C4683C7C212,274,Gout                                                                                                                                                                                                                                                           ,2009.0,,0
 0,177735,B65136D2-F2B8-4829-A74F-F5F811F6EA48,0C036EA2-E04C-4707-B95D-A3CBE0449718,695.3,Rosacea,2009.0,,0

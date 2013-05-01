@@ -1,9 +1,9 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,1775,5FC3B434-1D5A-4E70-9492-07CBE98E36EF,ECDC5AD9-EB8D-4278-BDC8-3E68C3389FC6,354.0,Carpal tunnel syndrome,2009.0,,0
 0,1779,5FC3B434-1D5A-4E70-9492-07CBE98E36EF,6E58E3F6-2373-438B-A4EA-55442A453DA0,723.4,Brachial neuritis or radiculitis NOS,2009.0,,0
-0,1783,5FC3B434-1D5A-4E70-9492-07CBE98E36EF,C67B1497-26F7-4930-BA12-6560335F67B0,599.0,"Urinary tract infection, site not specified",,,0
+0,1783,5FC3B434-1D5A-4E70-9492-07CBE98E36EF,C67B1497-26F7-4930-BA12-6560335F67B0,599.0,Urinary tract infection site not specified,,,0
 0,1787,5FC3B434-1D5A-4E70-9492-07CBE98E36EF,5660AE85-8B8C-45F5-B257-69F4F69C3C3C,780.96,Generalized pain,2009.0,,0
 0,1791,5FC3B434-1D5A-4E70-9492-07CBE98E36EF,B69857D3-422E-4AA8-BB84-8D281E71C5C6,V72.3,Gynecological examination,,,0
 0,1795,5FC3B434-1D5A-4E70-9492-07CBE98E36EF,D58BD5B6-5FC4-4361-AA70-B0ADB135BDCF,112.1,Candidiasis of vulva and vagina,,,0
 0,1799,5FC3B434-1D5A-4E70-9492-07CBE98E36EF,9AFA72C5-FD01-4731-9063-ECD957DAE210,E813,Motor vehicle collision with  other vehicle                                                                                                                                                                                                                    ,2009.0,,0
-0,1803,5FC3B434-1D5A-4E70-9492-07CBE98E36EF,DDAE15D1-9569-461C-B6E6-408E1F3744D4,682.7,"Cellulitis and abscess of foot, except toes",2010.0,,0
+0,1803,5FC3B434-1D5A-4E70-9492-07CBE98E36EF,DDAE15D1-9569-461C-B6E6-408E1F3744D4,682.7,Cellulitis and abscess of foot except toes,2010.0,,0

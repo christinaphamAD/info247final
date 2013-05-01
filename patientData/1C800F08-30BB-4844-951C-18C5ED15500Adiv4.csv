@@ -1,14 +1,14 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,246584,1C800F08-30BB-4844-951C-18C5ED15500A,B3B3CEF8-3282-4AD5-BA4C-05EF3F21E302,616.10,"Vaginitis and vulvovaginitis, unspecified",2009.0,2009.0,1
+0,246584,1C800F08-30BB-4844-951C-18C5ED15500A,B3B3CEF8-3282-4AD5-BA4C-05EF3F21E302,616.10,Vaginitis and vulvovaginitis unspecified,2009.0,2009.0,1
 0,246650,1C800F08-30BB-4844-951C-18C5ED15500A,ECD40E89-C54B-4B95-93D4-126688D3C618,034.0,Streptococcal sore throat,,,1
 0,246716,1C800F08-30BB-4844-951C-18C5ED15500A,1457FFD7-550E-48AF-ABE2-21FD8981709A,V25.01,Encounter for general counseling on prescription of oral contraceptives,2009.0,,0
 0,246782,1C800F08-30BB-4844-951C-18C5ED15500A,6B017E9C-7361-4AEC-AD25-3A8114D61580,V76.2,Screening for malignant neoplasms of the cervix,2009.0,2009.0,1
 0,246848,1C800F08-30BB-4844-951C-18C5ED15500A,586917EC-1ED2-46BC-B580-4E67AA1EBF78,745.4,Ventricular septal defect,,,0
 0,246914,1C800F08-30BB-4844-951C-18C5ED15500A,30A0B8EC-9D88-4901-9D9E-6016F48416E1,388.7,Otalgia                                                                                                                                                                                                                                                        ,,,1
-0,246980,1C800F08-30BB-4844-951C-18C5ED15500A,727F5E22-BF36-4211-BFF5-6A9E5B2212B3,599.0,"Urinary tract infection, site not specified",2009.0,2009.0,1
+0,246980,1C800F08-30BB-4844-951C-18C5ED15500A,727F5E22-BF36-4211-BFF5-6A9E5B2212B3,599.0,Urinary tract infection site not specified,2009.0,2009.0,1
 0,247046,1C800F08-30BB-4844-951C-18C5ED15500A,9F402582-6187-4878-87B9-974F81911B8F,V70.0,Routine general medical examination at a health care facility,2012.0,2012.0,1
 0,247112,1C800F08-30BB-4844-951C-18C5ED15500A,BED8AF6A-73A5-405F-B9BB-9C33E978C84B,465.9,Acute upper respiratory infections of unspecified site,2009.0,2009.0,1
-0,247178,1C800F08-30BB-4844-951C-18C5ED15500A,AD77519F-2DC1-4FB1-9BE7-D4DB40B3DC44,346.9,"Migraine, unspecified                                                                                                                                                                                                                                          ",,,0
-0,247244,1C800F08-30BB-4844-951C-18C5ED15500A,505D78D8-4F13-413A-8E4C-DDC7BA2BB90F,477.9,"Allergic rhinitis, cause unspecified",,,0
+0,247178,1C800F08-30BB-4844-951C-18C5ED15500A,AD77519F-2DC1-4FB1-9BE7-D4DB40B3DC44,346.9,Migraine unspecified                                                                                                                                                                                                                                          ,,,0
+0,247244,1C800F08-30BB-4844-951C-18C5ED15500A,505D78D8-4F13-413A-8E4C-DDC7BA2BB90F,477.9,Allergic rhinitis cause unspecified,,,0
 0,247310,1C800F08-30BB-4844-951C-18C5ED15500A,E6A89206-61DD-497E-9BD7-FA6FAC3DF429,078.19,Other specified viral warts,,,1
 0,247376,1C800F08-30BB-4844-951C-18C5ED15500A,99C4D191-7260-46E5-B721-2CB793DDB10A,682,Other cellulitis and abscess                                                                                                                                                                                                                                   ,2009.0,,0

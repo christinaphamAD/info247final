@@ -1,9 +1,9 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,167920,4C734F4D-4026-4DDE-A9DD-E1429A23CDE9,F0636976-4981-486F-AC8A-16A891F20E1B,466.0,Acute bronchitis,2010.0,2010.0,0
 0,167929,4C734F4D-4026-4DDE-A9DD-E1429A23CDE9,7A9079C4-CD01-4061-B815-22FBDC917777,476.0,Chronic laryngitis,2010.0,,0
-0,167938,4C734F4D-4026-4DDE-A9DD-E1429A23CDE9,01948A0C-E5A4-45F8-ADF1-2895BF446B9C,462,"Pharyngitis, acute",2010.0,,0
+0,167938,4C734F4D-4026-4DDE-A9DD-E1429A23CDE9,01948A0C-E5A4-45F8-ADF1-2895BF446B9C,462,Pharyngitis acute,2010.0,,0
 0,167947,4C734F4D-4026-4DDE-A9DD-E1429A23CDE9,8021B299-2167-4087-B359-34CA9D264537,569.3,Hemorrhage of rectum and anus,2009.0,,0
-0,167956,4C734F4D-4026-4DDE-A9DD-E1429A23CDE9,AC59620C-947F-44AA-9B0F-32D46052FD4D,461.9,"Acute sinusitis, unspecified",2010.0,,0
+0,167956,4C734F4D-4026-4DDE-A9DD-E1429A23CDE9,AC59620C-947F-44AA-9B0F-32D46052FD4D,461.9,Acute sinusitis unspecified,2010.0,,0
 0,167983,4C734F4D-4026-4DDE-A9DD-E1429A23CDE9,2EB3583C-C0DE-465C-9342-3DC2F63DF6F2,530.81,Esophageal reflux,2009.0,,0
 0,167992,4C734F4D-4026-4DDE-A9DD-E1429A23CDE9,77C87D91-593B-4CA0-90FC-A7BC8E451FA4,133.0,Scabies,2011.0,,0
-0,168001,4C734F4D-4026-4DDE-A9DD-E1429A23CDE9,5DFEDD65-217C-4642-9713-CCD1BB74BB97,493.9,"Asthma, unspecified                                                                                                                                                                                                                                            ",2009.0,2010.0,0
+0,168001,4C734F4D-4026-4DDE-A9DD-E1429A23CDE9,5DFEDD65-217C-4642-9713-CCD1BB74BB97,493.9,Asthma unspecified                                                                                                                                                                                                                                            ,2009.0,2010.0,0

@@ -1,5 +1,5 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,131886,09A725B9-6B95-4816-93DA-85DAAFC155AC,D1767E40-8748-4AFA-8656-362B815A0EF9,388.7,Otalgia                                                                                                                                                                                                                                                        ,,,1
 0,131889,09A725B9-6B95-4816-93DA-85DAAFC155AC,5F18300B-33C4-44C2-A5B4-729BBBC3204A,728.71,Plantar fascial fibromatosis,2011.0,,0
-0,131892,09A725B9-6B95-4816-93DA-85DAAFC155AC,6D542C3D-8417-4037-9326-FF9F4D76C37E,716.90,"Arthropathy, unspecified, site unspecified",2011.0,,0
+0,131892,09A725B9-6B95-4816-93DA-85DAAFC155AC,6D542C3D-8417-4037-9326-FF9F4D76C37E,716.90,Arthropathy unspecified site unspecified,2011.0,,0
 0,131895,09A725B9-6B95-4816-93DA-85DAAFC155AC,73904409-4E15-482A-A9E5-FA9E366EB6A5,530.81,Esophageal reflux,2011.0,,0

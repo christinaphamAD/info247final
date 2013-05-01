@@ -1,9 +1,9 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,154042,F78DE911-0D71-4D88-A1FD-C2360FA3AB76,0B42B00A-6C50-469C-B8C7-11FBD1CF38A1,564.0,Constipation,,,1
-0,154056,F78DE911-0D71-4D88-A1FD-C2360FA3AB76,21AD0014-3CA0-45EA-9C3A-1DA7CA0519C0,496,"COPD, NOS",,,0
+0,154056,F78DE911-0D71-4D88-A1FD-C2360FA3AB76,21AD0014-3CA0-45EA-9C3A-1DA7CA0519C0,496,COPD NOS,,,0
 0,154070,F78DE911-0D71-4D88-A1FD-C2360FA3AB76,7DA661E2-2D3B-45E0-9CF8-49AF9C364A23,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
 0,154084,F78DE911-0D71-4D88-A1FD-C2360FA3AB76,58821D0C-2782-438D-9B8C-4A3AAE9173A9,465.9,Acute upper respiratory infections of unspecified site,,,1
-0,154098,F78DE911-0D71-4D88-A1FD-C2360FA3AB76,6E40EDAE-A1DA-4954-A1AD-61A7C029A834,729.2,"Neuralgia, neuritis, and radiculitis, unspecified",,,1
+0,154098,F78DE911-0D71-4D88-A1FD-C2360FA3AB76,6E40EDAE-A1DA-4954-A1AD-61A7C029A834,729.2,Neuralgia neuritis and radiculitis unspecified,,,1
 0,154112,F78DE911-0D71-4D88-A1FD-C2360FA3AB76,0F6F253F-6212-4E1D-9FAA-7050C23A78B7,585.,Chronic renal failure,,,0
 0,154126,F78DE911-0D71-4D88-A1FD-C2360FA3AB76,39C8CA85-3223-4818-9456-A31DCB2EE74B,401.9,Unspecified essential hypertension,,,1
 0,154140,F78DE911-0D71-4D88-A1FD-C2360FA3AB76,D0B4F03E-3749-4BFA-9337-F6AE283F5810,995.2,Unspec adverse effect of drug due to proper administration,,,1

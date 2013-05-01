@@ -1,6 +1,6 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,142876,448FC386-5B9A-402F-862C-A41E74F918AE,95343F17-6588-48D7-884B-276DA1A9A551,691.8,Other atopic dermatitis and related conditions,2009.0,,1
-0,142892,448FC386-5B9A-402F-862C-A41E74F918AE,65F0C815-5DB4-45B9-867C-50C3BB17E9ED,726.10,"Disorders of bursae and tendons in shoulder region, unspecified",,,1
+0,142892,448FC386-5B9A-402F-862C-A41E74F918AE,65F0C815-5DB4-45B9-867C-50C3BB17E9ED,726.10,Disorders of bursae and tendons in shoulder region unspecified,,,1
 0,142908,448FC386-5B9A-402F-862C-A41E74F918AE,A6A10A29-12DE-4686-8536-5A4F6DC35339,459.39,Chronic venous hypertension with other complication,,,0
 0,142924,448FC386-5B9A-402F-862C-A41E74F918AE,FF4A033E-471A-46CD-A4CE-76BB1C0CDD45,845.10,Unspecified site of foot sprain,,,1
 0,142940,448FC386-5B9A-402F-862C-A41E74F918AE,2649E50A-DB46-4822-94EF-8E594E9BC668,V70.0,Routine general medical examination at a health care facility,2009.0,,1

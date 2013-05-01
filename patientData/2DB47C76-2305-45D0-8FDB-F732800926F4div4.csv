@@ -1,7 +1,7 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,181459,2DB47C76-2305-45D0-8FDB-F732800926F4,A715737D-17FB-4EF6-A006-16427215DECE,836.2,"Other tear of cartilage or meniscus of knee, current",,,1
-0,181472,2DB47C76-2305-45D0-8FDB-F732800926F4,AA9D26D2-1C44-4994-A138-18E7586D4840,250.00,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",,,0
-0,181485,2DB47C76-2305-45D0-8FDB-F732800926F4,08EC3C1B-E011-431C-8417-346D6262739F,461.9,"Acute sinusitis, unspecified",,,0
+0,181459,2DB47C76-2305-45D0-8FDB-F732800926F4,A715737D-17FB-4EF6-A006-16427215DECE,836.2,Other tear of cartilage or meniscus of knee current,,,1
+0,181472,2DB47C76-2305-45D0-8FDB-F732800926F4,AA9D26D2-1C44-4994-A138-18E7586D4840,250.00,type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type not stated as uncontrolled without mention of complication,,,0
+0,181485,2DB47C76-2305-45D0-8FDB-F732800926F4,08EC3C1B-E011-431C-8417-346D6262739F,461.9,Acute sinusitis unspecified,,,0
 0,181498,2DB47C76-2305-45D0-8FDB-F732800926F4,AA55F46C-2F63-4C18-933F-43F59A7936EC,724.3,Sciatica,2008.0,,1
 0,181511,2DB47C76-2305-45D0-8FDB-F732800926F4,294059B5-0D2B-4D5F-A9F1-5127F5269C9D,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
 0,181524,2DB47C76-2305-45D0-8FDB-F732800926F4,6DD60ACE-1DBC-4F5E-97AB-78E1AB49AADA,702.0,Actinic keratosis,2011.0,,0

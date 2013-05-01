@@ -1,9 +1,9 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,6773,7E1175BB-F09E-4C3E-BB65-14526FE028B1,78FA2F3A-36E7-4555-80C4-0CF30DEDEC30,654.1,"Tumors of body of uterus complic preg, birth, or puerperium                                                                                                                                                                                                    ",,,1
-0,6786,7E1175BB-F09E-4C3E-BB65-14526FE028B1,C89566AF-B3AB-4FB0-85FC-35D1C75AC40B,628.9,"Infertility, female, of unspecified origin",,,0
+0,6773,7E1175BB-F09E-4C3E-BB65-14526FE028B1,78FA2F3A-36E7-4555-80C4-0CF30DEDEC30,654.1,Tumors of body of uterus complic preg birth or puerperium                                                                                                                                                                                                    ,,,1
+0,6786,7E1175BB-F09E-4C3E-BB65-14526FE028B1,C89566AF-B3AB-4FB0-85FC-35D1C75AC40B,628.9,Infertility female of unspecified origin,,,0
 0,6799,7E1175BB-F09E-4C3E-BB65-14526FE028B1,F8BF4B06-9E46-45BA-B728-79077AE62498,V25.9,Encounter for unspecified contraceptive management,,,1
 0,6812,7E1175BB-F09E-4C3E-BB65-14526FE028B1,E3A156FA-176B-4F7D-98FF-B293C7B31E6F,790.6,Other abnormal blood chemistry,,,0
 0,6825,7E1175BB-F09E-4C3E-BB65-14526FE028B1,CB97ABA9-C148-4FDF-8C46-D5C255CE6291,487.1,Influenza with other respiratory manifestations,,,1
 0,6838,7E1175BB-F09E-4C3E-BB65-14526FE028B1,A921A489-9633-43B2-81A3-F0D12DA9F509,V72.3,Gynecological examination,,,1
-0,6851,7E1175BB-F09E-4C3E-BB65-14526FE028B1,6169D020-C6E6-4DD2-A8F4-5083922A4A35,461.9,"Acute sinusitis, unspecified",,,1
+0,6851,7E1175BB-F09E-4C3E-BB65-14526FE028B1,6169D020-C6E6-4DD2-A8F4-5083922A4A35,461.9,Acute sinusitis unspecified,,,1
 0,6864,7E1175BB-F09E-4C3E-BB65-14526FE028B1,F3840E00-B9EB-4C4E-8D39-5831D82A13C5,786.2,Cough,,,1

@@ -1,16 +1,16 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,7467,85716F68-F1B0-4120-A9E7-18474C2245D7,949D7168-CF6D-4493-A928-0B3F3BD4F1AE,920.,"Contusion of face, scalp, and neck except eye(s)",,,1
-0,7485,85716F68-F1B0-4120-A9E7-18474C2245D7,E2E2B771-A9CC-4157-8915-1128FA790214,733.00,"Osteoporosis, unspecified",,,0
+0,7467,85716F68-F1B0-4120-A9E7-18474C2245D7,949D7168-CF6D-4493-A928-0B3F3BD4F1AE,920.,Contusion of face scalp and neck except eye(s),,,1
+0,7485,85716F68-F1B0-4120-A9E7-18474C2245D7,E2E2B771-A9CC-4157-8915-1128FA790214,733.00,Osteoporosis unspecified,,,0
 0,7503,85716F68-F1B0-4120-A9E7-18474C2245D7,E6B0C483-F5B6-4088-9521-130A6855BC5F,610.2,Fibroadenosis of breast,,,1
 0,7521,85716F68-F1B0-4120-A9E7-18474C2245D7,E9ECC777-46D3-4E42-BA26-26ACB0AFA533,493,Asthma                                                                                                                                                                                                                                                         ,2009.0,,0
 0,7539,85716F68-F1B0-4120-A9E7-18474C2245D7,4DE35355-00A1-4A7A-93DC-2E61BC7056E9,701.0,Circumscribed scleroderma,2009.0,,0
-0,7557,85716F68-F1B0-4120-A9E7-18474C2245D7,7ECAD0D4-AF23-436F-9F5F-43E3A41FC95D,296.23,"Major depressive disorder, single episode, severe degree, without mention of psychotic behavior",,,1
+0,7557,85716F68-F1B0-4120-A9E7-18474C2245D7,7ECAD0D4-AF23-436F-9F5F-43E3A41FC95D,296.23,Major depressive disorder single episode severe degree without mention of psychotic behavior,,,1
 0,7575,85716F68-F1B0-4120-A9E7-18474C2245D7,8D4702AC-F2A4-4182-B778-49B5FFA2C8D1,530.11,Reflux esophagitis,2009.0,,0
-0,7593,85716F68-F1B0-4120-A9E7-18474C2245D7,11FA9476-9AD2-473C-9145-6AE5C54A1E29,300.00,"Anxiety state, unspecified",,,1
+0,7593,85716F68-F1B0-4120-A9E7-18474C2245D7,11FA9476-9AD2-473C-9145-6AE5C54A1E29,300.00,Anxiety state unspecified,,,1
 0,7611,85716F68-F1B0-4120-A9E7-18474C2245D7,32DE189F-307B-42CD-8679-6EB26AAF3A65,788.41,Urinary frequency,,,0
 0,7629,85716F68-F1B0-4120-A9E7-18474C2245D7,BEC7A0AC-DACB-42ED-8B58-A66DC1371C05,724.3,Sciatica,,,1
 0,7647,85716F68-F1B0-4120-A9E7-18474C2245D7,6218D18D-7C10-4D66-A44F-DAB52AF8FD5B,V72.3,Gynecological examination,,,1
 0,7665,85716F68-F1B0-4120-A9E7-18474C2245D7,6B48C1B5-6199-494C-8722-E057151A26BA,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
 0,7683,85716F68-F1B0-4120-A9E7-18474C2245D7,FCA9A80E-F3E6-421C-83EC-E5BAB9B4FA4B,246.2,Cyst of thyroid,,,0
 0,7701,85716F68-F1B0-4120-A9E7-18474C2245D7,11E6245B-BAAC-45F9-8ECE-F58B850FE9C4,078.81,Epidemic vertigo,,,1
-0,7719,85716F68-F1B0-4120-A9E7-18474C2245D7,9A14FC46-BAEC-415B-AA4D-A2014D958E23,599.0,"Urinary tract infection, site not specified",2011.0,2011.0,0
+0,7719,85716F68-F1B0-4120-A9E7-18474C2245D7,9A14FC46-BAEC-415B-AA4D-A2014D958E23,599.0,Urinary tract infection site not specified,2011.0,2011.0,0

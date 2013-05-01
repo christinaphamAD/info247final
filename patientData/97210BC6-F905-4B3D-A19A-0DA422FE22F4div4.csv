@@ -1,7 +1,7 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,3763,97210BC6-F905-4B3D-A19A-0DA422FE22F4,22B77734-FFF7-4BB5-8608-6624B2E48E19,V70.0,Routine general medical examination at a health care facility,,,1
 0,3772,97210BC6-F905-4B3D-A19A-0DA422FE22F4,A619C6ED-4C9D-4B38-A63E-93492635A99B,461,Acute sinusitis                                                                                                                                                                                                                                                ,2009.0,,0
-0,3781,97210BC6-F905-4B3D-A19A-0DA422FE22F4,ED9A5295-6762-4A63-9E62-9F977DB388FD,216.9,"Benign neoplasm of skin, site unspecified",,,1
+0,3781,97210BC6-F905-4B3D-A19A-0DA422FE22F4,ED9A5295-6762-4A63-9E62-9F977DB388FD,216.9,Benign neoplasm of skin site unspecified,,,1
 0,3790,97210BC6-F905-4B3D-A19A-0DA422FE22F4,1C0E6810-C095-4441-86FD-AAC960BE82D9,569.3,Hemorrhage of rectum and anus,,,1
 0,3799,97210BC6-F905-4B3D-A19A-0DA422FE22F4,23EC22B3-3872-4158-AD8C-B0C89F7EA4A5,847.0,Neck sprain,,,1
 0,3808,97210BC6-F905-4B3D-A19A-0DA422FE22F4,A3F64F3A-7507-4313-B122-B42001217C3B,787.2,Dysphagia,,,1
