@@ -1,15 +1,15 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,137552,76E7F1CB-953F-4672-AA96-94715F414D2E,382ED332-A121-4B9B-99BF-02A56F083CF0,703.0,Ingrowing nail,,,1
-0,137563,76E7F1CB-953F-4672-AA96-94715F414D2E,E63C6049-6B72-4F2A-8568-0F8711CBA8D0,461.9,"Acute sinusitis, unspecified",,,1
+0,137563,76E7F1CB-953F-4672-AA96-94715F414D2E,E63C6049-6B72-4F2A-8568-0F8711CBA8D0,461.9,Acute sinusitis unspecified,,,1
 0,137574,76E7F1CB-953F-4672-AA96-94715F414D2E,511E0661-BFE9-4C57-A560-28A8EFE0DF9B,702.19,Other seborrheic keratosis,2009.0,,1
 0,137585,76E7F1CB-953F-4672-AA96-94715F414D2E,428F78AE-3F3A-4D8C-AB90-35EEB47488DA,461.1,Acute frontal sinusitis,,,1
 0,137596,76E7F1CB-953F-4672-AA96-94715F414D2E,C81010B1-6C60-471A-A95A-378CE38E85C0,796.2,Elevated blood pressure reading without diagnosis of hypertension,,,1
 0,137607,76E7F1CB-953F-4672-AA96-94715F414D2E,C096F381-1F96-47FB-86F6-3D17128EA2CF,786.59,Other chest pain,,,1
 0,137618,76E7F1CB-953F-4672-AA96-94715F414D2E,E453795F-93FA-4317-8064-4DFFE7CCC5BA,078.1,Viral warts                                                                                                                                                                                                                                                    ,,,1
-0,137629,76E7F1CB-953F-4672-AA96-94715F414D2E,A17EBD6F-A90D-4F26-AF77-57EEE9629D47,599.0,"Urinary tract infection, site not specified",,,1
+0,137629,76E7F1CB-953F-4672-AA96-94715F414D2E,A17EBD6F-A90D-4F26-AF77-57EEE9629D47,599.0,Urinary tract infection site not specified,,,1
 0,137640,76E7F1CB-953F-4672-AA96-94715F414D2E,F43C3016-FC4E-497A-9614-5D2B604CF518,464.0,Acute laryngitis,,,1
 0,137651,76E7F1CB-953F-4672-AA96-94715F414D2E,8CFF6089-6FB5-46EC-A7E5-67F3CB7D13F4,401.9,Unspecified essential hypertension,,,1
 0,137662,76E7F1CB-953F-4672-AA96-94715F414D2E,57A003CB-0D4E-4641-B023-97C17DDA70AE,788.1,Dysuria,,,1
-0,137673,76E7F1CB-953F-4672-AA96-94715F414D2E,498AF762-F2D2-426E-B462-A2D369AD375F,448.1,"Nevus, non-neoplastic",2009.0,,1
+0,137673,76E7F1CB-953F-4672-AA96-94715F414D2E,498AF762-F2D2-426E-B462-A2D369AD375F,448.1,Nevus non-neoplastic,2009.0,,1
 0,137684,76E7F1CB-953F-4672-AA96-94715F414D2E,C1270308-7ED6-4289-8137-FBD745D129E7,692.89,Contact dermatitis and other eczema due to other specified agents,,,1
-0,137695,76E7F1CB-953F-4672-AA96-94715F414D2E,15BF76BC-6C06-4BEF-9575-E8F0BB605EDD,346.9,"Migraine, unspecified                                                                                                                                                                                                                                          ",2009.0,,0
+0,137695,76E7F1CB-953F-4672-AA96-94715F414D2E,15BF76BC-6C06-4BEF-9575-E8F0BB605EDD,346.9,Migraine unspecified                                                                                                                                                                                                                                          ,2009.0,,0

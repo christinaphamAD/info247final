@@ -1,7 +1,7 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,20884,EB6F60DC-6F70-4B37-AB3C-32293287168C,6530D7C9-76D2-4F24-9E4E-16A32B3F0DC7,810,Fracture of clavicle                                                                                                                                                                                                                                           ,2010.0,,0
-0,20890,EB6F60DC-6F70-4B37-AB3C-32293287168C,EC41A047-3CED-446D-B57F-1E83E02D1EA0,300.00,"Anxiety state, unspecified",,,1
+0,20890,EB6F60DC-6F70-4B37-AB3C-32293287168C,EC41A047-3CED-446D-B57F-1E83E02D1EA0,300.00,Anxiety state unspecified,,,1
 0,20896,EB6F60DC-6F70-4B37-AB3C-32293287168C,7613D14B-B402-4439-B395-731DF53F5188,599.72,Microscopic hematuria,,,1
 0,20902,EB6F60DC-6F70-4B37-AB3C-32293287168C,06A5E741-B2F4-40A4-8C9B-E3B037AB9A7A,724.2,Lumbago,,,1
-0,20908,EB6F60DC-6F70-4B37-AB3C-32293287168C,AA1BB032-DB33-431F-9C60-E82EEDFFEA21,726.10,"Disorders of bursae and tendons in shoulder region, unspecified",2010.0,,0
-0,20914,EB6F60DC-6F70-4B37-AB3C-32293287168C,E2F214AA-64C4-49B0-89E3-904F8876E7BE,296.33,"Major depressive disorder, recurrent episode, severe degree, without mention of psychotic behavior",2009.0,,1
+0,20908,EB6F60DC-6F70-4B37-AB3C-32293287168C,AA1BB032-DB33-431F-9C60-E82EEDFFEA21,726.10,Disorders of bursae and tendons in shoulder region unspecified,2010.0,,0
+0,20914,EB6F60DC-6F70-4B37-AB3C-32293287168C,E2F214AA-64C4-49B0-89E3-904F8876E7BE,296.33,Major depressive disorder recurrent episode severe degree without mention of psychotic behavior,2009.0,,1

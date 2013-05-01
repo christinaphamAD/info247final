@@ -1,6 +1,6 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,172087,8A96A0AF-09A5-472B-BCD4-E917BED5ACD9,775C6711-ABB0-43E3-8DC9-17EF46D8B173,372.0,Acute conjunctivitis                                                                                                                                                                                                                                           ,2009.0,2009.0,1
-0,172092,8A96A0AF-09A5-472B-BCD4-E917BED5ACD9,5BD1F37A-1DE6-44CF-97A3-187A20583CA6,616.10,"Vaginitis and vulvovaginitis, unspecified",2009.0,,1
+0,172092,8A96A0AF-09A5-472B-BCD4-E917BED5ACD9,5BD1F37A-1DE6-44CF-97A3-187A20583CA6,616.10,Vaginitis and vulvovaginitis unspecified,2009.0,,1
 0,172097,8A96A0AF-09A5-472B-BCD4-E917BED5ACD9,E0C48CDD-2D7F-4BC8-AE7A-4B9F65D1E90A,478.11,Nasal mucositis (ulcerative),,,1
 0,172102,8A96A0AF-09A5-472B-BCD4-E917BED5ACD9,BB473635-0FF0-4362-A63A-A813F24BD976,110.1,Dermatophytosis of nail,,,1
-0,172107,8A96A0AF-09A5-472B-BCD4-E917BED5ACD9,9F41444E-C1FB-4C9C-8D1E-A79AE585FFA1,461.9,"Acute sinusitis, unspecified",,,1
+0,172107,8A96A0AF-09A5-472B-BCD4-E917BED5ACD9,9F41444E-C1FB-4C9C-8D1E-A79AE585FFA1,461.9,Acute sinusitis unspecified,,,1

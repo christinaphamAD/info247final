@@ -1,9 +1,9 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,191104,56B0F63D-5DC8-47D0-B977-FA8A76E4B1F6,6C07A7A4-2B28-4AF6-966D-3579B1704F3F,354.0,Carpal tunnel syndrome,,,1
 0,191115,56B0F63D-5DC8-47D0-B977-FA8A76E4B1F6,C23E7BD0-6CB8-4A39-9082-62A0E33DA933,840.9,Sprain of unspecified site of shoulder and upper arm,,,1
-0,191126,56B0F63D-5DC8-47D0-B977-FA8A76E4B1F6,D9FE7648-F4B1-4D9D-9462-66FBCD77FAC7,242.90,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm",,,1
-0,191137,56B0F63D-5DC8-47D0-B977-FA8A76E4B1F6,1593B755-D096-4E13-8F23-99FE07911737,296.23,"Major depressive disorder, single episode, severe degree, without mention of psychotic behavior",,,1
-0,191148,56B0F63D-5DC8-47D0-B977-FA8A76E4B1F6,337B17B2-D764-4DC4-B269-CBBE30F2FF78,535.50,"Unspecified gastritis and gastroduodenitis, without mention of hemorrhage",2011.0,,0
+0,191126,56B0F63D-5DC8-47D0-B977-FA8A76E4B1F6,D9FE7648-F4B1-4D9D-9462-66FBCD77FAC7,242.90,Thyrotoxicosis without mention of goiter or other cause and without mention of thyrotoxic crisis or storm,,,1
+0,191137,56B0F63D-5DC8-47D0-B977-FA8A76E4B1F6,1593B755-D096-4E13-8F23-99FE07911737,296.23,Major depressive disorder single episode severe degree without mention of psychotic behavior,,,1
+0,191148,56B0F63D-5DC8-47D0-B977-FA8A76E4B1F6,337B17B2-D764-4DC4-B269-CBBE30F2FF78,535.50,Unspecified gastritis and gastroduodenitis without mention of hemorrhage,2011.0,,0
 0,191159,56B0F63D-5DC8-47D0-B977-FA8A76E4B1F6,792C645B-563E-420D-B2EC-CC72DE8D9FC8,274,Gout                                                                                                                                                                                                                                                           ,,,1
 0,191170,56B0F63D-5DC8-47D0-B977-FA8A76E4B1F6,025CBE3B-F3D0-4526-8C84-F5F8FE76E1A5,455.6,Unspecified hemorrhoids without mention of complication,2011.0,,0
 0,191181,56B0F63D-5DC8-47D0-B977-FA8A76E4B1F6,60C400D1-4F51-47CD-9CA9-4E88F6C730E8,784.0,Headache,2011.0,,0

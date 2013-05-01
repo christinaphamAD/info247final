@@ -1,6 +1,6 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,44859,9E091E6D-FDC2-4132-85B9-3BC1D9D7CC08,FA4D6BB8-78D5-4E88-8501-37BF03FFE5C0,530.81,Esophageal reflux,,,0
-0,44865,9E091E6D-FDC2-4132-85B9-3BC1D9D7CC08,44B862F2-16AA-4674-818B-53030B40B9D8,726.10,"Disorders of bursae and tendons in shoulder region, unspecified",2010.0,,0
+0,44865,9E091E6D-FDC2-4132-85B9-3BC1D9D7CC08,44B862F2-16AA-4674-818B-53030B40B9D8,726.10,Disorders of bursae and tendons in shoulder region unspecified,2010.0,,0
 0,44871,9E091E6D-FDC2-4132-85B9-3BC1D9D7CC08,B4E28146-6F68-4DCB-8F79-58458987E0DB,796.2,Elevated blood pressure reading without diagnosis of hypertension,,,1
 0,44877,9E091E6D-FDC2-4132-85B9-3BC1D9D7CC08,A565D323-9E57-4272-AFCB-B9FC304F97FD,272.4,Other and unspecified hyperlipidemia,,,0
 0,44883,9E091E6D-FDC2-4132-85B9-3BC1D9D7CC08,DEC572BF-C88F-40A5-A499-DCBE639D6A01,840.9,Sprain of unspecified site of shoulder and upper arm,2010.0,,0

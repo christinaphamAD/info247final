@@ -1,9 +1,9 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,65492,645B4978-9857-474E-B3B8-5FE4C417D8A5,66539C95-B6A8-477D-BF85-0320C150581B,702.1,Seborrheic keratosis,2011.0,,0
-0,65495,645B4978-9857-474E-B3B8-5FE4C417D8A5,0B23F53C-C9F1-45D2-BFA2-03EF96C22BA0,078.10,"Viral warts, unspecified",2011.0,,0
+0,65495,645B4978-9857-474E-B3B8-5FE4C417D8A5,0B23F53C-C9F1-45D2-BFA2-03EF96C22BA0,078.10,Viral warts unspecified,2011.0,,0
 0,65498,645B4978-9857-474E-B3B8-5FE4C417D8A5,5988F0F6-6464-48C1-9980-0759FC34E9E4,V70.0,Routine general medical examination at a health care facility,2011.0,,0
 0,65501,645B4978-9857-474E-B3B8-5FE4C417D8A5,7556EF3D-FBE6-4893-B6C3-4153C8F2FF67,454,Varicose veins of lower extremities                                                                                                                                                                                                                            ,2011.0,,0
 0,65504,645B4978-9857-474E-B3B8-5FE4C417D8A5,C309D979-6C61-4240-8111-8C8EBA1B0E33,327.23,Obstructive sleep apnea (adult) (pediatric),2011.0,,0
 0,65507,645B4978-9857-474E-B3B8-5FE4C417D8A5,FDA62B63-32A7-467C-B8F0-B989CC8FAD6C,794.31,Nonspecific abnormal electrocardiogram [ECG] [EKG],,,0
 0,65510,645B4978-9857-474E-B3B8-5FE4C417D8A5,7CFA5854-E125-4176-B5CE-EB218DAAE463,V12.72,Personal history of colonic polyps,2011.0,,0
-0,65513,645B4978-9857-474E-B3B8-5FE4C417D8A5,F61A2ED5-71C4-4CD6-84AD-A9288CCED6D0,461.9,"Acute sinusitis, unspecified",2010.0,,0
+0,65513,645B4978-9857-474E-B3B8-5FE4C417D8A5,F61A2ED5-71C4-4CD6-84AD-A9288CCED6D0,461.9,Acute sinusitis unspecified,2010.0,,0

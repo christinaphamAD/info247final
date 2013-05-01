@@ -1,21 +1,21 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,41311,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,024CFFF4-C185-45C0-B32F-0087821E5BB8,786.2,Cough,,,1
 0,41329,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,3573EF15-F5DE-4811-910A-00C40D3007F6,372.14,Other chronic allergic conjunctivitis,,,0
-0,41347,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,EA5AF808-01A0-441D-81DE-1D8C0D05177B,346.9,"Migraine, unspecified                                                                                                                                                                                                                                          ",,,0
+0,41347,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,EA5AF808-01A0-441D-81DE-1D8C0D05177B,346.9,Migraine unspecified                                                                                                                                                                                                                                          ,,,0
 0,41365,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,1369BAFD-1E5C-43A7-8347-1E3FC4E33E02,372.13,Vernal conjunctivitis,,,1
 0,41383,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,1CFC1D27-2F68-4557-8176-21C4D34A7E9B,V70.0,Routine general medical examination at a health care facility,2010.0,2010.0,1
 0,41401,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,6901F209-800B-464E-AF42-279C8225A6AD,786.07,Wheezing,2012.0,2012.0,1
 0,41419,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,6585765B-B6D3-4BA0-9910-2FAB8F05BFBB,786.2,Cough,,,1
 0,41437,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,0CEB2BB9-12F4-4C43-A704-565A15D8B1EC,454.1,Varicose veins of lower extremities with inflammation,,,1
 0,41455,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,18696D7E-7DD6-4759-97D2-5A9AA6756ED5,626.0,Absence of menstruation,,,1
-0,41473,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,2F1CEB1D-F9B3-4659-A8AA-80F2E41B5A9A,296.22,"Major depressive disorder, single episode, moderate degree",,2012.0,1
+0,41473,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,2F1CEB1D-F9B3-4659-A8AA-80F2E41B5A9A,296.22,Major depressive disorder single episode moderate degree,,2012.0,1
 0,41491,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,ABD0D7CD-CFAA-4966-8457-9402DCA7A9A6,783.2,Abnormal loss of weight,,,1
 0,41509,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,467A1F0A-8FA0-4905-BC26-973966E6E489,780.79,Other malaise and fatigue,,,1
 0,41527,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,0EB6F0C0-5333-41BD-8014-AB41D6B82B29,788.1,Dysuria,,,1
 0,41545,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,A7A34605-FEDD-4946-A525-BE2CB34309F5,627,Menopausal and postmenopausal disorders                                                                                                                                                                                                                        ,,,1
-0,41563,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,76ACC825-D724-4A28-A696-C0BE048E55A6,296.33,"Major depressive disorder, recurrent episode, severe degree, without mention of psychotic behavior",,2012.0,1
-0,41581,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,59032417-5A25-4D64-B656-EC539134FD85,789.00,"Abdominal pain, unspecified site",,,1
+0,41563,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,76ACC825-D724-4A28-A696-C0BE048E55A6,296.33,Major depressive disorder recurrent episode severe degree without mention of psychotic behavior,,2012.0,1
+0,41581,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,59032417-5A25-4D64-B656-EC539134FD85,789.00,Abdominal pain unspecified site,,,1
 0,41599,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,800FEA02-0FCA-423D-8E94-EC5E49E00B8F,380.4,Impacted cerumen,,,1
 0,41617,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,587F9295-067A-41C6-8970-F040ED783186,627.2,Symptomatic menopausal or female climacteric states,,,0
-0,41635,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,5C678B1F-070D-442F-9350-F559F9519C70,599.0,"Urinary tract infection, site not specified",,,1
+0,41635,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,5C678B1F-070D-442F-9350-F559F9519C70,599.0,Urinary tract infection site not specified,,,1
 0,41653,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,5CC1AA45-D884-4FBC-B53D-CB399067623D,461.8,Other acute sinusitis,,,1

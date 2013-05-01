@@ -1,4 +1,4 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,16613,896F1138-4FDC-4EE0-92B0-2AD616BFDA4B,F2990DF4-4735-4C39-923C-9D589E492B75,723.1,Cervicalgia,,,0
 0,16616,896F1138-4FDC-4EE0-92B0-2AD616BFDA4B,760BBDEF-6DE7-4DBD-B10D-E6A95146CF5C,786.5,Chest pain                                                                                                                                                                                                                                                     ,2009.0,,0
-0,16619,896F1138-4FDC-4EE0-92B0-2AD616BFDA4B,009EF4DC-566C-4A03-B644-D3E62EC35B4D,346.12,"Migraine without aura, without mention of intractable migraine with status migrainosus",2009.0,,0
+0,16619,896F1138-4FDC-4EE0-92B0-2AD616BFDA4B,009EF4DC-566C-4A03-B644-D3E62EC35B4D,346.12,Migraine without aura without mention of intractable migraine with status migrainosus,2009.0,,0

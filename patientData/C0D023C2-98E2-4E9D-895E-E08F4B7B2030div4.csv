@@ -1,5 +1,5 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,167781,C0D023C2-98E2-4E9D-895E-E08F4B7B2030,72275860-1AF9-45E4-A364-5C6F8E25102F,916.0,"Abrasion or friction burn of hip, thigh, leg, and ankle, without mention of infection",,,0
+0,167781,C0D023C2-98E2-4E9D-895E-E08F4B7B2030,72275860-1AF9-45E4-A364-5C6F8E25102F,916.0,Abrasion or friction burn of hip thigh leg and ankle without mention of infection,,,0
 0,167790,C0D023C2-98E2-4E9D-895E-E08F4B7B2030,35730686-6CBC-43FC-90AF-645B9B5FAC14,719.43,Pain in joint involving forearm,,,0
 0,167799,C0D023C2-98E2-4E9D-895E-E08F4B7B2030,23E9C040-EE25-4614-97BD-66F7B61483C6,382.9,Unspecified otitis media,,,1
 0,167808,C0D023C2-98E2-4E9D-895E-E08F4B7B2030,F0C05DE3-203B-41F6-91A6-6A04F9E568C4,703.0,Ingrowing nail,,,1
@@ -7,5 +7,5 @@
 0,167826,C0D023C2-98E2-4E9D-895E-E08F4B7B2030,5EAB4992-F448-45E0-BF73-9772E350A8D0,V70,General medical exam                                                                                                                                                                                                                                           ,,,1
 0,167835,C0D023C2-98E2-4E9D-895E-E08F4B7B2030,92EAAFC8-D724-40F1-88BB-B2AB3426E282,555.9,Regional enteritis of unspecified site,,,0
 0,167844,C0D023C2-98E2-4E9D-895E-E08F4B7B2030,427365F4-E2D7-481A-9DCA-B9B0CB02272B,785.6,Enlargement of lymph nodes,,,1
-0,167853,C0D023C2-98E2-4E9D-895E-E08F4B7B2030,1CECA1B9-FAAB-4B28-BAC3-D86FD4AB50CF,566,"Abscess, perianal",2009.0,,1
-0,167862,C0D023C2-98E2-4E9D-895E-E08F4B7B2030,045ED85E-D2B1-413D-86BA-E3DBFCB0EBA5,692.9,"Contact dermatitis and other eczema, unspecified cause",2010.0,,0
+0,167853,C0D023C2-98E2-4E9D-895E-E08F4B7B2030,1CECA1B9-FAAB-4B28-BAC3-D86FD4AB50CF,566,Abscess perianal,2009.0,,1
+0,167862,C0D023C2-98E2-4E9D-895E-E08F4B7B2030,045ED85E-D2B1-413D-86BA-E3DBFCB0EBA5,692.9,Contact dermatitis and other eczema unspecified cause,2010.0,,0

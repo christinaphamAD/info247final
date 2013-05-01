@@ -1,7 +1,7 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,46725,9392C726-76EC-4E16-B0AC-44AD67E9C06C,D008CDED-2B8F-4787-95C7-0BC9795D966E,455.6,Unspecified hemorrhoids without mention of complication,2011.0,,0
 0,46729,9392C726-76EC-4E16-B0AC-44AD67E9C06C,BEDFB804-29B6-4856-8015-455C92875B54,786.2,Cough,2011.0,2011.0,0
-0,46733,9392C726-76EC-4E16-B0AC-44AD67E9C06C,43FFF373-20B0-47BC-AE2F-8039AC86F4D6,250.00,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",2010.0,,0
+0,46733,9392C726-76EC-4E16-B0AC-44AD67E9C06C,43FFF373-20B0-47BC-AE2F-8039AC86F4D6,250.00,type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type not stated as uncontrolled without mention of complication,2010.0,,0
 0,46737,9392C726-76EC-4E16-B0AC-44AD67E9C06C,623AA8A5-2A05-4ACD-B27D-9569F8A0E64D,569.0,Anal and rectal polyp,2011.0,,0
 0,46741,9392C726-76EC-4E16-B0AC-44AD67E9C06C,96315C92-E0D9-4E16-857B-BB5AA5A766DD,110.3,Dermatophytosis of groin and perianal area,2011.0,,0
 0,46745,9392C726-76EC-4E16-B0AC-44AD67E9C06C,1BEFCCF9-3F4E-4145-8BF3-BEF3E6B6109E,V70.0,Routine general medical examination at a health care facility,2010.0,,0

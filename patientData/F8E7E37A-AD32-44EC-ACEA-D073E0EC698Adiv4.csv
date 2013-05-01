@@ -1,8 +1,8 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,158227,F8E7E37A-AD32-44EC-ACEA-D073E0EC698A,B8D77323-DA23-4DC0-935E-0AAF24CC0FA3,616.1,Vaginitis and vulvovaginitis                                                                                                                                                                                                                                   ,,,1
-0,158235,F8E7E37A-AD32-44EC-ACEA-D073E0EC698A,3FF8CEDB-DFE3-4B2A-B8F4-0BCACF1349EE,780.52,"Insomnia, unspecified",,,1
+0,158235,F8E7E37A-AD32-44EC-ACEA-D073E0EC698A,3FF8CEDB-DFE3-4B2A-B8F4-0BCACF1349EE,780.52,Insomnia unspecified,,,1
 0,158243,F8E7E37A-AD32-44EC-ACEA-D073E0EC698A,3D9F999B-3D49-46C8-B7E1-242B7DA96133,530.81,Esophageal reflux,,,1
-0,158251,F8E7E37A-AD32-44EC-ACEA-D073E0EC698A,4BD82A46-64B9-4026-915F-478231D8DA2C,296.51,"Bipolar affective disorder, depressed, mild degree",,,0
+0,158251,F8E7E37A-AD32-44EC-ACEA-D073E0EC698A,4BD82A46-64B9-4026-915F-478231D8DA2C,296.51,Bipolar affective disorder depressed mild degree,,,0
 0,158259,F8E7E37A-AD32-44EC-ACEA-D073E0EC698A,CB442E5B-3018-49AF-937E-54C86FC074C6,465.9,Acute upper respiratory infections of unspecified site,,,1
 0,158267,F8E7E37A-AD32-44EC-ACEA-D073E0EC698A,6659FAD7-8271-44C6-9D21-575B5DC00F3A,V70.0,Routine general medical examination at a health care facility,,,1
 0,158275,F8E7E37A-AD32-44EC-ACEA-D073E0EC698A,D6CD8801-EA65-4602-AB43-BDE51BBC7D43,V72.3,Gynecological examination,,,1

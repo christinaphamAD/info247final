@@ -1,9 +1,9 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,278,ECC9589B-8A0C-4D1D-AAB3-023FB479507A,A4C52324-2B3A-47C2-8010-518E6B678192,799.81,Decreased libido,2009.0,,0
-0,284,ECC9589B-8A0C-4D1D-AAB3-023FB479507A,B45C4BA3-6B8A-4089-8C9F-5D6D607580C3,296.3,"Major depressive disorder, recurrent episode                                                                                                                                                                                                                   ",2009.0,,0
+0,284,ECC9589B-8A0C-4D1D-AAB3-023FB479507A,B45C4BA3-6B8A-4089-8C9F-5D6D607580C3,296.3,Major depressive disorder recurrent episode                                                                                                                                                                                                                   ,2009.0,,0
 0,290,ECC9589B-8A0C-4D1D-AAB3-023FB479507A,4714E23C-26EF-40FA-A99C-78CE0D834B98,719.47,Pain in joint involving ankle and foot,,,0
 0,296,ECC9589B-8A0C-4D1D-AAB3-023FB479507A,5F459CD8-0800-46C4-80BE-9AC824F84669,719.44,Pain in joint involving hand,,,0
-0,302,ECC9589B-8A0C-4D1D-AAB3-023FB479507A,8B0C9F3B-5830-4D57-8379-D7D89E007AEC,724.4,"Thoracic or lumbosacral neuritis or radiculitis, unspecified",2009.0,,0
+0,302,ECC9589B-8A0C-4D1D-AAB3-023FB479507A,8B0C9F3B-5830-4D57-8379-D7D89E007AEC,724.4,Thoracic or lumbosacral neuritis or radiculitis unspecified,2009.0,,0
 0,308,ECC9589B-8A0C-4D1D-AAB3-023FB479507A,3132E0EF-BCF8-4E2E-B99A-E9DA8C538900,682.9,Cellulitis and abscess of unspecified sites,2009.0,,0
 0,314,ECC9589B-8A0C-4D1D-AAB3-023FB479507A,2A9EEDAC-6337-45FA-9311-F45AE47C6B50,722.83,Postlaminectomy syndrome of lumbar region,2009.0,,0
 0,320,ECC9589B-8A0C-4D1D-AAB3-023FB479507A,5F64F713-1D9D-4D9C-96E0-5F4EA9B7FF0C,314.01,Attention deficit disorder of childhood with hyperactivity,2009.0,,0

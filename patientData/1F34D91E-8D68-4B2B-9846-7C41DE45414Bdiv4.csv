@@ -1,5 +1,5 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,129173,1F34D91E-8D68-4B2B-9846-7C41DE45414B,AF6760BA-F1FC-4768-9354-1745120FEFB1,272.4,Other and unspecified hyperlipidemia,,,0
 0,129176,1F34D91E-8D68-4B2B-9846-7C41DE45414B,3B0C368A-8E36-484D-AE90-192D70F71DAD,244.9,Unspecified hypothyroidism,,,0
-0,129179,1F34D91E-8D68-4B2B-9846-7C41DE45414B,6E934731-B16C-4256-AC92-F82C42072764,V15.81,"Personal history of noncompliance with medical treatment, presenting hazards to health",,,0
+0,129179,1F34D91E-8D68-4B2B-9846-7C41DE45414B,6E934731-B16C-4256-AC92-F82C42072764,V15.81,Personal history of noncompliance with medical treatment presenting hazards to health,,,0
 0,129182,1F34D91E-8D68-4B2B-9846-7C41DE45414B,79D33EE0-4B24-4DCB-9E6C-B9D915EFC8D5,627.2,Symptomatic menopausal or female climacteric states,2009.0,,0

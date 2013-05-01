@@ -1,12 +1,12 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,170823,B40D3B46-F7C4-4776-9DE3-E56542CACE9C,86300EE0-D2F1-486A-A833-0BF9B11C2B33,691.8,Other atopic dermatitis and related conditions,,,1
-0,170836,B40D3B46-F7C4-4776-9DE3-E56542CACE9C,239FC972-CA34-4FFC-88E1-10C42EABB687,174.9,"Malignant neoplasm of breast (female), unspecified",,,1
+0,170836,B40D3B46-F7C4-4776-9DE3-E56542CACE9C,239FC972-CA34-4FFC-88E1-10C42EABB687,174.9,Malignant neoplasm of breast (female) unspecified,,,1
 0,170849,B40D3B46-F7C4-4776-9DE3-E56542CACE9C,3C31391D-33C6-43ED-A087-2DA79F6D38DB,272.4,Other and unspecified hyperlipidemia,2009.0,,0
 0,170862,B40D3B46-F7C4-4776-9DE3-E56542CACE9C,6B365E29-9965-45ED-A9F6-6B073CDA1D97,493,Asthma                                                                                                                                                                                                                                                         ,2009.0,,0
-0,170875,B40D3B46-F7C4-4776-9DE3-E56542CACE9C,04A3DE9A-A1B1-4700-A02A-89B3F6CA4CB1,250.00,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",2009.0,,0
+0,170875,B40D3B46-F7C4-4776-9DE3-E56542CACE9C,04A3DE9A-A1B1-4700-A02A-89B3F6CA4CB1,250.00,type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type not stated as uncontrolled without mention of complication,2009.0,,0
 0,170888,B40D3B46-F7C4-4776-9DE3-E56542CACE9C,F049C36F-A268-4BA9-AC60-8C3DD33B6571,455.6,Unspecified hemorrhoids without mention of complication,,,1
 0,170901,B40D3B46-F7C4-4776-9DE3-E56542CACE9C,990086B1-F6FD-4B44-B78B-B2682DB86A6F,844,Sprains and strains of knee and leg                                                                                                                                                                                                                            ,,,1
 0,170914,B40D3B46-F7C4-4776-9DE3-E56542CACE9C,3B79BFD1-3AC7-4B5E-81C1-B63625D26342,995.2,Unspec adverse effect of drug due to proper administration,,,1
 0,170927,B40D3B46-F7C4-4776-9DE3-E56542CACE9C,ACEC4988-F6CF-434B-9AFA-CF28B8AA6E4A,V70.0,Routine general medical examination at a health care facility,2009.0,,1
 0,170940,B40D3B46-F7C4-4776-9DE3-E56542CACE9C,A3A76D99-C775-47D3-9FB9-D8115AB76CA0,611.71,Mastodynia,,,1
-0,170953,B40D3B46-F7C4-4776-9DE3-E56542CACE9C,CEE31D46-A3EE-4141-A4DC-8C8BD428248F,599.0,"Urinary tract infection, site not specified",2010.0,,0
+0,170953,B40D3B46-F7C4-4776-9DE3-E56542CACE9C,CEE31D46-A3EE-4141-A4DC-8C8BD428248F,599.0,Urinary tract infection site not specified,2010.0,,0

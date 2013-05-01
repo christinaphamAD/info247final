@@ -1,7 +1,7 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,7737,2CC4662B-24A8-4C84-A072-18DB289C95B3,612B513A-04C9-4230-ACC9-57C12A918EA8,V25.01,Encounter for general counseling on prescription of oral contraceptives,,,0
-0,7741,2CC4662B-24A8-4C84-A072-18DB289C95B3,BA00BE17-3F92-45FA-81ED-70C32FA228C5,477.9,"Allergic rhinitis, cause unspecified",2009.0,,0
+0,7741,2CC4662B-24A8-4C84-A072-18DB289C95B3,BA00BE17-3F92-45FA-81ED-70C32FA228C5,477.9,Allergic rhinitis cause unspecified,2009.0,,0
 0,7745,2CC4662B-24A8-4C84-A072-18DB289C95B3,25A3F888-DD57-47DE-844B-984E27B17B97,272.4,Other and unspecified hyperlipidemia,2009.0,,0
 0,7749,2CC4662B-24A8-4C84-A072-18DB289C95B3,A4777B09-1DDC-4E89-AA07-BCA010894041,V70.0,Routine general medical examination at a health care facility,2010.0,2010.0,1
-0,7753,2CC4662B-24A8-4C84-A072-18DB289C95B3,1A28B36D-22F5-419E-A45E-DE53F0467921,564.00,"Constipation, unspecified",,,0
+0,7753,2CC4662B-24A8-4C84-A072-18DB289C95B3,1A28B36D-22F5-419E-A45E-DE53F0467921,564.00,Constipation unspecified,,,0
 0,7757,2CC4662B-24A8-4C84-A072-18DB289C95B3,BA6FC71D-7334-421E-8342-85614006456A,461,Acute sinusitis                                                                                                                                                                                                                                                ,2009.0,2009.0,1

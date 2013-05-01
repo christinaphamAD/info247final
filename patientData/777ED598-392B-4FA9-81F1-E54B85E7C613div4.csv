@@ -1,6 +1,6 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,170778,777ED598-392B-4FA9-81F1-E54B85E7C613,800A4FDD-BB30-4BD9-866A-12A19B2653BD,443.9,"Peripheral vascular disease, unspecified",,,0
-0,170783,777ED598-392B-4FA9-81F1-E54B85E7C613,6E169F3C-409C-45BD-B676-299F28BD2F25,550.90,"Unilateral or unspecified inguinal hernia, without mention of obstruction or gangrene (not specified as recurrent)",2010.0,,0
+0,170778,777ED598-392B-4FA9-81F1-E54B85E7C613,800A4FDD-BB30-4BD9-866A-12A19B2653BD,443.9,Peripheral vascular disease unspecified,,,0
+0,170783,777ED598-392B-4FA9-81F1-E54B85E7C613,6E169F3C-409C-45BD-B676-299F28BD2F25,550.90,Unilateral or unspecified inguinal hernia without mention of obstruction or gangrene (not specified as recurrent),2010.0,,0
 0,170788,777ED598-392B-4FA9-81F1-E54B85E7C613,E44895FB-5A70-4439-9641-7670350E2B48,786.2,Cough,2011.0,2011.0,0
 0,170793,777ED598-392B-4FA9-81F1-E54B85E7C613,CF995271-78DD-43A5-9E1A-C79E8DD31274,272.4,Other and unspecified hyperlipidemia,,,0
 0,170798,777ED598-392B-4FA9-81F1-E54B85E7C613,A171DEA6-ED19-4748-9D03-DDB566C2CD9C,727.03,Trigger finger (acquired),2010.0,,0

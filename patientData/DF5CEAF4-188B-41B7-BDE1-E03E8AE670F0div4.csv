@@ -1,13 +1,13 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,833388,DF5CEAF4-188B-41B7-BDE1-E03E8AE670F0,2D5DFEC6-E899-42AC-A5F2-20DF12187005,704.8,Other specified diseases of hair and hair follicles,,,1
-0,833643,DF5CEAF4-188B-41B7-BDE1-E03E8AE670F0,831C23E6-6B16-492D-8C68-25986624B08E,715.14,"Osteoarthrosis, localized, primary, involving hand",2009.0,,1
-0,833898,DF5CEAF4-188B-41B7-BDE1-E03E8AE670F0,4DCBC805-C529-4300-B3E7-2B7880A58333,729.1,"Myalgia and myositis, unspecified",2009.0,,1
+0,833643,DF5CEAF4-188B-41B7-BDE1-E03E8AE670F0,831C23E6-6B16-492D-8C68-25986624B08E,715.14,Osteoarthrosis localized primary involving hand,2009.0,,1
+0,833898,DF5CEAF4-188B-41B7-BDE1-E03E8AE670F0,4DCBC805-C529-4300-B3E7-2B7880A58333,729.1,Myalgia and myositis unspecified,2009.0,,1
 0,834153,DF5CEAF4-188B-41B7-BDE1-E03E8AE670F0,607B7003-6F41-4924-A58C-36D44CE60D9F,782.3,Edema,2009.0,,1
 0,834408,DF5CEAF4-188B-41B7-BDE1-E03E8AE670F0,E078348C-CDE3-4B9F-A145-52461B757E21,728.71,Plantar fascial fibromatosis,,,1
-0,834663,DF5CEAF4-188B-41B7-BDE1-E03E8AE670F0,D7313B6B-97BD-413D-9FCF-83D8023785D0,726.10,"Disorders of bursae and tendons in shoulder region, unspecified",,,1
-0,834918,DF5CEAF4-188B-41B7-BDE1-E03E8AE670F0,5758F8B7-5038-4CD7-9542-97BF4949B4EE,715.97,"Osteoarthrosis, unspecified whether generalized or localized, involving ankle and foot",2009.0,,1
+0,834663,DF5CEAF4-188B-41B7-BDE1-E03E8AE670F0,D7313B6B-97BD-413D-9FCF-83D8023785D0,726.10,Disorders of bursae and tendons in shoulder region unspecified,,,1
+0,834918,DF5CEAF4-188B-41B7-BDE1-E03E8AE670F0,5758F8B7-5038-4CD7-9542-97BF4949B4EE,715.97,Osteoarthrosis unspecified whether generalized or localized involving ankle and foot,2009.0,,1
 0,835173,DF5CEAF4-188B-41B7-BDE1-E03E8AE670F0,EACBFE3C-AD26-4911-9C5B-B3042FC55DF5,733.0,Osteoporosis                                                                                                                                                                                                                                                   ,2009.0,,0
-0,835428,DF5CEAF4-188B-41B7-BDE1-E03E8AE670F0,CE12D069-CF49-4358-B934-B73465F78B2C,715.11,"Osteoarthrosis, localized, primary, involving shoulder region",,,0
+0,835428,DF5CEAF4-188B-41B7-BDE1-E03E8AE670F0,CE12D069-CF49-4358-B934-B73465F78B2C,715.11,Osteoarthrosis localized primary involving shoulder region,,,0
 0,835683,DF5CEAF4-188B-41B7-BDE1-E03E8AE670F0,9E40708B-F7EE-49FF-B8B7-BB1B3776130F,V70.0,Routine general medical examination at a health care facility,,,1
 0,835938,DF5CEAF4-188B-41B7-BDE1-E03E8AE670F0,003B042F-9D15-445C-8942-CAEF84C1FA2A,366,Cataract                                                                                                                                                                                                                                                       ,2009.0,,1
 0,836193,DF5CEAF4-188B-41B7-BDE1-E03E8AE670F0,CC168D88-88E4-4AA9-8C82-DCEA44DAC185,727.3,Other bursitis disorders,,,1

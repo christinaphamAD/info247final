@@ -1,5 +1,5 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
-0,4056,3C1519C5-6B35-4D0C-B26E-0ED0642C6358,2B91D726-6BFB-4E83-BD17-28151B9557D9,724.4,"Thoracic or lumbosacral neuritis or radiculitis, unspecified",2012.0,,0
+0,4056,3C1519C5-6B35-4D0C-B26E-0ED0642C6358,2B91D726-6BFB-4E83-BD17-28151B9557D9,724.4,Thoracic or lumbosacral neuritis or radiculitis unspecified,2012.0,,0
 0,4076,3C1519C5-6B35-4D0C-B26E-0ED0642C6358,6DF0AEF2-CC12-4251-9039-2EB6070FBBE8,847.0,Neck sprain,2012.0,,0
 0,4080,3C1519C5-6B35-4D0C-B26E-0ED0642C6358,CFD51D79-3092-4EE4-B377-31389EB1584C,E813.0,Motor vehicle traffic accident involving collision with other vehicle injuring driver of motor vehicle other than motorcycle,2012.0,,0
 0,4084,3C1519C5-6B35-4D0C-B26E-0ED0642C6358,5EA87245-A7E2-41AC-BB6B-C47D97F7BA66,847.2,Lumbar sprain,2012.0,,0

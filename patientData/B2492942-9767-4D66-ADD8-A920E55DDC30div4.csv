@@ -1,32 +1,32 @@
 ,index,PatientGuid,DiagnosisGuid,ICD9Code,DiagnosisDescription,StartYear_y,StopYear,Acute
 0,144095,B2492942-9767-4D66-ADD8-A920E55DDC30,E5D470F5-3321-431D-9051-07D8B109CA69,995.2,Unspec adverse effect of drug due to proper administration,,,0
-0,144117,B2492942-9767-4D66-ADD8-A920E55DDC30,1F0FFAB1-1999-4865-882F-08B08AB5BDEC,300,"Anxiety, dissociative and somatoform disorders                                                                                                                                                                                                                 ",2009.0,,0
+0,144117,B2492942-9767-4D66-ADD8-A920E55DDC30,1F0FFAB1-1999-4865-882F-08B08AB5BDEC,300,Anxiety dissociative and somatoform disorders                                                                                                                                                                                                                 ,2009.0,,0
 0,144139,B2492942-9767-4D66-ADD8-A920E55DDC30,85AAFFF8-3ED9-4D51-B3A2-0EAB3761A56D,368.9,Unspecified visual disturbance,2009.0,,0
 0,144161,B2492942-9767-4D66-ADD8-A920E55DDC30,6CF2E7F8-91A6-47BB-927D-1485BD52C53D,053,Herpes zoster                                                                                                                                                                                                                                                  ,2009.0,,0
-0,144183,B2492942-9767-4D66-ADD8-A920E55DDC30,58A1EB65-CDC9-4B6B-B9DD-2A004E5D031E,380.10,"Infective otitis externa, unspecified",2009.0,,0
+0,144183,B2492942-9767-4D66-ADD8-A920E55DDC30,58A1EB65-CDC9-4B6B-B9DD-2A004E5D031E,380.10,Infective otitis externa unspecified,2009.0,,0
 0,144205,B2492942-9767-4D66-ADD8-A920E55DDC30,5008CBAC-F421-422E-9E10-3E2B3C625CA6,784.0,Headache,2009.0,,0
 0,144227,B2492942-9767-4D66-ADD8-A920E55DDC30,646EA671-40A5-4434-8DCA-5069367924BD,458.0,Orthostatic hypotension,2009.0,,0
 0,144249,B2492942-9767-4D66-ADD8-A920E55DDC30,4CAE2BF1-165C-4106-BB22-639055446684,338.4,Chronic pain syndrome,2009.0,,0
 0,144271,B2492942-9767-4D66-ADD8-A920E55DDC30,E644858B-BEF7-4A1B-858E-6AFE00F57A8B,780.79,Other malaise and fatigue,2009.0,,0
-0,144293,B2492942-9767-4D66-ADD8-A920E55DDC30,CAB3FAE2-208F-4182-B8A1-7496E618412D,346.9,"Migraine, unspecified                                                                                                                                                                                                                                          ",2009.0,,0
+0,144293,B2492942-9767-4D66-ADD8-A920E55DDC30,CAB3FAE2-208F-4182-B8A1-7496E618412D,346.9,Migraine unspecified                                                                                                                                                                                                                                          ,2009.0,,0
 0,144315,B2492942-9767-4D66-ADD8-A920E55DDC30,E296570C-D541-48B7-8918-89B4B0E1C1E4,722.91,Other and unspecified disc disorder of cervical region,,,0
-0,144337,B2492942-9767-4D66-ADD8-A920E55DDC30,5071495E-0C4C-4B9A-A4D3-8A75581E466B,780.52,"Insomnia, unspecified",2009.0,,0
-0,144359,B2492942-9767-4D66-ADD8-A920E55DDC30,B738B0AC-EA5A-4C4F-86F4-A1192536EB1B,724.4,"Thoracic or lumbosacral neuritis or radiculitis, unspecified",2009.0,,0
-0,144381,B2492942-9767-4D66-ADD8-A920E55DDC30,9604D02D-DC01-4C20-8A76-B4D679F0D950,724.4,"Thoracic or lumbosacral neuritis or radiculitis, unspecified",2009.0,,0
+0,144337,B2492942-9767-4D66-ADD8-A920E55DDC30,5071495E-0C4C-4B9A-A4D3-8A75581E466B,780.52,Insomnia unspecified,2009.0,,0
+0,144359,B2492942-9767-4D66-ADD8-A920E55DDC30,B738B0AC-EA5A-4C4F-86F4-A1192536EB1B,724.4,Thoracic or lumbosacral neuritis or radiculitis unspecified,2009.0,,0
+0,144381,B2492942-9767-4D66-ADD8-A920E55DDC30,9604D02D-DC01-4C20-8A76-B4D679F0D950,724.4,Thoracic or lumbosacral neuritis or radiculitis unspecified,2009.0,,0
 0,144403,B2492942-9767-4D66-ADD8-A920E55DDC30,18CEB7C5-AC33-4FDA-B65B-C37D023B2318,382.9,Unspecified otitis media,2010.0,,0
 0,144425,B2492942-9767-4D66-ADD8-A920E55DDC30,6CFC871D-49DF-4088-9113-CDAE372A7567,786.50,Unspecified chest pain,2009.0,,0
 0,144447,B2492942-9767-4D66-ADD8-A920E55DDC30,E97055A0-5CE4-4C2C-BBC0-D5E99CE0FCBE,292.0,Drug withdrawal,,,0
 0,144469,B2492942-9767-4D66-ADD8-A920E55DDC30,E805E755-6542-4A3C-9803-D8789D907257,995.2,Unspec adverse effect of drug due to proper administration,2009.0,,0
 0,144491,B2492942-9767-4D66-ADD8-A920E55DDC30,0532EE9A-2D8A-4723-AF01-DC65108A1E0D,300.0,Anxiety states                                                                                                                                                                                                                                                 ,2009.0,,0
-0,144513,B2492942-9767-4D66-ADD8-A920E55DDC30,C1B2D35C-6439-42B5-AF84-DD372EA91454,690.10,"Seborrheic dermatitis, unspecified",2010.0,,0
+0,144513,B2492942-9767-4D66-ADD8-A920E55DDC30,C1B2D35C-6439-42B5-AF84-DD372EA91454,690.10,Seborrheic dermatitis unspecified,2010.0,,0
 0,144535,B2492942-9767-4D66-ADD8-A920E55DDC30,FB2D8EAE-A459-44B0-AF06-E7C50E8C9693,530.81,Esophageal reflux,2009.0,,0
 0,144557,B2492942-9767-4D66-ADD8-A920E55DDC30,5CA89EC3-2252-4681-9784-E892F2C181EE,132.0,Pediculus capitis [head louse],2010.0,,0
 0,144579,B2492942-9767-4D66-ADD8-A920E55DDC30,FD91ACAF-6C3A-446F-B1BF-EB3111B5AEAC,786.09,Other dyspnea and respiratory abnormality,2009.0,,0
 0,144601,B2492942-9767-4D66-ADD8-A920E55DDC30,715A9108-3615-4E2B-A687-F02A502F374B,682.8,Cellulitis and abscess of other specified sites,2009.0,,0
 0,144623,B2492942-9767-4D66-ADD8-A920E55DDC30,CE6E0BEC-EFF1-496C-A33D-FA47014D0E64,786.50,Unspecified chest pain,2009.0,,0
-0,144645,B2492942-9767-4D66-ADD8-A920E55DDC30,C570D1B2-9DEA-41EA-9FC3-0BEBFBE99158,296.33,"Major depressive disorder, recurrent episode, severe degree, without mention of psychotic behavior",,,0
+0,144645,B2492942-9767-4D66-ADD8-A920E55DDC30,C570D1B2-9DEA-41EA-9FC3-0BEBFBE99158,296.33,Major depressive disorder recurrent episode severe degree without mention of psychotic behavior,,,0
 0,144667,B2492942-9767-4D66-ADD8-A920E55DDC30,42B0E4E0-A734-4489-A1FA-169EBF049887,355.7,Other mononeuritis of lower limb,2009.0,,0
 0,144689,B2492942-9767-4D66-ADD8-A920E55DDC30,1D164721-978D-432B-A4F0-4B55E63DD366,268.9,Unspecified vitamin D deficiency,2010.0,,0
 0,144711,B2492942-9767-4D66-ADD8-A920E55DDC30,48C35E13-857F-411C-B9E6-BFC7EE76ECFB,110.5,Dermatophytosis of the body,2010.0,,0
-0,144733,B2492942-9767-4D66-ADD8-A920E55DDC30,B86AF995-1DD5-49D5-8BFA-E5D475741FFA,461.9,"Acute sinusitis, unspecified",2010.0,,0
-0,144755,B2492942-9767-4D66-ADD8-A920E55DDC30,9A80A89D-A867-4D83-904D-FA5FC03957B3,724.4,"Thoracic or lumbosacral neuritis or radiculitis, unspecified",2009.0,,0
+0,144733,B2492942-9767-4D66-ADD8-A920E55DDC30,B86AF995-1DD5-49D5-8BFA-E5D475741FFA,461.9,Acute sinusitis unspecified,2010.0,,0
+0,144755,B2492942-9767-4D66-ADD8-A920E55DDC30,9A80A89D-A867-4D83-904D-FA5FC03957B3,724.4,Thoracic or lumbosacral neuritis or radiculitis unspecified,2009.0,,0
