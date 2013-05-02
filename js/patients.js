@@ -9,15 +9,26 @@ $(document).ready(function() {
      });
 
     $('#logo').bind('click', function(e) {
+        $('#patient').empty().fadeOut();
         $('#home').fadeIn();
-        $('#patient').fadeOut();
+        
     })   
 
     $('.bar').each(function(e){
         $(this).attr('data-id', 'abcharts')
     })
 
-    
+    console.log($("[data-id=abcharts]"));
+    $("[data-id=abcharts]").on("click", function(){
+        barRef = this.getAttribute('id')
+        $.ajax({
+            type: "GET",
+            url: "labsData/" + barRef + ".csv",
+            dataType: "text",
+            success: function(data) {console.log(data)}
+         });
+    });
+
 
 });
 
@@ -56,9 +67,14 @@ function createWaitingList(lines) {
 
     $('#patientList a').bind('click', function(e){
         $('#home').fadeOut();
-        $('#patient').empty().fadeIn();
-        patientRef = this.getAttribute("data-attr")
-        getPatientData(patientRef, lines)
+        patientRef = this.getAttribute("data-attr");
+        setTimeout(function(){
+            $('#patient').fadeIn();
+            
+            getPatientData(patientRef, lines);
+            console.log('HAPPENING')
+        }, 400);
+        
     })
 }
 
@@ -159,7 +175,6 @@ function createTable(location, data) {
         }
     }
 
-<<<<<<< HEAD
     // if(location == "prescriptions") {
     //     if(data.length < 3){
     //         $("#" + location)
@@ -173,7 +188,6 @@ function createTable(location, data) {
     //         }
     //     }
     // }
-=======
     if(location == "prescriptions") {
         console.log(data);
         console.log(data.length);
@@ -194,14 +208,14 @@ function createTable(location, data) {
             }
             var chart = d3.select("#prescriptions").append("svg")
                 .attr('class', 'chart')
-                .attr("width", 440)
+                .attr("width", 430)
                 .attr("height", 20 * newData.length + 20)
               .append("g")
                 .attr("transform", "translate(10,15)");
             
             var x = d3.scale.linear()
                 .domain([0, max])
-                .range([175, 400]);
+                .range([175, 340]);
 
             chart.selectAll("rect")
                 .data(newData)
@@ -222,6 +236,7 @@ function createTable(location, data) {
                 .attr("dx", 5) // padding-right
                 .attr("dy", 15) // vertical-align: middle
                 .attr("text-anchor", "start") // text-align: right
+                //.attr('onmouseover', )
                 .text(function(d,i) {
                     /* 
                     var words = d[4].split(/\W+/);
@@ -232,8 +247,11 @@ function createTable(location, data) {
                     }
                     return firstTwo;
                     */
-                    var part = d[4].substring(0,20);
+                    var part = d[4].substring(0,10);
                     part = part + "...";
+                    var part2 = d[5].substring(0,6);
+                    part2 = part2 +"..."
+                    part = part + " - " + part2;
                     return part;
                     });
             chart.selectAll("line")
@@ -266,14 +284,31 @@ function createTable(location, data) {
                 .attr("class", "tot")
                 .attr("x", function(d) { return x(parseInt(d[10])); })
                 .attr("y", function(d, i) { return i * 20; })
-                .attr("dx", 17) // padding-right
+                .attr("dx", function(d) {
+                    if (parseInt(d[10]).toString().length==2) {
+                        return 18;
+                    }
+                    else {
+                        return 25;
+                    }
+                    }) // padding-right
                 .attr("dy", 15) // vertical-align: middle
                 .attr("text-anchor", "end") // text-align: right
                 .text(function(d,i) { 
                     return parseInt(d[10]).toString();                    
                     });
 
-            
+            chart.selectAll(".refill")
+                .data(newData)
+                .enter().append("text")
+                .attr("class", "refill")
+                .attr("x",  390)
+                .attr("y", function(d, i) { return i * 20; })
+                .attr("dy", 15) // vertical-align: middle
+                .attr("text-anchor", "end") // text-align: right
+                .text(function(d,i) { 
+                    return parseInt(d[11]).toString();                    
+                    });
                 /*.style("width", function(d,i) { 
                     console.log(d[10])
                     console.log(i)
@@ -295,7 +330,6 @@ function createTable(location, data) {
             */
         }
     }
->>>>>>> updated divs and prescriptionDivs bars
 
     if (location == "patientList"){
         $('#patientList table').append('<tr class="tabHead"><th>Upcoming Patients</th></tr>')
