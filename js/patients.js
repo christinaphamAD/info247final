@@ -128,11 +128,7 @@ function getPatientData(ref, data) {
     .append('<strong>Weight:</strong> ' + data[ref][8] + ' lbs<br />')
     .append('<strong>Last Visit:</strong> ' + data[ref][6].substring(0,4) + '<br />')
 
-<<<<<<< HEAD
-    $('#patient').append('<div id="bullet" class="container half left tableData"><h2>Bullet Charts</h2></div>')
-=======
     $('#patient').append('<div id="bullet" class="container half left tableData"></div>')
->>>>>>> Oops, went back too many commits. Removed an <h2> in the patient bullet div, among many other things. Like loading bullet charts.
     .append('<div id="allergies" class="container half right tableData"><h2>Allergies</h2><table cellpadding="0" cellspacing="0"></table></div>')
     .append('<div id="prescriptions" class="container half left tableData"><h2>Prescriptions</h2><table cellpadding="0" cellspacing="0"></table></div>')
     .append('<div id="diagnoses" class="container half right tableData"><h2>Diagnoses</h2><table cellpadding="0" cellspacing="0"></table></div>')
