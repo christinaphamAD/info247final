@@ -55,7 +55,7 @@ d3.csv(patientfile+"div1.csv", function(error, rawdat){
 		.attr('height',canvh*.05)
 		//.attr('width',canvw*.9)
 		.attr('width',0)
-		.attr('x', .08*canvw)
+		.attr('x', .175*canvw)
 		.attr('y', function(d,i){
 			return .05*canvh + i*(canvh*.10 + (canvh*.1))
 		})
@@ -66,7 +66,22 @@ d3.csv(patientfile+"div1.csv", function(error, rawdat){
       	.ease('linear')
       	.duration(1000)
 
-
+    var bartitles = canvas.selectAll('.bartitle')
+    	.data(data)
+    	.enter()
+    	.append('text')
+    	.text(function(d){
+    		return d[0];
+    	})
+    	.attr('class','bartitle')
+    	.attr('text-anchor','end')
+    	.attr('font-size',.025*canvw)
+    	.attr('font-weight','bold')
+    	//.attr('textLength', .15*canvw)
+    	.attr('x',.17*canvw)
+    	.attr('y', function(d,i){
+			return .095*canvh + i*(canvh*.10 + (canvh*.1))
+		})
 
     var normbars = canvas.selectAll('chart')
     	.data(data)
@@ -104,7 +119,7 @@ d3.csv(patientfile+"div1.csv", function(error, rawdat){
 		.attr('width',chartw*.01)
 		.attr('rx','2')
 		.attr('ry','2')
-		.attr('x', .07*canvw)
+		.attr('x',.19*canvw)
 		.attr('y', function(d,i){
 			return .04*canvh + i*(canvh*.10 + (canvh*.1))
 		})
@@ -126,7 +141,7 @@ d3.csv(patientfile+"div1.csv", function(error, rawdat){
     	.append('circle')
     	.attr('class','patientpt')
     	.attr('stroke','black')
-    	.attr('stroke-width',2)
+    	.attr('stroke-width',3)
     	//.attr('fill',function(d,i){
     	//	console.log(colorscale(d,d[1]))
     	//	return colorscale(d,d[1])})
@@ -134,7 +149,7 @@ d3.csv(patientfile+"div1.csv", function(error, rawdat){
     	.attr('cy',function(d,i){
 			return .075*canvh + i*(canvh*.10 + (canvh*.1))
 		})
-    	.attr('cx',.225*canvh)
+    	.attr('cx',.19*canvw)
     	.attr('r', .75*charth)
     	.transition()
 		.delay(function(d,i){
@@ -396,9 +411,9 @@ function processData(rawData){
 	var data = rawData[0]
 	var ret = new Array()
 	ret.push(["BMI",+data.BMI,0,18.5,25,40])
-	ret.push(["Systolic Blood Pressure",+data.SystolicBP,50,90,140,230])
-	ret.push(["Diastolic Blood Pressure",+data.DiastolicBP,35,60,90,140])
-	ret.push(["Respiratory Rate",+data.RespiratoryRate,0,12,24,60])
+	ret.push(["Systolic BP",+data.SystolicBP,50,90,140,230])
+	ret.push(["Diastolic BP",+data.DiastolicBP,35,60,90,140])
+	ret.push(["Resp. Rate",+data.RespiratoryRate,0,12,24,60])
 	ret.push(["Temperature",+data.Temperature,87.5,97.6,99.6,105])
 	return ret;
 }
