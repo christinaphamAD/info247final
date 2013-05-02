@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,725700,0EE3F2CB-58B2-4C4A-9AEB-5A10DFE71BEC,Omeprazole oral delayed release capsule,40 mg,,5BA3EBC5-C1C9-4228-9EAD-56BC124722E8,D7E9EEF0-1E02-42D0-8DEA-39BF2051F7AA,2011.0,30.0,2.0,0.0,1.0
-0,725766,0EE3F2CB-58B2-4C4A-9AEB-5A10DFE71BEC,Welchol (colesevelam) oral powder for reconstitution,3.75 g,,2CB77689-2758-4856-8121-98A90C9AA4AF,7D5F910C-854A-4F67-8ADB-F0005821792C,2011.0,30.0,6.0,0.0,1.0
+,Unnamed: 0,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,725700,0EE3F2CB-58B2-4C4A-9AEB-5A10DFE71BEC,Omeprazole oral delayed release capsule,40 mg,,5BA3EBC5-C1C9-4228-9EAD-56BC124722E8,D7E9EEF0-1E02-42D0-8DEA-39BF2051F7AA,2011.0,30.0,2.0,0.0,1.0
+1,0,725766,0EE3F2CB-58B2-4C4A-9AEB-5A10DFE71BEC,Welchol (colesevelam) oral powder for reconstitution,3.75 g,,2CB77689-2758-4856-8121-98A90C9AA4AF,7D5F910C-854A-4F67-8ADB-F0005821792C,2011.0,30.0,6.0,0.0,1.0

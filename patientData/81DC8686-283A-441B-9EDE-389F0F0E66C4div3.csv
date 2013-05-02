@@ -1,4 +1,3 @@
 ,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
 0,43241,81DC8686-283A-441B-9EDE-389F0F0E66C4,Lotrisone (betamethasone-clotrimazole topical) topical cream,0.05%-1%,,4A900995-9529-462C-80FD-87511546C516,14C1A32A-AE9A-428A-8F43-977F2B6B7E49,2011.0,30,2.0,0.0,1.0
-0,43257,81DC8686-283A-441B-9EDE-389F0F0E66C4,"Mucinex DM (dextromethorphan-guaiFENesin) oral tablet, extended release",30 mg-600 mg,,,3803DC3C-2A46-4494-B2F5-B09F6A0D0727,,,,,
 0,43273,81DC8686-283A-441B-9EDE-389F0F0E66C4,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,268BCCA0-BBEA-4CE4-B6EC-5EC861AF288C,5A0E2378-4E66-4843-8971-E6FAEE746F61,2009.0,20,,0.0,1.0

@@ -1,5 +1,4 @@
 ,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,7249,1F53C04D-AC3B-439D-9AD6-16974DB91912,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,,D9C242F6-BD3F-446A-9961-1197EAC0C299,,,,,
 0,7257,1F53C04D-AC3B-439D-9AD6-16974DB91912,Zithromax Z-Pak (azithromycin) oral tablet,250 mg,,540ECF09-E235-43C3-8F7B-421F8EE571E7,726C800F-74B7-4EBF-8352-42B0797C0D82,2011.0,1,0.0,0.0,1.0
 0,7265,1F53C04D-AC3B-439D-9AD6-16974DB91912,Diovan HCT (hydrochlorothiazide-valsartan) oral tablet,25 mg-160 mg,,73E7A1BD-D1C7-4ABD-A0E2-154E87826966,7BF1481C-D804-4351-8595-2AFCE53B0410,2009.0,,,0.0,1.0
 0,7289,1F53C04D-AC3B-439D-9AD6-16974DB91912,Diovan HCT (hydrochlorothiazide-valsartan) oral tablet,12.5 mg-80 mg,,D3D4F4C8-695E-4192-9C4C-44FFB34576E4,6BB6A40E-7B9E-491D-B829-8CA9105CD470,2011.0,30,5.0,0.0,1.0

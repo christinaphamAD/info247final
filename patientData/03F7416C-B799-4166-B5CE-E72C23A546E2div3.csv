@@ -1,5 +1,3 @@
 ,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
 0,171274,03F7416C-B799-4166-B5CE-E72C23A546E2,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,880241F8-C3D3-4180-A395-6B469991D0AD,2D2FE4CC-202D-40E9-BBE0-72D7442732C0,2010.0,20,1.0,0.0,1.0
 0,171279,03F7416C-B799-4166-B5CE-E72C23A546E2,Allegra (fexofenadine) oral tablet,180 mg,,124F25FB-8143-425D-AC52-EF627AED89BE,6C446DAA-4CA0-4E3D-9BB2-C3DE4EA30B88,2010.0,90,1.0,0.0,1.0
-0,171284,03F7416C-B799-4166-B5CE-E72C23A546E2,Vitamin B1 (thiamine) oral tablet,100 mg,,,E84969C2-891F-46D3-A081-8CB019A62332,,,,,
-0,171289,03F7416C-B799-4166-B5CE-E72C23A546E2,Vitamin B6 (pyridoxine) oral tablet,50 mg,,,BD9F110C-7F56-4322-9BED-E4554B90786F,,,,,

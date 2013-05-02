@@ -1,4 +1,2 @@
 ,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,60861,3ABF4CE4-B5EE-414B-B577-53EC1FE4696C,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,,B50EB444-E4D9-40B1-9AAD-C100CE22844B,,,,,
 0,60865,3ABF4CE4-B5EE-414B-B577-53EC1FE4696C,Zithromax Z-Pak (azithromycin) oral tablet,250 mg,,59643BD9-D1F3-498D-99E1-67699916C07D,67CAA5A6-E760-4CAC-B91D-1A6DB424736E,2009.0,1 packtak,0.0,0.0,1.0
-0,60873,3ABF4CE4-B5EE-414B-B577-53EC1FE4696C,Cortisporin Otic (hydrocortisone/neomycin/polymyxin B otic) otic suspension,1%-0.35%-10000 units/mL,,,9FF46FD3-67B3-4399-BC46-74985FDBE072,,,,,

@@ -1,3 +1,2 @@
 ,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,181419,610A49BC-EC66-47C9-8C98-F65F158BB040,Medrol Dosepak (methylPREDNISolone) oral tablet,4 mg,,,233F4011-97D6-4F96-B4B7-7F23A061C29C,,,,,
 0,181439,610A49BC-EC66-47C9-8C98-F65F158BB040,Famvir (famciclovir) oral tablet,500 mg,,1B101CE8-3156-41F5-A319-51BE51350873,044D79E2-CBB7-45F3-8023-CE56555227F2,2009.0,21,,0.0,1.0

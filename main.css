@@ -366,3 +366,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f9ff', end
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#079300', endColorstr='#7bce80',GradientType=0 ); /* IE6-9 */
 
 }
+
+.chart div {
+  font: 10px sans-serif;
+  background-color: rgba(60, 60, 210, .9);
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+}
+
+.chart rect {
+  stroke: rgba(210, 210, 210, .9);
+  fill: rgba(60, 60, 210, .9);
+}

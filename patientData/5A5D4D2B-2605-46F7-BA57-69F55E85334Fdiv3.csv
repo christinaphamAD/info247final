@@ -1,5 +1,4 @@
 ,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,73672,5A5D4D2B-2605-46F7-BA57-69F55E85334F,Xopenex Concentrate (levalbuterol) inhalation solution,1.25 mg/0.5 mL,,,CB74F359-AD4C-42B9-AA01-7064B8FCC5DF,,,,,
 0,73675,5A5D4D2B-2605-46F7-BA57-69F55E85334F,Singulair (montelukast) oral tablet,10 mg,,975BE071-4166-4B51-BEB8-8F05FF26D9B3,54472B94-092B-4092-8D5A-C3BD9A062316,2009.0,30,6,0.0,1.0
 0,73678,5A5D4D2B-2605-46F7-BA57-69F55E85334F,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,295D7109-E87C-4D52-81AD-D00A14DB7F67,4E13559E-E988-4C32-8EF3-F8DB9C3289D3,2011.0,240,0,0.0,1.0
 0,73681,5A5D4D2B-2605-46F7-BA57-69F55E85334F,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,1CFE9369-6BB0-4262-B3A5-7ED8BAF711C5,41C6D405-B235-47FD-A594-A73DF2359951,2011.0,20,0,0.0,1.0

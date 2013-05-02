@@ -22,6 +22,7 @@ $(document).ready(function() {
 });
 
 function parseData(input) {
+    console.log(input)
     var allTextLines = input.split(/\r\n|\n/);
     var lines = [];
 
@@ -81,7 +82,7 @@ function getPatientData(ref, data) {
     .append('<div id="allergies" class="container half right"><h2>Allergies</h2><table cellpadding="0" cellspacing="0"></table></div>')
     .append('<div id="prescriptions" class="container half left"><h2>Prescriptions</h2><table cellpadding="0" cellspacing="0"></table></div>')
     .append('<div id="diagnoses" class="container half right"><h2>Diagnoses</h2><table cellpadding="0" cellspacing="0"></table></div>')
-
+    console.log(data[ref][2])
     $.ajax({
         type: "GET",
         url: "patientData/" + data[ref][2] + "div2.csv",
@@ -95,6 +96,13 @@ function getPatientData(ref, data) {
     //     dataType: "text",
     //     success: function(data) {createTable("prescriptions", parseData(data));}
     //  });
+
+    $.ajax({
+        type: "GET",
+        url: "patientData/" + data[ref][2] + "div3.csv",
+        dataType: "text",
+        success: function(data) {createTable("prescriptions", parseData(data));}
+     });
 
     $.ajax({
         type: "GET",
@@ -151,6 +159,7 @@ function createTable(location, data) {
         }
     }
 
+<<<<<<< HEAD
     // if(location == "prescriptions") {
     //     if(data.length < 3){
     //         $("#" + location)
@@ -164,6 +173,129 @@ function createTable(location, data) {
     //         }
     //     }
     // }
+=======
+    if(location == "prescriptions") {
+        console.log(data);
+        console.log(data.length);
+        if(data.length < 3){
+            $("#prescriptions")
+            .append("No prescriptions listed.");
+        }
+        else {
+            var newData = new Array();
+            var max = -9;
+            for (var k=1; k<(data.length-1); k++){
+                newData[k-1]=data[k];
+                console.log(max)
+                console.log(newData[k-1])
+                if (parseInt(newData[k-1][10])>max) {
+                    max=parseInt(newData[k-1][10])
+                }
+            }
+            var chart = d3.select("#prescriptions").append("svg")
+                .attr('class', 'chart')
+                .attr("width", 440)
+                .attr("height", 20 * newData.length + 20)
+              .append("g")
+                .attr("transform", "translate(10,15)");
+            
+            var x = d3.scale.linear()
+                .domain([0, max])
+                .range([175, 400]);
+
+            chart.selectAll("rect")
+                .data(newData)
+                .enter().append("rect")
+                .attr("y", function(d, i) { return i * 20; })
+                .attr("x", 175)
+                .attr("width", function(d, i) { 
+                    var wid = x(parseInt(d[10]));
+                    wid = wid - 175;
+                    return  wid;})
+                .attr("height", 20);
+
+            chart.selectAll("text")
+                .data(newData)
+                .enter().append("text")
+                .attr("x", 0)
+                .attr("y", function(d, i) { return i * 20; })
+                .attr("dx", 5) // padding-right
+                .attr("dy", 15) // vertical-align: middle
+                .attr("text-anchor", "start") // text-align: right
+                .text(function(d,i) {
+                    /* 
+                    var words = d[4].split(/\W+/);
+                    var firstTwo = "";
+                    console.log(words);
+                    for (var k=0; k<2; k++){
+                        firstTwo = firstTwo + " " + words[k];
+                    }
+                    return firstTwo;
+                    */
+                    var part = d[4].substring(0,20);
+                    part = part + "...";
+                    return part;
+                    });
+            chart.selectAll("line")
+                .data(x.ticks(4))
+              .enter().append("line")
+                .attr("x1", x)
+                .attr("x2", x)
+                .attr("y1", 0)
+                .attr("y2", 20 * newData.length)
+                .style("stroke", "rgba(10, 10, 10, .1);");
+
+            chart.selectAll(".rule")
+                .data(x.ticks(4))
+              .enter().append("text")
+                .attr("class", "rule")
+                .attr("x", x)
+                .attr("y", 0)
+                .attr("dy", -3)
+                .attr("text-anchor", "middle")
+                .text(String);
+
+            chart.append("line")
+                .attr("y1", 0)
+                .attr("y2", 20 * newData.length)
+                .style("stroke", "#000");
+
+            chart.selectAll(".tot")
+                .data(newData)
+                .enter().append("text")
+                .attr("class", "tot")
+                .attr("x", function(d) { return x(parseInt(d[10])); })
+                .attr("y", function(d, i) { return i * 20; })
+                .attr("dx", 17) // padding-right
+                .attr("dy", 15) // vertical-align: middle
+                .attr("text-anchor", "end") // text-align: right
+                .text(function(d,i) { 
+                    return parseInt(d[10]).toString();                    
+                    });
+
+            
+                /*.style("width", function(d,i) { 
+                    console.log(d[10])
+                    console.log(i)
+                    return parseInt(d[10]) * 10 + "px";
+                    })
+                .text(function(d,i) { 
+                    return d[3];
+                    });*/
+            /*
+            $("#prescriptions table")
+            .append("<tr class='tabHead'><th>Medication Name</th><th class='smalltd'>Strength</th><th>Number of Pills</th><th class='tinytd'>Refillable</th></tr>")
+            for (var k=1; k<(data.length-1) && k<10; k++){
+                var refillable = "No"
+                if (data[k][10]>0) {
+                    refillable="Yes"
+                }
+                $('#prescriptions table').append('<tr><td>' + data[k][3] + '</td><td>' + data[k][4] + '</td><td>' + data[k][9] + '</td><td>'+refillable+'</td></tr>')
+            }
+            */
+        }
+    }
+>>>>>>> updated divs and prescriptionDivs bars
 
     if (location == "patientList"){
         $('#patientList table').append('<tr class="tabHead"><th>Upcoming Patients</th></tr>')

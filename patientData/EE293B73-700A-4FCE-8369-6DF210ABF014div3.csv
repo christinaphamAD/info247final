@@ -1,4 +1,2 @@
 ,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
 0,117663,EE293B73-700A-4FCE-8369-6DF210ABF014,Benicar (olmesartan) oral tablet,40 mg,,1D9484CC-6E19-488C-B991-9C9C88A3B07D,7D3471DC-4705-4641-88A7-8CDD969FC70A,2010.0,90,3.0,0.0,1.0
-0,117667,EE293B73-700A-4FCE-8369-6DF210ABF014,Bystolic (nebivolol) oral tablet,10 mg,,,25E439E3-13D8-43E3-9BEE-AACA39231029,,,,,
-0,117671,EE293B73-700A-4FCE-8369-6DF210ABF014,Trilipix (fenofibric acid) oral delayed release capsule,135 mg,,,A8F31298-3D02-4EF3-9B41-0068BE1CA154,,,,,

@@ -1,5 +1,3 @@
 ,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,8525,FAE325DA-EA04-4486-95E9-1B877BBF6C07,Synthroid (levothyroxine) oral tablet,25 mcg (0.025 mg),,,F3081016-10FA-4870-8EE9-F43EED592752,,,,,
 0,8535,FAE325DA-EA04-4486-95E9-1B877BBF6C07,Septra (sulfamethoxazole-trimethoprim) oral suspension,200 mg-40 mg/5 mL,,EA0E6DC8-B597-4DB5-B7D1-8C482905EA37,83D50947-97C7-44FD-B69D-64887DE1AC5C,2010.0,400,0,0.0,1.0
 0,8555,FAE325DA-EA04-4486-95E9-1B877BBF6C07,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,EAE1E254-EFFC-4DFE-8B87-A5F796474E43,C831D31E-970F-42E3-84F7-7C72B61CE4D7,2010.0,240,0,0.0,1.0
-0,8575,FAE325DA-EA04-4486-95E9-1B877BBF6C07,Alendronate oral tablet,70 mg,,,50B50B58-B3C4-4B61-B7A2-6F8ECE2E43DD,,,,,
