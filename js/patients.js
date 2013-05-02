@@ -17,7 +17,17 @@ $(document).ready(function() {
         $(this).attr('data-id', 'abcharts')
     })
 
-    
+    console.log($("[data-id=abcharts]"));
+    $("[data-id=abcharts]").on("click", function(){
+        barRef = this.getAttribute('id')
+        $.ajax({
+            type: "GET",
+            url: "labsData/" + barRef + ".csv",
+            dataType: "text",
+            success: function(data) {console.log(data)}
+         });
+    });
+
 
 });
 
