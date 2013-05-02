@@ -71,7 +71,7 @@ td, th {
 }
 
 .tinytd {
-	width: 10%;
+	width: 13%;
 }
 
 .smalltd{
@@ -120,6 +120,18 @@ td, th {
 	height: auto;
 }
 
+.quarter {
+	width: 30%;
+	min-height: 300px;
+	height: auto;
+}
+
+.threequart {
+	width: 60%;
+	min-height: 300px;
+	height: auto;
+}
+
 .tri-patient {
 	width: 25%;
 	height: auto;
@@ -146,6 +158,26 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f9ff', end
 #ablab {
 	width:100%;
 	height: 100%;
+}
+
+#abPatients {
+	font-size: .8em;
+	line-height: 1.2em;
+}
+
+#abPatients {
+	position: relative;
+	top: 0;
+	left:0;
+}
+
+#abPatients ul {
+	list-style-type: none;
+	padding:0;
+}
+
+#genData {
+	overflow: auto;
 }
 
 .bar:hover {

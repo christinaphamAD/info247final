@@ -5,7 +5,7 @@
 
 d3.csv("js/lab_bar_data.csv", function(error, data) {
 
-var height = 95
+var height = 65 // PREVIOUSLY 95
 var width = 100
 
 
@@ -234,7 +234,7 @@ function getyAxisValues(data){
     for (var i=0;i<data.length;i++){
       //var twoel = Array(data[i]['Date']).concat(Array(data[i]['Hours']))
       var toadd = +(data[i]['numablabs'])
-      console.log(typeof toadd)
+      // console.log(typeof toadd)
       data_arr.push(toadd)
     }
     return data_arr	

@@ -1,3 +1,5 @@
+// INFO 247 - Final Project
+
 $(document).ready(function() {
     $('#patient').hide();
 
@@ -5,36 +7,49 @@ $(document).ready(function() {
         type: "GET",
         url: "js/patient.csv",
         dataType: "text",
-        success: function(data) {createWaitingList(parseData(data));}
+        success: function(data) {
+            createWaitingList(parseData(data));
+        }
      });
 
     $('#logo').bind('click', function(e) {
         $('#patient').empty().fadeOut();
         $('#home').fadeIn();
         
-    })   
+    }) 
 
-    $('.bar').each(function(e){
-        $(this).attr('data-id', 'abcharts')
-    })
+    var curBar = null;
+    $(".bar").live("click", function(){
+        // console.log(curBar)
+        if(curBar === this){
+           $('#abPatients').hide()
+           curBar = null;
+           return;
+        }else if(curBar !== null){
+            $('#abPatients').hide()
+        }
+        // Set the variable to this
+        curBar = this;
 
-    console.log($("[data-id=abcharts]"));
-    $("[data-id=abcharts]").on("click", function(){
-        barRef = this.getAttribute('id')
+        var clicked = this
+        var barRef = this.getAttribute('id')
+        // console.log(barRef)
+        $('#abPatients').show()
         $.ajax({
             type: "GET",
             url: "labsData/" + barRef + ".csv",
             dataType: "text",
-            success: function(data) {console.log(data)}
+            success: function(data) {
+                createBarDiv(parseData(data))
+            }
          });
+        // });
     });
-
-
 });
 
 function parseData(input) {
-    console.log(input)
-    var allTextLines = input.split(/\r\n|\n/);
+    
+    var allTextLines = input.split(/\r\n|\n|\r/);
     var lines = [];
 
     for (var i=0; i<allTextLines.length; i++) {
@@ -54,7 +69,7 @@ function parseData(input) {
 }
 
 function createWaitingList(lines) {
-    $('#patientList').append('<table cellpadding="0" cellspacing="0"></table>')
+    $('#patientList').append('<div class="tableData"><table cellpadding="0" cellspacing="0"></table></div>')
 
     createTable("patientList", lines)
     // for (var k=1; k<lines.length; k++){
@@ -67,19 +82,38 @@ function createWaitingList(lines) {
 
     $('#patientList a').bind('click', function(e){
         $('#home').fadeOut();
-        patientRef = this.getAttribute("data-attr");
-        setTimeout(function(){
-            $('#patient').fadeIn();
-            
-            getPatientData(patientRef, lines);
-            console.log('HAPPENING')
-        }, 400);
+        $('#patient').delay(400).fadeIn();
+        patientRef = this.getAttribute("data-attr")
+        getPatientData(patientRef, lines)
+    })
+}
+
+function createBarDiv(data){
+    $('#abPatients ul').empty()
+    for(var k=1; k<data.length; k++){
+        $('#abPatients ul').append('<li>Patient ID: <a id="' + data[k][0] + '">' + data[k][0].substring(0,8) + ' (' + data[k][1] + ')</a>')
+    }
+    $('#abPatients a').bind('click', function(e){
+        $('#home').fadeOut();
+        $('#patient').delay(400).fadeIn();
+        patientRef = this.getAttribute("id")
         
+        $.ajax({
+            type: "GET",
+            url: "patientData/" + patientRef + "div1.csv",
+            dataType: "text",
+            success: function(data) { 
+                info = parseData(data);
+                getPatientData(1, info)
+            ;}
+         });
+
     })
 }
 
 
 function getPatientData(ref, data) {
+
     $('#patient').append('<div id="genData" class="container"></div>')
     $('#genData')
     .append('<h1>Patient ' + data[ref][1] + '</h1>' )
@@ -94,10 +128,10 @@ function getPatientData(ref, data) {
     .append('<strong>Weight:</strong> ' + data[ref][8] + ' lbs<br />')
     .append('<strong>Last Visit:</strong> ' + data[ref][6].substring(0,4) + '<br />')
 
-    $('#patient').append('<div id="bulletData" class="container half left"><h2>Bullet Charts</h2></div>')
-    .append('<div id="allergies" class="container half right"><h2>Allergies</h2><table cellpadding="0" cellspacing="0"></table></div>')
-    .append('<div id="prescriptions" class="container half left"><h2>Prescriptions</h2><table cellpadding="0" cellspacing="0"></table></div>')
-    .append('<div id="diagnoses" class="container half right"><h2>Diagnoses</h2><table cellpadding="0" cellspacing="0"></table></div>')
+    $('#patient').append('<div id="bullet" class="container half left tableData"></div>')
+    .append('<div id="allergies" class="container half right tableData"><h2>Allergies</h2><table cellpadding="0" cellspacing="0"></table></div>')
+    .append('<div id="prescriptions" class="container half left tableData"><h2>Prescriptions</h2><table cellpadding="0" cellspacing="0"></table></div>')
+    .append('<div id="diagnoses" class="container half right tableData"><h2>Diagnoses</h2><table cellpadding="0" cellspacing="0"></table></div>')
     console.log(data[ref][2])
     $.ajax({
         type: "GET",
@@ -106,12 +140,9 @@ function getPatientData(ref, data) {
         success: function(data) {createTable("allergies", parseData(data));}
      });
 
-    // $.ajax({
-    //     type: "GET",
-    //     url: "patientData/" + data[ref][2] + "div3.csv",
-    //     dataType: "text",
-    //     success: function(data) {createTable("prescriptions", parseData(data));}
-    //  });
+    //THIS IS FOR THE BULLET CHARTS TO FIRE
+
+    createBulletChart(data[ref][2])
 
     $.ajax({
         type: "GET",
@@ -189,8 +220,8 @@ function createTable(location, data) {
     //     }
     // }
     if(location == "prescriptions") {
-        console.log(data);
-        console.log(data.length);
+        // console.log(data);
+        // console.log(data.length);
         if(data.length < 3){
             $("#prescriptions")
             .append("No prescriptions listed.");
@@ -200,8 +231,8 @@ function createTable(location, data) {
             var max = -9;
             for (var k=1; k<(data.length-1); k++){
                 newData[k-1]=data[k];
-                console.log(max)
-                console.log(newData[k-1])
+                // console.log(max)
+                // console.log(newData[k-1])
                 if (parseInt(newData[k-1][10])>max) {
                     max=parseInt(newData[k-1][10])
                 }
