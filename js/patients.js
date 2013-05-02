@@ -89,19 +89,19 @@ function getPatientData(ref, data) {
         success: function(data) {createTable("allergies", parseData(data));}
      });
 
-    $.ajax({
-        type: "GET",
-        url: "patientData/" + data[ref][2] + "div3.csv",
-        dataType: "text",
-        success: function(data) {createTable("prescriptions", parseData(data));}
-     });
-
     // $.ajax({
     //     type: "GET",
-    //     url: "patientData/" + data[ref][2] + "div4.csv",
+    //     url: "patientData/" + data[ref][2] + "div3.csv",
     //     dataType: "text",
-    //     success: function(data) {createTable("diagnoses", parseData(data));}
+    //     success: function(data) {createTable("prescriptions", parseData(data));}
     //  });
+
+    $.ajax({
+        type: "GET",
+        url: "patientData/" + data[ref][2] + "div4.csv",
+        dataType: "text",
+        success: function(data) {createTable("diagnoses", parseData(data));}
+     });
 
 }
 
