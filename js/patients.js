@@ -9,8 +9,9 @@ $(document).ready(function() {
      });
 
     $('#logo').bind('click', function(e) {
+        $('#patient').empty().fadeOut();
         $('#home').fadeIn();
-        $('#patient').fadeOut();
+        
     })   
 
     $('.bar').each(function(e){
@@ -66,9 +67,14 @@ function createWaitingList(lines) {
 
     $('#patientList a').bind('click', function(e){
         $('#home').fadeOut();
-        $('#patient').empty().fadeIn();
-        patientRef = this.getAttribute("data-attr")
-        getPatientData(patientRef, lines)
+        patientRef = this.getAttribute("data-attr");
+        setTimeout(function(){
+            $('#patient').fadeIn();
+            
+            getPatientData(patientRef, lines);
+            console.log('HAPPENING')
+        }, 400);
+        
     })
 }
 
