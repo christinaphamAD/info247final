@@ -13,6 +13,12 @@ $(document).ready(function() {
         $('#patient').fadeOut();
     })   
 
+    $('.bar').each(function(e){
+        $(this).attr('data-id', 'abcharts')
+    })
+
+    
+
 });
 
 function parseData(input) {
@@ -73,7 +79,7 @@ function getPatientData(ref, data) {
 
     $('#patient').append('<div id="bulletData" class="container half left"><h2>Bullet Charts</h2></div>')
     .append('<div id="allergies" class="container half right"><h2>Allergies</h2><table cellpadding="0" cellspacing="0"></table></div>')
-    .append('<div id="prescriptions" class="container half left"><h2>Prescriptions</h2></div>')
+    .append('<div id="prescriptions" class="container half left"><h2>Prescriptions</h2><table cellpadding="0" cellspacing="0"></table></div>')
     .append('<div id="diagnoses" class="container half right"><h2>Diagnoses</h2><table cellpadding="0" cellspacing="0"></table></div>')
 
     $.ajax({
@@ -85,10 +91,17 @@ function getPatientData(ref, data) {
 
     $.ajax({
         type: "GET",
-        url: "patientData/" + data[ref][2] + "div4.csv",
+        url: "patientData/" + data[ref][2] + "div3.csv",
         dataType: "text",
-        success: function(data) {createTable("diagnoses", parseData(data));}
+        success: function(data) {createTable("prescriptions", parseData(data));}
      });
+
+    // $.ajax({
+    //     type: "GET",
+    //     url: "patientData/" + data[ref][2] + "div4.csv",
+    //     dataType: "text",
+    //     success: function(data) {createTable("diagnoses", parseData(data));}
+    //  });
 
 }
 
@@ -138,9 +151,19 @@ function createTable(location, data) {
         }
     }
 
-    if(location == "prescriptions") {
-
-    }
+    // if(location == "prescriptions") {
+    //     if(data.length < 3){
+    //         $("#" + location)
+    //         .append("No prescriptions listed.");
+    //     }
+    //     else {
+    //         $("#" + location + " table")
+    //         .append("<tr class='tabHead'><th>Name</th><th>Strength</th></tr>")
+    //         for (var k=1; k<(data.length-1) && k<6; k++){
+    //             $("#" + location + " table").append('<tr><td>' + data[k][3] + '</td><td>' + data[k][4] + '</td></tr>')
+    //         }
+    //     }
+    // }
 
     if (location == "patientList"){
         $('#patientList table').append('<tr class="tabHead"><th>Upcoming Patients</th></tr>')

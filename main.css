@@ -148,6 +148,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f9ff', end
 	height: 100%;
 }
 
+.bar:hover {
+	fill: #4FA6D6;
+	cursor: pointer;
+}
+
+.bar:active {
+	
+}
+
 .axis path,
 .axis line {
     fill: none;
