@@ -102,8 +102,8 @@ d3.csv(patientfile+"div1.csv", function(error, rawdat){
 		.attr('fill','black')
 		.attr('height',canvh*.075)
 		.attr('width',chartw*.01)
-		.attr('rx','1.5')
-		.attr('ry','1.5')
+		.attr('rx','2')
+		.attr('ry','2')
 		.attr('x', .07*canvw)
 		.attr('y', function(d,i){
 			return .04*canvh + i*(canvh*.10 + (canvh*.1))
