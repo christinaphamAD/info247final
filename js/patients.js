@@ -12,7 +12,7 @@ $(document).ready(function() {
         }
      });
 
-    $('#logo').bind('click', function(e) {
+    $('#dash').bind('click', function(e) {
         $('#patient').empty().fadeOut();
         $('#home').fadeIn();
         

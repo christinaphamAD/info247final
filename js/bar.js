@@ -132,11 +132,11 @@ function drawYAxis(stroke){
       .attr('fill',stroke)
       .attr('stroke-width',-1)
       .text("label")
-      .attr('y',yindent*.125)
+      .attr('y',yindent*.185)
       .attr('x',xindent*.05-yinit)
       .transition()
       .duration(1000)
-	    .attr('y',1*yindent*.125)
+	    .attr('y',1*yindent*.185)
 	    .attr('x',-1*(xindent*.05));
 
 
