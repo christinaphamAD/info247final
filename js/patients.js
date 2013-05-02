@@ -1,3 +1,5 @@
+// INFO 247 - Final Project
+
 $(document).ready(function() {
     $('#patient').hide();
 
@@ -21,26 +23,33 @@ $(document).ready(function() {
     //     alert('Hello bar class')
     // })
 
-    $('#ablab').append('<div id="abPatients" style="z-index:500"><ul></ul></div>')
-
+    var curBar = null;
     $(".bar").live("click", function(){
+        console.log(curBar)
+        if(curBar === this){
+           $('#abPatients').hide()
+           curBar = null;
+           return;
+        }else if(curBar !== null){
+            $('#abPatients').hide()
+        }
+        // Set the variable to this
+        curBar = this;
 
-        //[data-id=abcharts]
+        var clicked = this
         var barRef = this.getAttribute('id')
         console.log(barRef)
+        $('#abPatients').show()
         $.ajax({
             type: "GET",
             url: "labsData/" + barRef + ".csv",
             dataType: "text",
             success: function(data) {
-                console.log('Data success')
                 createBarDiv(parseData(data))
-
             }
          });
+        // });
     });
-
-
 });
 
 function parseData(input) {
@@ -65,7 +74,7 @@ function parseData(input) {
 }
 
 function createWaitingList(lines) {
-    $('#patientList').append('<table cellpadding="0" cellspacing="0"></table>')
+    $('#patientList').append('<div class="tableData"><table cellpadding="0" cellspacing="0"></table></div>')
 
     createTable("patientList", lines)
     // for (var k=1; k<lines.length; k++){
@@ -86,7 +95,6 @@ function createWaitingList(lines) {
 
 function createBarDiv(data){
     $('#abPatients ul').empty()
-    console.log('Bar div created')
     for(var k=1; k<data.length; k++){
         $('#abPatients ul').append('<li>Patient ID: <a id="' + data[k][0] + '">' + data[k][0].substring(0,8) + ' (' + data[k][1] + ')</a>')
     }
@@ -94,6 +102,7 @@ function createBarDiv(data){
         $('#home').fadeOut();
         $('#patient').delay(400).fadeIn();
         patientRef = this.getAttribute("id")
+        
         $.ajax({
             type: "GET",
             url: "patientData/" + patientRef + "div1.csv",
@@ -123,10 +132,10 @@ function getPatientData(ref, data) {
     .append('<strong>Weight:</strong> ' + data[ref][8] + ' lbs<br />')
     .append('<strong>Last Visit:</strong> ' + data[ref][6].substring(0,4) + '<br />')
 
-    $('#patient').append('<div id="bulletData" class="container half left"><h2>Bullet Charts</h2></div>')
-    .append('<div id="allergies" class="container half right"><h2>Allergies</h2><table cellpadding="0" cellspacing="0"></table></div>')
-    .append('<div id="prescriptions" class="container half left"><h2>Prescriptions</h2><table cellpadding="0" cellspacing="0"></table></div>')
-    .append('<div id="diagnoses" class="container half right"><h2>Diagnoses</h2><table cellpadding="0" cellspacing="0"></table></div>')
+    $('#patient').append('<div id="bulletData" class="container half left tableData"><h2>Bullet Charts</h2></div>')
+    .append('<div id="allergies" class="container half right tableData"><h2>Allergies</h2><table cellpadding="0" cellspacing="0"></table></div>')
+    .append('<div id="prescriptions" class="container half left tableData"><h2>Prescriptions</h2><table cellpadding="0" cellspacing="0"></table></div>')
+    .append('<div id="diagnoses" class="container half right tableData"><h2>Diagnoses</h2><table cellpadding="0" cellspacing="0"></table></div>')
     console.log(data[ref][2])
     $.ajax({
         type: "GET",
