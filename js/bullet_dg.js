@@ -7,7 +7,6 @@ function createBulletChart(dataInput){
   var patient_id = dataInput
   // "0B4C02C7-935D-411C-92C0-EAEC4BF0CFFD"
   var patientfile = filestruc+patient_id
-
    
 
   d3.csv(patientfile+"div1.csv", function(error, rawdat){
