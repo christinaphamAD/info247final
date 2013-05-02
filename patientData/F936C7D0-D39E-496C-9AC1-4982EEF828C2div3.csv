@@ -1,4 +1,2 @@
 ,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
 0,53811,F936C7D0-D39E-496C-9AC1-4982EEF828C2,"Concerta (methylphenidate) oral tablet, extended release",18 mg/24 hr,2.0,7797F2E2-9998-4F66-AF22-DAB9E9C125BC,5BC858A7-F66D-4DD2-94CF-0C269950F05A,2010.0,90.0,,0.0,1.0
-0,53841,F936C7D0-D39E-496C-9AC1-4982EEF828C2,CeleXA (citalopram) oral tablet,40 mg,,,47E18595-79CA-461B-B667-FE610740BE44,,,,,
-0,53847,F936C7D0-D39E-496C-9AC1-4982EEF828C2,Zocor (simvastatin) oral tablet,40 mg,,,68CC24F3-425F-45A2-A9BD-FDB874418820,,,,,

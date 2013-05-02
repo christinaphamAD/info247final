@@ -158,7 +158,7 @@ var yshift = (parseInt(d3.select("#canvas").style('height').split('p'))*0.92)
     .enter().append("rect")
       .attr("class", "bar")
       .attr("id",function(d){      //Christina, this is where you should add the id you want
-        console.log(d.lab)
+        return (d.lab).substring(0,4)
       })
       .attr('fill','#1f77b4')
       .attr("x", function(d) { return xshift+ x(d.lab); })

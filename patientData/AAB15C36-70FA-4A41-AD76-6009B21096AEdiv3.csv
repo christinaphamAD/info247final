@@ -1,5 +1,4 @@
 ,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,65812,AAB15C36-70FA-4A41-AD76-6009B21096AE,Lotrisone (betamethasone-clotrimazole topical) topical cream,0.05%-1%,,,084E271C-663F-47C3-BF4E-350599EF99B3,,,,,
 0,65826,AAB15C36-70FA-4A41-AD76-6009B21096AE,"Mucinex D Max Strength (guaiFENesin-pseudoephedrine) oral tablet, extended release",1200 mg-120 mg,,C8EB3CFA-D4C9-479C-84A0-1394142C1DF0,862A8F17-6360-43F2-8721-7A8C11A5F2CF,2011.0,24,0,0.0,1.0
 0,65840,AAB15C36-70FA-4A41-AD76-6009B21096AE,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,0757C161-B89A-4111-8285-0BBD2821F656,6AF5D6CF-AE9D-4707-B054-AB49295569E1,2011.0,20,0,0.0,1.0
 0,65854,AAB15C36-70FA-4A41-AD76-6009B21096AE,Valacyclovir Hydrochloride (valACYclovir) oral tablet,500 mg,,A9289840-8A17-4587-A30A-29196F405A4C,B978BBF3-AB29-4EB7-83E0-D1F82DABDACE,2011.0,36,1,0.0,1.0

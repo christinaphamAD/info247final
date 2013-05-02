@@ -1,3 +1,2 @@
 ,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,151458,6978F7C2-D19D-4F43-A139-B6CF7EFA1DC5,Claritin (loratadine) oral tablet,10 mg,,,9659C310-DE49-4566-8108-2B860FC37343,,,,,
 0,151461,6978F7C2-D19D-4F43-A139-B6CF7EFA1DC5,Zantac GELdose (ranitidine) oral capsule,150 mg,,9BB3EAC9-50C0-480A-8692-67C2364B55F4,04F63A24-1A72-4AF0-8C24-70C1FCB1359F,2011.0,60,0.0,0.0,1.0

@@ -1,6 +1,4 @@
 ,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,191410,7A3FAFA2-4048-48FD-983F-FB6458028FF6,Promethazine VC (phenylephrine-promethazine) oral syrup,5 mg-6.25 mg/5 mL,,,3914A7DA-7F76-400F-8160-8E174F043FF9,,,,,
-0,191446,7A3FAFA2-4048-48FD-983F-FB6458028FF6,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,,C3FED139-4A07-4F0E-A20B-121A4151381F,,,,,
 0,191482,7A3FAFA2-4048-48FD-983F-FB6458028FF6,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,70E85969-B895-45F9-8F23-A756BAD9EC5D,D4759B11-A659-412E-BB5D-579AA1E94C94,2011.0,20,0.0,0.0,1.0
 0,191770,7A3FAFA2-4048-48FD-983F-FB6458028FF6,Mobic (meloxicam) oral tablet,7.5 mg,,ACCAA0EF-0659-41D8-B8BF-B2B1FB199DEA,715185C7-162E-42A8-A90A-A612FCFD1902,2009.0,180,3.0,0.0,1.0
 0,191842,7A3FAFA2-4048-48FD-983F-FB6458028FF6,Fluticasone Propionate (fluticasone nasal) nasal spray,0.05 mg/inh,,63058122-AD4F-4127-9353-066A757322B5,BF1246EB-63B2-408C-968A-81CF691A7525,2011.0,1,6.0,0.0,1.0

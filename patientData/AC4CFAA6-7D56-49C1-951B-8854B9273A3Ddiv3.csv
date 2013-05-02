@@ -1,7 +1,4 @@
 ,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,132495,AC4CFAA6-7D56-49C1-951B-8854B9273A3D,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,,CDFF3470-DD03-4CB3-9F08-F515875F6BBF,,,,,
 0,132510,AC4CFAA6-7D56-49C1-951B-8854B9273A3D,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,B59F3152-46CC-48F0-A0E1-A693648B4B92,F93D173F-A1D2-459C-A4B7-7C2C5DC6E602,2010.0,240,0.0,0.0,1.0
 0,132525,AC4CFAA6-7D56-49C1-951B-8854B9273A3D,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,B05E7E0C-80B6-4D57-BB18-9245DA538007,C2E323B8-D325-4D2D-B2B7-876FFD2F92A6,2012.0,20,0.0,0.0,1.0
-0,132585,AC4CFAA6-7D56-49C1-951B-8854B9273A3D,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,,DCDA85E9-48F4-4D4A-83B5-0D9B2EC2E685,,,,,
-0,132600,AC4CFAA6-7D56-49C1-951B-8854B9273A3D,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,,107AB1B7-917B-4DA4-9E21-2B769F4E6178,,,,,
 0,132615,AC4CFAA6-7D56-49C1-951B-8854B9273A3D,"Mucinex D Max Strength (guaiFENesin-pseudoephedrine) oral tablet, extended release",1200 mg-120 mg,,6E31262C-7684-4052-B817-3A086A170102,6DB861ED-F0B1-4F44-83ED-63197103C5A7,2012.0,24,0.0,0.0,1.0

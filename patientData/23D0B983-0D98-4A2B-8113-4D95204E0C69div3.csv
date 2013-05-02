@@ -1,4 +1,3 @@
 ,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
 0,55358,23D0B983-0D98-4A2B-8113-4D95204E0C69,Omeprazole oral delayed release capsule,40 mg,,6426C4E1-2C4A-4682-99A1-C53A008B59B1,53B8F99E-6B5D-4234-934A-4BC6524F5596,2010.0,30.0,0.0,0.0,1.0
 0,55378,23D0B983-0D98-4A2B-8113-4D95204E0C69,Hyoscyamine Sulfate (hyoscyamine) sublingual tablet,0.125 mg,,25EF37B3-1C01-451A-8BB0-8784AA23F02E,634916D5-E300-45AB-ABFB-C9614EE580F1,2010.0,20.0,0.0,0.0,1.0
-0,55418,23D0B983-0D98-4A2B-8113-4D95204E0C69,Phenergan (promethazine) injectable solution,25 mg/mL,,7ABA6149-7F56-4DB2-AF3E-7850BD9307AE,A773E95B-6500-4F82-B7CC-FCD3439515BB,2010.0,,,0.0,1.0
