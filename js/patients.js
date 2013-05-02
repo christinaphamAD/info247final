@@ -5,7 +5,9 @@ $(document).ready(function() {
         type: "GET",
         url: "js/patient.csv",
         dataType: "text",
-        success: function(data) {createWaitingList(parseData(data));}
+        success: function(data) {
+            createWaitingList(parseData(data));
+        }
      });
 
     $('#logo').bind('click', function(e) {
@@ -14,19 +16,24 @@ $(document).ready(function() {
         
     })   
 
-    $('.bar').each(function(e){
-        $(this).attr('data-id', 'abcharts')
-    })
-    $('#ablab').append('<div id="abPatients"><ul></ul></div>')
+    // $('.bar').each(function(e){
+    //     $(this).attr('data-id', 'abcharts')
+    //     alert('Hello bar class')
+    // })
 
-    console.log($("[data-id=abcharts]"));
-    $("[data-id=abcharts]").on("click", function(){
+    $('#ablab').append('<div id="abPatients" style="z-index:500"><ul></ul></div>')
+
+    $(".bar").live("click", function(){
+
+        //[data-id=abcharts]
         var barRef = this.getAttribute('id')
+        console.log(barRef)
         $.ajax({
             type: "GET",
             url: "labsData/" + barRef + ".csv",
             dataType: "text",
             success: function(data) {
+                console.log('Data success')
                 createBarDiv(parseData(data))
 
             }
@@ -79,7 +86,7 @@ function createWaitingList(lines) {
 
 function createBarDiv(data){
     $('#abPatients ul').empty()
-
+    console.log('Bar div created')
     for(var k=1; k<data.length; k++){
         $('#abPatients ul').append('<li>Patient ID: <a id="' + data[k][0] + '">' + data[k][0].substring(0,8) + ' (' + data[k][1] + ')</a>')
     }
