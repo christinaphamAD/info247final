@@ -159,7 +159,6 @@ function createTable(location, data) {
         }
     }
 
-<<<<<<< HEAD
     // if(location == "prescriptions") {
     //     if(data.length < 3){
     //         $("#" + location)
@@ -173,7 +172,6 @@ function createTable(location, data) {
     //         }
     //     }
     // }
-=======
     if(location == "prescriptions") {
         console.log(data);
         console.log(data.length);
@@ -295,7 +293,6 @@ function createTable(location, data) {
             */
         }
     }
->>>>>>> updated divs and prescriptionDivs bars
 
     if (location == "patientList"){
         $('#patientList table').append('<tr class="tabHead"><th>Upcoming Patients</th></tr>')
