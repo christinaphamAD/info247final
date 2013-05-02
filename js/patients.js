@@ -25,7 +25,7 @@ $(document).ready(function() {
 
     var curBar = null;
     $(".bar").live("click", function(){
-        console.log(curBar)
+        // console.log(curBar)
         if(curBar === this){
            $('#abPatients').hide()
            curBar = null;
@@ -38,7 +38,7 @@ $(document).ready(function() {
 
         var clicked = this
         var barRef = this.getAttribute('id')
-        console.log(barRef)
+        // console.log(barRef)
         $('#abPatients').show()
         $.ajax({
             type: "GET",
@@ -118,6 +118,7 @@ function createBarDiv(data){
 
 
 function getPatientData(ref, data) {
+
     $('#patient').append('<div id="genData" class="container"></div>')
     $('#genData')
     .append('<h1>Patient ' + data[ref][1] + '</h1>' )
@@ -132,7 +133,7 @@ function getPatientData(ref, data) {
     .append('<strong>Weight:</strong> ' + data[ref][8] + ' lbs<br />')
     .append('<strong>Last Visit:</strong> ' + data[ref][6].substring(0,4) + '<br />')
 
-    $('#patient').append('<div id="bulletData" class="container half left tableData"><h2>Bullet Charts</h2></div>')
+    $('#patient').append('<div id="bullet" class="container half left tableData"><h2>Bullet Charts</h2></div>')
     .append('<div id="allergies" class="container half right tableData"><h2>Allergies</h2><table cellpadding="0" cellspacing="0"></table></div>')
     .append('<div id="prescriptions" class="container half left tableData"><h2>Prescriptions</h2><table cellpadding="0" cellspacing="0"></table></div>')
     .append('<div id="diagnoses" class="container half right tableData"><h2>Diagnoses</h2><table cellpadding="0" cellspacing="0"></table></div>')
@@ -145,8 +146,8 @@ function getPatientData(ref, data) {
      });
 
     //THIS IS FOR THE BULLET CHARTS TO FIRE
-    //createBulletChart(data[ref][2])
-
+    // createBulletChart(data[ref][2])
+    console.log(data[ref][2])
     // $.ajax({
     //     type: "GET",
     //     url: "patientData/" + data[ref][2] + "div3.csv",
@@ -230,8 +231,8 @@ function createTable(location, data) {
     //     }
     // }
     if(location == "prescriptions") {
-        console.log(data);
-        console.log(data.length);
+        // console.log(data);
+        // console.log(data.length);
         if(data.length < 3){
             $("#prescriptions")
             .append("No prescriptions listed.");
@@ -241,8 +242,8 @@ function createTable(location, data) {
             var max = -9;
             for (var k=1; k<(data.length-1); k++){
                 newData[k-1]=data[k];
-                console.log(max)
-                console.log(newData[k-1])
+                // console.log(max)
+                // console.log(newData[k-1])
                 if (parseInt(newData[k-1][10])>max) {
                     max=parseInt(newData[k-1][10])
                 }

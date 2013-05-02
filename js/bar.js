@@ -234,7 +234,7 @@ function getyAxisValues(data){
     for (var i=0;i<data.length;i++){
       //var twoel = Array(data[i]['Date']).concat(Array(data[i]['Hours']))
       var toadd = +(data[i]['numablabs'])
-      console.log(typeof toadd)
+      // console.log(typeof toadd)
       data_arr.push(toadd)
     }
     return data_arr	
