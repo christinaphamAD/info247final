@@ -17,15 +17,19 @@ $(document).ready(function() {
     $('.bar').each(function(e){
         $(this).attr('data-id', 'abcharts')
     })
+    $('#ablab').append('<div id="abPatients"><ul></ul></div>')
 
     console.log($("[data-id=abcharts]"));
     $("[data-id=abcharts]").on("click", function(){
-        barRef = this.getAttribute('id')
+        var barRef = this.getAttribute('id')
         $.ajax({
             type: "GET",
             url: "labsData/" + barRef + ".csv",
             dataType: "text",
-            success: function(data) {console.log(data)}
+            success: function(data) {
+                createBarDiv(parseData(data))
+
+            }
          });
     });
 
@@ -33,8 +37,8 @@ $(document).ready(function() {
 });
 
 function parseData(input) {
-    console.log(input)
-    var allTextLines = input.split(/\r\n|\n/);
+    
+    var allTextLines = input.split(/\r\n|\n|\r/);
     var lines = [];
 
     for (var i=0; i<allTextLines.length; i++) {
@@ -67,14 +71,32 @@ function createWaitingList(lines) {
 
     $('#patientList a').bind('click', function(e){
         $('#home').fadeOut();
-        patientRef = this.getAttribute("data-attr");
-        setTimeout(function(){
-            $('#patient').fadeIn();
-            
-            getPatientData(patientRef, lines);
-            console.log('HAPPENING')
-        }, 400);
-        
+        $('#patient').delay(400).fadeIn();
+        patientRef = this.getAttribute("data-attr")
+        getPatientData(patientRef, lines)
+    })
+}
+
+function createBarDiv(data){
+    $('#abPatients ul').empty()
+
+    for(var k=1; k<data.length; k++){
+        $('#abPatients ul').append('<li>Patient ID: <a id="' + data[k][0] + '">' + data[k][0].substring(0,8) + ' (' + data[k][1] + ')</a>')
+    }
+    $('#abPatients a').bind('click', function(e){
+        $('#home').fadeOut();
+        $('#patient').delay(400).fadeIn();
+        patientRef = this.getAttribute("id")
+        $.ajax({
+            type: "GET",
+            url: "patientData/" + patientRef + "div1.csv",
+            dataType: "text",
+            success: function(data) { 
+                info = parseData(data);
+                getPatientData(1, info)
+            ;}
+         });
+
     })
 }
 
@@ -105,6 +127,9 @@ function getPatientData(ref, data) {
         dataType: "text",
         success: function(data) {createTable("allergies", parseData(data));}
      });
+
+    //THIS IS FOR THE BULLET CHARTS TO FIRE
+    //createBulletChart(data[ref][2])
 
     // $.ajax({
     //     type: "GET",
