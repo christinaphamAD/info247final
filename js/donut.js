@@ -23,8 +23,8 @@ d3.csv("js/data.csv", function(error, data) {
       .sort(null);
 
   var arc = d3.svg.arc()
-      .innerRadius(radius - 100)
-      .outerRadius(radius - 60);
+      .innerRadius(radius - 140)
+      .outerRadius(radius - 100);
 
   var svg = d3.select("#testd3").append("svg")
       .attr("width", width +"%")

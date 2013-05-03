@@ -5,7 +5,7 @@
 
 d3.csv("js/lab_bar_data.csv", function(error, data) {
 
-var height = 65 // PREVIOUSLY 95
+var height = 45 // PREVIOUSLY 95
 var width = 100
 
 
@@ -132,11 +132,11 @@ function drawYAxis(stroke){
       .attr('fill',stroke)
       .attr('stroke-width',-1)
       .text("# of abnormal lab results")
-      .attr('y',yindent*.085)
+      .attr('y',yindent*.065)
       .attr('x',xindent*.05-yinit)
       .transition()
       .duration(1000)
-	    .attr('y',1*yindent*.085)
+	    .attr('y',1*yindent*.065)
 	    .attr('x',-1*(xindent*.05));
 
 
