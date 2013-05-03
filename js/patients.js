@@ -5,7 +5,7 @@ $(document).ready(function() {
 
     $.ajax({
         type: "GET",
-        url: "js/patient.csv",
+        url: "patientData/BMIList.csv",
         dataType: "text",
         success: function(data) {
             createWaitingList(parseData(data));
@@ -425,8 +425,8 @@ function createTable(location, data) {
 
     if (location == "patientList"){
         $('#patientList table').append('<tr class="tabHead"><th>Upcoming Patients</th></tr>')
-        for(var k=1; k<data.length; k++){
-            $('#patientList table').append('<tr><td>' + k + '. ' + '<a id="' + data[k][1] + '" data-attr="' + k + '">Patient ' + data[k][1] + '</a></td></tr>')
+        for(var k=1; k<data.length && k < 11; k++){
+            $('#patientList table').append('<tr><td>' + k + '. ' + '<a id="' + data[k][1] + '" data-attr="' + k + '">Patient ID' + data[k][1].substring(0,8) + '</a></td></tr>')
         }
     }
 }
