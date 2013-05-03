@@ -116,7 +116,7 @@ function getPatientData(ref, data) {
 
     $('#patient').append('<div id="genData" class="container"></div>')
     $('#genData')
-    .append('<h1>Patient ' + data[ref][1] + '</h1>' )
+    .append('<h1>Patient ID: ' + data[ref][2].substring(0,8) + '</h1>' )
     .append('<div class="tri-patient left" id="basicInfo"></div><div class="tri-patient left" id="detailInfo"></div>')
 
     $('#basicInfo')
@@ -423,7 +423,7 @@ function createTable(location, data) {
     if (location == "patientList"){
         $('#patientList table').append('<tr class="tabHead"><th>Upcoming Patients</th></tr>')
         for(var k=1; k<data.length && k < 11; k++){
-            $('#patientList table').append('<tr><td>' + k + '. ' + '<a id="' + data[k][1] + '" data-attr="' + k + '">Patient ID' + data[k][1].substring(0,8) + '</a></td></tr>')
+            $('#patientList table').append('<tr><td>' + k + '. ' + '<a id="' + data[k][1] + '" data-attr="' + k + '">Patient ID: ' + data[k][2].substring(0,8) + '</a></td></tr>')
         }
     }
 }
