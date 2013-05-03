@@ -121,13 +121,13 @@ td, th {
 }
 
 .quarter {
-	width: 25%;
+	width: 22%;
 	min-height: 300px;
 	height: auto;
 }
 
 .threequart {
-	width: 30%;
+	width: 32%;
 	min-height: 300px;
 	height: auto;
 	margin-right:2%;
