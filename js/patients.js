@@ -220,14 +220,11 @@ function createTable(location, data) {
     //     }
     // }
     if(location == "prescriptions") {
-<<<<<<< HEAD
         // console.log(data);
         // console.log(data.length);
-=======
         var containerX = 440;
         console.log(data);
         console.log(data.length);
->>>>>>> add check images and updated prescriptions stuff
         if(data.length < 3){
             $("#prescriptions")
             .append("No prescriptions listed.");
