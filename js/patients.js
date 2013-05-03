@@ -18,33 +18,60 @@ $(document).ready(function() {
         
     }) 
 
-    var curBar = null;
-    $(".bar").live("click", function(){
-        // console.log(curBar)
-        if(curBar === this){
-           $('#abPatients').hide()
-           curBar = null;
-           return;
-        }else if(curBar !== null){
-            $('#abPatients').hide()
-        }
-        // Set the variable to this
-        curBar = this;
-
-        var clicked = this
-        var barRef = this.getAttribute('id')
-        // console.log(barRef)
-        $('#abPatients').show()
+    function getNewData(){
+        var barRef = curBar.getAttribute('id');
+        // console.log(barRef);
         $.ajax({
-            type: "GET",
-            url: "labsData/" + barRef + ".csv",
-            dataType: "text",
-            success: function(data) {
-                createBarDiv(parseData(data))
-            }
-         });
-        // });
+          type: "GET",
+          url: "labsData/" + barRef + ".csv",
+          dataType: "text",
+          success: function(data) {
+              createBarDiv(parseData(data));
+          }
+        });
+        }
+        var curBar = null;
+        $(".bar").live("click", function(){
+          // console.log(curBar);
+          if(curBar === this){
+             $('#abPatients').fadeOut();
+             curBar = null;
+             return;
+          }else if(curBar !== null){
+              // Set the variable to this
+              curBar = this;
+              $('#abPatients').fadeOut({"complete":getNewData});
+          }else{
+              // Set the variable to this
+              curBar = this;
+              getNewData();
+          }
     });
+
+    // var curBar = null;
+    // $(".bar").live("click", function(){
+    //     // console.log(curBar)
+    //     if(curBar === this){
+    //        $('#abPatients').fadeOut()
+    //        curBar = null;
+    //        return;
+    //     }else if(curBar !== null){
+    //         $('#abPatients').fadeOut()
+    //     }
+    //     curBar = this;
+
+    //     var barRef = this.getAttribute('id')
+    //     $('#abPatients').show()
+    //     $.ajax({
+    //         type: "GET",
+    //         url: "labsData/" + barRef + ".csv",
+    //         dataType: "text",
+    //         success: function(data) {
+    //             createBarDiv(parseData(data))
+    //         }
+    //      });
+        // });
+    // });
 });
 
 function parseData(input) {
@@ -89,10 +116,17 @@ function createWaitingList(lines) {
 }
 
 function createBarDiv(data){
+    
     $('#abPatients ul').empty()
+    $('#abPatients').show();
     for(var k=1; k<data.length; k++){
         $('#abPatients ul').append('<li>Patient ID: <a id="' + data[k][0] + '">' + data[k][0].substring(0,8) + ' (' + data[k][1] + ')</a>')
     }
+
+    $('#abPatients ul li').hide().each(function(e){
+        $(this).delay(e*100).fadeIn();
+    })
+
     $('#abPatients a').bind('click', function(e){
         $('#home').fadeOut();
         $('#patient').delay(400).fadeIn();
@@ -103,6 +137,7 @@ function createBarDiv(data){
             url: "patientData/" + patientRef + "div1.csv",
             dataType: "text",
             success: function(data) { 
+                console.log(patientRef);
                 info = parseData(data);
                 getPatientData(1, info)
             ;}

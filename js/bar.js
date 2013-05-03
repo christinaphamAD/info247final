@@ -67,7 +67,7 @@ function drawXAxis(color){
       .style("text-anchor","end")
       .attr("font-size",9)
       .attr("transform",function(d){
-        return "rotate(-10)"
+        return "rotate(-20)"
       });
   
 /*
@@ -122,7 +122,7 @@ function drawYAxis(stroke){
         .tickFormat("")
         .tickSize(0));
   var yaxislabel = canvas.append('text')
-      .attr('font-size',17)
+      .attr('font-size',12)
 	    .attr('class', 'y label')
 	    .attr('text-anchor','end')
      //  .attr('dy','.75em')
