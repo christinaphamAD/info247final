@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,137695,76E7F1CB-953F-4672-AA96-94715F414D2E,"Inderal LA (propranolol) oral capsule, extended release",120 mg,,A50D1D91-12EE-4F5B-9379-B2C700627E96,6713D181-4823-4535-8DFB-5E83BCA1C1A6,2009.0,,0.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,137695,76E7F1CB-953F-4672-AA96-94715F414D2E,Inderal LA (propranolol) oral capsule extended release,120 mg,,A50D1D91-12EE-4F5B-9379-B2C700627E96,6713D181-4823-4535-8DFB-5E83BCA1C1A6,2009.0,0,0.0,0.0,1.0

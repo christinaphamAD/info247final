@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,172057,4C9E65F4-8918-4F6F-B925-E8C9BDE24576,"Inderal LA (propranolol) oral capsule, extended release",160 mg,,775E2ED0-1B2F-4C28-B657-52AE790B626B,A0EAEE38-814A-4C78-8A7B-4DE7AC32E8CB,2010.0,90,3.0,0.0,1.0
-0,172067,4C9E65F4-8918-4F6F-B925-E8C9BDE24576,Hydrochlorothiazide oral tablet,25 mg,,3BD401C3-58B2-4803-8D56-9E4D26F65350,AAF4B277-3C8F-414E-A61D-584300ADDFF2,2010.0,90,3.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,AAF4B277-3C8F-414E-A61D-584300ADDFF2,Hydrochlorothiazide oral tablet,25 mg,3.0,4C9E65F4-8918-4F6F-B925-E8C9BDE24576,3BD401C3-58B2-4803-8D56-9E4D26F65350,2010.0,90,0.0,,172067
+0,1.0,1.0,A0EAEE38-814A-4C78-8A7B-4DE7AC32E8CB,Inderal LA (propranolol) oral capsule extended release,160 mg,3.0,4C9E65F4-8918-4F6F-B925-E8C9BDE24576,775E2ED0-1B2F-4C28-B657-52AE790B626B,2010.0,90,0.0,,172057

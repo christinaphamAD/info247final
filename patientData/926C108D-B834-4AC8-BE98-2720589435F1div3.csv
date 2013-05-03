@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,15698,926C108D-B834-4AC8-BE98-2720589435F1,Viagra (sildenafil) oral tablet,100 mg,,E992A6E7-0131-4EE0-8ABD-52D740384C3F,DAA393E6-8B81-4D17-AB6A-E8802D55CB19,2011.0,8,5,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,15698,926C108D-B834-4AC8-BE98-2720589435F1,Viagra (sildenafil) oral tablet,100 mg,,E992A6E7-0131-4EE0-8ABD-52D740384C3F,DAA393E6-8B81-4D17-AB6A-E8802D55CB19,2011.0,8,5,0.0,1.0

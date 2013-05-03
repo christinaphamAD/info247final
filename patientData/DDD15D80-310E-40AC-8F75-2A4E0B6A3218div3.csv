@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,16413,DDD15D80-310E-40AC-8F75-2A4E0B6A3218,CeleXA (citalopram) oral tablet,40 mg,,56A1049A-C2F7-41D6-BB72-9FFA3FDE2154,C7E3F625-0122-411A-BEC4-1631BF05AA6F,2010.0,30,2.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,16413,DDD15D80-310E-40AC-8F75-2A4E0B6A3218,CeleXA (citalopram) oral tablet,40 mg,,56A1049A-C2F7-41D6-BB72-9FFA3FDE2154,C7E3F625-0122-411A-BEC4-1631BF05AA6F,2010.0,30,2.0,0.0,1.0

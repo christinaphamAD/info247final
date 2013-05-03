@@ -1,4 +1,4 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,158567,1B9B36F1-1A1A-4EFF-99B5-D0F31E6A291C,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,E9C6574C-453A-4E76-A5F7-950F9E2C3BBF,187D6FCF-D034-4FF1-ACD8-1AE968F8ACFF,2012.0,20,0.0,0.0,1.0
-0,158595,1B9B36F1-1A1A-4EFF-99B5-D0F31E6A291C,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,7C949DCF-355B-4DD0-9663-D1264F8F7427,CAF0A207-302A-45AA-B49F-3EE118DFE5C7,2012.0,240,0.0,0.0,1.0
-0,158623,1B9B36F1-1A1A-4EFF-99B5-D0F31E6A291C,Adderall (amphetamine-dextroamphetamine) oral tablet,20 mg,2.0,4B108216-5A38-4248-9676-38F0BD7F00E3,A9ADD94F-4A6C-421C-9D09-CCDF3BC040F9,2011.0,90,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,2.0,1.0,CAF0A207-302A-45AA-B49F-3EE118DFE5C7,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,0.0,1B9B36F1-1A1A-4EFF-99B5-D0F31E6A291C,7C949DCF-355B-4DD0-9663-D1264F8F7427,2012.0,240,0.0,,158595
+0,2.0,1.0,A9ADD94F-4A6C-421C-9D09-CCDF3BC040F9,Adderall (amphetamine-dextroamphetamine) oral tablet,20 mg,0.0,1B9B36F1-1A1A-4EFF-99B5-D0F31E6A291C,4B108216-5A38-4248-9676-38F0BD7F00E3,2011.0,90,0.0,2.0,158623
+0,2.0,1.0,187D6FCF-D034-4FF1-ACD8-1AE968F8ACFF,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,0.0,1B9B36F1-1A1A-4EFF-99B5-D0F31E6A291C,E9C6574C-453A-4E76-A5F7-950F9E2C3BBF,2012.0,20,0.0,,158567

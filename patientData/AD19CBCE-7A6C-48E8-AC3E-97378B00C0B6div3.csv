@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,138458,AD19CBCE-7A6C-48E8-AC3E-97378B00C0B6,"Vivotif Berna (typhoid vaccine, live) oral delayed release capsule",-,,3C338EE9-7780-4B20-A31A-3EB2E049E4DB,D9FF14D1-011F-4FBC-8522-A95CDE6C719C,2011.0,4,0.0,0.0,1.0
-0,138478,AD19CBCE-7A6C-48E8-AC3E-97378B00C0B6,Lotrisone (betamethasone-clotrimazole topical) topical cream,0.05%-1%,,4E7EC472-3912-4BC8-B996-67541C2E9A25,5F73A58F-C941-4D8A-9954-3F0FD12666D5,2011.0,30,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,5F73A58F-C941-4D8A-9954-3F0FD12666D5,Lotrisone (betamethasone-clotrimazole topical) topical cream,0.05%-1%,0.0,AD19CBCE-7A6C-48E8-AC3E-97378B00C0B6,4E7EC472-3912-4BC8-B996-67541C2E9A25,2011.0,30,0.0,,138478
+0,1.0,1.0,D9FF14D1-011F-4FBC-8522-A95CDE6C719C,Vivotif Berna (typhoid vaccine live) oral delayed release capsule,-,0.0,AD19CBCE-7A6C-48E8-AC3E-97378B00C0B6,3C338EE9-7780-4B20-A31A-3EB2E049E4DB,2011.0,4,0.0,,138458

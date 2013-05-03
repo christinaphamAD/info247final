@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,20028,7FC33DBC-A0C4-4436-B17A-30D8A6865EA6,Elocon (mometasone topical) topical cream,0.1%,,F246BBAE-EC53-472C-8CFF-2D1C8CB45DE6,3FCF7B22-44BE-488C-9EC5-705368723FFD,2009.0,30 g,0.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,20028,7FC33DBC-A0C4-4436-B17A-30D8A6865EA6,Elocon (mometasone topical) topical cream,0.1%,,F246BBAE-EC53-472C-8CFF-2D1C8CB45DE6,3FCF7B22-44BE-488C-9EC5-705368723FFD,2009.0,20,0.0,0.0,1.0

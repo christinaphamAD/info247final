@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,3186,E1750915-0127-4E0B-AE1B-0A983BE499D7,Librax (chlordiazePOXIDE-clidinium) oral capsule,5 mg-2.5 mg,,9B2A1805-53F5-472F-AC70-E88E09A227B6,48A959A6-8B1B-4B0D-A33E-9A2A57D70B44,2010.0,90,3.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,3186,E1750915-0127-4E0B-AE1B-0A983BE499D7,Librax (chlordiazePOXIDE-clidinium) oral capsule,5 mg-2.5 mg,,9B2A1805-53F5-472F-AC70-E88E09A227B6,48A959A6-8B1B-4B0D-A33E-9A2A57D70B44,2010.0,90,3.0,0.0,1.0

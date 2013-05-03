@@ -1,4 +1,4 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,73634,E4216E70-020F-4719-8338-69B3CBA384B5,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,EE6867F5-729B-4B2B-975B-71ACE2569700,3351D477-FBFD-4003-9A9C-2D2FD6D2FB7C,2010.0,240,0,0.0,1.0
-0,73638,E4216E70-020F-4719-8338-69B3CBA384B5,Lotrisone (betamethasone-clotrimazole topical) topical cream,0.05%-1%,,C50EA1A8-7940-4830-86C9-A90D867BC5B7,915C8E3C-FA80-4143-B63C-AB177E9EB2C2,2010.0,30,1,0.0,1.0
-0,73658,E4216E70-020F-4719-8338-69B3CBA384B5,Zithromax Z-Pak (azithromycin) oral tablet,250 mg,,B656B6F1-94FD-49A5-86E8-615BC319D5C0,E8907423-97B8-4F97-B8E4-96F73EE4DD37,2010.0,1,0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,2.0,1.0,3351D477-FBFD-4003-9A9C-2D2FD6D2FB7C,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,0,E4216E70-020F-4719-8338-69B3CBA384B5,EE6867F5-729B-4B2B-975B-71ACE2569700,2010.0,240,0.0,,73634
+0,2.0,1.0,915C8E3C-FA80-4143-B63C-AB177E9EB2C2,Lotrisone (betamethasone-clotrimazole topical) topical cream,0.05%-1%,1,E4216E70-020F-4719-8338-69B3CBA384B5,C50EA1A8-7940-4830-86C9-A90D867BC5B7,2010.0,30,0.0,,73638
+0,2.0,1.0,E8907423-97B8-4F97-B8E4-96F73EE4DD37,Zithromax Z-Pak (azithromycin) oral tablet,250 mg,0,E4216E70-020F-4719-8338-69B3CBA384B5,B656B6F1-94FD-49A5-86E8-615BC319D5C0,2010.0,1,0.0,,73658

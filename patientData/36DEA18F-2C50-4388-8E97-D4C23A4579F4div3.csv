@@ -1,4 +1,4 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,161453,36DEA18F-2C50-4388-8E97-D4C23A4579F4,Advair Diskus (fluticasone-salmeterol) inhalation powder,500 mcg-50 mcg,,C982D4E2-E45B-4F45-BE45-38AC2554AD75,23DC8F52-CB46-4293-811E-3D4CF124C14D,2011.0,1,0.0,0.0,1.0
-0,161458,36DEA18F-2C50-4388-8E97-D4C23A4579F4,Xopenex HFA (levalbuterol) inhalation aerosol with adapter,CFC free 45 mcg/inh,,73ED4F12-B74B-410F-8361-31CCE885AA75,42B3BC6D-1F18-41A1-A203-C57A83226DEC,2011.0,1,0.0,0.0,1.0
-0,161473,36DEA18F-2C50-4388-8E97-D4C23A4579F4,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,97330DCE-2B2B-478F-887A-DA87570B6632,F2826ECA-D009-4D98-8E0F-4EEEE8E22682,2011.0,240,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,2.0,1.0,F2826ECA-D009-4D98-8E0F-4EEEE8E22682,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,0.0,36DEA18F-2C50-4388-8E97-D4C23A4579F4,97330DCE-2B2B-478F-887A-DA87570B6632,2011.0,240,0.0,,161473
+0,2.0,1.0,23DC8F52-CB46-4293-811E-3D4CF124C14D,Advair Diskus (fluticasone-salmeterol) inhalation powder,500 mcg-50 mcg,0.0,36DEA18F-2C50-4388-8E97-D4C23A4579F4,C982D4E2-E45B-4F45-BE45-38AC2554AD75,2011.0,1,0.0,,161453
+0,2.0,1.0,42B3BC6D-1F18-41A1-A203-C57A83226DEC,Xopenex HFA (levalbuterol) inhalation aerosol with adapter,CFC free 45 mcg/inh,0.0,36DEA18F-2C50-4388-8E97-D4C23A4579F4,73ED4F12-B74B-410F-8361-31CCE885AA75,2011.0,1,0.0,,161458

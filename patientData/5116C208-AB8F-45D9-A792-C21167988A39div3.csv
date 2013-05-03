@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,154034,5116C208-AB8F-45D9-A792-C21167988A39,Valtrex (valACYclovir) oral tablet,1 g,,5FC6DEF7-9ED8-49A6-AC42-764BC2C8122E,D9E8E11A-B63A-4961-8F7B-16AB0756C625,2010.0,21,0.0,0.0,1.0
-0,154038,5116C208-AB8F-45D9-A792-C21167988A39,Medrol Dosepak (methylPREDNISolone) oral tablet,4 mg,,EBDE5F9F-DFC5-4A58-B5FD-C8C6A8C2B983,C2E05E86-7785-4E47-871E-3F801652457A,2010.0,1,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,D9E8E11A-B63A-4961-8F7B-16AB0756C625,Valtrex (valACYclovir) oral tablet,1 g,0.0,5116C208-AB8F-45D9-A792-C21167988A39,5FC6DEF7-9ED8-49A6-AC42-764BC2C8122E,2010.0,21,0.0,,154034
+0,1.0,1.0,C2E05E86-7785-4E47-871E-3F801652457A,Medrol Dosepak (methylPREDNISolone) oral tablet,4 mg,0.0,5116C208-AB8F-45D9-A792-C21167988A39,EBDE5F9F-DFC5-4A58-B5FD-C8C6A8C2B983,2010.0,1,0.0,,154038

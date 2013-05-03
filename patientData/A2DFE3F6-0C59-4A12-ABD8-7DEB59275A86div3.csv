@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,130645,A2DFE3F6-0C59-4A12-ABD8-7DEB59275A86,Omeprazole oral delayed release capsule,20 mg,,58F8D11E-777C-4A75-B8F0-045E7F254225,1418B832-DFAB-43D5-AEDD-0778A25127C8,2011.0,60.0,0.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,130645,A2DFE3F6-0C59-4A12-ABD8-7DEB59275A86,Omeprazole oral delayed release capsule,20 mg,,58F8D11E-777C-4A75-B8F0-045E7F254225,1418B832-DFAB-43D5-AEDD-0778A25127C8,2011.0,60,0.0,0.0,1.0

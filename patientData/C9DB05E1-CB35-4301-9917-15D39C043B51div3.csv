@@ -1,3 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,7069,C9DB05E1-CB35-4301-9917-15D39C043B51,Antivert (meclizine) oral tablet,25 mg,,D0DC11BC-7C11-476E-9F2D-C6F2B5A8CE4E,84784352-AC81-43B3-8C14-7F0E80446CB7,2010.0,30,,0.0,1.0
-0,7075,C9DB05E1-CB35-4301-9917-15D39C043B51,Zithromax Z-Pak (azithromycin) oral tablet,250 mg,,CC2C4FD3-787B-4C44-A827-EA9A14087C89,7167C326-6B1E-472B-B99F-CCD7219A3E7E,2010.0,1 pack,,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,7069,C9DB05E1-CB35-4301-9917-15D39C043B51,Antivert (meclizine) oral tablet,25 mg,,D0DC11BC-7C11-476E-9F2D-C6F2B5A8CE4E,84784352-AC81-43B3-8C14-7F0E80446CB7,2010.0,30,,0.0,1.0

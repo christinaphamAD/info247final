@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,156921,ECFB71A7-5885-47CD-8D5D-CA779F0ABAF4,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,ECF875D9-3961-4039-8A9A-CBDCBE60E1CD,11FEC077-D48D-4781-A055-24F986ECBD20,2012.0,14,0.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,156921,ECFB71A7-5885-47CD-8D5D-CA779F0ABAF4,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,ECF875D9-3961-4039-8A9A-CBDCBE60E1CD,11FEC077-D48D-4781-A055-24F986ECBD20,2012.0,14,0.0,0.0,1.0

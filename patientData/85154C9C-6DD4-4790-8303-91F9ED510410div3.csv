@@ -1,2 +1,1 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,790832,85154C9C-6DD4-4790-8303-91F9ED510410,Feldene (piroxicam) oral capsule,20 mg,,E855E399-ED67-465C-A238-85BE99716953,11755FF5-6A61-47AF-92D7-0F7ADB6809AF,2009.0,,0.0,0.0,1.0
+index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed

@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,44787,6E51D4E2-2014-4B7E-8F3F-3B94F35D0CEF,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,5457E7F1-6176-45DA-B94C-F04AFF570C34,14E467A7-7D3F-42FB-AB24-7F9B3F1E7508,2011.0,240,0.0,0.0,1.0
-0,44851,6E51D4E2-2014-4B7E-8F3F-3B94F35D0CEF,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,C5E88685-C379-4080-952E-D4815CD5D7D0,04440B45-E1A8-44FC-B433-29BCCE21411F,2011.0,20,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,14E467A7-7D3F-42FB-AB24-7F9B3F1E7508,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,0.0,6E51D4E2-2014-4B7E-8F3F-3B94F35D0CEF,5457E7F1-6176-45DA-B94C-F04AFF570C34,2011.0,240,0.0,,44787
+0,1.0,1.0,04440B45-E1A8-44FC-B433-29BCCE21411F,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,0.0,6E51D4E2-2014-4B7E-8F3F-3B94F35D0CEF,C5E88685-C379-4080-952E-D4815CD5D7D0,2011.0,20,0.0,,44851

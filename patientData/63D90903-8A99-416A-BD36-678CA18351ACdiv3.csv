@@ -1,4 +1,4 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,72717,63D90903-8A99-416A-BD36-678CA18351AC,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,3BA53758-FBB1-4AF3-B5E3-E00A4924F8C0,D0255A1B-B4EA-4364-AF9A-2E8CEDDDF042,2010.0,20,,0.0,1.0
-0,72789,63D90903-8A99-416A-BD36-678CA18351AC,Proventil HFA (albuterol) inhalation aerosol with adapter,CFC free 90 mcg/inh,,9B7F0184-D649-4018-BE99-A8E54A5CEB7C,89EBEA77-05A1-407E-85F5-4231FC13CE70,2010.0,1,,0.0,1.0
-0,72861,63D90903-8A99-416A-BD36-678CA18351AC,Ambien (zolpidem) oral tablet,10 mg,4.0,74A1B107-667A-48A8-8022-9D71066BB9E3,F9DEE529-BA33-4AAC-B12F-69A48563FFB1,2010.0,14,,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,2.0,1.0,D0255A1B-B4EA-4364-AF9A-2E8CEDDDF042,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,63D90903-8A99-416A-BD36-678CA18351AC,3BA53758-FBB1-4AF3-B5E3-E00A4924F8C0,2010.0,20,0.0,,72717
+0,2.0,1.0,F9DEE529-BA33-4AAC-B12F-69A48563FFB1,Ambien (zolpidem) oral tablet,10 mg,,63D90903-8A99-416A-BD36-678CA18351AC,74A1B107-667A-48A8-8022-9D71066BB9E3,2010.0,14,0.0,4.0,72861
+0,2.0,1.0,89EBEA77-05A1-407E-85F5-4231FC13CE70,Proventil HFA (albuterol) inhalation aerosol with adapter,CFC free 90 mcg/inh,,63D90903-8A99-416A-BD36-678CA18351AC,9B7F0184-D649-4018-BE99-A8E54A5CEB7C,2010.0,1,0.0,,72789

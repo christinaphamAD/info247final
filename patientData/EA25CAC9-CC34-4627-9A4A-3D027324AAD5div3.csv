@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,599669,EA25CAC9-CC34-4627-9A4A-3D027324AAD5,Phenergan (promethazine) rectal suppository,25 mg,,1B020798-8662-4096-B0E4-82F13162AD21,D45BC6B6-E354-4FE5-A861-4297E87144EE,2012.0,15.0,0.0,0.0,1.0
-0,599873,EA25CAC9-CC34-4627-9A4A-3D027324AAD5,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,F4CA54FB-5F71-43B6-8977-AC0B15130EAC,3FCD8442-15EC-48D7-8A46-8E270B3ED148,2012.0,20.0,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,3FCD8442-15EC-48D7-8A46-8E270B3ED148,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,0.0,EA25CAC9-CC34-4627-9A4A-3D027324AAD5,F4CA54FB-5F71-43B6-8977-AC0B15130EAC,2012.0,20,0.0,,599873
+0,1.0,1.0,D45BC6B6-E354-4FE5-A861-4297E87144EE,Phenergan (promethazine) rectal suppository,25 mg,0.0,EA25CAC9-CC34-4627-9A4A-3D027324AAD5,1B020798-8662-4096-B0E4-82F13162AD21,2012.0,15,0.0,,599669

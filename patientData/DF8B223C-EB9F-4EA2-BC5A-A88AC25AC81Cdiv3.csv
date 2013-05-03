@@ -1,4 +1,4 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,144009,DF8B223C-EB9F-4EA2-BC5A-A88AC25AC81C,Bisoprolol-Hydrochlorothiazide oral tablet,10 mg-6.25 mg,,9BF1528A-7DE0-4448-AC5A-3D48C3D2F9A3,34B36661-AC67-4BC5-86DC-C9E7BBDCA54D,2009.0,,,0.0,1.0
-0,144039,DF8B223C-EB9F-4EA2-BC5A-A88AC25AC81C,"Verapamil Hydrochloride SR (verapamil) oral capsule, extended release",360 mg/24 hours,,3E58FB82-881F-4039-A979-7D7196E51358,1A1628DD-3FCA-45B7-B7E0-F7C5688ADA1E,2011.0,90,3.0,0.0,1.0
-0,144069,DF8B223C-EB9F-4EA2-BC5A-A88AC25AC81C,Vitamin D2 (ergocalciferol) oral capsule,"50,000 intl units",,03602DC4-65F2-468A-8173-0FB3B92268C6,B7BE89F4-FCF8-40A9-9508-38E412AA7903,2012.0,24,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,2.0,1.0,1A1628DD-3FCA-45B7-B7E0-F7C5688ADA1E,Verapamil Hydrochloride SR (verapamil) oral capsule extended release,360 mg/24 hours,3.0,DF8B223C-EB9F-4EA2-BC5A-A88AC25AC81C,3E58FB82-881F-4039-A979-7D7196E51358,2011.0,90,0.0,,144039
+0,2.0,1.0,B7BE89F4-FCF8-40A9-9508-38E412AA7903,Vitamin D2 (ergocalciferol) oral capsule,50000 intl units,0.0,DF8B223C-EB9F-4EA2-BC5A-A88AC25AC81C,03602DC4-65F2-468A-8173-0FB3B92268C6,2012.0,24,0.0,,144069
+0,2.0,1.0,34B36661-AC67-4BC5-86DC-C9E7BBDCA54D,Bisoprolol-Hydrochlorothiazide oral tablet,10 mg-6.25 mg,,DF8B223C-EB9F-4EA2-BC5A-A88AC25AC81C,9BF1528A-7DE0-4448-AC5A-3D48C3D2F9A3,2009.0,0,0.0,,144009

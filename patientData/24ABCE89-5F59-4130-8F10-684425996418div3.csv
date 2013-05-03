@@ -1,3 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,73626,24ABCE89-5F59-4130-8F10-684425996418,Minocin (minocycline) oral capsule,100 mg,,21C4266E-72D9-43E6-BCBE-3DAC3FCD025E,0757A932-2CA3-40A3-840E-B1E200ECB071,2010.0,60,5,0.0,1.0
-0,73630,24ABCE89-5F59-4130-8F10-684425996418,Tazorac (tazarotene topical) topical cream,0.05%,,F7328972-2066-416E-99EF-702BC0E34964,8DD9C6D3-FDD8-4227-836A-FE3988B47B19,2010.0,60 gram,5,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,73626,24ABCE89-5F59-4130-8F10-684425996418,Minocin (minocycline) oral capsule,100 mg,,21C4266E-72D9-43E6-BCBE-3DAC3FCD025E,0757A932-2CA3-40A3-840E-B1E200ECB071,2010.0,60,5,0.0,1.0

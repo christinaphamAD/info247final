@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,32,05589C4E-3D60-47E0-8928-00E3E081E1C8,Actos (pioglitazone) oral tablet,30 mg,,09BA42CE-4A46-43E7-98CC-AF3F767810EF,E98A7206-265E-4DC8-9228-65E9037A7FAA,2010.0,30,5.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,32,05589C4E-3D60-47E0-8928-00E3E081E1C8,Actos (pioglitazone) oral tablet,30 mg,,09BA42CE-4A46-43E7-98CC-AF3F767810EF,E98A7206-265E-4DC8-9228-65E9037A7FAA,2010.0,30,5.0,0.0,1.0

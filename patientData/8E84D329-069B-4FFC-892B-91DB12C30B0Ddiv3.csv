@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,137196,8E84D329-069B-4FFC-892B-91DB12C30B0D,Phenergan VC with Codeine (codeine/phenylephrine/promethazine) oral syrup,10 mg-5 mg-6.25 mg/5 mL,5.0,AFD9E1C3-C6B4-4D15-BF30-D908EE16F746,A38BE68D-4C6C-4123-8045-F94EAB86D2D6,2011.0,240,,0.0,1.0
-0,137206,8E84D329-069B-4FFC-892B-91DB12C30B0D,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,16265DA0-D8B2-4D2F-AE33-809F4AD34B3E,8F883F06-15E4-4FA1-9DB0-A1FF3DEB3097,2010.0,20,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,A38BE68D-4C6C-4123-8045-F94EAB86D2D6,Phenergan VC with Codeine (codeine/phenylephrine/promethazine) oral syrup,10 mg-5 mg-6.25 mg/5 mL,,8E84D329-069B-4FFC-892B-91DB12C30B0D,AFD9E1C3-C6B4-4D15-BF30-D908EE16F746,2011.0,240,0.0,5.0,137196
+0,1.0,1.0,8F883F06-15E4-4FA1-9DB0-A1FF3DEB3097,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,0.0,8E84D329-069B-4FFC-892B-91DB12C30B0D,16265DA0-D8B2-4D2F-AE33-809F4AD34B3E,2010.0,20,0.0,,137206

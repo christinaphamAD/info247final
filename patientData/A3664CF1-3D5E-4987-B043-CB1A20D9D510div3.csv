@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,821082,A3664CF1-3D5E-4987-B043-CB1A20D9D510,Reglan (metoclopramide) oral tablet,5 mg,,C48BB28A-D887-4FAC-AD7B-0584053524DA,1045D985-FDAB-48DD-81BC-8CF43A8ED74A,2010.0,30.0,0.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,821082,A3664CF1-3D5E-4987-B043-CB1A20D9D510,Reglan (metoclopramide) oral tablet,5 mg,,C48BB28A-D887-4FAC-AD7B-0584053524DA,1045D985-FDAB-48DD-81BC-8CF43A8ED74A,2010.0,30,0.0,0.0,1.0

@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,156523,2F8BE246-4951-402B-804D-C8432FD94CAC,Robaxin (methocarbamol) oral tablet,500 mg,,9167C84E-2E60-434E-B13A-E2B04655D9BC,A59E5DAE-9BBA-4FFF-80FD-60CACC475081,2010.0,30,0.0,0.0,1.0
-0,156530,2F8BE246-4951-402B-804D-C8432FD94CAC,Lodine (etodolac) oral tablet,400 mg,,3D00A8B9-18EB-4B76-BA10-8DF56D337C72,54140CFE-40F4-4923-B9E6-E6A9500592DF,2010.0,60,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,54140CFE-40F4-4923-B9E6-E6A9500592DF,Lodine (etodolac) oral tablet,400 mg,0.0,2F8BE246-4951-402B-804D-C8432FD94CAC,3D00A8B9-18EB-4B76-BA10-8DF56D337C72,2010.0,60,0.0,,156530
+0,1.0,1.0,A59E5DAE-9BBA-4FFF-80FD-60CACC475081,Robaxin (methocarbamol) oral tablet,500 mg,0.0,2F8BE246-4951-402B-804D-C8432FD94CAC,9167C84E-2E60-434E-B13A-E2B04655D9BC,2010.0,30,0.0,,156523

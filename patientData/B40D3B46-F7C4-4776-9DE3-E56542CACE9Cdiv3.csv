@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,170953,B40D3B46-F7C4-4776-9DE3-E56542CACE9C,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,0BE1E789-4661-46E4-97EC-254016B4E9CA,0566D8A5-155F-40DA-8E23-40997380611D,2010.0,14,0.0,0.0,1.0
-0,170966,B40D3B46-F7C4-4776-9DE3-E56542CACE9C,Pyridium (phenazopyridine) oral tablet,200 mg,,8ECF4719-1B30-4B2D-94F5-A12630CC3AE1,D880FC1E-C3D3-4711-9302-89F3B1E5F822,2010.0,15,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,D880FC1E-C3D3-4711-9302-89F3B1E5F822,Pyridium (phenazopyridine) oral tablet,200 mg,0.0,B40D3B46-F7C4-4776-9DE3-E56542CACE9C,8ECF4719-1B30-4B2D-94F5-A12630CC3AE1,2010.0,15,0.0,,170966
+0,1.0,1.0,0566D8A5-155F-40DA-8E23-40997380611D,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,0.0,B40D3B46-F7C4-4776-9DE3-E56542CACE9C,0BE1E789-4661-46E4-97EC-254016B4E9CA,2010.0,14,0.0,,170953

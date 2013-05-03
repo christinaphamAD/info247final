@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,143096,24A3A186-7948-40C8-9DF7-A44A5B30C1C3,Lisinopril oral tablet,20 mg,,ECBFCD3E-243D-4C91-8026-56F1C2CF0D3F,2475415A-0150-4FB4-82D9-7EB8A2F8FCAF,2009.0,30,6.0,0.0,1.0
-0,143100,24A3A186-7948-40C8-9DF7-A44A5B30C1C3,Lisinopril oral tablet,10 mg,,121DAED3-F813-4DE3-9BDF-842AB1BBCB8B,36C898C4-E559-45D4-B250-C42A89818814,2009.0,30,,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,36C898C4-E559-45D4-B250-C42A89818814,Lisinopril oral tablet,10 mg,,24A3A186-7948-40C8-9DF7-A44A5B30C1C3,121DAED3-F813-4DE3-9BDF-842AB1BBCB8B,2009.0,30,0.0,,143100
+0,1.0,1.0,2475415A-0150-4FB4-82D9-7EB8A2F8FCAF,Lisinopril oral tablet,20 mg,6.0,24A3A186-7948-40C8-9DF7-A44A5B30C1C3,ECBFCD3E-243D-4C91-8026-56F1C2CF0D3F,2009.0,30,0.0,,143096

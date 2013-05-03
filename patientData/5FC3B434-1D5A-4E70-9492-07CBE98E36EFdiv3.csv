@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,1803,5FC3B434-1D5A-4E70-9492-07CBE98E36EF,Keflex (cephalexin) oral capsule,500 mg,,4A7370F7-2EE9-4837-A2AB-D2586F5F9702,BA3F84BE-687A-4503-8E01-5AEA4342910B,2010.0,40,0.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,1803,5FC3B434-1D5A-4E70-9492-07CBE98E36EF,Keflex (cephalexin) oral capsule,500 mg,,4A7370F7-2EE9-4837-A2AB-D2586F5F9702,BA3F84BE-687A-4503-8E01-5AEA4342910B,2010.0,40,0.0,0.0,1.0

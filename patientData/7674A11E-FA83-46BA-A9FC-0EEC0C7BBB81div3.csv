@@ -1,5 +1,5 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,4132,7674A11E-FA83-46BA-A9FC-0EEC0C7BBB81,Protonix (pantoprazole) oral enteric coated tablet,40 mg,,670BF227-32F8-42A8-9900-926D1336A5E9,492AFA97-45A8-4EAB-B684-0402CA385180,2010.0,30,2.0,0.0,1.0
-0,4162,7674A11E-FA83-46BA-A9FC-0EEC0C7BBB81,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,EA18D9F6-F7B3-435A-99A2-7826891AAAE3,D61D5CEA-DF0D-4F29-B6DB-1AF1B7C26F69,2010.0,20,0.0,0.0,1.0
-0,4172,7674A11E-FA83-46BA-A9FC-0EEC0C7BBB81,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,9B43ECD6-E099-47FE-A910-90CB5CA2062E,F5CA6B14-10BF-4536-B3FC-3404CDC6E77E,2010.0,20,0.0,0.0,1.0
-0,4182,7674A11E-FA83-46BA-A9FC-0EEC0C7BBB81,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,167C894A-1721-4679-88E8-75F76BFB8CC2,50E9AB3F-3E89-4D9E-84A7-F1D20DADB29B,2010.0,20,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,3.0,1.0,492AFA97-45A8-4EAB-B684-0402CA385180,Protonix (pantoprazole) oral enteric coated tablet,40 mg,2.0,7674A11E-FA83-46BA-A9FC-0EEC0C7BBB81,670BF227-32F8-42A8-9900-926D1336A5E9,2010.0,30,0.0,,4132
+0,3.0,1.0,50E9AB3F-3E89-4D9E-84A7-F1D20DADB29B,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,0.0,7674A11E-FA83-46BA-A9FC-0EEC0C7BBB81,167C894A-1721-4679-88E8-75F76BFB8CC2,2010.0,20,0.0,,4182
+0,3.0,1.0,D61D5CEA-DF0D-4F29-B6DB-1AF1B7C26F69,Mucinex D (guaiFENesin-pseudoephedrine) oral tablet extended release,600 mg-60 mg,0.0,7674A11E-FA83-46BA-A9FC-0EEC0C7BBB81,EA18D9F6-F7B3-435A-99A2-7826891AAAE3,2010.0,20,0.0,,4162
+0,3.0,1.0,F5CA6B14-10BF-4536-B3FC-3404CDC6E77E,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,0.0,7674A11E-FA83-46BA-A9FC-0EEC0C7BBB81,9B43ECD6-E099-47FE-A910-90CB5CA2062E,2010.0,20,0.0,,4172

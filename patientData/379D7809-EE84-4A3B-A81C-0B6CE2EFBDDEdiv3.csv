@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,3606,379D7809-EE84-4A3B-A81C-0B6CE2EFBDDE,TraZODone Hydrochloride (traZODone) oral tablet,50 mg,,D2D85AB7-A121-4FCC-BC69-9587A69690F3,DE0DDF41-120E-4A0C-A82E-B2402636800F,2010.0,30,1.0,0.0,1.0
-0,3654,379D7809-EE84-4A3B-A81C-0B6CE2EFBDDE,Lovenox (enoxaparin) injectable solution,120 mg/0.8 mL,,17905A96-4DE5-4B7E-86E7-1A3FFAAA5D68,42F12F5A-2339-4CD2-A1F1-F56A6BE6A2E9,2010.0,14,,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,DE0DDF41-120E-4A0C-A82E-B2402636800F,TraZODone Hydrochloride (traZODone) oral tablet,50 mg,1.0,379D7809-EE84-4A3B-A81C-0B6CE2EFBDDE,D2D85AB7-A121-4FCC-BC69-9587A69690F3,2010.0,30,0.0,,3606
+0,1.0,1.0,42F12F5A-2339-4CD2-A1F1-F56A6BE6A2E9,Lovenox (enoxaparin) injectable solution,120 mg/0.8 mL,,379D7809-EE84-4A3B-A81C-0B6CE2EFBDDE,17905A96-4DE5-4B7E-86E7-1A3FFAAA5D68,2010.0,14,0.0,,3654

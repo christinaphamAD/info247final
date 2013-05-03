@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,157076,14C835C7-3AEF-4455-9484-CB9FFB440D50,Axiron (testosterone) transdermal solution,30 mg/1.5 mL,3.0,1A6E8DAC-5904-485A-8ABA-629F2B3BED8E,B76AE8D0-2488-4A9F-AA1B-D90BF785C34B,2011.0,1 Bottle,,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,157076,14C835C7-3AEF-4455-9484-CB9FFB440D50,Axiron (testosterone) transdermal solution,30 mg/1.5 mL,3.0,1A6E8DAC-5904-485A-8ABA-629F2B3BED8E,B76AE8D0-2488-4A9F-AA1B-D90BF785C34B,2011.0,20,,0.0,1.0

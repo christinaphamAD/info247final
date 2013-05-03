@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,15627,DA3D1A0C-A0B0-4508-9846-27023E7F3263,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,E4960B93-E811-4141-B564-37438DF45129,069BBAEF-84E8-4677-9459-CF6E78AA2683,2010.0,20,0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,15627,DA3D1A0C-A0B0-4508-9846-27023E7F3263,Mucinex D (guaiFENesin-pseudoephedrine) oral tablet extended release,600 mg-60 mg,,E4960B93-E811-4141-B564-37438DF45129,069BBAEF-84E8-4677-9459-CF6E78AA2683,2010.0,20,0,0.0,1.0

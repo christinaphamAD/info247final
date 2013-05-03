@@ -232,7 +232,7 @@ function createTable(location, data) {
         else {
             var newData = new Array();
             var max = -9;
-            for (var k=1; k<(data.length-1); k++){
+            for (var k=1; k<(data.length-1) && k<13; k++){
                 newData[k-1]=data[k];
                 // console.log(max)
                 // console.log(newData[k-1])
@@ -256,11 +256,17 @@ function createTable(location, data) {
                 .enter().append("rect")
                 .attr("y", function(d, i) { return i * 20 +20; })
                 .attr("x", 175)
-                .attr("width", function(d, i) { 
+                .attr("width", 0)
+                .attr("height", 20)
+                .transition()
+                .delay(function(d,i){
+                    return 400;})
+                .attr('width', function(d, i) { 
                     var wid = x(parseInt(d[10]));
                     wid = wid - 175;
                     return  wid;})
-                .attr("height", 20);
+                    .ease('linear')
+                    .duration(1000);
 
             chart.selectAll("text")
                 .data(newData)
@@ -384,11 +390,11 @@ function createTable(location, data) {
                 .data(newData)
                 .enter().append("image")
                 .attr("class", "refill")
-                .attr("x",  containerX-50)
-                .attr("y", function(d, i) { return i * 20 + 20; })
-                //.attr("dy", 15) // vertical-align: middle
-                .attr("width", 20)
-                .attr("height", 20)
+                .attr("x",  containerX-60)
+                .attr("y", function(d, i) { return i * 20 + 21; })
+                //.attr("dy", 1) // vertical-align: middle
+                .attr("width", 17)
+                .attr("height", 17)
                 .attr("xlink:href", function(d,i) { 
                     var x = parseInt(d[11]).toString();    
                     if (x>0) {

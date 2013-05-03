@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,66321,21F773FC-7833-40A8-8097-62B7FA449D15,Lipitor (atorvastatin) oral tablet,20 mg,,623423F0-D7AA-40DB-809B-2DB83C6D6CFA,89DF93EE-EE1F-42F6-AEE5-0DE8B7C93C05,2011.0,30,0,0.0,1.0
-0,66331,21F773FC-7833-40A8-8097-62B7FA449D15,Allopurinol oral tablet,300 mg,,19C89506-239A-4CD1-81F2-B6C6CD23F80C,3D26914A-E057-426C-B1AB-64358E5C7F5B,2011.0,30,11,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,3D26914A-E057-426C-B1AB-64358E5C7F5B,Allopurinol oral tablet,300 mg,11,21F773FC-7833-40A8-8097-62B7FA449D15,19C89506-239A-4CD1-81F2-B6C6CD23F80C,2011.0,30,0.0,,66331
+0,1.0,1.0,89DF93EE-EE1F-42F6-AEE5-0DE8B7C93C05,Lipitor (atorvastatin) oral tablet,20 mg,0,21F773FC-7833-40A8-8097-62B7FA449D15,623423F0-D7AA-40DB-809B-2DB83C6D6CFA,2011.0,30,0.0,,66321

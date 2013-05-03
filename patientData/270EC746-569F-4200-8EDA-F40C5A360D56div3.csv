@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,197229,270EC746-569F-4200-8EDA-F40C5A360D56,Acyclovir oral tablet,400 mg,,5EAE12E7-5422-4D1D-BBD9-F9A776ACC0A5,AF1C8FBC-B151-45C0-B834-15B060676C91,2009.0,60.0,0.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,197229,270EC746-569F-4200-8EDA-F40C5A360D56,Acyclovir oral tablet,400 mg,,5EAE12E7-5422-4D1D-BBD9-F9A776ACC0A5,AF1C8FBC-B151-45C0-B834-15B060676C91,2009.0,60,0.0,0.0,1.0

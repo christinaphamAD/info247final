@@ -1,4 +1,4 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,137717,D2290BFE-F5BD-436E-B28C-94A46A8E1263,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,7D62518B-321F-43D3-83B2-0373F8AA7576,CE6CC678-3C9A-4F17-8471-A0E2163C5A9A,2010.0,20,0.0,0.0,1.0
-0,137726,D2290BFE-F5BD-436E-B28C-94A46A8E1263,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,CDBEE240-4E3B-4586-8867-995B0417E7D5,FFC668BF-6ECD-426F-9636-B71769DB62B8,2010.0,20,0.0,0.0,1.0
-0,137861,D2290BFE-F5BD-436E-B28C-94A46A8E1263,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,8B1D60ED-C52C-443C-BBC4-B0A1176E0F72,1E8E2E5F-F07D-4A69-B5ED-4AA58B7A8AAF,2011.0,240,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,2.0,1.0,1E8E2E5F-F07D-4A69-B5ED-4AA58B7A8AAF,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,0.0,D2290BFE-F5BD-436E-B28C-94A46A8E1263,8B1D60ED-C52C-443C-BBC4-B0A1176E0F72,2011.0,240,0.0,,137861
+0,2.0,1.0,CE6CC678-3C9A-4F17-8471-A0E2163C5A9A,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,0.0,D2290BFE-F5BD-436E-B28C-94A46A8E1263,7D62518B-321F-43D3-83B2-0373F8AA7576,2010.0,20,0.0,,137717
+0,2.0,1.0,FFC668BF-6ECD-426F-9636-B71769DB62B8,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,0.0,D2290BFE-F5BD-436E-B28C-94A46A8E1263,CDBEE240-4E3B-4586-8867-995B0417E7D5,2010.0,20,0.0,,137726

@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,19814,6285E177-7FFB-4296-A7D8-2FB9A1DD33FA,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,B44544B9-5CE1-4607-A960-EF532197F883,D8BE8B16-21D7-48AE-8714-DB3BA725F5C1,2010.0,20,0.0,0.0,1.0
-0,19827,6285E177-7FFB-4296-A7D8-2FB9A1DD33FA,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,905063F1-C390-4397-A2AE-F80ADD0E0401,F9EF30E9-38B1-4F62-9584-517BE1B7F071,2010.0,20,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,F9EF30E9-38B1-4F62-9584-517BE1B7F071,Mucinex D (guaiFENesin-pseudoephedrine) oral tablet extended release,600 mg-60 mg,0.0,6285E177-7FFB-4296-A7D8-2FB9A1DD33FA,905063F1-C390-4397-A2AE-F80ADD0E0401,2010.0,20,0.0,,19827
+0,1.0,1.0,D8BE8B16-21D7-48AE-8714-DB3BA725F5C1,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,0.0,6285E177-7FFB-4296-A7D8-2FB9A1DD33FA,B44544B9-5CE1-4607-A960-EF532197F883,2010.0,20,0.0,,19814

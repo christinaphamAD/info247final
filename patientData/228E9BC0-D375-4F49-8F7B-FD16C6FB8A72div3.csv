@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,194371,228E9BC0-D375-4F49-8F7B-FD16C6FB8A72,Motrin (ibuprofen) oral tablet,800 mg,,2C4983BA-3677-4CE9-B6C6-1944ED51E03E,20164483-4EB5-471B-8AF4-9AA3EBE7E8F3,2009.0,90,,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,194371,228E9BC0-D375-4F49-8F7B-FD16C6FB8A72,Motrin (ibuprofen) oral tablet,800 mg,,2C4983BA-3677-4CE9-B6C6-1944ED51E03E,20164483-4EB5-471B-8AF4-9AA3EBE7E8F3,2009.0,90,,0.0,1.0

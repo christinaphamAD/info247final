@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,176101,04B1C60E-CF94-4422-B1BA-F2CFF63D2CD9,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,2E453F7D-6FA9-43E8-8511-18D0E63B4002,FDD1A9E4-1098-4A5C-8DAC-69DD1733E6D9,2011.0,18,0.0,0.0,1.0
-0,176107,04B1C60E-CF94-4422-B1BA-F2CFF63D2CD9,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,6327198C-32EB-436A-B583-8B6C8C707F67,77284C43-3022-4147-85BC-B6974628D172,2011.0,240,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,77284C43-3022-4147-85BC-B6974628D172,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,0.0,04B1C60E-CF94-4422-B1BA-F2CFF63D2CD9,6327198C-32EB-436A-B583-8B6C8C707F67,2011.0,240,0.0,,176107
+0,1.0,1.0,FDD1A9E4-1098-4A5C-8DAC-69DD1733E6D9,Mucinex D (guaiFENesin-pseudoephedrine) oral tablet extended release,600 mg-60 mg,0.0,04B1C60E-CF94-4422-B1BA-F2CFF63D2CD9,2E453F7D-6FA9-43E8-8511-18D0E63B4002,2011.0,18,0.0,,176101

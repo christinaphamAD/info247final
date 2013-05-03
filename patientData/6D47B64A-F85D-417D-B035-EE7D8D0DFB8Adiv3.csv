@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,174857,6D47B64A-F85D-417D-B035-EE7D8D0DFB8A,AcipHex (RABEprazole) oral enteric coated tablet,20 mg,,17DB4B6B-A879-4266-BF7E-92563B005167,5C9EE7A1-65AB-4F36-A7C5-2694E294DFBA,2012.0,15,0.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,174857,6D47B64A-F85D-417D-B035-EE7D8D0DFB8A,AcipHex (RABEprazole) oral enteric coated tablet,20 mg,,17DB4B6B-A879-4266-BF7E-92563B005167,5C9EE7A1-65AB-4F36-A7C5-2694E294DFBA,2012.0,15,0.0,0.0,1.0

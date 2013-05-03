@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,47810,C4CFC7A0-9C6F-4F5F-8F59-471B0A081CFD,Proventil HFA (albuterol) inhalation aerosol with adapter,CFC free 90 mcg/inh,,1125AEC2-FF3D-4114-873C-E48BE45F4089,831C4270-EF7B-4867-8965-5FCF05DDEA22,2009.0,1,,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,47810,C4CFC7A0-9C6F-4F5F-8F59-471B0A081CFD,Proventil HFA (albuterol) inhalation aerosol with adapter,CFC free 90 mcg/inh,,1125AEC2-FF3D-4114-873C-E48BE45F4089,831C4270-EF7B-4867-8965-5FCF05DDEA22,2009.0,1,,0.0,1.0

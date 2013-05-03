@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,46630,EF00C501-7E0D-45D6-AF4E-43784565E332,Simvastatin oral tablet,40 mg,,5CDED2A6-A3FD-480B-860E-0A149FC8D5FE,1D072D45-9338-405D-82BF-C46C0CF93CB1,2010.0,90,3.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,46630,EF00C501-7E0D-45D6-AF4E-43784565E332,Simvastatin oral tablet,40 mg,,5CDED2A6-A3FD-480B-860E-0A149FC8D5FE,1D072D45-9338-405D-82BF-C46C0CF93CB1,2010.0,90,3.0,0.0,1.0

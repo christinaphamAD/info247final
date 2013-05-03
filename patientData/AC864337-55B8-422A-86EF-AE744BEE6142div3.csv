@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,146826,AC864337-55B8-422A-86EF-AE744BEE6142,Doxazosin Mesylate (doxazosin) oral tablet,8 mg,,58127510-3A43-44A7-905D-220B4B8C5DDF,DE060967-1C5F-4005-B86A-D33A16ED7ABB,2009.0,30,0.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,146826,AC864337-55B8-422A-86EF-AE744BEE6142,Doxazosin Mesylate (doxazosin) oral tablet,8 mg,,58127510-3A43-44A7-905D-220B4B8C5DDF,DE060967-1C5F-4005-B86A-D33A16ED7ABB,2009.0,30,0.0,0.0,1.0

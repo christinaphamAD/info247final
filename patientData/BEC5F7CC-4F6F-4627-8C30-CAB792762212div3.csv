@@ -1,4 +1,4 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,157020,BEC5F7CC-4F6F-4627-8C30-CAB792762212,Nizoral Topical (ketoconazole topical) topical shampoo,2%,,F7050E01-4130-48E4-BA4F-2A9AD2F43BD6,46E1E7C9-C7C1-4C37-B32B-1B6E18BCBC5D,2009.0,240ml,3.0,0.0,1.0
-0,157026,BEC5F7CC-4F6F-4627-8C30-CAB792762212,Diprolene (betamethasone topical) topical lotion,"dipropionate, augmented 0.05%",,ADBD9886-1364-43A0-8F47-9491E4957CD6,16A6885E-F47B-440C-959F-704B977B4398,2010.0,60,3.0,0.0,1.0
-0,157032,BEC5F7CC-4F6F-4627-8C30-CAB792762212,Propecia (finasteride) oral tablet,1 mg,,40F6313A-544F-4210-97BB-0FB03F248271,70BBA506-7066-491E-851F-3AF2FE924DAE,2009.0,90,3.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,2.0,1.0,70BBA506-7066-491E-851F-3AF2FE924DAE,Propecia (finasteride) oral tablet,1 mg,3.0,BEC5F7CC-4F6F-4627-8C30-CAB792762212,40F6313A-544F-4210-97BB-0FB03F248271,2009.0,90,0.0,,157032
+0,2.0,1.0,16A6885E-F47B-440C-959F-704B977B4398,Diprolene (betamethasone topical) topical lotion,dipropionate augmented 0.05%,3.0,BEC5F7CC-4F6F-4627-8C30-CAB792762212,ADBD9886-1364-43A0-8F47-9491E4957CD6,2010.0,60,0.0,,157026
+0,2.0,1.0,46E1E7C9-C7C1-4C37-B32B-1B6E18BCBC5D,Nizoral Topical (ketoconazole topical) topical shampoo,2%,3.0,BEC5F7CC-4F6F-4627-8C30-CAB792762212,F7050E01-4130-48E4-BA4F-2A9AD2F43BD6,2009.0,20,0.0,,157020

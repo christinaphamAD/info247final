@@ -1,2 +1,1 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,726276,A0B90FCD-D558-4AEF-BB6A-5BC66CED531B,Doxycycline Hyclate (doxycycline) oral capsule,hyclate 50 mg,,5E0FD235-26F7-4DAA-AA62-2A8A676E0C54,3A40443E-A14D-47A0-85C0-7975C0B5EB7F,2009.0,,,0.0,1.0
+index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed

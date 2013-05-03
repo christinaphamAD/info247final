@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,16625,B9D28D4E-AB7D-4A97-AD6E-2B2F33324E00,Hydrochlorothiazide oral tablet,25 mg,,D5A17AF5-E4B9-4F5E-81FF-667F6770DA59,38610E4B-DA58-4353-9732-BE5C9EF12C9B,2012.0,30,2.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,16625,B9D28D4E-AB7D-4A97-AD6E-2B2F33324E00,Hydrochlorothiazide oral tablet,25 mg,,D5A17AF5-E4B9-4F5E-81FF-667F6770DA59,38610E4B-DA58-4353-9732-BE5C9EF12C9B,2012.0,30,2.0,0.0,1.0

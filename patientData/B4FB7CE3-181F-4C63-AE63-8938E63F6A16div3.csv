@@ -1,4 +1,4 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,132765,B4FB7CE3-181F-4C63-AE63-8938E63F6A16,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,23F2F41B-542D-4E2D-9811-F6F6FF06C357,EC27AB96-559F-48EE-B58A-D2F147881C8E,2011.0,18,0.0,0.0,1.0
-0,132771,B4FB7CE3-181F-4C63-AE63-8938E63F6A16,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,0C14B7D2-DC2B-4A2F-AED8-CE366452F70B,5BF977AA-5A20-430A-B164-D9A021656BFE,2011.0,20,0.0,0.0,1.0
-0,132777,B4FB7CE3-181F-4C63-AE63-8938E63F6A16,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,8DF48F8C-A03F-4649-9D37-6A757D399020,9013D318-0463-4393-8079-9FBBFD85F909,2011.0,240,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,2.0,1.0,9013D318-0463-4393-8079-9FBBFD85F909,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,0.0,B4FB7CE3-181F-4C63-AE63-8938E63F6A16,8DF48F8C-A03F-4649-9D37-6A757D399020,2011.0,240,0.0,,132777
+0,2.0,1.0,5BF977AA-5A20-430A-B164-D9A021656BFE,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,0.0,B4FB7CE3-181F-4C63-AE63-8938E63F6A16,0C14B7D2-DC2B-4A2F-AED8-CE366452F70B,2011.0,20,0.0,,132771
+0,2.0,1.0,EC27AB96-559F-48EE-B58A-D2F147881C8E,Mucinex D (guaiFENesin-pseudoephedrine) oral tablet extended release,600 mg-60 mg,0.0,B4FB7CE3-181F-4C63-AE63-8938E63F6A16,23F2F41B-542D-4E2D-9811-F6F6FF06C357,2011.0,18,0.0,,132765

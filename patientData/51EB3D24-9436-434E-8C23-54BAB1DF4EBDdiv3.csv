@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,60877,51EB3D24-9436-434E-8C23-54BAB1DF4EBD,Mefloquine Hydrochloride (mefloquine) oral tablet,250 mg,,E501541F-4E6A-40C6-A169-FC564162D03B,8DDFD08C-074B-42A4-BB91-6A14F1086BB7,2011.0,9,0.0,0.0,1.0
-0,60882,51EB3D24-9436-434E-8C23-54BAB1DF4EBD,"Vivotif Berna (typhoid vaccine, live) oral delayed release capsule",-,,59F5C83B-FD2A-49CC-842A-90CCAEE13BA4,40D53C3C-D1C9-49C5-B905-929B642BBD4E,2011.0,4,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,8DDFD08C-074B-42A4-BB91-6A14F1086BB7,Mefloquine Hydrochloride (mefloquine) oral tablet,250 mg,0.0,51EB3D24-9436-434E-8C23-54BAB1DF4EBD,E501541F-4E6A-40C6-A169-FC564162D03B,2011.0,9,0.0,,60877
+0,1.0,1.0,40D53C3C-D1C9-49C5-B905-929B642BBD4E,Vivotif Berna (typhoid vaccine live) oral delayed release capsule,-,0.0,51EB3D24-9436-434E-8C23-54BAB1DF4EBD,59F5C83B-FD2A-49CC-842A-90CCAEE13BA4,2011.0,4,0.0,,60882

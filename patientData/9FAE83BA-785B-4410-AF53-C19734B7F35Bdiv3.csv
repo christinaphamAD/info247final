@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,154004,9FAE83BA-785B-4410-AF53-C19734B7F35B,Lodine (etodolac) oral tablet,500 mg,,ECD519EA-B914-4740-ABB0-FE3389C83A99,343DBB64-1BF9-4666-AFAC-290327104615,2012.0,30,0.0,0.0,1.0
-0,154009,9FAE83BA-785B-4410-AF53-C19734B7F35B,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,26D91ADC-FF2D-4FE9-B59B-30B63F937D65,A846C38F-17F1-4470-B32D-9747EEA843A8,2012.0,20,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,343DBB64-1BF9-4666-AFAC-290327104615,Lodine (etodolac) oral tablet,500 mg,0.0,9FAE83BA-785B-4410-AF53-C19734B7F35B,ECD519EA-B914-4740-ABB0-FE3389C83A99,2012.0,30,0.0,,154004
+0,1.0,1.0,A846C38F-17F1-4470-B32D-9747EEA843A8,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,0.0,9FAE83BA-785B-4410-AF53-C19734B7F35B,26D91ADC-FF2D-4FE9-B59B-30B63F937D65,2012.0,20,0.0,,154009

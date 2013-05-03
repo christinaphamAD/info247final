@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,152890,FDA60E49-ADF3-4F22-AFE9-BBD031629E0D,Omeprazole oral delayed release capsule,40 mg,,F59C66B3-E1B8-4516-B1F7-526ECBCB02ED,D1303D68-6CB6-4BBD-A190-8655BE1D6D5E,2011.0,30,2.0,0.0,1.0
-0,152914,FDA60E49-ADF3-4F22-AFE9-BBD031629E0D,Topicort LP (desoximetasone topical) topical cream,0.05%,,F3D12234-AA20-4EF2-9146-49B127696FD3,E50A5667-1E0E-43D7-A378-1FC30A1352C7,2011.0,60,1.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,E50A5667-1E0E-43D7-A378-1FC30A1352C7,Topicort LP (desoximetasone topical) topical cream,0.05%,1.0,FDA60E49-ADF3-4F22-AFE9-BBD031629E0D,F3D12234-AA20-4EF2-9146-49B127696FD3,2011.0,60,0.0,,152914
+0,1.0,1.0,D1303D68-6CB6-4BBD-A190-8655BE1D6D5E,Omeprazole oral delayed release capsule,40 mg,2.0,FDA60E49-ADF3-4F22-AFE9-BBD031629E0D,F59C66B3-E1B8-4516-B1F7-526ECBCB02ED,2011.0,30,0.0,,152890

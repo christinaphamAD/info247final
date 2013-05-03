@@ -1,3 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,196985,F6384C71-DF3D-489F-81A4-FF59929C536B,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,1D9DC5E2-741C-4542-BF35-A3C149BEC996,9FCBB42C-8822-4A46-BB9C-A6A9414F9ECB,2010.0,20.0,,0.0,1.0
-0,196993,F6384C71-DF3D-489F-81A4-FF59929C536B,"Transderm-Scop (scopolamine) transdermal film, extended release",1.5 mg,,05FE49DC-C6CD-44D4-9D44-AACE8735FF4B,760A40BF-0457-45FF-8268-106567473BBC,2011.0,2.0,0.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,196985,F6384C71-DF3D-489F-81A4-FF59929C536B,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,1D9DC5E2-741C-4542-BF35-A3C149BEC996,9FCBB42C-8822-4A46-BB9C-A6A9414F9ECB,2010.0,20,,0.0,1.0

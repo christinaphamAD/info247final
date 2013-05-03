@@ -1,4 +1,4 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,132510,AC4CFAA6-7D56-49C1-951B-8854B9273A3D,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,B59F3152-46CC-48F0-A0E1-A693648B4B92,F93D173F-A1D2-459C-A4B7-7C2C5DC6E602,2010.0,240,0.0,0.0,1.0
-0,132525,AC4CFAA6-7D56-49C1-951B-8854B9273A3D,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,B05E7E0C-80B6-4D57-BB18-9245DA538007,C2E323B8-D325-4D2D-B2B7-876FFD2F92A6,2012.0,20,0.0,0.0,1.0
-0,132615,AC4CFAA6-7D56-49C1-951B-8854B9273A3D,"Mucinex D Max Strength (guaiFENesin-pseudoephedrine) oral tablet, extended release",1200 mg-120 mg,,6E31262C-7684-4052-B817-3A086A170102,6DB861ED-F0B1-4F44-83ED-63197103C5A7,2012.0,24,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,2.0,1.0,F93D173F-A1D2-459C-A4B7-7C2C5DC6E602,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,0.0,AC4CFAA6-7D56-49C1-951B-8854B9273A3D,B59F3152-46CC-48F0-A0E1-A693648B4B92,2010.0,240,0.0,,132510
+0,2.0,1.0,6DB861ED-F0B1-4F44-83ED-63197103C5A7,Mucinex D Max Strength (guaiFENesin-pseudoephedrine) oral tablet extended release,1200 mg-120 mg,0.0,AC4CFAA6-7D56-49C1-951B-8854B9273A3D,6E31262C-7684-4052-B817-3A086A170102,2012.0,24,0.0,,132615
+0,2.0,1.0,C2E323B8-D325-4D2D-B2B7-876FFD2F92A6,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,0.0,AC4CFAA6-7D56-49C1-951B-8854B9273A3D,B05E7E0C-80B6-4D57-BB18-9245DA538007,2012.0,20,0.0,,132525

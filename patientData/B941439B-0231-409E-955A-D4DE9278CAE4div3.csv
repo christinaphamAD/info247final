@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,161494,B941439B-0231-409E-955A-D4DE9278CAE4,MiraLax (polyethylene glycol 3350) oral powder for reconstitution,-,,CF62D63D-D09D-44DF-87C8-2A078018D8D7,299E2A4C-9AE3-4DCA-9F16-9F105061FEED,2010.0,30,3.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,161494,B941439B-0231-409E-955A-D4DE9278CAE4,MiraLax (polyethylene glycol 3350) oral powder for reconstitution,-,,CF62D63D-D09D-44DF-87C8-2A078018D8D7,299E2A4C-9AE3-4DCA-9F16-9F105061FEED,2010.0,30,3.0,0.0,1.0
