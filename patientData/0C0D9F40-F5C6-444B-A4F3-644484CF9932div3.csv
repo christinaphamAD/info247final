@@ -1,1 +1,1 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+,Unnamed: 0,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed

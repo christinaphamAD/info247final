@@ -1,4 +1,4 @@
-,Unnamed: 0,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,0,652,0ECEEAC1-2201-47B5-86AC-03AA38515989,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,8B1B35F9-939E-4C3F-8A4D-F8550025B7B8,3D28636B-6262-48FE-9270-F907DD34E0B2,2011,240,0,0,1
-1,0,620,0ECEEAC1-2201-47B5-86AC-03AA38515989,TriNessa (ethinyl estradiol-norgestimate) oral tablet,triphasic 35 mcg,,4DDFEBFC-8B6F-4E37-A7D3-0DC94B534F05,ACDCA8AB-B7A3-48EA-986B-24BEBBE1529B,2011,84,1,0,1
-2,0,612,0ECEEAC1-2201-47B5-86AC-03AA38515989,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,762EF710-BEB2-4DF7-8638-261A83E4F439,06836D3F-53F3-40C8-A325-6498753B724C,2011,20,0,0,1
+,Unnamed: 0,Unnamed: 0.1,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,0,652,0ECEEAC1-2201-47B5-86AC-03AA38515989,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,8B1B35F9-939E-4C3F-8A4D-F8550025B7B8,3D28636B-6262-48FE-9270-F907DD34E0B2,2011,240,0,0,1
+1,1,0,620,0ECEEAC1-2201-47B5-86AC-03AA38515989,TriNessa (ethinyl estradiol-norgestimate) oral tablet,triphasic 35 mcg,,4DDFEBFC-8B6F-4E37-A7D3-0DC94B534F05,ACDCA8AB-B7A3-48EA-986B-24BEBBE1529B,2011,84,1,0,1
+2,2,0,612,0ECEEAC1-2201-47B5-86AC-03AA38515989,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,762EF710-BEB2-4DF7-8638-261A83E4F439,06836D3F-53F3-40C8-A325-6498753B724C,2011,20,0,0,1

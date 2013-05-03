@@ -220,8 +220,14 @@ function createTable(location, data) {
     //     }
     // }
     if(location == "prescriptions") {
+<<<<<<< HEAD
         // console.log(data);
         // console.log(data.length);
+=======
+        var containerX = 440;
+        console.log(data);
+        console.log(data.length);
+>>>>>>> add check images and updated prescriptions stuff
         if(data.length < 3){
             $("#prescriptions")
             .append("No prescriptions listed.");
@@ -239,19 +245,19 @@ function createTable(location, data) {
             }
             var chart = d3.select("#prescriptions").append("svg")
                 .attr('class', 'chart')
-                .attr("width", 430)
-                .attr("height", 20 * newData.length + 20)
+                .attr("width", containerX)
+                .attr("height", 20 * newData.length + 40)
               .append("g")
                 .attr("transform", "translate(10,15)");
             
             var x = d3.scale.linear()
                 .domain([0, max])
-                .range([175, 340]);
+                .range([175, containerX-110]);
 
             chart.selectAll("rect")
                 .data(newData)
                 .enter().append("rect")
-                .attr("y", function(d, i) { return i * 20; })
+                .attr("y", function(d, i) { return i * 20 +20; })
                 .attr("x", 175)
                 .attr("width", function(d, i) { 
                     var wid = x(parseInt(d[10]));
@@ -263,21 +269,17 @@ function createTable(location, data) {
                 .data(newData)
                 .enter().append("text")
                 .attr("x", 0)
-                .attr("y", function(d, i) { return i * 20; })
-                .attr("dx", 5) // padding-right
+                .attr("y", function(d, i) { return i * 20 +20; })
+                .attr("dx", 0) // padding-right
                 .attr("dy", 15) // vertical-align: middle
                 .attr("text-anchor", "start") // text-align: right
-                //.attr('onmouseover', )
+                .attr("title", function(d){
+                    var part = d[4];
+                    var part2 = d[5];
+                    part = part + " - " + part2;
+                    return part;
+                })
                 .text(function(d,i) {
-                    /* 
-                    var words = d[4].split(/\W+/);
-                    var firstTwo = "";
-                    console.log(words);
-                    for (var k=0; k<2; k++){
-                        firstTwo = firstTwo + " " + words[k];
-                    }
-                    return firstTwo;
-                    */
                     var part = d[4].substring(0,10);
                     part = part + "...";
                     var part2 = d[5].substring(0,6);
@@ -285,6 +287,7 @@ function createTable(location, data) {
                     part = part + " - " + part2;
                     return part;
                     });
+            /*
             chart.selectAll("line")
                 .data(x.ticks(4))
               .enter().append("line")
@@ -292,21 +295,72 @@ function createTable(location, data) {
                 .attr("x2", x)
                 .attr("y1", 0)
                 .attr("y2", 20 * newData.length)
-                .style("stroke", "rgba(10, 10, 10, .1);");
-
+                .style("stroke", "rgba(210, 210, 210, 1);");
+            */
             chart.selectAll(".rule")
                 .data(x.ticks(4))
               .enter().append("text")
                 .attr("class", "rule")
                 .attr("x", x)
-                .attr("y", 0)
+                .attr("y", 20)
                 .attr("dy", -3)
                 .attr("text-anchor", "middle")
                 .text(String);
 
+            chart.selectAll(".name")
+                .data([1])
+              .enter().append("text")
+                .attr("class", "name")
+                .attr("x", 80)
+                .attr("y", 20)
+                .attr("dy", -3)
+                .attr("text-anchor", "middle")
+                .text("Medication - Strength");
+
+            chart.selectAll(".barname")
+                .data([1])
+              .enter().append("text")
+                .attr("class", "barname")
+                .attr("x", 175)
+                .attr("y", 0)
+                .text("Number of Pills Prescribed");
+
+            chart.selectAll(".refillname")
+                .data([1])
+              .enter().append("text")
+                .attr("class", "refillname")
+                .attr("x", containerX-50)
+                .attr("y", 20)
+                .attr("dy", -3)
+                .attr("text-anchor", "middle")
+                .text("Refillable");
+            
             chart.append("line")
-                .attr("y1", 0)
-                .attr("y2", 20 * newData.length)
+                .attr("y1", 20)
+                .attr("y2", 20)
+                .attr("x1", 0)
+                .attr("x2", containerX-20)
+                .style("stroke", "#000");
+            
+            chart.append("line")
+                .attr("y1", 20 * newData.length + 20)
+                .attr("y2", 20 * newData.length + 20)
+                .attr("x1", 0)
+                .attr("x2", containerX-20)
+                .style("stroke", "#000");
+
+            chart.append("line")
+                .attr("x1", 160)
+                .attr("x2", 160)
+                .attr("y1", 20)
+                .attr("y2", 20 * newData.length + 20)
+                .style("stroke", "#000");
+
+            chart.append("line")
+                .attr("x1", containerX-80)
+                .attr("x2", containerX-80)
+                .attr("y1", 20)
+                .attr("y2", 20 * newData.length + 20)
                 .style("stroke", "#000");
 
             chart.selectAll(".tot")
@@ -314,7 +368,7 @@ function createTable(location, data) {
                 .enter().append("text")
                 .attr("class", "tot")
                 .attr("x", function(d) { return x(parseInt(d[10])); })
-                .attr("y", function(d, i) { return i * 20; })
+                .attr("y", function(d, i) { return i * 20 + 20; })
                 .attr("dx", function(d) {
                     if (parseInt(d[10]).toString().length==2) {
                         return 18;
@@ -331,14 +385,21 @@ function createTable(location, data) {
 
             chart.selectAll(".refill")
                 .data(newData)
-                .enter().append("text")
+                .enter().append("image")
                 .attr("class", "refill")
-                .attr("x",  390)
-                .attr("y", function(d, i) { return i * 20; })
-                .attr("dy", 15) // vertical-align: middle
-                .attr("text-anchor", "end") // text-align: right
-                .text(function(d,i) { 
-                    return parseInt(d[11]).toString();                    
+                .attr("x",  containerX-50)
+                .attr("y", function(d, i) { return i * 20 + 20; })
+                //.attr("dy", 15) // vertical-align: middle
+                .attr("width", 20)
+                .attr("height", 20)
+                .attr("xlink:href", function(d,i) { 
+                    var x = parseInt(d[11]).toString();    
+                    if (x>0) {
+                        return "js/image1.png"
+                    }  
+                    else {
+                        return "js/image2.png"
+                    }              
                     });
                 /*.style("width", function(d,i) { 
                     console.log(d[10])
