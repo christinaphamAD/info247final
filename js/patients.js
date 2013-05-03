@@ -421,7 +421,7 @@ function createTable(location, data) {
     }
 
     if (location == "patientList"){
-        $('#patientList table').append('<tr class="tabHead"><th>Upcoming Patients</th></tr>')
+        $('#patientList table').append('<tr class="tabHead"><th>Most At Risk</th></tr>')
         for(var k=1; k<data.length && k < 11; k++){
             $('#patientList table').append('<tr><td>' + k + '. ' + '<a id="' + data[k][1] + '" data-attr="' + k + '">Patient ID: ' + data[k][2].substring(0,8) + '</a></td></tr>')
         }
