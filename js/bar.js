@@ -47,8 +47,8 @@ function drawXAxis(color){
 
   var xaxis = canvas.append('g')
     .attr('class','axis')
-    .attr('transform','translate('+((d3.select('#canvas').style('width').split('p')[0])*.10)+','+
-    							   (d3.select('#canvas').style('height').split('p')[0]*.92)+')')
+    .attr('transform','translate('+((d3.select('#canvas').style('width').split('p')[0])*.125)+','+
+    							   (d3.select('#canvas').style('height').split('p')[0]*.85)+')')
     .attr('stroke',color)
     .attr('fill',color)
     .call(d3.svg.axis()
@@ -62,12 +62,13 @@ function drawXAxis(color){
     	.scale(xscale)
     	.orient('bottom')
       .tickSize(0)
-      .tickPadding(10))
+      .tickPadding(19))
     .selectAll("text")
       .style("text-anchor","end")
-      .attr("font-size",9)
+      .attr("font-size",10)
+      .attr("dx",13.5)
       .attr("transform",function(d){
-        return "rotate(-20)"
+        return "rotate(-22.5)"
       });
   
 /*
@@ -101,8 +102,8 @@ function drawYAxis(stroke){
   var yindent = parseInt(d3.select("#canvas").style('height').split('p')[0])
   var xindent = parseInt(d3.select("#canvas").style('width').split('p')[0])
 
-  var xinit = (d3.select("#canvas").style('width').split('p')[0]*.10)
-  var yinit = (d3.select("#canvas").style('height').split('p')[0]*.92)
+  var xinit = (d3.select("#canvas").style('width').split('p')[0]*.125)
+  var yinit = (d3.select("#canvas").style('height').split('p')[0]*.85)
 
 
 	var yaxis = canvas.append('g')
@@ -122,7 +123,7 @@ function drawYAxis(stroke){
         .tickFormat("")
         .tickSize(0));
   var yaxislabel = canvas.append('text')
-      .attr('font-size',12)
+      .attr('font-size',13)
 	    .attr('class', 'y label')
 	    .attr('text-anchor','end')
      //  .attr('dy','.75em')
@@ -134,10 +135,14 @@ function drawYAxis(stroke){
       .text("Abnormal Lab Results")
       .attr('y',yindent*.065)
       .attr('x',xindent*.05-yinit)
+      .style('opacity',0)
+      .attr('dy',7.5)
       .transition()
       .duration(1000)
+      .style('opacity',1)
 	    .attr('y',1*yindent*.065)
-	    .attr('x',-1*(xindent*.05));
+	    .attr('x',-1*(xindent*.05))
+      .attr('dy',7.5);
 
 
 	return yscale
@@ -150,8 +155,8 @@ function drawBars(chart){
   	x.domain(data.map(function(d) {return d.lab; }));
   	y.domain([0, d3.max(getyAxisValues(data))]);
 
-var xshift = (parseInt(d3.select("#canvas").style('width').split('p'))*0.1)
-var yshift = (parseInt(d3.select("#canvas").style('height').split('p'))*0.92)
+var xshift = (parseInt(d3.select("#canvas").style('width').split('p'))*0.125)
+var yshift = (parseInt(d3.select("#canvas").style('height').split('p'))*0.85)
 
   	canvas.selectAll(".bar")
       .data(data)
@@ -186,13 +191,31 @@ var yshift = (parseInt(d3.select("#canvas").style('height').split('p'))*0.92)
   //.attr('dx',)
   .attr('text-anchor','middle')
   .attr('fill','white')
-  .text(function(d){return d.numablabs})
-   /* .attr("x", function(d){return xshift + x(d.lab) + x.rangeBand()/2})
-    .attr("y", function(d) { return y(d.lab)})
-    .attr("dx", -3) // padding-right
-    .attr("dy", ".35em") // vertical-align: middle
-    .attr("text-anchor", "end") // text-align: right*/
-  //  .text("hi");
+  .text(function(d){return d.numablabs});
+
+  canvas.selectAll('.drop')
+    .data(data)
+    .enter().append('svg:line')
+    .attr('class','drop')
+    .attr('stroke','rgb(124, 123, 123)')
+    .style('opacity',0)
+    .attr("x1", function(d) { return xshift+ x(d.lab) + x.rangeBand(); })
+    .attr("y1", function(d) { return yshift  })
+    .attr("x2", function(d) { return xshift + x(d.lab) + x.rangeBand(); })
+    .attr("y2", function(d) { return yshift })
+    .transition()
+    .delay(500)
+    .duration(500)
+    .style('opacity',1)
+    .attr('stroke-width','2')
+    .style("stroke-dasharray", (".75"))
+    .attr("x1", function(d) { return xshift+ x(d.lab) + x.rangeBand(); })
+    .attr("y1", function(d) { return yshift  })
+    .attr("x2", function(d) { return xshift + x(d.lab) + x.rangeBand(); })
+    .attr("y2", function(d) { return yshift+12; })
+
+
+
 
 
 }
