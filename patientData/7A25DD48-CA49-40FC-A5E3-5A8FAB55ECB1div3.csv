@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,63281,7A25DD48-CA49-40FC-A5E3-5A8FAB55ECB1,Sodium Sulamyd (sulfacetamide sodium ophthalmic) ophthalmic solution,10%,,0717065B-B8C1-4F2E-ABEA-DC11EFF4A258,81715C8A-EA8A-4DDB-A101-1B6A47ACF478,2012.0,10,0.0,0.0,1.0
-0,63286,7A25DD48-CA49-40FC-A5E3-5A8FAB55ECB1,Topicort LP (desoximetasone topical) topical cream,0.05%,,715239D0-82F2-4F8F-B52F-655F5D2682DC,6CD4FCB4-1EED-4FB0-86B6-848BC9F7BC42,2011.0,30,1.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,6CD4FCB4-1EED-4FB0-86B6-848BC9F7BC42,Topicort LP (desoximetasone topical) topical cream,0.05%,1.0,7A25DD48-CA49-40FC-A5E3-5A8FAB55ECB1,715239D0-82F2-4F8F-B52F-655F5D2682DC,2011.0,30,0.0,,63286
+0,1.0,1.0,81715C8A-EA8A-4DDB-A101-1B6A47ACF478,Sodium Sulamyd (sulfacetamide sodium ophthalmic) ophthalmic solution,10%,0.0,7A25DD48-CA49-40FC-A5E3-5A8FAB55ECB1,0717065B-B8C1-4F2E-ABEA-DC11EFF4A258,2012.0,10,0.0,,63281

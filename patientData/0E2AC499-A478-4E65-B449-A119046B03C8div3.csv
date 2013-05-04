@@ -1,3 +1,3 @@
-,Unnamed: 0,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,0,142462,0E2AC499-A478-4E65-B449-A119046B03C8,LamISIL (terbinafine) oral tablet,250 mg,,EBE51090-FC2F-4EC9-8FB6-DB8F0B2B23A4,4BCE17A8-C049-48EA-8ED6-9A0B0AEA7D8E,2011,90,0.0,0,1
-1,0,142457,0E2AC499-A478-4E65-B449-A119046B03C8,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,A156B218-BADC-4E98-B7B9-5DFECAB7AE30,1D5E22C3-DC12-47E1-954F-47A1832FC372,2010,20,,0,1+A2:M3
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,4BCE17A8-C049-48EA-8ED6-9A0B0AEA7D8E,LamISIL (terbinafine) oral tablet,250 mg,0.0,0E2AC499-A478-4E65-B449-A119046B03C8,EBE51090-FC2F-4EC9-8FB6-DB8F0B2B23A4,2011.0,90,0.0,,142462
+0,1.0,1.0,1D5E22C3-DC12-47E1-954F-47A1832FC372,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,0E2AC499-A478-4E65-B449-A119046B03C8,A156B218-BADC-4E98-B7B9-5DFECAB7AE30,2010.0,20,0.0,,142457

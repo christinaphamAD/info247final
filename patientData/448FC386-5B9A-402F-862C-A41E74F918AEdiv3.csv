@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,142956,448FC386-5B9A-402F-862C-A41E74F918AE,"NIFEdipine ER (NIFEdipine) oral tablet, extended release",30 mg,,307588A9-B97C-47EA-AFC0-5CAA9E85DC6B,74137A54-3CD4-44D1-B1D3-337C5F778813,2011.0,30,1.0,0.0,1.0
-0,143004,448FC386-5B9A-402F-862C-A41E74F918AE,"Propranolol Hydrochloride LA (propranolol) oral capsule, extended release",120 mg,,881C9FF9-51EF-4F76-BF7C-43F87D8C9F9B,42C336C6-AEC3-4C7F-AD6A-C2C43E71638C,2010.0,30,2.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,42C336C6-AEC3-4C7F-AD6A-C2C43E71638C,Propranolol Hydrochloride LA (propranolol) oral capsule extended release,120 mg,2.0,448FC386-5B9A-402F-862C-A41E74F918AE,881C9FF9-51EF-4F76-BF7C-43F87D8C9F9B,2010.0,30,0.0,,143004
+0,1.0,1.0,74137A54-3CD4-44D1-B1D3-337C5F778813,NIFEdipine ER (NIFEdipine) oral tablet extended release,30 mg,1.0,448FC386-5B9A-402F-862C-A41E74F918AE,307588A9-B97C-47EA-AFC0-5CAA9E85DC6B,2011.0,30,0.0,,142956

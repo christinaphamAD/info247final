@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,320,ECC9589B-8A0C-4D1D-AAB3-023FB479507A,"Ritalin-SR (methylphenidate) oral tablet, extended release",20 mg,2.0,8C908C4A-FF38-412C-A583-767482B8ACDF,29EBE3B4-8527-49C4-AFB2-175BEAA48593,2009.0,180,0.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,320,ECC9589B-8A0C-4D1D-AAB3-023FB479507A,Ritalin-SR (methylphenidate) oral tablet extended release,20 mg,2.0,8C908C4A-FF38-412C-A583-767482B8ACDF,29EBE3B4-8527-49C4-AFB2-175BEAA48593,2009.0,180,0.0,0.0,1.0

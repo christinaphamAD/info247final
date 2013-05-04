@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,267545,398CC29E-ED7D-4AE7-BD69-3475B4F158D8,Benicar (olmesartan) oral tablet,20 mg,,FDCC704D-E7E8-425C-83D3-66184D829F1B,98E6FF6C-7906-4456-A93F-3B76A55FB356,2012.0,90.0,3.0,0.0,1.0
-0,267647,398CC29E-ED7D-4AE7-BD69-3475B4F158D8,Ketoconazole oral tablet,200 mg,,EE8AC647-9712-4A42-A85A-6A22ADC50CB5,A03FBA52-1776-4D19-857E-40A37FD9E48F,2010.0,15.0,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,98E6FF6C-7906-4456-A93F-3B76A55FB356,Benicar (olmesartan) oral tablet,20 mg,3.0,398CC29E-ED7D-4AE7-BD69-3475B4F158D8,FDCC704D-E7E8-425C-83D3-66184D829F1B,2012.0,90,0.0,,267545
+0,1.0,1.0,A03FBA52-1776-4D19-857E-40A37FD9E48F,Ketoconazole oral tablet,200 mg,0.0,398CC29E-ED7D-4AE7-BD69-3475B4F158D8,EE8AC647-9712-4A42-A85A-6A22ADC50CB5,2010.0,15,0.0,,267647

@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,14886,17DBC781-58B5-4437-885D-2447EB01ABEC,Aygestin (norethindrone) oral tablet,5 mg,,A6FD81CD-D4F6-4684-83F7-FBF97CD99974,5ED55D54-B306-4F2D-93DD-E84D032B3644,2009.0,28,,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,14886,17DBC781-58B5-4437-885D-2447EB01ABEC,Aygestin (norethindrone) oral tablet,5 mg,,A6FD81CD-D4F6-4684-83F7-FBF97CD99974,5ED55D54-B306-4F2D-93DD-E84D032B3644,2009.0,28,,0.0,1.0

@@ -1,4 +1,4 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,151536,EFED46C7-F765-49F3-9E90-B811A498DA8F,Clindamycin Hydrochloride (clindamycin) oral capsule,300 mg,,13F81A60-D803-4084-8B57-62DAFE771BA4,AD4542FC-A786-4BF4-BF2F-9D87C776909B,2011.0,40,0.0,0.0,1.0
-0,151542,EFED46C7-F765-49F3-9E90-B811A498DA8F,FIRST Mouthwash BLM (AlOH/diphenhyd/lidocaine/MgOH/simeth topical) mucous membrane suspension,3.15 g-0.2 g-1.6 g-3.15 g-0.315 g/237 mL,,41339BB2-4521-48F0-B977-4584817B3B86,98965F7F-A947-4A21-AF78-F11D8BA0DD86,2011.0,60,0.0,0.0,1.0
-0,151548,EFED46C7-F765-49F3-9E90-B811A498DA8F,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,13169A4C-790C-44C5-B925-C4B3F2116D09,FB1C6A0D-389E-49C0-A035-3F213FF61FCD,2010.0,20,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,2.0,1.0,98965F7F-A947-4A21-AF78-F11D8BA0DD86,FIRST Mouthwash BLM (AlOH/diphenhyd/lidocaine/MgOH/simeth topical) mucous membrane suspension,3.15 g-0.2 g-1.6 g-3.15 g-0.315 g/237 mL,0.0,EFED46C7-F765-49F3-9E90-B811A498DA8F,41339BB2-4521-48F0-B977-4584817B3B86,2011.0,60,0.0,,151542
+0,2.0,1.0,AD4542FC-A786-4BF4-BF2F-9D87C776909B,Clindamycin Hydrochloride (clindamycin) oral capsule,300 mg,0.0,EFED46C7-F765-49F3-9E90-B811A498DA8F,13F81A60-D803-4084-8B57-62DAFE771BA4,2011.0,40,0.0,,151536
+0,2.0,1.0,FB1C6A0D-389E-49C0-A035-3F213FF61FCD,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,0.0,EFED46C7-F765-49F3-9E90-B811A498DA8F,13169A4C-790C-44C5-B925-C4B3F2116D09,2010.0,20,0.0,,151548

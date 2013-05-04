@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,3756,ADA6F0A2-97D7-4018-8EB6-0CD9C3605179,Levsin SL (hyoscyamine) sublingual tablet,0.125 mg,,5D434BBC-1E0A-4385-87EB-EBB120EC39AB,E6159255-D159-4451-904C-CB3F3FD63B00,2009.0,20,1.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,3756,ADA6F0A2-97D7-4018-8EB6-0CD9C3605179,Levsin SL (hyoscyamine) sublingual tablet,0.125 mg,,5D434BBC-1E0A-4385-87EB-EBB120EC39AB,E6159255-D159-4451-904C-CB3F3FD63B00,2009.0,20,1.0,0.0,1.0

@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,172467,3277D692-8CD5-42B6-AF0C-EAABDC246AD4,Cipro (ciprofloxacin) oral tablet,500 mg,,9874969B-55F6-45FB-9676-0DD1D23412DB,A23556F7-F7EC-4A74-B89D-CC279EF9065C,2009.0,20,,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,172467,3277D692-8CD5-42B6-AF0C-EAABDC246AD4,Cipro (ciprofloxacin) oral tablet,500 mg,,9874969B-55F6-45FB-9676-0DD1D23412DB,A23556F7-F7EC-4A74-B89D-CC279EF9065C,2009.0,20,,0.0,1.0

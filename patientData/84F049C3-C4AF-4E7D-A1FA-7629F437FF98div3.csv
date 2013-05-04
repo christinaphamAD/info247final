@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,126200,84F049C3-C4AF-4E7D-A1FA-7629F437FF98,Gemfibrozil oral tablet,600 mg,,DDCB40DE-94A8-4261-A37B-0BB7E3BBBFDC,86E54111-0EAD-45A5-ACF4-5D7853041E04,2011.0,180,3.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,126200,84F049C3-C4AF-4E7D-A1FA-7629F437FF98,Gemfibrozil oral tablet,600 mg,,DDCB40DE-94A8-4261-A37B-0BB7E3BBBFDC,86E54111-0EAD-45A5-ACF4-5D7853041E04,2011.0,180,3.0,0.0,1.0

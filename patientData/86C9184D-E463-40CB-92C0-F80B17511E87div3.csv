@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,182764,86C9184D-E463-40CB-92C0-F80B17511E87,"Pristiq (desvenlafaxine) oral tablet, extended release",50 mg,,E461ADFE-3683-4B11-A5D6-D0F0545709FF,2FAB76AD-0D02-4F6C-984E-5013C40CD38B,2010.0,30,2.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,182764,86C9184D-E463-40CB-92C0-F80B17511E87,Pristiq (desvenlafaxine) oral tablet extended release,50 mg,,E461ADFE-3683-4B11-A5D6-D0F0545709FF,2FAB76AD-0D02-4F6C-984E-5013C40CD38B,2010.0,30,2.0,0.0,1.0

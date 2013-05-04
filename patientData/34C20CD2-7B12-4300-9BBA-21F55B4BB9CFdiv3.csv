@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,12509,34C20CD2-7B12-4300-9BBA-21F55B4BB9CF,Lansoprazole oral delayed release capsule,30 mg,,D491CC1C-7B7B-4159-BBA9-5F5311E81E46,8A275590-FCED-4488-84C4-2428DCB97FB4,2011.0,60,11,0.0,1.0
-0,12521,34C20CD2-7B12-4300-9BBA-21F55B4BB9CF,Drysol (aluminum chloride hexahydrate topical) topical solution,20%,,C6889580-AC7F-44C1-A561-2413E5FF16E0,2470CF7E-47A1-45A1-B318-07860636BE0C,2011.0,60,2,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,2470CF7E-47A1-45A1-B318-07860636BE0C,Drysol (aluminum chloride hexahydrate topical) topical solution,20%,2,34C20CD2-7B12-4300-9BBA-21F55B4BB9CF,C6889580-AC7F-44C1-A561-2413E5FF16E0,2011.0,60,0.0,,12521
+0,1.0,1.0,8A275590-FCED-4488-84C4-2428DCB97FB4,Lansoprazole oral delayed release capsule,30 mg,11,34C20CD2-7B12-4300-9BBA-21F55B4BB9CF,D491CC1C-7B7B-4159-BBA9-5F5311E81E46,2011.0,60,0.0,,12509

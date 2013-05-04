@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,7757,2CC4662B-24A8-4C84-A072-18DB289C95B3,Amoxil (amoxicillin) oral capsule,500 mg,,B4DB0D69-8B2B-4B4F-A153-5B84ADB3D2FB,494FB223-EC54-44EB-A4FF-3FD6C5AC5CEF,2009.0,30,0.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,7757,2CC4662B-24A8-4C84-A072-18DB289C95B3,Amoxil (amoxicillin) oral capsule,500 mg,,B4DB0D69-8B2B-4B4F-A153-5B84ADB3D2FB,494FB223-EC54-44EB-A4FF-3FD6C5AC5CEF,2009.0,30,0.0,0.0,1.0

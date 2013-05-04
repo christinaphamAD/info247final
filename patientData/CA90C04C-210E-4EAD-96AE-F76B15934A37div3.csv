@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,181550,CA90C04C-210E-4EAD-96AE-F76B15934A37,Silver SulfADIAZINE (silver sulfADIAZINE topical) topical cream,1%,,05C6318F-5143-4243-A9A3-AEFA9B4F2192,3B2AA737-4EFB-44E0-9C73-676248DCED36,2011.0,50,0.0,0.0,1.0
-0,181606,CA90C04C-210E-4EAD-96AE-F76B15934A37,Lodine (etodolac) oral tablet,500 mg,,8F510857-1806-4C94-8E46-1268B7ACA612,53BB2180-C0A6-42C2-8393-69C6443A0EE3,2011.0,60,2.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,53BB2180-C0A6-42C2-8393-69C6443A0EE3,Lodine (etodolac) oral tablet,500 mg,2.0,CA90C04C-210E-4EAD-96AE-F76B15934A37,8F510857-1806-4C94-8E46-1268B7ACA612,2011.0,60,0.0,,181606
+0,1.0,1.0,3B2AA737-4EFB-44E0-9C73-676248DCED36,Silver SulfADIAZINE (silver sulfADIAZINE topical) topical cream,1%,0.0,CA90C04C-210E-4EAD-96AE-F76B15934A37,05C6318F-5143-4243-A9A3-AEFA9B4F2192,2011.0,50,0.0,,181550

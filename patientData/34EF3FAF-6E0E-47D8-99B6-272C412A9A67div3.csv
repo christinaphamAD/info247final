@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,15749,34EF3FAF-6E0E-47D8-99B6-272C412A9A67,Lodine (etodolac) oral tablet,500 mg,,E3EC3C56-8D38-42F6-9051-104C493E24D1,FAA3208A-DC94-4404-AFF3-0C869649B392,2009.0,60,,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,15749,34EF3FAF-6E0E-47D8-99B6-272C412A9A67,Lodine (etodolac) oral tablet,500 mg,,E3EC3C56-8D38-42F6-9051-104C493E24D1,FAA3208A-DC94-4404-AFF3-0C869649B392,2009.0,60,,0.0,1.0

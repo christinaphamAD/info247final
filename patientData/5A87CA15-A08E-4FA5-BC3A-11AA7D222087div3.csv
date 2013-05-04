@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,6703,5A87CA15-A08E-4FA5-BC3A-11AA7D222087,"Ditropan XL (oxybutynin) oral tablet, extended release",10 mg,,8F62D514-B197-4CE1-91AA-C69272709529,F3AF1D28-8636-48DF-9E96-0ED0CDC8B62B,2009.0,30,6.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,6703,5A87CA15-A08E-4FA5-BC3A-11AA7D222087,Ditropan XL (oxybutynin) oral tablet extended release,10 mg,,8F62D514-B197-4CE1-91AA-C69272709529,F3AF1D28-8636-48DF-9E96-0ED0CDC8B62B,2009.0,30,6.0,0.0,1.0

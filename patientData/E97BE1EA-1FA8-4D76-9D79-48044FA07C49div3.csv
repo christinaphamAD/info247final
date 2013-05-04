@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,48923,E97BE1EA-1FA8-4D76-9D79-48044FA07C49,Omnicef (cefdinir) oral capsule,300 mg,,8F444BF7-CF67-4DED-BC0C-DEBDE95236B9,51F2210B-B6D3-4353-8EAE-29BC95E8DBC0,2010.0,20,,0.0,1.0
-0,48930,E97BE1EA-1FA8-4D76-9D79-48044FA07C49,Ceftin (cefuroxime) oral tablet,250 mg,,8A67D231-F195-4EDC-BEB4-63174DE2DD5A,3D2B231B-14BC-4EAB-9DBA-CBD12321FE3E,2010.0,20,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,3D2B231B-14BC-4EAB-9DBA-CBD12321FE3E,Ceftin (cefuroxime) oral tablet,250 mg,0.0,E97BE1EA-1FA8-4D76-9D79-48044FA07C49,8A67D231-F195-4EDC-BEB4-63174DE2DD5A,2010.0,20,0.0,,48930
+0,1.0,1.0,51F2210B-B6D3-4353-8EAE-29BC95E8DBC0,Omnicef (cefdinir) oral capsule,300 mg,,E97BE1EA-1FA8-4D76-9D79-48044FA07C49,8F444BF7-CF67-4DED-BC0C-DEBDE95236B9,2010.0,20,0.0,,48923

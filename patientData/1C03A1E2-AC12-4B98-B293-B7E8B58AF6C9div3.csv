@@ -1,3 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,197051,1C03A1E2-AC12-4B98-B293-B7E8B58AF6C9,Fortesta (testosterone) transdermal gel,10 mg/0.5 g,3.0,E648A323-5133-49F3-9989-98A28D0349B7,21675CCD-C72C-44D4-9F4F-6FA148C68538,2012.0,2.0,3.0,0.0,1.0
-0,197057,1C03A1E2-AC12-4B98-B293-B7E8B58AF6C9,Testim (testosterone) transdermal gel,1%,3.0,BC11710E-E87E-4197-B0E0-B19B10063824,7A77B5D9-FA86-4EBF-A196-9F2CE76E0291,2009.0,30.0,12.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,197057,1C03A1E2-AC12-4B98-B293-B7E8B58AF6C9,Testim (testosterone) transdermal gel,1%,3.0,BC11710E-E87E-4197-B0E0-B19B10063824,7A77B5D9-FA86-4EBF-A196-9F2CE76E0291,2009.0,30,12.0,0.0,1.0

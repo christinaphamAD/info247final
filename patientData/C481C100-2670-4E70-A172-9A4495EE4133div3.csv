@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,139432,C481C100-2670-4E70-A172-9A4495EE4133,Nitrofurantoin Macrocrystals (nitrofurantoin) oral capsule,macrocrystals 100 mg,,9EFA774E-08C1-49F3-87C4-13FE6A9FB79A,FF64652B-FDD1-4278-B0D2-2B5322BA204B,2010.0,20,0.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,139432,C481C100-2670-4E70-A172-9A4495EE4133,Nitrofurantoin Macrocrystals (nitrofurantoin) oral capsule,macrocrystals 100 mg,,9EFA774E-08C1-49F3-87C4-13FE6A9FB79A,FF64652B-FDD1-4278-B0D2-2B5322BA204B,2010.0,20,0.0,0.0,1.0

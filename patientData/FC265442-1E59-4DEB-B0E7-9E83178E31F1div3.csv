@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,141659,FC265442-1E59-4DEB-B0E7-9E83178E31F1,Verapamil Hydrochloride (verapamil) oral tablet,120 mg,,7125C11B-547D-48D1-98A5-1B37AB2A6B30,2365F879-5651-44B9-8F50-A9642710F009,2010.0,90,3.0,0.0,1.0
-0,141668,FC265442-1E59-4DEB-B0E7-9E83178E31F1,Microzide (hydrochlorothiazide) oral capsule,12.5 mg,,DFB32D9D-36A3-4E57-9D22-0ED8C7DE3D45,FDEC7730-22D4-4A6E-A858-BD79AA3EE31F,2009.0,30,2.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,2365F879-5651-44B9-8F50-A9642710F009,Verapamil Hydrochloride (verapamil) oral tablet,120 mg,3.0,FC265442-1E59-4DEB-B0E7-9E83178E31F1,7125C11B-547D-48D1-98A5-1B37AB2A6B30,2010.0,90,0.0,,141659
+0,1.0,1.0,FDEC7730-22D4-4A6E-A858-BD79AA3EE31F,Microzide (hydrochlorothiazide) oral capsule,12.5 mg,2.0,FC265442-1E59-4DEB-B0E7-9E83178E31F1,DFB32D9D-36A3-4E57-9D22-0ED8C7DE3D45,2009.0,30,0.0,,141668

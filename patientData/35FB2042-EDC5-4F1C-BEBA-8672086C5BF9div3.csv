@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,132017,35FB2042-EDC5-4F1C-BEBA-8672086C5BF9,Amaryl (glimepiride) oral tablet,4 mg,,2C990708-F19E-47BF-B313-45796F66E761,DC0FA10C-A3B9-47E3-AEC0-482C6FF13393,2009.0,30,6.0,0.0,1.0
-0,132029,35FB2042-EDC5-4F1C-BEBA-8672086C5BF9,Robaxin-750 (methocarbamol) oral tablet,750 mg,,50404B8A-3123-490A-9CF9-15239F69A492,C1157E06-A4A8-40A6-9DDC-06BE81152FEB,2010.0,60,,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,C1157E06-A4A8-40A6-9DDC-06BE81152FEB,Robaxin-750 (methocarbamol) oral tablet,750 mg,,35FB2042-EDC5-4F1C-BEBA-8672086C5BF9,50404B8A-3123-490A-9CF9-15239F69A492,2010.0,60,0.0,,132029
+0,1.0,1.0,DC0FA10C-A3B9-47E3-AEC0-482C6FF13393,Amaryl (glimepiride) oral tablet,4 mg,6.0,35FB2042-EDC5-4F1C-BEBA-8672086C5BF9,2C990708-F19E-47BF-B313-45796F66E761,2009.0,30,0.0,,132017

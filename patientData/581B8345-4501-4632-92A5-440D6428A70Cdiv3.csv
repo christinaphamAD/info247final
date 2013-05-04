@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,46633,581B8345-4501-4632-92A5-440D6428A70C,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,D0CC3F7E-DAC3-42CF-9F5C-A58F8E72C249,B2BC5F82-0941-444B-9C1D-F72B84C50AD9,2012.0,18,0.0,0.0,1.0
-0,46696,581B8345-4501-4632-92A5-440D6428A70C,Sodium Sulamyd (sulfacetamide sodium ophthalmic) ophthalmic solution,10%,,C0EC5D11-5BD5-4784-A18B-25F001155C37,98045814-02E7-453C-B8B3-858AC041EA84,2012.0,15,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,B2BC5F82-0941-444B-9C1D-F72B84C50AD9,Mucinex D (guaiFENesin-pseudoephedrine) oral tablet extended release,600 mg-60 mg,0.0,581B8345-4501-4632-92A5-440D6428A70C,D0CC3F7E-DAC3-42CF-9F5C-A58F8E72C249,2012.0,18,0.0,,46633
+0,1.0,1.0,98045814-02E7-453C-B8B3-858AC041EA84,Sodium Sulamyd (sulfacetamide sodium ophthalmic) ophthalmic solution,10%,0.0,581B8345-4501-4632-92A5-440D6428A70C,C0EC5D11-5BD5-4784-A18B-25F001155C37,2012.0,15,0.0,,46696

@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,127644,27ACA58A-1895-46F4-880F-770F2EBF6DAD,Simvastatin oral tablet,80 mg,,4B6A0A5C-A98F-427D-9F8A-6BE7E979A317,97BA979C-F473-4441-A243-55EA35A20854,2011.0,30,9.0,0.0,1.0
-0,127698,27ACA58A-1895-46F4-880F-770F2EBF6DAD,Lisinopril oral tablet,10 mg,,10C4D1E0-93A5-4C6C-B753-0179D1D219E7,AEEAE4AB-8C07-47D2-8E28-C99B01256F15,2009.0,30,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,AEEAE4AB-8C07-47D2-8E28-C99B01256F15,Lisinopril oral tablet,10 mg,0.0,27ACA58A-1895-46F4-880F-770F2EBF6DAD,10C4D1E0-93A5-4C6C-B753-0179D1D219E7,2009.0,30,0.0,,127698
+0,1.0,1.0,97BA979C-F473-4441-A243-55EA35A20854,Simvastatin oral tablet,80 mg,9.0,27ACA58A-1895-46F4-880F-770F2EBF6DAD,4B6A0A5C-A98F-427D-9F8A-6BE7E979A317,2011.0,30,0.0,,127644

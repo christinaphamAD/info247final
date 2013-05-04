@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,12895,CF922955-46B1-4F99-96D0-236ED90BDF2D,Cortisporin Otic (hydrocortisone/neomycin/polymyxin B otic) otic suspension,1%-0.35%-10000 units/mL,,6852F369-9B39-45FC-85D5-98A9350D0123,26C70532-F1F5-4173-AA27-A73212EA0FD3,2010.0,10,0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,12895,CF922955-46B1-4F99-96D0-236ED90BDF2D,Cortisporin Otic (hydrocortisone/neomycin/polymyxin B otic) otic suspension,1%-0.35%-10000 units/mL,,6852F369-9B39-45FC-85D5-98A9350D0123,26C70532-F1F5-4173-AA27-A73212EA0FD3,2010.0,10,0,0.0,1.0

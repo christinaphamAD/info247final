@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,131281,832126DD-C089-45DD-B0D0-83D1DEFFFAFC,Robitussin-AC (codeine-guaiFENesin) oral syrup,10 mg-100 mg/5 mL,5.0,0D5C746F-6625-420F-A718-F6322AEF20C7,DCBFAC8A-5B1E-4EA1-AB2E-3F0FBE4DE817,2011.0,240,,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,131281,832126DD-C089-45DD-B0D0-83D1DEFFFAFC,Robitussin-AC (codeine-guaiFENesin) oral syrup,10 mg-100 mg/5 mL,5.0,0D5C746F-6625-420F-A718-F6322AEF20C7,DCBFAC8A-5B1E-4EA1-AB2E-3F0FBE4DE817,2011.0,240,,0.0,1.0

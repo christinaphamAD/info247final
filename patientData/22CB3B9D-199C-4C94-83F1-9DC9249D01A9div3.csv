@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,141640,22CB3B9D-199C-4C94-83F1-9DC9249D01A9,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,861C5E6F-AD0F-4EB1-A58C-73F7B43DA28F,E9DEB7DC-3C36-4A43-8ED6-6174FFEB082C,2012.0,18,0.0,0.0,1.0
-0,141645,22CB3B9D-199C-4C94-83F1-9DC9249D01A9,Zithromax Z-Pak (azithromycin) oral tablet,250 mg,,9CB57691-F696-4160-B68C-27E2897C4610,E2017040-7497-43A5-8A8D-CEC299209E14,2012.0,6,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,E9DEB7DC-3C36-4A43-8ED6-6174FFEB082C,Mucinex D (guaiFENesin-pseudoephedrine) oral tablet extended release,600 mg-60 mg,0.0,22CB3B9D-199C-4C94-83F1-9DC9249D01A9,861C5E6F-AD0F-4EB1-A58C-73F7B43DA28F,2012.0,18,0.0,,141640
+0,1.0,1.0,E2017040-7497-43A5-8A8D-CEC299209E14,Zithromax Z-Pak (azithromycin) oral tablet,250 mg,0.0,22CB3B9D-199C-4C94-83F1-9DC9249D01A9,9CB57691-F696-4160-B68C-27E2897C4610,2012.0,6,0.0,,141645

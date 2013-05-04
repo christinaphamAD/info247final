@@ -5,7 +5,7 @@
 
 d3.csv("js/lab_bar_data.csv", function(error, data) {
 
-var height = 65 // PREVIOUSLY 95
+var height = 45 // PREVIOUSLY 95
 var width = 100
 
 
@@ -65,9 +65,9 @@ function drawXAxis(color){
       .tickPadding(10))
     .selectAll("text")
       .style("text-anchor","end")
-      .attr("font-size",12)
+      .attr("font-size",9)
       .attr("transform",function(d){
-        return "rotate(-35)"
+        return "rotate(-20)"
       });
   
 /*
@@ -122,7 +122,7 @@ function drawYAxis(stroke){
         .tickFormat("")
         .tickSize(0));
   var yaxislabel = canvas.append('text')
-      .attr('font-size',17)
+      .attr('font-size',12)
 	    .attr('class', 'y label')
 	    .attr('text-anchor','end')
      //  .attr('dy','.75em')
@@ -131,12 +131,12 @@ function drawYAxis(stroke){
       .attr('stroke',stroke)
       .attr('fill',stroke)
       .attr('stroke-width',-1)
-      .text("label")
-      .attr('y',yindent*.125)
+      .text("# of abnormal lab results")
+      .attr('y',yindent*.065)
       .attr('x',xindent*.05-yinit)
       .transition()
       .duration(1000)
-	    .attr('y',1*yindent*.125)
+	    .attr('y',1*yindent*.065)
 	    .attr('x',-1*(xindent*.05));
 
 
@@ -163,7 +163,7 @@ var yshift = (parseInt(d3.select("#canvas").style('height').split('p'))*0.92)
       .attr('fill','#1f77b4')
       .attr("x", function(d) { return xshift+ x(d.lab); })
       .attr("width", x.rangeBand())
-      .attr("y", function(d) { return y(d.numablabs) })
+      .attr("y", function(d) { console.log(d.numablabs); return y(d.numablabs) })
       .attr("height", function(d,i) { return yshift-y(d.numablabs); })
       .style('opacity',0)
       .transition()

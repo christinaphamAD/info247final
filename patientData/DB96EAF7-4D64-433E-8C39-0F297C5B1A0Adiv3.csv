@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,4368,DB96EAF7-4D64-433E-8C39-0F297C5B1A0A,Lantus (insulin glargine) subcutaneous solution,100 units/mL,,F7A24CF5-0066-4D47-9B13-039996394F8F,D6A145CB-8151-4C1E-BB8D-573D0454DF38,2010.0,20.0,3.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,4368,DB96EAF7-4D64-433E-8C39-0F297C5B1A0A,Lantus (insulin glargine) subcutaneous solution,100 units/mL,,F7A24CF5-0066-4D47-9B13-039996394F8F,D6A145CB-8151-4C1E-BB8D-573D0454DF38,2010.0,20,3.0,0.0,1.0

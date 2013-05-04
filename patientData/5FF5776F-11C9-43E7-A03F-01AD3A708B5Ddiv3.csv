@@ -1,4 +1,4 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,250,5FF5776F-11C9-43E7-A03F-01AD3A708B5D,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,38FA9604-A3BC-4564-A6EF-BDCCA6338D28,A70BBB30-91B8-4C9E-86B1-F211B2780B12,2010.0,20,0.0,0.0,1.0
-0,257,5FF5776F-11C9-43E7-A03F-01AD3A708B5D,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,C43E3F72-D8D9-4905-A017-C477DDCB62A1,CFAFA473-8399-4963-BE5F-BBBA85AC458A,2011.0,20,0.0,0.0,1.0
-0,271,5FF5776F-11C9-43E7-A03F-01AD3A708B5D,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,153E3548-83EA-4D56-9509-9B3321AAA47E,0111FD12-293D-4C07-A2A8-EB8BDABB6F45,2010.0,20,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,2.0,1.0,0111FD12-293D-4C07-A2A8-EB8BDABB6F45,Mucinex D (guaiFENesin-pseudoephedrine) oral tablet extended release,600 mg-60 mg,0.0,5FF5776F-11C9-43E7-A03F-01AD3A708B5D,153E3548-83EA-4D56-9509-9B3321AAA47E,2010.0,20,0.0,,271
+0,2.0,1.0,A70BBB30-91B8-4C9E-86B1-F211B2780B12,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,0.0,5FF5776F-11C9-43E7-A03F-01AD3A708B5D,38FA9604-A3BC-4564-A6EF-BDCCA6338D28,2010.0,20,0.0,,250
+0,2.0,1.0,CFAFA473-8399-4963-BE5F-BBBA85AC458A,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,0.0,5FF5776F-11C9-43E7-A03F-01AD3A708B5D,C43E3F72-D8D9-4905-A017-C477DDCB62A1,2011.0,20,0.0,,257

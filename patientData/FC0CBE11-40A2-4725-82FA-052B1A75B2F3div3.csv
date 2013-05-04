@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,1414,FC0CBE11-40A2-4725-82FA-052B1A75B2F3,PredniSONE oral tablet,20 mg,,FC8E7B53-56E0-44BF-80CE-FD36A88E00F5,3CB7791C-23FD-442D-B9E9-BC4E075E997E,2011.0,18,0.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,1414,FC0CBE11-40A2-4725-82FA-052B1A75B2F3,PredniSONE oral tablet,20 mg,,FC8E7B53-56E0-44BF-80CE-FD36A88E00F5,3CB7791C-23FD-442D-B9E9-BC4E075E997E,2011.0,18,0.0,0.0,1.0

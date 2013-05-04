@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,117333,3E45DA32-F8D0-466D-AEC3-6C8DBEFE00EC,"Mucinex D Max Strength (guaiFENesin-pseudoephedrine) oral tablet, extended release",1200 mg-120 mg,,E16590BE-057B-48BE-92BB-9E30918CF995,9FA67FA0-9E92-420A-9DE2-C4656148E915,2012.0,20,,0.0,1.0
-0,117339,3E45DA32-F8D0-466D-AEC3-6C8DBEFE00EC,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,4DCED0C4-C66F-43BB-81C5-16F36A449C46,C74E3EBF-BA2B-4B08-8A53-95ADDA33F2E2,2012.0,20,,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,C74E3EBF-BA2B-4B08-8A53-95ADDA33F2E2,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,3E45DA32-F8D0-466D-AEC3-6C8DBEFE00EC,4DCED0C4-C66F-43BB-81C5-16F36A449C46,2012.0,20,0.0,,117339
+0,1.0,1.0,9FA67FA0-9E92-420A-9DE2-C4656148E915,Mucinex D Max Strength (guaiFENesin-pseudoephedrine) oral tablet extended release,1200 mg-120 mg,,3E45DA32-F8D0-466D-AEC3-6C8DBEFE00EC,E16590BE-057B-48BE-92BB-9E30918CF995,2012.0,20,0.0,,117333

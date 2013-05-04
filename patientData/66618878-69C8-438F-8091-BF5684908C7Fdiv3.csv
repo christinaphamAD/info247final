@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,153869,66618878-69C8-438F-8091-BF5684908C7F,Alesse (ethinyl estradiol-levonorgestrel) oral tablet,20 mcg-100 mcg,,A95A0A2C-CE33-48D7-A88A-57F9F916A507,A56F4059-D039-43E5-9622-8BA46E98D17C,2009.0,28,12.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,153869,66618878-69C8-438F-8091-BF5684908C7F,Alesse (ethinyl estradiol-levonorgestrel) oral tablet,20 mcg-100 mcg,,A95A0A2C-CE33-48D7-A88A-57F9F916A507,A56F4059-D039-43E5-9622-8BA46E98D17C,2009.0,28,12.0,0.0,1.0

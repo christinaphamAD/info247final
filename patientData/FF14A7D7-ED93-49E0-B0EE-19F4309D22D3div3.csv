@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,8419,FF14A7D7-ED93-49E0-B0EE-19F4309D22D3,Lotrisone (betamethasone-clotrimazole topical) topical cream,0.05%-1%,,3905E0D9-DE3F-43A6-A86E-23AA2679DE7F,88274F2E-26B0-41E7-B6EC-C3242AB7828E,2009.0,30 GR,,0.0,1.0
-0,8422,FF14A7D7-ED93-49E0-B0EE-19F4309D22D3,Fioricet (APAP/butalbital/caffeine) oral tablet,325 mg-50 mg-40 mg,,0F132FC0-AB1D-4E72-973D-B0FEED1254CC,35A08F2F-40CE-4DDD-B3F7-AB31689C22D5,2011.0,30,0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,35A08F2F-40CE-4DDD-B3F7-AB31689C22D5,Fioricet (APAP/butalbital/caffeine) oral tablet,325 mg-50 mg-40 mg,0,FF14A7D7-ED93-49E0-B0EE-19F4309D22D3,0F132FC0-AB1D-4E72-973D-B0FEED1254CC,2011.0,30,0.0,,8422
+0,1.0,1.0,88274F2E-26B0-41E7-B6EC-C3242AB7828E,Lotrisone (betamethasone-clotrimazole topical) topical cream,0.05%-1%,,FF14A7D7-ED93-49E0-B0EE-19F4309D22D3,3905E0D9-DE3F-43A6-A86E-23AA2679DE7F,2009.0,20,0.0,,8419

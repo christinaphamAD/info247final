@@ -1,4 +1,4 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,138651,5244CC43-EEF0-4F08-A6A3-980D0AE24894,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,A00994FB-1384-4F8A-9DB3-82FAAE63C362,2B837C09-008D-48A9-B050-2F04236458BB,2011.0,20,0.0,0.0,1.0
-0,138654,5244CC43-EEF0-4F08-A6A3-980D0AE24894,Naphcon-A (naphazoline-pheniramine ophthalmic) ophthalmic solution,0.025%-0.3%,,10588B01-187E-4446-81D1-91A3BDEDCF48,9FEF1017-FC75-43D7-AC15-00EFE78E07FF,2010.0,10,0.0,0.0,1.0
-0,138657,5244CC43-EEF0-4F08-A6A3-980D0AE24894,Tobrex (tobramycin ophthalmic) ophthalmic solution,0.3%,,C3EB3124-42FF-4BD8-9CD2-1A0E9E673ABD,FDE8B029-3590-44F9-B4F7-3BB376484E00,2010.0,5,1.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,2.0,1.0,2B837C09-008D-48A9-B050-2F04236458BB,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,0.0,5244CC43-EEF0-4F08-A6A3-980D0AE24894,A00994FB-1384-4F8A-9DB3-82FAAE63C362,2011.0,20,0.0,,138651
+0,2.0,1.0,9FEF1017-FC75-43D7-AC15-00EFE78E07FF,Naphcon-A (naphazoline-pheniramine ophthalmic) ophthalmic solution,0.025%-0.3%,0.0,5244CC43-EEF0-4F08-A6A3-980D0AE24894,10588B01-187E-4446-81D1-91A3BDEDCF48,2010.0,10,0.0,,138654
+0,2.0,1.0,FDE8B029-3590-44F9-B4F7-3BB376484E00,Tobrex (tobramycin ophthalmic) ophthalmic solution,0.3%,1.0,5244CC43-EEF0-4F08-A6A3-980D0AE24894,C3EB3124-42FF-4BD8-9CD2-1A0E9E673ABD,2010.0,5,0.0,,138657

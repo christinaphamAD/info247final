@@ -1,4 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,763125,54B12C39-85C3-4F33-A931-78BA9DA42D83,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,C07FCE2F-E185-40D6-A93A-63184F1BDE1A,6756D636-CE03-4452-8302-20EBB0BE4EF7,2011.0,20.0,0.0,0.0,1.0
-0,763155,54B12C39-85C3-4F33-A931-78BA9DA42D83,ProAir HFA (albuterol) inhalation aerosol with adapter,CFC free 90 mcg/inh,,9ACDFF63-F212-4AFF-B256-DF034C623CF0,3F1E9208-1194-43F9-8010-94FEB5013A65,2011.0,1.0,0.0,0.0,1.0
-0,763185,54B12C39-85C3-4F33-A931-78BA9DA42D83,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,C6A4D6F5-7EBB-4DEE-9FE1-BA747FD39C4D,997CA0C9-8E60-4D64-9CA7-D3E11090BFDE,2011.0,240.0,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,997CA0C9-8E60-4D64-9CA7-D3E11090BFDE,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,0.0,54B12C39-85C3-4F33-A931-78BA9DA42D83,C6A4D6F5-7EBB-4DEE-9FE1-BA747FD39C4D,2011.0,240,0.0,,763185
+0,1.0,1.0,6756D636-CE03-4452-8302-20EBB0BE4EF7,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,0.0,54B12C39-85C3-4F33-A931-78BA9DA42D83,C07FCE2F-E185-40D6-A93A-63184F1BDE1A,2011.0,20,0.0,,763125

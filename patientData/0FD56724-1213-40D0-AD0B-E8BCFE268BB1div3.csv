@@ -1,2 +1,2 @@
-,Unnamed: 0,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
 0,0,172029,0FD56724-1213-40D0-AD0B-E8BCFE268BB1,Lotrimin Ultra Jock Itch (butenafine topical) topical cream,1%,,C768B0BB-1217-4AB0-A9C3-92CD1724BAF9,C82ABBC9-13C1-4F39-822C-118ED14FD82C,2011.0,30,0.0,0.0,1.0

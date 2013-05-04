@@ -1,4 +1,4 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,138426,2441FE58-6FCC-4C3B-A939-96019FE7DCC0,Lodine (etodolac) oral tablet,500 mg,,BBDC7EBD-40E1-4D06-9A0A-6772117D2C26,8555132A-F839-4B7E-915D-5E55EFE74C10,2012.0,60,0.0,0.0,1.0
-0,138434,2441FE58-6FCC-4C3B-A939-96019FE7DCC0,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,,5813E7C7-6760-4FE1-9201-566EB7F020E8,83E112A0-38F1-4F77-9E33-3684C21B5A6B,2011.0,20,0.0,0.0,1.0
-0,138454,2441FE58-6FCC-4C3B-A939-96019FE7DCC0,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,F4C8FC58-E4E9-460F-AB1F-254E6182176E,272DD56E-3AC1-4DC6-B332-F187D4545ECE,2011.0,20,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,2.0,1.0,8555132A-F839-4B7E-915D-5E55EFE74C10,Lodine (etodolac) oral tablet,500 mg,0.0,2441FE58-6FCC-4C3B-A939-96019FE7DCC0,BBDC7EBD-40E1-4D06-9A0A-6772117D2C26,2012.0,60,0.0,,138426
+0,2.0,1.0,272DD56E-3AC1-4DC6-B332-F187D4545ECE,Mucinex D (guaiFENesin-pseudoephedrine) oral tablet extended release,600 mg-60 mg,0.0,2441FE58-6FCC-4C3B-A939-96019FE7DCC0,F4C8FC58-E4E9-460F-AB1F-254E6182176E,2011.0,20,0.0,,138454
+0,2.0,1.0,83E112A0-38F1-4F77-9E33-3684C21B5A6B,Septra DS (sulfamethoxazole-trimethoprim) oral tablet,800 mg-160 mg,0.0,2441FE58-6FCC-4C3B-A939-96019FE7DCC0,5813E7C7-6760-4FE1-9201-566EB7F020E8,2011.0,20,0.0,,138434

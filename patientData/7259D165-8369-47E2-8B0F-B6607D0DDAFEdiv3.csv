@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,150656,7259D165-8369-47E2-8B0F-B6607D0DDAFE,Propranolol Hydrochloride (propranolol) oral tablet,20 mg,,827E94B8-F0D0-4BDF-ACDE-0AC14D0F2E93,878D6642-2BE0-4ABD-B65C-C20C291AC88F,2010.0,60.0,5.0,0.0,1.0
-0,150992,7259D165-8369-47E2-8B0F-B6607D0DDAFE,Prandin (repaglinide) oral tablet,2 mg,,B73A1EF0-1AA9-4F68-9ABB-0919DE1F4544,170CBBA9-8036-4B92-887F-70D42D6F0132,2010.0,90.0,1.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,170CBBA9-8036-4B92-887F-70D42D6F0132,Prandin (repaglinide) oral tablet,2 mg,1.0,7259D165-8369-47E2-8B0F-B6607D0DDAFE,B73A1EF0-1AA9-4F68-9ABB-0919DE1F4544,2010.0,90,0.0,,150992
+0,1.0,1.0,878D6642-2BE0-4ABD-B65C-C20C291AC88F,Propranolol Hydrochloride (propranolol) oral tablet,20 mg,5.0,7259D165-8369-47E2-8B0F-B6607D0DDAFE,827E94B8-F0D0-4BDF-ACDE-0AC14D0F2E93,2010.0,60,0.0,,150656

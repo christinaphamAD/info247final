@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,42369,766FA252-F9C7-4C9E-B2FC-3729F49F36A0,Levothyroxine Sodium (levothyroxine) oral tablet,125 mcg (0.125 mg),,70F9A599-9EDE-4B74-BE7E-142376983839,D19F6397-6090-469C-9A73-259DF9A717EC,2012.0,30,12.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,42369,766FA252-F9C7-4C9E-B2FC-3729F49F36A0,Levothyroxine Sodium (levothyroxine) oral tablet,125 mcg (0.125 mg),,70F9A599-9EDE-4B74-BE7E-142376983839,D19F6397-6090-469C-9A73-259DF9A717EC,2012.0,30,12.0,0.0,1.0

@@ -1,4 +1,4 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,46749,9392C726-76EC-4E16-B0AC-44AD67E9C06C,Vytorin (ezetimibe-simvastatin) oral tablet,10 mg-10 mg,,FAACE620-4A53-4EB2-8E05-D045956C6FC5,78829E26-9F69-4C27-880B-A5FFBE303700,2010.0,90,3.0,0.0,1.0
-0,46757,9392C726-76EC-4E16-B0AC-44AD67E9C06C,Lotrisone (betamethasone-clotrimazole topical) topical cream,0.05%-1%,,B4A0D1DE-D484-4F57-AC3B-F58506563E70,C089CDEE-12E5-4985-8140-500CC087ACB3,2011.0,60,2.0,0.0,1.0
-0,46761,9392C726-76EC-4E16-B0AC-44AD67E9C06C,Diovan HCT (hydrochlorothiazide-valsartan) oral tablet,12.5 mg-320 mg,,31592FB7-1EA7-4494-9D04-866FE828F3A5,43E9CC7E-1EF6-4353-8CEE-51D2841B346B,2010.0,90,3.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,2.0,1.0,43E9CC7E-1EF6-4353-8CEE-51D2841B346B,Diovan HCT (hydrochlorothiazide-valsartan) oral tablet,12.5 mg-320 mg,3.0,9392C726-76EC-4E16-B0AC-44AD67E9C06C,31592FB7-1EA7-4494-9D04-866FE828F3A5,2010.0,90,0.0,,46761
+0,2.0,1.0,78829E26-9F69-4C27-880B-A5FFBE303700,Vytorin (ezetimibe-simvastatin) oral tablet,10 mg-10 mg,3.0,9392C726-76EC-4E16-B0AC-44AD67E9C06C,FAACE620-4A53-4EB2-8E05-D045956C6FC5,2010.0,90,0.0,,46749
+0,2.0,1.0,C089CDEE-12E5-4985-8140-500CC087ACB3,Lotrisone (betamethasone-clotrimazole topical) topical cream,0.05%-1%,2.0,9392C726-76EC-4E16-B0AC-44AD67E9C06C,B4A0D1DE-D484-4F57-AC3B-F58506563E70,2011.0,60,0.0,,46757

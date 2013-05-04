@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,148788,3676B22A-5A89-44F3-94CD-B03C8FB201A0,Glyburide-Metformin oral tablet,2.5 mg-500 mg,,FA4CBFAE-428D-4520-9F38-25246920E2E0,6B6A5B0E-D970-4A6C-B98C-3D5492AC35C1,2010.0,60.0,0.0,0.0,1.0
-0,148808,3676B22A-5A89-44F3-94CD-B03C8FB201A0,Januvia (sitaGLIPtin) oral tablet,100 mg,,890D9DF5-D5BA-4C17-BDEC-0A9C08A0B288,388FBD81-4F80-44E6-A7DC-EB6C72DBB0F6,2010.0,30.0,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,6B6A5B0E-D970-4A6C-B98C-3D5492AC35C1,Glyburide-Metformin oral tablet,2.5 mg-500 mg,0.0,3676B22A-5A89-44F3-94CD-B03C8FB201A0,FA4CBFAE-428D-4520-9F38-25246920E2E0,2010.0,60,0.0,,148788
+0,1.0,1.0,388FBD81-4F80-44E6-A7DC-EB6C72DBB0F6,Januvia (sitaGLIPtin) oral tablet,100 mg,0.0,3676B22A-5A89-44F3-94CD-B03C8FB201A0,890D9DF5-D5BA-4C17-BDEC-0A9C08A0B288,2010.0,30,0.0,,148808

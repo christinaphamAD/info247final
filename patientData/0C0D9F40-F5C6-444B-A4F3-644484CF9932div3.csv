@@ -1,1 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,66345,0C0D9F40-F5C6-444B-A4F3-644484CF9932,AmLODIPine Besylate-Benazepril Hydrochloride (amLODIPine-benazepril) oral capsule,5 mg-10 mg,,D70C17A2-C9FD-4403-B145-5457E680D05C,C7BBE72C-6B78-4564-878C-2EE15C59B7F1,2010.0,0,,0.0,1.0

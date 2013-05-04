@@ -1,3 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,46715,D8335E8B-0B9E-4D1E-BADB-44544B3DAA59,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,E5DFC989-999C-4B40-A4B1-C5C98292D92C,BAE4F40F-1D26-4E4F-8ED6-4F3D36D7F412,2010.0,20,0.0,0.0,1.0
-0,46720,D8335E8B-0B9E-4D1E-BADB-44544B3DAA59,Optivar (azelastine ophthalmic) ophthalmic solution,0.05%,,E620B801-85AC-467A-8F3D-C6E6E1567C6F,4EA56E83-4E7F-4C5E-812A-191C9CFE0CD9,2010.0,6 ml,,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,46715,D8335E8B-0B9E-4D1E-BADB-44544B3DAA59,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,E5DFC989-999C-4B40-A4B1-C5C98292D92C,BAE4F40F-1D26-4E4F-8ED6-4F3D36D7F412,2010.0,20,0.0,0.0,1.0

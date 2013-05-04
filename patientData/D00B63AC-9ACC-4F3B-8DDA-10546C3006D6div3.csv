@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,6679,D00B63AC-9ACC-4F3B-8DDA-10546C3006D6,Fexofenadine Hydrochloride (fexofenadine) oral tablet,180 mg,,249B93F8-3C38-42F2-B25F-1427544FB79B,96116796-FA62-496B-A073-DD3A16E9AB68,2009.0,90,4.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,6679,D00B63AC-9ACC-4F3B-8DDA-10546C3006D6,Fexofenadine Hydrochloride (fexofenadine) oral tablet,180 mg,,249B93F8-3C38-42F2-B25F-1427544FB79B,96116796-FA62-496B-A073-DD3A16E9AB68,2009.0,90,4.0,0.0,1.0

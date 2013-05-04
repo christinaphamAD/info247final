@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,70442,698BB06A-182C-4078-B635-6529B07D18A8,Amoxicillin oral capsule,500 mg,,11FE9798-245E-448B-9AA4-FFA48C5470E7,32DB2269-1AB8-47E9-9AC6-D686FD0A0002,2009.0,30,0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,70442,698BB06A-182C-4078-B635-6529B07D18A8,Amoxicillin oral capsule,500 mg,,11FE9798-245E-448B-9AA4-FFA48C5470E7,32DB2269-1AB8-47E9-9AC6-D686FD0A0002,2009.0,30,0,0.0,1.0

@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,61703,B3FEBD0D-69F1-4819-9151-564933329C73,Promethegan (promethazine) rectal suppository,25 mg,,B0D28C6A-5C64-4248-BD2E-25A7AD169A04,1F752386-0CDF-4BF2-95E4-3930A5238019,2009.0,12,4.0,0.0,1.0
-0,61803,B3FEBD0D-69F1-4819-9151-564933329C73,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,41366EA4-BF30-4719-B6C2-4C79C15A80B4,CE5054A8-6C38-4329-B296-1859DDA72BDE,2011.0,18,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,CE5054A8-6C38-4329-B296-1859DDA72BDE,Mucinex D (guaiFENesin-pseudoephedrine) oral tablet extended release,600 mg-60 mg,0.0,B3FEBD0D-69F1-4819-9151-564933329C73,41366EA4-BF30-4719-B6C2-4C79C15A80B4,2011.0,18,0.0,,61803
+0,1.0,1.0,1F752386-0CDF-4BF2-95E4-3930A5238019,Promethegan (promethazine) rectal suppository,25 mg,4.0,B3FEBD0D-69F1-4819-9151-564933329C73,B0D28C6A-5C64-4248-BD2E-25A7AD169A04,2009.0,12,0.0,,61703

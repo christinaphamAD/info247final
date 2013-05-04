@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,16039,E6CCF9E4-AAD9-4B2F-9B28-27BEF7A3F140,Prempro (conjugated estrogens-medroxyPROGESTERone) oral tablet,0.625 mg-2.5 mg,,6ECB9F01-B660-4442-9E64-5B1F1D116899,0F262C39-219D-4485-8DA0-9FBE06556783,2010.0,28.0,11,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,16039,E6CCF9E4-AAD9-4B2F-9B28-27BEF7A3F140,Prempro (conjugated estrogens-medroxyPROGESTERone) oral tablet,0.625 mg-2.5 mg,,6ECB9F01-B660-4442-9E64-5B1F1D116899,0F262C39-219D-4485-8DA0-9FBE06556783,2010.0,28,11,0.0,1.0

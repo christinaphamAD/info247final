@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,43089,7A434C6D-3474-42AC-B73F-3809C5212C29,Hydrochlorothiazide-Lisinopril oral tablet,12.5 mg-10 mg,,FAB6B055-A760-465E-A80D-7420E2954A9E,02062F26-A5BE-4ECC-B12C-69F3F6174C81,2011.0,90,3.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,43089,7A434C6D-3474-42AC-B73F-3809C5212C29,Hydrochlorothiazide-Lisinopril oral tablet,12.5 mg-10 mg,,FAB6B055-A760-465E-A80D-7420E2954A9E,02062F26-A5BE-4ECC-B12C-69F3F6174C81,2011.0,90,3.0,0.0,1.0

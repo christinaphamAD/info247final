@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,10306,4B0B6030-0FA7-4639-A50E-1C6887FA90F8,Tobramycin Ophthalmic ophthalmic solution,0.3%,,9646B2BF-09A3-4981-87D1-A6AD6C95D639,FF66BA16-430A-4A7E-B446-57A0B9EAEBA9,2009.0,1 bottle,0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,10306,4B0B6030-0FA7-4639-A50E-1C6887FA90F8,Tobramycin Ophthalmic ophthalmic solution,0.3%,,9646B2BF-09A3-4981-87D1-A6AD6C95D639,FF66BA16-430A-4A7E-B446-57A0B9EAEBA9,2009.0,20,0,0.0,1.0

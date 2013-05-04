@@ -1,4 +1,4 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,1849,9521946F-80C1-4CFB-87D1-07FD8316CE7D,Xopenex HFA (levalbuterol) inhalation aerosol with adapter,CFC free 45 mcg/inh,,808B2F31-51B3-44B6-BE26-417B7C1E5138,69124217-815C-4705-A8E3-40D65712B639,2010.0,1,0.0,0.0,1.0
-0,1856,9521946F-80C1-4CFB-87D1-07FD8316CE7D,Levaquin Leva-Pak (levofloxacin) oral tablet,750 mg,,02CD1AA9-6126-4899-8C48-2BCB860DE5D8,E5ADCB3F-B82F-4C57-B06B-AA8F31D82663,2010.0,1,0.0,0.0,1.0
-0,1863,9521946F-80C1-4CFB-87D1-07FD8316CE7D,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,,D8985EC3-A774-44A9-A191-6D2EB47AB02C,0C9C9846-0466-42F2-9B31-CC4FED4485E4,2010.0,240,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,2.0,1.0,0C9C9846-0466-42F2-9B31-CC4FED4485E4,Dextromethorphan-Promethazine oral syrup,15 mg-6.25 mg/5 mL,0.0,9521946F-80C1-4CFB-87D1-07FD8316CE7D,D8985EC3-A774-44A9-A191-6D2EB47AB02C,2010.0,240,0.0,,1863
+0,2.0,1.0,69124217-815C-4705-A8E3-40D65712B639,Xopenex HFA (levalbuterol) inhalation aerosol with adapter,CFC free 45 mcg/inh,0.0,9521946F-80C1-4CFB-87D1-07FD8316CE7D,808B2F31-51B3-44B6-BE26-417B7C1E5138,2010.0,1,0.0,,1849
+0,2.0,1.0,E5ADCB3F-B82F-4C57-B06B-AA8F31D82663,Levaquin Leva-Pak (levofloxacin) oral tablet,750 mg,0.0,9521946F-80C1-4CFB-87D1-07FD8316CE7D,02CD1AA9-6126-4899-8C48-2BCB860DE5D8,2010.0,1,0.0,,1856

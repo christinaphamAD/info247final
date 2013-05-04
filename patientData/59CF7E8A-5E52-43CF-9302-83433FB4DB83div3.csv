@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,131233,59CF7E8A-5E52-43CF-9302-83433FB4DB83,DesOwen (desonide topical) topical cream,0.05%,,12BA732B-9EC8-462C-8A39-7D7A0202F485,25092E54-99F1-4665-B936-740CDAC3D7FC,2010.0,15 gram,,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,131233,59CF7E8A-5E52-43CF-9302-83433FB4DB83,DesOwen (desonide topical) topical cream,0.05%,,12BA732B-9EC8-462C-8A39-7D7A0202F485,25092E54-99F1-4665-B936-740CDAC3D7FC,2010.0,20,,0.0,1.0

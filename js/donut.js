@@ -11,7 +11,7 @@ d3.csv("js/data.csv", function(error, data) {
   var data = processData(startpos,endpos)
 
   var width = 100   //160 of 432
-      height = 55  //140 of 300 PREVIOUSLY 100
+      height = 45  //140 of 300 PREVIOUSLY 100
       radius = 200
 
   var wscaler = 0.37
@@ -23,8 +23,8 @@ d3.csv("js/data.csv", function(error, data) {
       .sort(null);
 
   var arc = d3.svg.arc()
-      .innerRadius(radius - 100)
-      .outerRadius(radius - 60);
+      .innerRadius(radius - 140)
+      .outerRadius(radius - 100);
 
   var svg = d3.select("#testd3").append("svg")
       .attr("width", width +"%")

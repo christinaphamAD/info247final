@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,16,895B98C7-49DA-4372-AB38-00C5D663E67C,Allopurinol oral tablet,300 mg,,AFED3898-9CD3-4593-9E51-35CFA826A82A,F87ABD20-C36B-4D57-B542-80BB033A28A8,2011.0,30,5.0,0.0,1.0
-0,24,895B98C7-49DA-4372-AB38-00C5D663E67C,Vytorin (ezetimibe-simvastatin) oral tablet,10 mg-20 mg,,C266FB03-4561-4869-9C32-78C5B1FA9A6A,D7953F9F-E478-4892-97A2-3A201ED92510,2011.0,30,5.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,D7953F9F-E478-4892-97A2-3A201ED92510,Vytorin (ezetimibe-simvastatin) oral tablet,10 mg-20 mg,5.0,895B98C7-49DA-4372-AB38-00C5D663E67C,C266FB03-4561-4869-9C32-78C5B1FA9A6A,2011.0,30,0.0,,24
+0,1.0,1.0,F87ABD20-C36B-4D57-B542-80BB033A28A8,Allopurinol oral tablet,300 mg,5.0,895B98C7-49DA-4372-AB38-00C5D663E67C,AFED3898-9CD3-4593-9E51-35CFA826A82A,2011.0,30,0.0,,16

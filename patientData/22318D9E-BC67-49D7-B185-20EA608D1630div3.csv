@@ -1,4 +1,4 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,12361,22318D9E-BC67-49D7-B185-20EA608D1630,Lotrisone (betamethasone-clotrimazole topical) topical lotion,0.05%-1%,,5A7FB1FD-435A-4021-AF05-1614144EECAB,3CC18F47-28C8-4E89-8632-1F224B121DB6,2010.0,30,1,0.0,1.0
-0,12370,22318D9E-BC67-49D7-B185-20EA608D1630,Desitin Rapid Relief Creamy (zinc oxide topical) topical ointment,10%,,4E78659A-CE4C-446C-8898-001891D51547,598F4437-2D50-4176-ACD1-4D6EDF80CE04,2010.0,60,1,0.0,1.0
-0,12379,22318D9E-BC67-49D7-B185-20EA608D1630,Keppra (levETIRAcetam) oral tablet,250 mg,,D640D4AD-099F-4E70-99D1-EE87246A0488,D1F636F2-92DA-436E-B3A1-F46B5D524BCC,2010.0,60,,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,2.0,1.0,D1F636F2-92DA-436E-B3A1-F46B5D524BCC,Keppra (levETIRAcetam) oral tablet,250 mg,,22318D9E-BC67-49D7-B185-20EA608D1630,D640D4AD-099F-4E70-99D1-EE87246A0488,2010.0,60,0.0,,12379
+0,2.0,1.0,598F4437-2D50-4176-ACD1-4D6EDF80CE04,Desitin Rapid Relief Creamy (zinc oxide topical) topical ointment,10%,1,22318D9E-BC67-49D7-B185-20EA608D1630,4E78659A-CE4C-446C-8898-001891D51547,2010.0,60,0.0,,12370
+0,2.0,1.0,3CC18F47-28C8-4E89-8632-1F224B121DB6,Lotrisone (betamethasone-clotrimazole topical) topical lotion,0.05%-1%,1,22318D9E-BC67-49D7-B185-20EA608D1630,5A7FB1FD-435A-4021-AF05-1614144EECAB,2010.0,30,0.0,,12361

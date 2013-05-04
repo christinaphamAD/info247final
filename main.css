@@ -121,15 +121,16 @@ td, th {
 }
 
 .quarter {
-	width: 30%;
+	width: 22%;
 	min-height: 300px;
 	height: auto;
 }
 
 .threequart {
-	width: 60%;
+	width: 32%;
 	min-height: 300px;
 	height: auto;
+	margin-right:2%;
 }
 
 .tri-patient {
@@ -211,14 +212,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f9ff', end
 	margin: 0 auto -100px;
 }
 
-#logo { 
-	margin-top: 20px;
+#logo, #dash { 
+	margin-top: 10px;
 }
 
 #header {
 	font-family: Helvetica, Arial, sans-serif;
 	font-weight: 700;
-	min-height: 75px;
+	min-height: 55px;
 	width: 100%;
 	background: #f9f9f9; /* Old browsers */
 	background: -moz-linear-gradient(top,  #f9f9f9 0%, #efefef 100%); /* FF3.6+ */

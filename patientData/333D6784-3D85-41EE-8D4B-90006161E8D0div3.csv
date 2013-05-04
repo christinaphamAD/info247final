@@ -1,4 +1,4 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,134936,333D6784-3D85-41EE-8D4B-90006161E8D0,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,6084F6D1-CFF5-46EA-AEA3-5D9F81444A4B,B7C68BB2-E006-42B0-BE6E-2CFE8F974E5E,2011.0,20,0.0,0.0,1.0
-0,134984,333D6784-3D85-41EE-8D4B-90006161E8D0,Patanase (olopatadine nasal) nasal spray,665 mcg/inh,,54DF09D2-CC40-4D06-8A92-70853EAF9019,D7B86538-BC84-4F42-9796-62F180665437,2011.0,1,,0.0,1.0
-0,136040,333D6784-3D85-41EE-8D4B-90006161E8D0,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,A2EDDEFD-FDE2-437E-BA85-9BAD19136D54,F1351045-A7B1-4B91-B9BF-D9E64080AC35,2011.0,20,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,2.0,1.0,F1351045-A7B1-4B91-B9BF-D9E64080AC35,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,0.0,333D6784-3D85-41EE-8D4B-90006161E8D0,A2EDDEFD-FDE2-437E-BA85-9BAD19136D54,2011.0,20,0.0,,136040
+0,2.0,1.0,B7C68BB2-E006-42B0-BE6E-2CFE8F974E5E,Mucinex D (guaiFENesin-pseudoephedrine) oral tablet extended release,600 mg-60 mg,0.0,333D6784-3D85-41EE-8D4B-90006161E8D0,6084F6D1-CFF5-46EA-AEA3-5D9F81444A4B,2011.0,20,0.0,,134936
+0,2.0,1.0,D7B86538-BC84-4F42-9796-62F180665437,Patanase (olopatadine nasal) nasal spray,665 mcg/inh,,333D6784-3D85-41EE-8D4B-90006161E8D0,54DF09D2-CC40-4D06-8A92-70853EAF9019,2011.0,1,0.0,,134984

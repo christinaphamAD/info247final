@@ -5,46 +5,73 @@ $(document).ready(function() {
 
     $.ajax({
         type: "GET",
-        url: "js/patient.csv",
+        url: "patientData/BMIList.csv",
         dataType: "text",
         success: function(data) {
             createWaitingList(parseData(data));
         }
      });
 
-    $('#logo').bind('click', function(e) {
+    $('#dash').bind('click', function(e) {
         $('#patient').empty().fadeOut();
         $('#home').fadeIn();
         
     }) 
 
-    var curBar = null;
-    $(".bar").live("click", function(){
-        // console.log(curBar)
-        if(curBar === this){
-           $('#abPatients').hide()
-           curBar = null;
-           return;
-        }else if(curBar !== null){
-            $('#abPatients').hide()
-        }
-        // Set the variable to this
-        curBar = this;
-
-        var clicked = this
-        var barRef = this.getAttribute('id')
-        // console.log(barRef)
-        $('#abPatients').show()
+    function getNewData(){
+        var barRef = curBar.getAttribute('id');
+        // console.log(barRef);
         $.ajax({
-            type: "GET",
-            url: "labsData/" + barRef + ".csv",
-            dataType: "text",
-            success: function(data) {
-                createBarDiv(parseData(data))
-            }
-         });
-        // });
+          type: "GET",
+          url: "labsData/" + barRef + ".csv",
+          dataType: "text",
+          success: function(data) {
+              createBarDiv(parseData(data));
+          }
+        });
+        }
+        var curBar = null;
+        $(".bar").live("click", function(){
+          // console.log(curBar);
+          if(curBar === this){
+             $('#abPatients').fadeOut();
+             curBar = null;
+             return;
+          }else if(curBar !== null){
+              // Set the variable to this
+              curBar = this;
+              $('#abPatients').fadeOut({"complete":getNewData});
+          }else{
+              // Set the variable to this
+              curBar = this;
+              getNewData();
+          }
     });
+
+    // var curBar = null;
+    // $(".bar").live("click", function(){
+    //     // console.log(curBar)
+    //     if(curBar === this){
+    //        $('#abPatients').fadeOut()
+    //        curBar = null;
+    //        return;
+    //     }else if(curBar !== null){
+    //         $('#abPatients').fadeOut()
+    //     }
+    //     curBar = this;
+
+    //     var barRef = this.getAttribute('id')
+    //     $('#abPatients').show()
+    //     $.ajax({
+    //         type: "GET",
+    //         url: "labsData/" + barRef + ".csv",
+    //         dataType: "text",
+    //         success: function(data) {
+    //             createBarDiv(parseData(data))
+    //         }
+    //      });
+        // });
+    // });
 });
 
 function parseData(input) {
@@ -89,10 +116,17 @@ function createWaitingList(lines) {
 }
 
 function createBarDiv(data){
+    
     $('#abPatients ul').empty()
+    $('#abPatients').show();
     for(var k=1; k<data.length; k++){
         $('#abPatients ul').append('<li>Patient ID: <a id="' + data[k][0] + '">' + data[k][0].substring(0,8) + ' (' + data[k][1] + ')</a>')
     }
+
+    $('#abPatients ul li').hide().each(function(e){
+        $(this).delay(e*100).fadeIn();
+    })
+
     $('#abPatients a').bind('click', function(e){
         $('#home').fadeOut();
         $('#patient').delay(400).fadeIn();
@@ -103,6 +137,7 @@ function createBarDiv(data){
             url: "patientData/" + patientRef + "div1.csv",
             dataType: "text",
             success: function(data) { 
+                console.log(patientRef);
                 info = parseData(data);
                 getPatientData(1, info)
             ;}
@@ -116,7 +151,7 @@ function getPatientData(ref, data) {
 
     $('#patient').append('<div id="genData" class="container"></div>')
     $('#genData')
-    .append('<h1>Patient ' + data[ref][1] + '</h1>' )
+    .append('<h1>Patient ID: ' + data[ref][2].substring(0,8) + '</h1>' )
     .append('<div class="tri-patient left" id="basicInfo"></div><div class="tri-patient left" id="detailInfo"></div>')
 
     $('#basicInfo')
@@ -222,6 +257,9 @@ function createTable(location, data) {
     if(location == "prescriptions") {
         // console.log(data);
         // console.log(data.length);
+        var containerX = 440;
+        console.log(data);
+        console.log(data.length);
         if(data.length < 3){
             $("#prescriptions")
             .append("No prescriptions listed.");
@@ -229,7 +267,7 @@ function createTable(location, data) {
         else {
             var newData = new Array();
             var max = -9;
-            for (var k=1; k<(data.length-1); k++){
+            for (var k=1; k<(data.length-1) && k<13; k++){
                 newData[k-1]=data[k];
                 // console.log(max)
                 // console.log(newData[k-1])
@@ -239,45 +277,47 @@ function createTable(location, data) {
             }
             var chart = d3.select("#prescriptions").append("svg")
                 .attr('class', 'chart')
-                .attr("width", 430)
-                .attr("height", 20 * newData.length + 20)
+                .attr("width", containerX)
+                .attr("height", 20 * newData.length + 40)
               .append("g")
                 .attr("transform", "translate(10,15)");
             
             var x = d3.scale.linear()
                 .domain([0, max])
-                .range([175, 340]);
+                .range([175, containerX-110]);
 
             chart.selectAll("rect")
                 .data(newData)
                 .enter().append("rect")
-                .attr("y", function(d, i) { return i * 20; })
+                .attr("y", function(d, i) { return i * 20 +20; })
                 .attr("x", 175)
-                .attr("width", function(d, i) { 
+                .attr("width", 0)
+                .attr("height", 20)
+                .transition()
+                .delay(function(d,i){
+                    return 400;})
+                .attr('width', function(d, i) { 
                     var wid = x(parseInt(d[10]));
                     wid = wid - 175;
                     return  wid;})
-                .attr("height", 20);
+                    .ease('linear')
+                    .duration(1000);
 
             chart.selectAll("text")
                 .data(newData)
                 .enter().append("text")
                 .attr("x", 0)
-                .attr("y", function(d, i) { return i * 20; })
-                .attr("dx", 5) // padding-right
+                .attr("y", function(d, i) { return i * 20 +20; })
+                .attr("dx", 0) // padding-right
                 .attr("dy", 15) // vertical-align: middle
                 .attr("text-anchor", "start") // text-align: right
-                //.attr('onmouseover', )
+                .attr("title", function(d){
+                    var part = d[4];
+                    var part2 = d[5];
+                    part = part + " - " + part2;
+                    return part;
+                })
                 .text(function(d,i) {
-                    /* 
-                    var words = d[4].split(/\W+/);
-                    var firstTwo = "";
-                    console.log(words);
-                    for (var k=0; k<2; k++){
-                        firstTwo = firstTwo + " " + words[k];
-                    }
-                    return firstTwo;
-                    */
                     var part = d[4].substring(0,10);
                     part = part + "...";
                     var part2 = d[5].substring(0,6);
@@ -285,6 +325,7 @@ function createTable(location, data) {
                     part = part + " - " + part2;
                     return part;
                     });
+            /*
             chart.selectAll("line")
                 .data(x.ticks(4))
               .enter().append("line")
@@ -292,21 +333,72 @@ function createTable(location, data) {
                 .attr("x2", x)
                 .attr("y1", 0)
                 .attr("y2", 20 * newData.length)
-                .style("stroke", "rgba(10, 10, 10, .1);");
-
+                .style("stroke", "rgba(210, 210, 210, 1);");
+            */
             chart.selectAll(".rule")
                 .data(x.ticks(4))
               .enter().append("text")
                 .attr("class", "rule")
                 .attr("x", x)
-                .attr("y", 0)
+                .attr("y", 20)
                 .attr("dy", -3)
                 .attr("text-anchor", "middle")
                 .text(String);
 
+            chart.selectAll(".name")
+                .data([1])
+              .enter().append("text")
+                .attr("class", "name")
+                .attr("x", 80)
+                .attr("y", 20)
+                .attr("dy", -3)
+                .attr("text-anchor", "middle")
+                .text("Medication - Strength");
+
+            chart.selectAll(".barname")
+                .data([1])
+              .enter().append("text")
+                .attr("class", "barname")
+                .attr("x", 175)
+                .attr("y", 0)
+                .text("Number of Pills Prescribed");
+
+            chart.selectAll(".refillname")
+                .data([1])
+              .enter().append("text")
+                .attr("class", "refillname")
+                .attr("x", containerX-50)
+                .attr("y", 20)
+                .attr("dy", -3)
+                .attr("text-anchor", "middle")
+                .text("Refillable");
+            
             chart.append("line")
-                .attr("y1", 0)
-                .attr("y2", 20 * newData.length)
+                .attr("y1", 20)
+                .attr("y2", 20)
+                .attr("x1", 0)
+                .attr("x2", containerX-20)
+                .style("stroke", "#000");
+            
+            chart.append("line")
+                .attr("y1", 20 * newData.length + 20)
+                .attr("y2", 20 * newData.length + 20)
+                .attr("x1", 0)
+                .attr("x2", containerX-20)
+                .style("stroke", "#000");
+
+            chart.append("line")
+                .attr("x1", 160)
+                .attr("x2", 160)
+                .attr("y1", 20)
+                .attr("y2", 20 * newData.length + 20)
+                .style("stroke", "#000");
+
+            chart.append("line")
+                .attr("x1", containerX-80)
+                .attr("x2", containerX-80)
+                .attr("y1", 20)
+                .attr("y2", 20 * newData.length + 20)
                 .style("stroke", "#000");
 
             chart.selectAll(".tot")
@@ -314,7 +406,7 @@ function createTable(location, data) {
                 .enter().append("text")
                 .attr("class", "tot")
                 .attr("x", function(d) { return x(parseInt(d[10])); })
-                .attr("y", function(d, i) { return i * 20; })
+                .attr("y", function(d, i) { return i * 20 + 20; })
                 .attr("dx", function(d) {
                     if (parseInt(d[10]).toString().length==2) {
                         return 18;
@@ -331,14 +423,21 @@ function createTable(location, data) {
 
             chart.selectAll(".refill")
                 .data(newData)
-                .enter().append("text")
+                .enter().append("image")
                 .attr("class", "refill")
-                .attr("x",  390)
-                .attr("y", function(d, i) { return i * 20; })
-                .attr("dy", 15) // vertical-align: middle
-                .attr("text-anchor", "end") // text-align: right
-                .text(function(d,i) { 
-                    return parseInt(d[11]).toString();                    
+                .attr("x",  containerX-60)
+                .attr("y", function(d, i) { return i * 20 + 21; })
+                //.attr("dy", 1) // vertical-align: middle
+                .attr("width", 17)
+                .attr("height", 17)
+                .attr("xlink:href", function(d,i) { 
+                    var x = parseInt(d[11]).toString();    
+                    if (x>0) {
+                        return "js/image1.png"
+                    }  
+                    else {
+                        return "js/image2.png"
+                    }              
                     });
                 /*.style("width", function(d,i) { 
                     console.log(d[10])
@@ -363,9 +462,9 @@ function createTable(location, data) {
     }
 
     if (location == "patientList"){
-        $('#patientList table').append('<tr class="tabHead"><th>Upcoming Patients</th></tr>')
-        for(var k=1; k<data.length; k++){
-            $('#patientList table').append('<tr><td>' + k + '. ' + '<a id="' + data[k][1] + '" data-attr="' + k + '">Patient ' + data[k][1] + '</a></td></tr>')
+        $('#patientList table').append('<tr class="tabHead"><th>Most At Risk</th></tr>')
+        for(var k=1; k<data.length && k < 11; k++){
+            $('#patientList table').append('<tr><td>' + k + '. ' + '<a id="' + data[k][1] + '" data-attr="' + k + '">Patient ID: ' + data[k][2].substring(0,8) + '</a></td></tr>')
         }
     }
 }

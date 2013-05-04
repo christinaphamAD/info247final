@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,47725,27469D95-EF82-4BC4-8ADE-469FE563A6D8,Lisinopril oral tablet,10 mg,,F83725F3-C07D-4595-A6FF-2B32EA854154,083FA49D-D22A-45EB-A155-8795264555B7,2010.0,90,3.0,0.0,1.0
-0,47755,27469D95-EF82-4BC4-8ADE-469FE563A6D8,Zestril (lisinopril) oral tablet,10 mg,,8A5CCB74-582C-4FDD-8D43-E2B864F3A98D,25D8BE78-0A43-40E3-B58F-FA942698275C,2011.0,90,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,25D8BE78-0A43-40E3-B58F-FA942698275C,Zestril (lisinopril) oral tablet,10 mg,0.0,27469D95-EF82-4BC4-8ADE-469FE563A6D8,8A5CCB74-582C-4FDD-8D43-E2B864F3A98D,2011.0,90,0.0,,47755
+0,1.0,1.0,083FA49D-D22A-45EB-A155-8795264555B7,Lisinopril oral tablet,10 mg,3.0,27469D95-EF82-4BC4-8ADE-469FE563A6D8,F83725F3-C07D-4595-A6FF-2B32EA854154,2010.0,90,0.0,,47725

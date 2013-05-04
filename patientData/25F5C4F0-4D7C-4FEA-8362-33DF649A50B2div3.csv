@@ -1,2 +1,2 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,41653,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,69A74C8D-F895-45CF-9459-0E2D0352B501,7C1483A6-319B-4797-80AC-FC6979823FB1,2012.0,20,0.0,0.0,1.0
+,index2,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
+0,0,41653,25F5C4F0-4D7C-4FEA-8362-33DF649A50B2,Augmentin (amoxicillin-clavulanate) oral tablet,875 mg-125 mg,,69A74C8D-F895-45CF-9459-0E2D0352B501,7C1483A6-319B-4797-80AC-FC6979823FB1,2012.0,20,0.0,0.0,1.0

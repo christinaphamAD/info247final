@@ -1,3 +1,3 @@
-,index,PatientGuid,MedicationName_y,MedicationStrength,Schedule,PrescriptionGuid,MedicationGuid,PrescriptionYear,Quantity,NumberOfRefills,RefillAsNeeded,GenericAllowed
-0,53903,36859723-B34F-4049-965F-49CA5200FF47,Antivert (meclizine) oral tablet,25 mg,,24CEE183-C890-426D-B49F-101DF7960501,AE51F94E-B755-49A6-9890-D2B19295A171,2010.0,15.0,0.0,0.0,1.0
-0,53908,36859723-B34F-4049-965F-49CA5200FF47,"Mucinex D (guaiFENesin-pseudoephedrine) oral tablet, extended release",600 mg-60 mg,,5D7528E0-8D1B-4C86-AF0F-C7BC1913CF19,11D18F1F-39B5-4BD7-BCF9-4C752F3828EA,2010.0,20.0,0.0,0.0,1.0
+,index2,GenericAllowed,MedicationGuid,MedicationName_y,MedicationStrength,NumberOfRefills,PatientGuid,PrescriptionGuid,PrescriptionYear,Quantity,RefillAsNeeded,Schedule,index
+0,1.0,1.0,11D18F1F-39B5-4BD7-BCF9-4C752F3828EA,Mucinex D (guaiFENesin-pseudoephedrine) oral tablet extended release,600 mg-60 mg,0.0,36859723-B34F-4049-965F-49CA5200FF47,5D7528E0-8D1B-4C86-AF0F-C7BC1913CF19,2010.0,20,0.0,,53908
+0,1.0,1.0,AE51F94E-B755-49A6-9890-D2B19295A171,Antivert (meclizine) oral tablet,25 mg,0.0,36859723-B34F-4049-965F-49CA5200FF47,24CEE183-C890-426D-B49F-101DF7960501,2010.0,15,0.0,,53903
