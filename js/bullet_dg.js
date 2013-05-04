@@ -14,7 +14,7 @@ function createBulletChart(dataInput){
   	var canvas = d3.select("#bullet").append('svg')
     		.attr({
       		"id":"canvas",
-      		"height": '40'+'%',
+      		"height": '30'+'%',
       		"width": '100'+'%'
       	});
 

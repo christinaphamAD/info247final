@@ -72,6 +72,9 @@ $(document).ready(function() {
     //      });
         // });
     // });
+
+
+
 });
 
 function parseData(input) {
@@ -96,7 +99,9 @@ function parseData(input) {
 }
 
 function createWaitingList(lines) {
-    $('#patientList').append('<div class="tableData"><table cellpadding="0" cellspacing="0"></table></div>')
+    $('#patientList').append('<div class="tableData"><table cellpadding="0" cellspacing="0"></table></div>');
+
+    $('.tableData').hide().fadeIn(1500);
 
     createTable("patientList", lines)
     // for (var k=1; k<lines.length; k++){
@@ -163,11 +168,11 @@ function getPatientData(ref, data) {
     .append('<strong>Weight:</strong> ' + data[ref][8] + ' lbs<br />')
     .append('<strong>Last Visit:</strong> ' + data[ref][6].substring(0,4) + '<br />')
 
-    $('#patient').append('<div id="bullet" class="container half left tableData"></div>')
-    .append('<div id="allergies" class="container half right tableData"><h2>Allergies</h2><table cellpadding="0" cellspacing="0"></table></div>')
-    .append('<div id="prescriptions" class="container half left tableData"><h2>Prescriptions</h2><table cellpadding="0" cellspacing="0"></table></div>')
-    .append('<div id="diagnoses" class="container half right tableData"><h2>Diagnoses</h2><table cellpadding="0" cellspacing="0"></table></div>')
-    console.log(data[ref][2])
+    $('#patient').append('<div class="wrap-half left"><div id="bullet" class="container full left tableData"><h2>Statistics</h2></div><div id="prescriptions" class="container full left tableData"><h2>Prescriptions</h2><div class="tableData"><table cellpadding="0" cellspacing="0"></table></div></div></div>')
+    .append('<div class="wrap-half right"><div id="diagnoses" class="container full right tableData"><h2>Diagnoses</h2><table cellpadding="0" cellspacing="0"></table></div><div id="allergies" class="container full right tableData"><h2>Allergies</h2><div class="tableData"><table cellpadding="0" cellspacing="0"></table></div></div></div>')
+    
+    $('.tableData').hide().fadeIn(1500);
+
     $.ajax({
         type: "GET",
         url: "patientData/" + data[ref][2] + "div2.csv",
@@ -198,15 +203,13 @@ function getPatientData(ref, data) {
 function createTable(location, data) {
     if(location == "allergies"){
         if(data.length < 3){
-            $("#allergies")
-            .append("No allergies listed.");
+            $("#allergies").append("No allergies listed.");
         }
         else {
             $("#allergies table")
             .append("<tr class='tabHead'><th>Allergy Name</th><th>Reaction</th><th class='smalltd'>Severity</th></tr>")
             for (var k=1; k<(data.length-1); k++){
-                $('#allergies table')
-                .append('<tr><td>' + data[k][7] + '</td><td>' + data[k][5] + '</td><td>' + data[k][6] + '</td></tr>')
+                $('#allergies table').append('<tr><td>' + data[k][7] + '</td><td>' + data[k][5] + '</td><td>' + data[k][6] + '</td></tr>')
             }
         }
     }
@@ -218,7 +221,7 @@ function createTable(location, data) {
         }
         else {
             $("#diagnoses table")
-            .append("<tr class='tabHead'><th>Description</th><th class='smalltd'>Years Active</th><th class='tinytd'>Acute</th></tr>")
+            .append("<tr class='tabHead'><th>Description</th><th class='smalltd'>Years</th><th class='tinytd'>Acute</th></tr>")
             for (var k=1; k<(data.length-1) && k<6; k++){
 
                 if (data.length > 5){
@@ -345,6 +348,7 @@ function createTable(location, data) {
                 .attr("y", 20)
                 .attr("dy", -3)
                 .attr("text-anchor", "middle")
+                .style("font-size", 10)
                 .text(String);
 
             chart.selectAll(".name")
