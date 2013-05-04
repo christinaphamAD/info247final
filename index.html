@@ -10,7 +10,7 @@
 <script type="text/javascript" src="js/bar.js"></script>
 <script type="text/javascript" src="js/patients.js"></script>
 <script type="text/javascript" src="js/bullet_dg.js"></script>
-
+<script src="js/jquery.bpopup.min.js"></script> 
 </head>
 
 <body>
@@ -36,8 +36,15 @@
 					<h2># Of Patients with Abnormal Labs</h2>
 					<div id = "ablab"></div>
 
-					<div id="abPatients"><ul></ul></div>
+					
 
+					<div id="element-pop-up">
+						<div id="abPatients" class="container">
+							<h3><strong>Patients with Abnormal Labs</strong></h3>
+							<ul>
+							</ul>
+						</div>
+					</div>
 				</div>
 
 				<div class="container quarter right" id="patientList">
