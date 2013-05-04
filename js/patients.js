@@ -163,10 +163,8 @@ function getPatientData(ref, data) {
     .append('<strong>Weight:</strong> ' + data[ref][8] + ' lbs<br />')
     .append('<strong>Last Visit:</strong> ' + data[ref][6].substring(0,4) + '<br />')
 
-    $('#patient').append('<div id="bullet" class="container half left tableData"></div>')
-    .append('<div id="allergies" class="container half right tableData"><h2>Allergies</h2><table cellpadding="0" cellspacing="0"></table></div>')
-    .append('<div id="prescriptions" class="container half left tableData"><h2>Prescriptions</h2><table cellpadding="0" cellspacing="0"></table></div>')
-    .append('<div id="diagnoses" class="container half right tableData"><h2>Diagnoses</h2><table cellpadding="0" cellspacing="0"></table></div>')
+    $('#patient').append('<div class="wrap-half left"><div id="bullet" class="container full left tableData"><h2>Statistics</h2></div><div id="prescriptions" class="container full left tableData"><h2>Prescriptions</h2><table cellpadding="0" cellspacing="0"></table></div></div>')
+    .append('<div class="wrap-half right"><div id="diagnoses" class="container full right tableData"><h2>Diagnoses</h2><table cellpadding="0" cellspacing="0"></table></div><div id="allergies" class="container full right tableData"><h2>Allergies</h2><table cellpadding="0" cellspacing="0"></table></div></div>')
     console.log(data[ref][2])
     $.ajax({
         type: "GET",
@@ -218,7 +216,7 @@ function createTable(location, data) {
         }
         else {
             $("#diagnoses table")
-            .append("<tr class='tabHead'><th>Description</th><th class='smalltd'>Years Active</th><th class='tinytd'>Acute</th></tr>")
+            .append("<tr class='tabHead'><th>Description</th><th class='smalltd'>Years</th><th class='tinytd'>Acute</th></tr>")
             for (var k=1; k<(data.length-1) && k<6; k++){
 
                 if (data.length > 5){
@@ -345,6 +343,7 @@ function createTable(location, data) {
                 .attr("y", 20)
                 .attr("dy", -3)
                 .attr("text-anchor", "middle")
+                .style("font-size", 10)
                 .text(String);
 
             chart.selectAll(".name")
