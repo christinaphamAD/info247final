@@ -242,6 +242,18 @@ tr:nth-child(even) td{
 	margin-top: 9px;
 }
 
+#logo {
+	width: 50%;
+}
+
+#logoimg {
+	background-image: url('images/logo.png');
+	background-repeat: none;
+	width: 35px;
+	height:35px;
+	margin-right: 10px;
+}
+
 #header {
 	font-family: Helvetica, Arial, sans-serif;
 	font-weight: 700;
