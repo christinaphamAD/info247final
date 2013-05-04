@@ -131,7 +131,7 @@ function drawYAxis(stroke){
       .attr('stroke',stroke)
       .attr('fill',stroke)
       .attr('stroke-width',-1)
-      .text("# of abnormal lab results")
+      .text("Abnormal Lab Results")
       .attr('y',yindent*.065)
       .attr('x',xindent*.05-yinit)
       .transition()
@@ -174,11 +174,19 @@ var yshift = (parseInt(d3.select("#canvas").style('height').split('p'))*0.92)
 	  .duration(600);
 	  //.ease('linear');
 
-  canvas.selectAll('text')
+  canvas.selectAll('.barlabel')
     .data(data)
-  .enter().append('text');
-  //.attr('x','0')
- // .attr('y','0')
+  .enter().append('text')
+  .attr('class','barlabel')
+  .attr('x',function(d,i){
+    return xshift +x(d.lab) + x.rangeBand()/2
+  })
+  .attr('y',function(d){return y(d.numablabs)})
+  .attr('dy',15)
+  //.attr('dx',)
+  .attr('text-anchor','middle')
+  .attr('fill','white')
+  .text(function(d){return d.numablabs})
    /* .attr("x", function(d){return xshift + x(d.lab) + x.rangeBand()/2})
     .attr("y", function(d) { return y(d.lab)})
     .attr("dx", -3) // padding-right
