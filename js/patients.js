@@ -220,6 +220,7 @@ function createTable(location, data) {
             $("#diagnoses table")
             .append("<tr class='tabHead'><th>Description</th><th class='smalltd'>Years Active</th><th class='tinytd'>Acute</th></tr>")
             for (var k=1; k<(data.length-1) && k<6; k++){
+
                 if (data.length > 5){
                     if (data[k][6].length > 0){
                         if (data[k][7].length > 0) {
@@ -229,6 +230,7 @@ function createTable(location, data) {
                         else {
                             yearEnd = ""
                         }
+
                         $('#diagnoses table').append('<tr><td>' + data[k][5] + '</td><td>' + data[k][6].substring(0,4) + ' - ' + yearEnd + '</td><td>' + data[k][8] + '</td></tr>')
                     }
                     else {
