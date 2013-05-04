@@ -154,11 +154,23 @@ function createBarDiv(data){
 
 function getPatientData(ref, data) {
 
-    $('#patient').append('<div id="genData" class="container"></div>')
-    $('#genData')
-    .append('<h1>Patient ID: ' + data[ref][2].substring(0,8) + '</h1>' )
-    .append('<div class="tri-patient left" id="basicInfo"></div><div class="tri-patient left" id="detailInfo"></div>')
+    // $('#patient').append('<div id="genData" class="container"></div>')
+    // $('#genData')
+    // .append('<h1>Patient ID: ' + data[ref][2].substring(0,8) + '</h1>' )
+    // .append('<div class="tri-patient left" id="basicInfo"></div><div class="tri-patient left" id="detailInfo"></div>')
 
+    // $('#basicInfo')
+    // .append('<strong>Gender:</strong> ' + data[ref][3] + '<br />')
+    // .append('<strong>Year of Birth:</strong> ' + data[ref][4] + '<br />')
+    // .append('<strong>Age:</strong> ' + data[ref][15] + '<br />')
+    // $('#detailInfo')
+    // .append('<strong>Height:</strong> ' + data[ref][7] + '"<br />')
+    // .append('<strong>Weight:</strong> ' + data[ref][8] + ' lbs<br />')
+    // .append('<strong>Last Visit:</strong> ' + data[ref][6].substring(0,4) + '<br />')
+
+    $('#patient').append('<div class="wrap-half left"><div id="genData" class="container full"> <h1>Patient ID: ' + data[ref][2].substring(0,8) + '</h1><div class="wrap-half left" id="basicInfo"></div><div class="wrap-half left" id="detailInfo"></div></div><div id="bullet" class="container full left tableData"><h2>Statistics</h2></div><div id="allergies" class="container full left tableData"><h2>Allergies</h2><div class="tableData"><table cellpadding="0" cellspacing="0"></table></div></div></div>')
+    .append('<div class="wrap-half right"><div id="diagnoses" class="container full right tableData"><h2>Diagnoses</h2><table cellpadding="0" cellspacing="0"></table></div><div id="prescriptions" class="container full right tableData"><h2>Prescriptions</h2><div class="tableData"><table cellpadding="0" cellspacing="0"></table></div></div></div>')
+    
     $('#basicInfo')
     .append('<strong>Gender:</strong> ' + data[ref][3] + '<br />')
     .append('<strong>Year of Birth:</strong> ' + data[ref][4] + '<br />')
@@ -168,9 +180,6 @@ function getPatientData(ref, data) {
     .append('<strong>Weight:</strong> ' + data[ref][8] + ' lbs<br />')
     .append('<strong>Last Visit:</strong> ' + data[ref][6].substring(0,4) + '<br />')
 
-    $('#patient').append('<div class="wrap-half left"><div id="bullet" class="container full left tableData"><h2>Statistics</h2></div><div id="prescriptions" class="container full left tableData"><h2>Prescriptions</h2><div class="tableData"><table cellpadding="0" cellspacing="0"></table></div></div></div>')
-    .append('<div class="wrap-half right"><div id="diagnoses" class="container full right tableData"><h2>Diagnoses</h2><table cellpadding="0" cellspacing="0"></table></div><div id="allergies" class="container full right tableData"><h2>Allergies</h2><div class="tableData"><table cellpadding="0" cellspacing="0"></table></div></div></div>')
-    
     $('.tableData').hide().fadeIn(1500);
 
     $.ajax({
@@ -207,7 +216,7 @@ function createTable(location, data) {
         }
         else {
             $("#allergies table")
-            .append("<tr class='tabHead'><th>Allergy Name</th><th>Reaction</th><th class='smalltd'>Severity</th></tr>")
+            .append("<tr class='tabHead'><th>Allergy Name</th><th class='medtd'>Reaction</th><th class='smalltd'>Severity</th></tr>")
             for (var k=1; k<(data.length-1); k++){
                 $('#allergies table').append('<tr><td>' + data[k][7] + '</td><td>' + data[k][5] + '</td><td>' + data[k][6] + '</td></tr>')
             }

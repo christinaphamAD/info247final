@@ -93,6 +93,10 @@ tr:nth-child(even) td{
 	width: 20%;
 }
 
+.medtd {
+	width:30%;
+}
+
 .hide {
 	display: none !important;
 }
@@ -135,14 +139,14 @@ tr:nth-child(even) td{
 
 .full {
 	width: 100%;
-	min-height: 250px;
-	height: auto;
+/*	min-height: 250px;
+	height: auto;*/
 }
 
 .half {
 	width: 45%;
-	min-height: 250px;
-	height: auto;
+/*	min-height: 250px;
+	height: auto;*/
 }
 
 .quarter {
