@@ -1,6 +1,7 @@
 // INFO 247 - Final Project
 
 $(document).ready(function() {
+
     $('#patient').hide();
 
     $.ajax({
@@ -91,7 +92,7 @@ $(document).ready(function() {
             }
         });
         $('#element-pop-up').bPopup({
-            position:[570,100]
+            position:["auto",100]
         });
     });
 
@@ -357,7 +358,33 @@ function createTable(location, data) {
                     part2 = part2 +"..."
                     part = part + " - " + part2;
                     return part;
-                    });
+                    })
+                .on("mouseover", function(d){ mouseover(d); })
+                .on("mousemove", function(d){ mousemove(d); })
+                .on("mouseout", mouseout);
+
+            var div = d3.select("#outerPrescription").append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 1e-6);
+
+            function mouseover(d) {
+                div.transition()
+                    .duration(500)
+                    .style("opacity", 1);
+            };
+
+            function mousemove(d) {
+                div
+                    .text(d[4] + "-" + d[5])
+                    .style("left", (d3.event.pageX-150) + "px")
+                    .style("top", (d3.event.pageY-30) + "px");
+            };
+
+            function mouseout() {
+                div.transition()
+                    .duration(500)
+                    .style("opacity", 1e-6);
+            };
             /*
             chart.selectAll("line")
                 .data(x.ticks(4))
@@ -492,6 +519,9 @@ function createTable(location, data) {
                 $('#prescriptions table').append('<tr><td>' + data[k][3] + '</td><td>' + data[k][4] + '</td><td>' + data[k][9] + '</td><td>'+refillable+'</td></tr>')
             }
             */
+            // $('[text-anchor="start"]').tooltip({
+            //     track: true
+            // });
         }
     }
 

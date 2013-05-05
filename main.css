@@ -235,6 +235,24 @@ tr:nth-child(even) td{
 	overflow-x: hidden;
 }
 
+div.tooltip {  
+	position: absolute;           
+	text-align: center;           
+	width: auto;                  
+	height: auto;                 
+	padding: 5px;             
+	font: 12px sans-serif;        
+	background: #FFF;          
+	pointer-events: none; 
+	color: #666;      
+	border: 1px solid #bbb; 
+	box-shadow: 0px 0px 4px #333; 
+}
+
+#prescriptions text:hover {
+	cursor: default;
+}
+
 .bar:hover {
 	fill: #4FA6D6;
 	cursor: pointer;
