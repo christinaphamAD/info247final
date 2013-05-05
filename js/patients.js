@@ -1,7 +1,7 @@
 // INFO 247 - Final Project
 
 $(document).ready(function() {
-
+    $('#dash').hide();
     $('#patient').hide();
 
     $.ajax({
@@ -15,6 +15,7 @@ $(document).ready(function() {
 
     $('#dash').bind('click', function(e) {
         $('#patient').empty().fadeOut();
+        $('#dash').fadeOut();
         $('#home').fadeIn();
         $('#logo').find('h1').hide().html('Doctor Dashboard - Lab View').fadeIn()
         
@@ -129,7 +130,7 @@ function createBarDiv(data){
 
 
 function getPatientData(ref, data) {
-
+    $('#dash').fadeIn();
     $('#logo').find('h1').hide().html('Doctor Dashboard - Patient View').fadeIn(1000)
 
     $('#patient').append('<div class="wrap-half left"><div id="genData" class="container full"> <h1>Patient ID: ' + data[ref][2].substring(0,8) + '</h1><div class="wrap-half left" id="basicInfo"></div><div class="wrap-half left" id="detailInfo"></div></div><div id="diagnoses" class="container full left"><h2>Diagnoses</h2><div class="tableHead"><table cellpadding="0" cellspacing="0"><tr class="tabHead"><th>Description</th><th class="smallth">Years</th><th class="tinyth">Acute</th></tr></table></div><div class="tableData"><table cellpadding="0" cellspacing="0" id="diagTable"></table></div></div><div id="allergies" class="container full left"><h2>Allergies</h2><div class="tableHead"><table cellpadding="0" cellspacing="0"><tr class="tabHead"><th>Allergy Name</th><th class="medth">Reaction</th><th class="smallth2">Severity</th></tr></table></div><div class="tableData"><table cellpadding="0" cellspacing="0" id="allergTable"></table></div></div></div>')
@@ -191,7 +192,14 @@ function createTable(location, data) {
             .append("No diagnoses listed.");
         }
         else {
+
             for (var k=1; k<(data.length-1) && k<6; k++){
+                if(data[k][8] == "1"){
+                    acute = "js/image1.png"
+                }
+                else {
+                    acute = "js/image2.png"
+                }
 
                 if (data.length > 5){
                     if (data[k][6].length > 0){
@@ -203,11 +211,11 @@ function createTable(location, data) {
                             yearEnd = ""
                         }
 
-                        $('#diagTable').append('<tr><td>' + data[k][5] + '</td><td class="smalltd">' + data[k][6].substring(0,4) + ' - ' + yearEnd + '</td><td class="tinytd">' + data[k][8] + '</td></tr>')
+                        $('#diagTable').append('<tr><td>' + data[k][5] + '</td><td class="smalltd">' + data[k][6].substring(0,4) + ' - ' + yearEnd + '</td><td class="tinytd center"><img src="' + acute + '" height="15" width="15" /></td></tr>')
                     }
                     else {
                         //ignore
-                        $('#diagTabletable').append('<tr><td>' + data[k][5] + '</td><td class="smalltd">N/A</td><td class="tinytd">' + data[k][8] + '</td></tr>')
+                        $('#diagTabletable').append('<tr><td>' + data[k][5] + '</td><td class="smalltd">N/A</td><td class="tinytd center"><img src="' + acute + '" height="15" width="15" /></td></tr>')
                     }
                 }
                 
@@ -215,19 +223,6 @@ function createTable(location, data) {
         }
     }
 
-    // if(location == "prescriptions") {
-    //     if(data.length < 3){
-    //         $("#" + location)
-    //         .append("No prescriptions listed.");
-    //     }
-    //     else {
-    //         $("#" + location + " table")
-    //         .append("<tr class='tabHead'><th>Name</th><th>Strength</th></tr>")
-    //         for (var k=1; k<(data.length-1) && k<6; k++){
-    //             $("#" + location + " table").append('<tr><td>' + data[k][3] + '</td><td>' + data[k][4] + '</td></tr>')
-    //         }
-    //     }
-    // }
     if(location == "prescriptions") {
         // console.log(data);
         // console.log(data.length);
