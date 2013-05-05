@@ -1,6 +1,7 @@
 // INFO 247 - Final Project
 
 $(document).ready(function() {
+
     $('#patient').hide();
 
     $.ajax({
@@ -31,26 +32,27 @@ $(document).ready(function() {
         });
     }
 
+    $('#abPatients').hide()
 
 
-    var curBar = null;
-    $(".bar").live("click", function(){
+    // var curBar = null;
+    // $(".bar").live("click", function(){
 
-      // console.log(curBar);
-      if(curBar === this){
-         $('#abPatients').fadeOut();
-         curBar = null;
-         return;
-      }else if(curBar !== null){
-          // Set the variable to this
-          curBar = this;
-          $('#abPatients').fadeOut({"complete":getNewData});
-      }else{
-          // Set the variable to this
-          curBar = this;
-          getNewData();
-      }
-    });
+    //   // console.log(curBar);
+    //   if(curBar === this){
+    //      $('#abPatients').fadeOut();
+    //      curBar = null;
+    //      return;
+    //   }else if(curBar !== null){
+    //       // Set the variable to this
+    //       curBar = this;
+    //       $('#abPatients').fadeOut({"complete":getNewData});
+    //   }else{
+    //       // Set the variable to this
+    //       curBar = this;
+    //       getNewData();
+    //   }
+    // });
 
     // var curBar = null;
     // $(".bar").live("click", function(){
@@ -74,10 +76,29 @@ $(document).ready(function() {
     //             createBarDiv(parseData(data))
     //         }
     //      });
-        // });
+    //     });
     // });
 
+    var curBar = null;
+    $(".bar").live("click", function(){
+        var barRef = this.getAttribute('id')
+        $('#abPatients').show()
+        $.ajax({
+            type: "GET",
+            url: "labsData/" + barRef + ".csv",
+            dataType: "text",
+            success: function(data) {
+                createBarDiv(parseData(data))
+            }
+        });
+        $('#element-pop-up').bPopup({
+            position:["auto",100]
+        });
+    });
 
+    $("#element-pop-up a").live("click",function(){
+        $("#element-pop-up").bPopup().close();}
+    );
 
 });
 
@@ -103,9 +124,8 @@ function parseData(input) {
 }
 
 function createWaitingList(lines) {
-    $('#patientList').append('<div class="tableData"><table cellpadding="0" cellspacing="0"></table></div>');
-
-    $('.tableData').hide().fadeIn(1500);
+    $('#patientList').append('<div class="waitingData"><table cellpadding="0" cellspacing="0"></table></div>');
+    $('.waitingData').hide().fadeIn(1500);
 
     createTable("patientList", lines)
     // for (var k=1; k<lines.length; k++){
@@ -118,7 +138,7 @@ function createWaitingList(lines) {
 
     $('#patientList a').bind('click', function(e){
         $('#home').fadeOut();
-        $('#patient').delay(400).fadeIn();
+        $('#patient').delay(200).fadeIn();
         patientRef = this.getAttribute("data-attr")
         getPatientData(patientRef, lines)
     })
@@ -172,8 +192,10 @@ function getPatientData(ref, data) {
     // .append('<strong>Weight:</strong> ' + data[ref][8] + ' lbs<br />')
     // .append('<strong>Last Visit:</strong> ' + data[ref][6].substring(0,4) + '<br />')
 
+
     $('#patient').append('<div class="wrap-half left"><div id="genData" class="container full"> <h1>Patient ID: ' + data[ref][2].substring(0,8) + '</h1><div class="wrap-half left" id="basicInfo"></div><div class="wrap-half left" id="detailInfo"></div></div><div id="diagnoses" class="container full left"><h2>Diagnoses</h2><div class="tableData"><table cellpadding="0" cellspacing="0"></table></div></div><div id="allergies" class="container full left tableData"><h2>Allergies</h2><div class="tableData"><table cellpadding="0" cellspacing="0"></table></div></div></div>')
     .append('<div class="wrap-half right"><div class="container full right"><h2>Vital Stats</h2><div id="bullet"></div></div><div id="prescriptions" class="container full right"><h2>Prescriptions</h2></div>')
+
     
     $('#basicInfo')
     .append('<strong>Gender:</strong> ' + data[ref][3] + '<br />')
@@ -219,10 +241,8 @@ function createTable(location, data) {
             $("#allergies").append("No allergies listed.");
         }
         else {
-            $("#allergies table")
-            .append("<tr class='tabHead'><th>Allergy Name</th><th class='medtd'>Reaction</th><th class='smalltd'>Severity</th></tr>")
             for (var k=1; k<(data.length-1); k++){
-                $('#allergies table').append('<tr><td>' + data[k][7] + '</td><td>' + data[k][5] + '</td><td>' + data[k][6] + '</td></tr>')
+                $('#allergTable').append('<tr><td>' + data[k][7] + '</td><td class="medtd">' + data[k][5] + '</td><td class="smalltd">' + data[k][6] + '</td></tr>')
             }
         }
     }
@@ -233,8 +253,6 @@ function createTable(location, data) {
             .append("No diagnoses listed.");
         }
         else {
-            $("#diagnoses table")
-            .append("<tr class='tabHead'><th>Description</th><th class='smalltd'>Years</th><th class='tinytd'>Acute</th></tr>")
             for (var k=1; k<(data.length-1) && k<6; k++){
 
                 if (data.length > 5){
@@ -247,11 +265,11 @@ function createTable(location, data) {
                             yearEnd = ""
                         }
 
-                        $('#diagnoses table').append('<tr><td>' + data[k][5] + '</td><td>' + data[k][6].substring(0,4) + ' - ' + yearEnd + '</td><td>' + data[k][8] + '</td></tr>')
+                        $('#diagTable').append('<tr><td>' + data[k][5] + '</td><td class="smalltd">' + data[k][6].substring(0,4) + ' - ' + yearEnd + '</td><td class="tinytd">' + data[k][8] + '</td></tr>')
                     }
                     else {
                         //ignore
-                        $('#diagnoses table').append('<tr><td>' + data[k][5] + '</td><td>N/A</td><td>' + data[k][8] + '</td></tr>')
+                        $('#diagTabletable').append('<tr><td>' + data[k][5] + '</td><td class="smalltd">N/A</td><td class="tinytd">' + data[k][8] + '</td></tr>')
                     }
                 }
                 
@@ -342,7 +360,33 @@ function createTable(location, data) {
                     part2 = part2 +"..."
                     part = part + " - " + part2;
                     return part;
-                    });
+                    })
+                .on("mouseover", function(d){ mouseover(d); })
+                .on("mousemove", function(d){ mousemove(d); })
+                .on("mouseout", mouseout);
+
+            var div = d3.select("#outerPrescription").append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 1e-6);
+
+            function mouseover(d) {
+                div.transition()
+                    .duration(500)
+                    .style("opacity", 1);
+            };
+
+            function mousemove(d) {
+                div
+                    .text(d[4] + "-" + d[5])
+                    .style("left", (d3.event.pageX-150) + "px")
+                    .style("top", (d3.event.pageY-30) + "px");
+            };
+
+            function mouseout() {
+                div.transition()
+                    .duration(500)
+                    .style("opacity", 1e-6);
+            };
             /*
             chart.selectAll("line")
                 .data(x.ticks(4))
@@ -477,6 +521,9 @@ function createTable(location, data) {
                 $('#prescriptions table').append('<tr><td>' + data[k][3] + '</td><td>' + data[k][4] + '</td><td>' + data[k][9] + '</td><td>'+refillable+'</td></tr>')
             }
             */
+            // $('[text-anchor="start"]').tooltip({
+            //     track: true
+            // });
         }
     }
 
