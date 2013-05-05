@@ -132,7 +132,7 @@ function drawYAxis(stroke){
       .attr('stroke',stroke)
       .attr('fill',stroke)
       .attr('stroke-width',-1)
-      .text("Abnormal Lab Results")
+      .text("#Abnormal Lab Results")
       .attr('y',yindent*.065)
       .attr('x',xindent*.05-yinit)
       .style('opacity',0)
