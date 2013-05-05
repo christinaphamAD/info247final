@@ -91,9 +91,7 @@ $(document).ready(function() {
             }
         });
         $('#element-pop-up').bPopup({
-             onClose: function(){ 
-                // $('#abPatients').empty();
-             }
+            position:[570,100]
         });
     });
 
