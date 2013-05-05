@@ -84,19 +84,15 @@ function createWaitingList(lines) {
     $('.waitingData').hide().fadeIn(1500);
 
     createTable("patientList", lines)
-    // for (var k=1; k<lines.length; k++){
-    //     $('#patientList')
-    //     .append('<li>' + k + '. <a id="' + lines[k][1] + '" data-attr="' + k + '">Patient ' + lines[k][1] + '</a></li>')
-    // }
-    // $('#patientList ul li').hide().each(function(e){
-    //     $(this).delay(e*200).slideDown();
-    // })
 
     $('#patientList a').bind('click', function(e){
-        $('#home').fadeOut();
-        $('#patient').delay(200).fadeIn();
+        $('#home').fadeOut({complete:function(){
+            $('#patient').delay(200).fadeIn();
+        }});
+
         patientRef = this.getAttribute("data-attr")
-        getPatientData(patientRef, lines)
+            getPatientData(patientRef, lines)
+        
     })
 }
 
