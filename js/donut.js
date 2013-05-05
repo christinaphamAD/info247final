@@ -66,7 +66,7 @@ var color = d3.scale.ordinal()
 
     //very bad code.
 
-    var abcol = 'rgb(255,34,34)'
+    var abcol = 'rgba(255,34,34,0.75)'
     var normcol = "#7bce80"
 
     var beforedraw = 750
