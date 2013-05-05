@@ -134,7 +134,7 @@ function createBarDiv(data){
 
 function getPatientData(ref, data) {
 
-    $('#logo').find('h1').hide().html('Doctor Dashboard - Patient View').fadeIn()
+    $('#logo').find('h1').hide().html('Doctor Dashboard - Patient View').fadeIn(1000)
 
     $('#patient').append('<div class="wrap-half left"><div id="genData" class="container full"> <h1>Patient ID: ' + data[ref][2].substring(0,8) + '</h1><div class="wrap-half left" id="basicInfo"></div><div class="wrap-half left" id="detailInfo"></div></div><div id="diagnoses" class="container full left"><h2>Diagnoses</h2><div class="tableHead"><table cellpadding="0" cellspacing="0"><tr class="tabHead"><th>Description</th><th class="smallth">Years</th><th class="tinyth">Acute</th></tr></table></div><div class="tableData"><table cellpadding="0" cellspacing="0" id="diagTable"></table></div></div><div id="allergies" class="container full left"><h2>Allergies</h2><div class="tableHead"><table cellpadding="0" cellspacing="0"><tr class="tabHead"><th>Allergy Name</th><th class="medth">Reaction</th><th class="smallth2">Severity</th></tr></table></div><div class="tableData"><table cellpadding="0" cellspacing="0" id="allergTable"></table></div></div></div>')
     .append('<div class="wrap-half right"><div class="container full right"><h2 style="margin:0">Vital Stats</h2><div id="bullet"></div></div><div id="outerPrescription" class="container full right"><h2>Prescriptions</h2><div id="prescriptions" class="full"></div></div></div>')
