@@ -16,6 +16,7 @@ $(document).ready(function() {
     $('#dash').bind('click', function(e) {
         $('#patient').empty().fadeOut();
         $('#home').fadeIn();
+        $('#logo').find('h1').hide().html('Doctor Dashboard - Lab View').fadeIn()
         
     }) 
 
@@ -33,51 +34,6 @@ $(document).ready(function() {
     }
 
     $('#abPatients').hide()
-
-
-    // var curBar = null;
-    // $(".bar").live("click", function(){
-
-    //   // console.log(curBar);
-    //   if(curBar === this){
-    //      $('#abPatients').fadeOut();
-    //      curBar = null;
-    //      return;
-    //   }else if(curBar !== null){
-    //       // Set the variable to this
-    //       curBar = this;
-    //       $('#abPatients').fadeOut({"complete":getNewData});
-    //   }else{
-    //       // Set the variable to this
-    //       curBar = this;
-    //       getNewData();
-    //   }
-    // });
-
-    // var curBar = null;
-    // $(".bar").live("click", function(){
-    //     // console.log(curBar)
-    //     if(curBar === this){
-    //        $('#abPatients').fadeOut()
-    //        curBar = null;
-    //        return;
-    //     }else if(curBar !== null){
-    //         $('#abPatients').fadeOut()
-    //     }
-    //     curBar = this;
-
-    //     var barRef = this.getAttribute('id')
-    //     $('#abPatients').show()
-    //     $.ajax({
-    //         type: "GET",
-    //         url: "labsData/" + barRef + ".csv",
-    //         dataType: "text",
-    //         success: function(data) {
-    //             createBarDiv(parseData(data))
-    //         }
-    //      });
-    //     });
-    // });
 
     var curBar = null;
     $(".bar").live("click", function(){
@@ -178,22 +134,10 @@ function createBarDiv(data){
 
 function getPatientData(ref, data) {
 
-    // $('#patient').append('<div id="genData" class="container"></div>')
-    // $('#genData')
-    // .append('<h1>Patient ID: ' + data[ref][2].substring(0,8) + '</h1>' )
-    // .append('<div class="tri-patient left" id="basicInfo"></div><div class="tri-patient left" id="detailInfo"></div>')
-
-    // $('#basicInfo')
-    // .append('<strong>Gender:</strong> ' + data[ref][3] + '<br />')
-    // .append('<strong>Year of Birth:</strong> ' + data[ref][4] + '<br />')
-    // .append('<strong>Age:</strong> ' + data[ref][15] + '<br />')
-    // $('#detailInfo')
-    // .append('<strong>Height:</strong> ' + data[ref][7] + '"<br />')
-    // .append('<strong>Weight:</strong> ' + data[ref][8] + ' lbs<br />')
-    // .append('<strong>Last Visit:</strong> ' + data[ref][6].substring(0,4) + '<br />')
+    $('#logo').find('h1').hide().html('Doctor Dashboard - Patient View').fadeIn()
 
     $('#patient').append('<div class="wrap-half left"><div id="genData" class="container full"> <h1>Patient ID: ' + data[ref][2].substring(0,8) + '</h1><div class="wrap-half left" id="basicInfo"></div><div class="wrap-half left" id="detailInfo"></div></div><div id="diagnoses" class="container full left"><h2>Diagnoses</h2><div class="tableHead"><table cellpadding="0" cellspacing="0"><tr class="tabHead"><th>Description</th><th class="smallth">Years</th><th class="tinyth">Acute</th></tr></table></div><div class="tableData"><table cellpadding="0" cellspacing="0" id="diagTable"></table></div></div><div id="allergies" class="container full left"><h2>Allergies</h2><div class="tableHead"><table cellpadding="0" cellspacing="0"><tr class="tabHead"><th>Allergy Name</th><th class="medth">Reaction</th><th class="smallth2">Severity</th></tr></table></div><div class="tableData"><table cellpadding="0" cellspacing="0" id="allergTable"></table></div></div></div>')
-    .append('<div class="wrap-half right"><div class="container full right"><h2>Vital Stats</h2><div id="bullet"></div></div><div id="outerPrescription" class="container full right"><h2>Prescriptions</h2><div id="prescriptions" class="full"></div></div></div>')
+    .append('<div class="wrap-half right"><div class="container full right"><h2 style="margin:0">Vital Stats</h2><div id="bullet"></div></div><div id="outerPrescription" class="container full right"><h2>Prescriptions</h2><div id="prescriptions" class="full"></div></div></div>')
     
     $('#basicInfo')
     .append('<strong>Gender:</strong> ' + data[ref][3] + '<br />')

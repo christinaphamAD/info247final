@@ -11,7 +11,7 @@ d3.csv("js/data.csv", function(error, data) {
   var data = processData(startpos,endpos)
 
   var width = 100   //160 of 432
-      height = 45  //140 of 300 PREVIOUSLY 100
+      height = 35  //140 of 300 PREVIOUSLY 100
       radius = 200
 
   var wscaler = 0.37
