@@ -173,7 +173,7 @@ function getPatientData(ref, data) {
     // .append('<strong>Last Visit:</strong> ' + data[ref][6].substring(0,4) + '<br />')
 
     $('#patient').append('<div class="wrap-half left"><div id="genData" class="container full"> <h1>Patient ID: ' + data[ref][2].substring(0,8) + '</h1><div class="wrap-half left" id="basicInfo"></div><div class="wrap-half left" id="detailInfo"></div></div><div id="diagnoses" class="container full left"><h2>Diagnoses</h2><div class="tableData"><table cellpadding="0" cellspacing="0"></table></div></div><div id="allergies" class="container full left tableData"><h2>Allergies</h2><div class="tableData"><table cellpadding="0" cellspacing="0"></table></div></div></div>')
-    .append('<div class="wrap-half right"><div class="container full right"><h2>Statistics</h2><div id="bullet"></div></div><div id="prescriptions" class="container full right"><h2>Prescriptions</h2></div>')
+    .append('<div class="wrap-half right"><div class="container full right"><h2>Vital Stats</h2><div id="bullet"></div></div><div id="prescriptions" class="container full right"><h2>Prescriptions</h2></div>')
     
     $('#basicInfo')
     .append('<strong>Gender:</strong> ' + data[ref][3] + '<br />')

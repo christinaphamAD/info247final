@@ -11,17 +11,20 @@ function createBulletChart(dataInput){
 
   d3.csv(patientfile+"div1.csv", function(error, rawdat){
 
-  	var canvas = d3.select("#bullet").append('svg')
-    		.attr({
-      		"id":"canvas",
-      		"height": '30'+'%',
-      		"width": '100'+'%'
-      	});
+    var canvas = d3.select("#bullet").append('svg')
+      .attr({
+        "id":"bulletcanv",
+        "height": '100'+'%',
+        "width": '100'+'%'
+      });
 
-  	var canvh = (parseInt(d3.select("#canvas").style('height').split('p')))
-      var canvw = (parseInt(d3.select("#canvas").style('width').split('p')))
+    var totwidth = 432
+    var totheight = (250/432)*totwidth
 
-      var data = processData(rawdat)
+    var data = processData(rawdat)
+
+    var math = .2*totheight
+    var matw = totwidth
      
   	var mat = canvas.selectAll('.bulchart')
       	.data(data)
@@ -32,16 +35,85 @@ function createBulletChart(dataInput){
       	.attr('fill','white')
       	.attr('x',0)
       	.attr('y',function(d,i){
-      		return (0 + (i)*(canvh)/5)
+      		return (0 + (i)*(math))
       	})
-      	.attr('height',canvh/5)
-      	.attr('width',canvw)
-  		.attr("id",function(d){
+      	.attr('height',math)
+      	.attr('width',matw)
+  		  .attr("id",function(d){
   			//console.log(d[0]);  change this to actual id 
-  		});
+  		  });
 
-  	var charth = .05*canvh
-  	var chartw = .9*canvw
+  	var charth = .33*math
+  	var chartw = .8*matw
+
+    var chartx = .175*matw
+    var tickwidth = 0.0
+
+    var chartborder = canvas.selectAll('.chartborder')
+      .data(data)
+        .enter()
+        .append('rect')
+        .attr('class','chartborder')
+        .attr('stroke','rgb(124, 123, 123)')
+        .attr('height',charth)
+        .attr('width',chartw)
+        .attr('x',chartx)
+        .attr('y',function(d,i){
+          return (.33*math+i*math)
+        })
+        .attr('fill','none')
+        .style('opacity',0)
+        .transition()
+        .delay(1000)
+        .duration(1000)
+        .attr('stroke-width',1)
+        .style('opacity',1)
+        .each('end',function(d,i){
+          drawlabels(d,i)
+          var numticks = [1,1,1,1,1]
+          for (var j=0; j<numticks.length+1; j++){
+            canvas.selectAll('.bullettick')
+              .data(numticks)
+              .enter()
+              .append('line')
+              .attr('x1',chartx+j*(chartw/numticks.length)+tickwidth)
+              .attr('x2',chartx+j*(chartw/numticks.length)+tickwidth)
+              .attr('y1',.33*math+i*math+charth)
+              .attr('y2',.33*math+i*math +charth+4)
+              .attr('stroke','rgb(124, 123, 123)')
+              .style('opacity',0)
+              .transition()
+              .duration(500)
+              .style('opacity',1)
+              .attr('stroke-width',.25)
+          }
+        })
+
+  function drawlabels(d,i){
+      var range = d[5] - d[2]
+      var numticks = 6
+      var step = range/(numticks-1)
+      for (var j=0; j<numticks; j++){
+        canvas.append('text')
+          .attr('class','bulletlabel')
+          .text(d[2]+step*j)
+          .attr('x',chartx+j*(chartw/(numticks-1)))
+          .attr('y',.33*math+i*math+charth)
+          .attr('dy',13)
+          .style('opacity',0)
+          .transition()
+          .duration(400)
+          .style('opacity',1)
+          .attr('stroke','rgb(124,123,123)')
+          .attr('fill','rgb(124,123,123)')
+          .attr('text-anchor','middle')
+          .attr('stroke-width',-1)
+          .attr('font-size',.0225*matw)
+      }
+
+
+  }
+
 
 
   	var charts = canvas.selectAll('.chart')
@@ -50,21 +122,19 @@ function createBulletChart(dataInput){
   		.append('rect')
   		.attr('class','chart')
   		.attr('fill',function(d,i){
-  			console.log(i)
   			return 'url(#_'+i+'_bgradient)'})
-  		.attr('height',canvh*.05)
-  		//.attr('width',canvw*.9)
+  		.attr('height',charth)
+  		//.attr('width',matw*.9)
   		.attr('width',0)
-  		.attr('x', .08*canvw)
+  		.attr('x', chartx)
   		.attr('y', function(d,i){
-  			return .05*canvh + i*(canvh*.10 + (canvh*.1))
-  		})
+  			return .33*math+i*math})
   		.transition()
   		.delay(function(d,i){
-        	return 0+400*i;})
-  		.attr('width', canvw*.9)
+        	return 400+200*i;})
+  		.attr('width', chartw)
         	.ease('linear')
-        	.duration(1000)
+        	.duration(500)
 
     var bartitles = canvas.selectAll('.bartitle')
       .data(data)
@@ -75,13 +145,33 @@ function createBulletChart(dataInput){
       })
       .attr('class','bartitle')
       .attr('text-anchor','end')
-      .attr('font-size',.025*canvw)
+      .attr('font-size',.025*matw)
       .attr('font-weight','bold')
-      //.attr('textLength', .15*canvw)
-      .attr('x',.17*canvw)
+      //.attr('textLength', .15*matw)
+      .attr('x',chartx-4)
       .attr('y', function(d,i){
-      return .095*canvh + i*(canvh*.10 + (canvh*.1))
-    })
+        return .33*math+i*math+.025*matw})
+
+    var barcaptions = canvas.selectAll('.barcaption')
+      .data(data)
+      .enter()
+      .append('text')
+      .text(function(d){
+        return d[6];
+      })
+      .attr('class','barcaption')
+      .attr('text-anchor','end')
+      .attr('font-size',.02*matw)
+      .attr('stroke','rgb(124, 123, 123)')
+      .attr('fill','rgb(124,123,123)')
+      .attr('stroke-width',-1)
+      //.attr('font-weight','bold')
+      //.attr('textLength', .15*matw)
+      .attr('x',chartx-4)
+      .attr('y', function(d,i){
+        return .33*math+i*math+.025*matw})
+      .attr('dy',9)
+      .attr('dx',-2);
 
 
       var normbars = canvas.selectAll('chart')
@@ -94,18 +184,18 @@ function createBulletChart(dataInput){
   		.attr('fill','url(#ngradient)')
       	.attr('height', charth)
       	.attr('width',0)
-      	.attr('x',.08*canvw)
+      	.attr('x',chartx)
   		.attr('y', function(d,i){
-  			return .05*canvh + i*(canvh*.10 + (canvh*.1))
+  			return (.33*math+i*math)
   		})
   		.transition()
   		.delay(function(d,i){
   			return 0+400*i;})
   		.attr('width',function(d){
-  			return (xScale(d,d[5]) - xScale(d,d[4]))
+  			return (xScale(d,d[4]) - xScale(d,d[3]))
   		})
   		.attr('x',function(d){
-  			return xScale(d,d[3])
+  			return  xScale(d,d[3])
   		})
   		.ease('linear')
   		.duration(750)
@@ -116,19 +206,21 @@ function createBulletChart(dataInput){
   		.append('rect')
   		.attr('class','normtick')
   		.attr('fill','black')
-  		.attr('height',canvh*.075)
-  		.attr('width',chartw*.01)
-  		.attr('rx','1.5')
-  		.attr('ry','1.5')
-  		.attr('x', .07*canvw)
+  		.attr('height',charth+8)
+  		.attr('width',1)
+      .attr('stroke','rgb(124, 123, 123)')
+      .attr('fill','rgb(124,123,123)')
+  		.attr('x', chartx)
   		.attr('y', function(d,i){
-  			return .04*canvh + i*(canvh*.10 + (canvh*.1))
+  			return .33*math+i*math-4
   		})
   		.transition()
   		.delay(function(d,i){
         		return 0+400*i;})
   		.attr('x',function(d,i){
-  			var norm = (d[3]+d[4])/2
+        var norm = (d[3]+d[4])/2
+        console.log('norm',norm)        
+
   			return xScale(d,norm)
   		})
         	.ease('linear')
@@ -142,23 +234,23 @@ function createBulletChart(dataInput){
       	.append('circle')
       	.attr('class','patientpt')
       	.attr('stroke','black')
-      	.attr('stroke-width',2)
-      	//.attr('fill',function(d,i){
-      	//	console.log(colorscale(d,d[1]))
-      	//	return colorscale(d,d[1])})
-  		.attr('fill','rgb(196, 193, 193)')
+      	.attr('stroke-width',2.5)
+      	.attr('fill',function(d,i){
+      		console.log(colorscale(d,d[1]))
+      		return colorscale(d,d[1])})
+  		//.attr('fill','rgb(196, 193, 193)')
       	.attr('cy',function(d,i){
-  			return .075*canvh + i*(canvh*.10 + (canvh*.1))
+           return (.33*math+charth/2)+i*math
   		})
-      	.attr('cx',.225*canvh)
+      	.attr('cx',chartx)
       	.attr('r', .75*charth)
       	.transition()
   		.delay(function(d,i){
-  			return 0+400*i;})
+  			return 200+400*i;})
   		.attr('cx',function(d,i){
       		return xScale(d,d[1])
       	})
-      	.duration(1250)
+      	.duration(900)
 
 
   //Per bar gradients. Would love to optimize this
@@ -368,7 +460,7 @@ function createBulletChart(dataInput){
   function xScale(d,val){
   	var scale = d3.scale.linear()
   		.domain([d[2],d[5]])
-  		.range([.08*canvw,(.08*canvw+chartw)])
+  		.range([chartx,(chartx+chartw)])
   	return scale(val)
   }
 
@@ -411,11 +503,11 @@ function createBulletChart(dataInput){
   function processData(rawData){
   	var data = rawData[0]
   	var ret = new Array()
-  	ret.push(["BMI",+data.BMI,0,18.5,25,40])
-  	ret.push(["Systolic Blood Pressure",+data.SystolicBP,50,90,140,230])
-  	ret.push(["Diastolic Blood Pressure",+data.DiastolicBP,35,60,90,140])
-  	ret.push(["Respiratory Rate",+data.RespiratoryRate,0,12,24,60])
-  	ret.push(["Temperature",+data.Temperature,87.5,97.6,99.6,105])
+  	ret.push(["BMI",+data.BMI,0,18.5,25,50,"kg/m^2"])
+  	ret.push(["Systolic BP",+data.SystolicBP,50,90,140,230,"mm Hg"])
+  	ret.push(["Diastolic BP",+data.DiastolicBP,35,60,90,140,"mm Hg"])
+  	ret.push(["Resp. Rate",+data.RespiratoryRate,0,12,24,60,"Breaths per min"])
+  	ret.push(["Temperature",+data.Temperature,87.5,97.6,99.6,105,"Deg F"])
   	return ret;
   }
 
