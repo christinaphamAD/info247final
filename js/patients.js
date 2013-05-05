@@ -25,12 +25,12 @@ $(document).ready(function() {
         var barRef = curBar.getAttribute('id');
         // console.log(barRef);
         $.ajax({
-          type: "GET",
-          url: "labsData/" + barRef + ".csv",
-          dataType: "text",
-          success: function(data) {
+            type: "GET",
+            url: "labsData/" + barRef + ".csv",
+            dataType: "text",
+            success: function(data) {
               createBarDiv(parseData(data));
-          }
+            }
         });
     }
 
@@ -38,7 +38,9 @@ $(document).ready(function() {
 
     var curBar = null;
     $(".bar").live("click", function(){
-        var barRef = this.getAttribute('id')
+        var getRef = this.getAttribute('id')
+        var barRef = getRef.substring(0,3)
+        $('#abPatients').find('h3').html("<strong>Patients with Abnormal <br />" + getRef + " Labs</strong>")
         $('#abPatients').show()
         $.ajax({
             type: "GET",
@@ -133,7 +135,7 @@ function getPatientData(ref, data) {
     $('#dash').fadeIn();
     $('#logo').find('h1').hide().html('Doctor Dashboard - Patient View').fadeIn(1000)
 
-    $('#patient').append('<div class="wrap-half left"><div id="genData" class="container full"> <h1>Patient ID: ' + data[ref][2].substring(0,8) + '</h1><div class="wrap-half left" id="basicInfo"></div><div class="wrap-half left" id="detailInfo"></div></div><div id="diagnoses" class="container full left"><h2>Diagnoses</h2><div class="tableHead"><table cellpadding="0" cellspacing="0"><tr class="tabHead"><th>Description</th><th class="smallth">Years</th><th class="tinyth">Acute</th></tr></table></div><div class="tableData"><table cellpadding="0" cellspacing="0" id="diagTable"></table></div></div><div id="allergies" class="container full left"><h2>Allergies</h2><div class="tableHead"><table cellpadding="0" cellspacing="0"><tr class="tabHead"><th>Allergy Name</th><th class="medth">Reaction</th><th class="smallth2">Severity</th></tr></table></div><div class="tableData"><table cellpadding="0" cellspacing="0" id="allergTable"></table></div></div></div>')
+    $('#patient').append('<div class="wrap-half left"><div id="genData" class="container full"> <h1>Patient ID: ' + data[ref][2].substring(0,8) + '</h1><div class="wrap-half left" id="basicInfo"></div><div class="wrap-half left" id="detailInfo"></div></div><div id="diagnoses" class="container full left"><h2>Diagnoses</h2><div class="tableHead"><table cellpadding="0" cellspacing="0"><tr class="tabHead"><th>Description</th><th class="smallth">Years</th><th class="tinyth">Acute</th></tr></table></div><div class="tableData"><table cellpadding="0" cellspacing="0" id="diagTable"></table></div></div><div id="allergies" class="container full left"><h2>Allergies</h2><div class="tableHead"><table cellpadding="0" cellspacing="0"><tr class="tabHead"><th>Allergy Name</th><th style="width:30%">Reaction</th><th style="width:17%">Severity</th></tr></table></div><div class="tableData"><table cellpadding="0" cellspacing="0" id="allergTable"></table></div></div></div>')
     .append('<div class="wrap-half right"><div class="container full right"><h2 style="margin:0">Vital Stats</h2><div id="bullet"></div></div><div id="outerPrescription" class="container full right"><h2>Prescriptions</h2><div id="prescriptions" class="full"></div></div></div>')
     
     $('#basicInfo')
@@ -181,7 +183,7 @@ function createTable(location, data) {
         }
         else {
             for (var k=1; k<(data.length-1); k++){
-                $('#allergTable').append('<tr><td>' + data[k][7] + '</td><td class="medtd">' + data[k][5] + '</td><td class="smalltd">' + data[k][6] + '</td></tr>')
+                $('#allergTable').append('<tr><td>' + data[k][7] + '</td><td style="width:56%">' + data[k][5] + '</td><td style="width:32%">' + data[k][6] + '</td></tr>')
             }
         }
     }
