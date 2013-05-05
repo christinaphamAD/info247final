@@ -424,7 +424,7 @@ function createTable(location, data) {
                     return 400;})
                 .attr('opacity', 1)
                     .ease('linear')
-                    .duration(2000);
+                    .duration(1500);
 
             chart.selectAll(".refill")
                 .data(newData)
