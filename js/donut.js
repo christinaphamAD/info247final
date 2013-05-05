@@ -3,10 +3,10 @@
 //if d3 not in repo, put this line in html: <script src="http://d3js.org/d3.v3.min.js"></script>
 
 
-d3.csv("js/data.csv", function(error, data) {
+d3.csv("js/donutdata.csv", function(error, data) {
 
   var endpos = data;
-  var startpos = [0,0,0,0,0,0,1]; //todo: make this as long as data categories
+  var startpos = [0,1]; //todo: make this as long as data categories
 
   var data = processData(startpos,endpos)
 
@@ -17,7 +17,6 @@ d3.csv("js/data.csv", function(error, data) {
   var wscaler = 0.37
   var hscaler = 0.4667
 
-  var color = d3.scale.category20();
 
   var pie = d3.layout.pie()
       .sort(null);
@@ -46,7 +45,8 @@ d3.csv("js/data.csv", function(error, data) {
           }  
           (d3.select('svg').style('height'))+ ")");
 
-
+var color = d3.scale.ordinal()
+    .range(['rgba(255,34,34,0.75)', "#7bce80"]);
 
   var path = svg.selectAll("path")
       .data(pie(data.start))
@@ -61,7 +61,111 @@ d3.csv("js/data.csv", function(error, data) {
       })
       .data(pie(data['end']))
       .transition().duration(1500).attrTween("d", arcTween);
-      
+
+      //console.log("data",data)
+
+    //very bad code.
+
+    var abcol = 'rgb(255,34,34)'
+    var normcol = "#7bce80"
+
+    var beforedraw = 750
+    var drawdur = 500
+
+    var ablabel = svg.append('text')
+      .attr('x',87.5)
+      .attr('y',-100)
+      .attr('stroke-width',0.5)
+      .attr('class','donutlabel')
+      .style("text-anchor", "left")
+      .text( "186 Abnormal Labs")//function(d) { console.log(d.data.end)
+      .style('opacity',0)
+      .transition()
+      .delay(beforedraw+drawdur-250)
+      .duration(1000)
+      .attr('stroke',abcol)
+      .attr('fill',abcol)
+      .style('opacity',1)
+
+    var abline1 = svg.append('line')
+      .attr('x1',45)
+      .attr('y1',-87.5)
+      .attr('x2',45)
+      .attr('y2',-87.5)
+      .transition()
+      .delay(beforedraw)
+      .duration(drawdur)
+      .attr('x1',45)
+      .attr('y1',-85)
+      .attr('x2',62.5)
+      .attr('y2',-105)
+      .attr('stroke',abcol)
+      .attr('fill',normcol) 
+
+    var abline2 = svg.append('line')
+      .attr('x1',62.5)
+      .attr('y1',-105)
+      .attr('x2',62.5)
+      .attr('y2',-105)
+      .transition()
+      .delay(beforedraw+drawdur-250)
+      .duration(drawdur)
+      .attr('x1',62.5)
+      .attr('y1',-105)
+      .attr('x2',87.5)
+      .attr('y2',-105)
+      .attr('stroke',abcol)
+      .attr('fill',normcol)
+
+    var normlabel = svg.append('text')
+      .attr('x',87.5)
+      .attr('y',100)
+      .attr('class','donutlabel')
+      .style('text-anchor','left')
+      .text("1529 Normal Labs")
+      .style('opacity',0)
+      .transition()
+      .delay(beforedraw+drawdur-250)
+      .duration(1000)
+      .attr('stroke',normcol)
+      .attr('fill',normcol)
+      .attr('stroke-width',-1)
+      .style('opacity',1)
+      //.attr('font-size',15)
+
+ 
+
+
+    var normline1 = svg.append('line')
+      .attr('x1',52.5)
+      .attr('y1',85)
+      .attr('x2',52.5)
+      .attr('y2',85)
+      .transition()
+      .delay(beforedraw)
+      .duration(drawdur)
+      .attr('x1',52.5)
+      .attr('y1',85)
+      .attr('x2',62.5)
+      .attr('y2',95)
+      .attr('stroke',normcol)
+      .attr('fill',normcol) 
+
+    var normline2 = svg.append('line')
+      .attr('x1',62.5)
+      .attr('y1',95)
+      .attr('x2',62.5)
+      .attr('y2',95)
+      .transition()
+      .delay(beforedraw+drawdur-250)
+      .duration(drawdur)
+      .attr('x1',62.5)
+      .attr('y1',95)
+      .attr('x2',87.5)
+      .attr('y2',95)
+      .attr('stroke',normcol)
+      .attr('fill',normcol)
+  
 
 
 function processData(startpos , endpos) {
@@ -75,8 +179,8 @@ function processData(startpos , endpos) {
 function makeList(data){
   var returnarr = new Array();
   data.forEach(function(d){
-    d.population = +d.population
-    returnarr.push(d.population)
+    d.Count = +d.Count
+    returnarr.push(d.Count)
   });
   return returnarr
 }
