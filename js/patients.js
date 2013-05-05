@@ -109,12 +109,12 @@ function createBarDiv(data){
     }
 
     $('#abPatients ul li').hide().each(function(e){
-        $(this).delay(e*100).fadeIn();
+        $(this).delay(e*35).fadeIn();
     })
 
     $('#abPatients a').bind('click', function(e){
         $('#home').fadeOut();
-        $('#patient').delay(400).fadeIn();
+        $('#patient').delay(200).fadeIn();
         patientRef = this.getAttribute("id")
         
         $.ajax({
@@ -470,7 +470,7 @@ function createTable(location, data) {
     }
 
     if (location == "patientList"){
-        $('#patientList table').append('<tr class="tabHead"><th>Most At Risk</th></tr>')
+        $('#patientList table').append('<tr class="tabHead"><th>Highest Risk Patients</th></tr>')
         for(var k=1; k<data.length && k < 11; k++){
             $('#patientList table').append('<tr><td>' + k + '. ' + '<a id="' + data[k][1] + '" data-attr="' + k + '">Patient ID: ' + data[k][2].substring(0,8) + '</a></td></tr>')
         }
