@@ -520,8 +520,8 @@ function createBulletChart(dataInput){
   	var data = rawData[0]
   	var ret = new Array()
   	ret.push(["BMI",+data.BMI,0,18.5,25,50,"kg/m^2"])
-  	ret.push(["Systolic BP",+data.SystolicBP,50,90,140,230,"mm Hg"])
-  	ret.push(["Diastolic BP",+data.DiastolicBP,35,60,90,140,"mm Hg"])
+  	ret.push(["Systolic BP",+data.SystolicBP,55,95,145,230,"mm Hg"])
+  	ret.push(["Diastolic BP",+data.DiastolicBP,35,65,95,140,"mm Hg"])
   	ret.push(["Resp. Rate",+data.RespiratoryRate,0,12,24,60,"Breaths per min"])
   	ret.push(["Temperature",+data.Temperature,87.5,97.6,99.6,105,"Deg F"])
   	return ret;
