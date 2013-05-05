@@ -55,9 +55,9 @@ a:hover {
 	cursor: pointer;
 }
 
-img {
+/*img {
 	width: 100%;
-}
+}*/
 
 table {
 	table-layout: fixed;
@@ -140,6 +140,10 @@ tr:nth-child(even) td{
 
 .active {
 	color: #686A7A;
+}
+
+.center {
+	text-align: center;
 }
 
 .container {
@@ -236,7 +240,7 @@ tr:nth-child(even) td{
 }
 
 #prescriptions {
-	height: 180px;
+	height: 165px;
 	overflow-y: scroll;
 	overflow-x: hidden;
 }
