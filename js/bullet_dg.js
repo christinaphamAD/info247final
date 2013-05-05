@@ -190,7 +190,7 @@ function createBulletChart(dataInput){
   		})
   		.transition()
   		.delay(function(d,i){
-  			return 0+400*i;})
+  			 return 400+200*i;;})
   		.attr('width',function(d){
   			return (xScale(d,d[4]) - xScale(d,d[3]))
   		})
@@ -198,7 +198,7 @@ function createBulletChart(dataInput){
   			return  xScale(d,d[3])
   		})
   		.ease('linear')
-  		.duration(750)
+  		.duration(500)
 
   	var normticks = canvas.selectAll('.normtick')
   		.data(data)
@@ -233,17 +233,17 @@ function createBulletChart(dataInput){
       	.enter()
       	.append('circle')
       	.attr('class','patientpt')
-      	.attr('stroke','black')
+      	.attr('stroke','#333')
       	.attr('stroke-width',2.5)
-      	.attr('fill',function(d,i){
-      		console.log(colorscale(d,d[1]))
-      		return colorscale(d,d[1])})
-  		//.attr('fill','rgb(196, 193, 193)')
+      	//.attr('fill',function(d,i){
+      	//	console.log(colorscale(d,d[1]))
+      	//	return colorscale(d,d[1])})
+  		.attr('fill','rgb(100,100,100)')
       	.attr('cy',function(d,i){
            return (.33*math+charth/2)+i*math
   		})
       	.attr('cx',chartx)
-      	.attr('r', .75*charth)
+      	.attr('r', .4*charth)
       	.transition()
   		.delay(function(d,i){
   			return 200+400*i;})
@@ -282,6 +282,22 @@ function createBulletChart(dataInput){
         .attr("offset","100%")
         .attr("stop-color",purple)
         .attr("stop-opacity",0.1)
+
+    var metallicgrad = canvas.append("svg:defs")
+      .append("svg:linearGradient")
+      .attr("id",'metallicgrad')
+      .attr("x1","0%")
+      .attr("x2","100%")
+      .attr("y1","0%")
+      .attr("y2","100%")
+
+    metallicgrad.append("svg:stop")
+      .attr("offset","0%")
+      .attr("stop-color","F7F7F7")
+
+    metallicgrad.append("svg:stop")
+      .attr("offset","100%")
+      .attr("stop-color","e5e5e5")
 
 
     var _0_bgradient = canvas.append("svg:defs")
