@@ -415,9 +415,16 @@ function createTable(location, data) {
                     }) // padding-right
                 .attr("dy", 15) // vertical-align: middle
                 .attr("text-anchor", "end") // text-align: right
+                .attr("opacity", 0)
                 .text(function(d,i) { 
                     return parseInt(d[10]).toString();                    
-                    });
+                    })
+                .transition()
+                .delay(function(d,i){
+                    return 400;})
+                .attr('opacity', 1)
+                    .ease('linear')
+                    .duration(2000);
 
             chart.selectAll(".refill")
                 .data(newData)
